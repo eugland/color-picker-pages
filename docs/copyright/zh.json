@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "版权归属",
+      "paragraphs": [
+        "© 2024 Primortex 出品的 Color Picker。保留所有权利。Color Picker 的名称、标识以及应用内资源均为专有内容，未经许可不得转载、复制或用于其他用途。"
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "第三方组件",
+      "paragraphs": [
+        "Color Picker 基于多项开源技术构建。我们尊重并遵循所使用各类第三方库的许可证条款。"
+      ],
+      "bullets": [
+        "Jetpack Compose Material 3：用于界面组件",
+        "CameraX：用于相机功能集成",
+        "Coil：用于图片加载",
+        "Ktor：用于轻量级网络请求",
+        "Navigation Compose 与 Accompanist Navigation Animation：用于应用内导航"
+      ]
+    },
+    {
+      "heading": "许可证说明",
+      "paragraphs": [
+        "所有第三方库的版权均归其各自作者或组织所有。相关许可证已保留并在此注明，供用户查阅。"
+      ],
+      "bullets": []
+    }
+  ]
+}

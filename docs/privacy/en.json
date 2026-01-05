@@ -1,3 +1,28 @@
 {
-    "content": "privacy"
+  "sections": [
+    {
+      "heading": "On-device processing",
+      "paragraphs": [
+        "Color sampling happens locally. Camera previews and picked photos are only analyzed to extract color values and are not transmitted to servers."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Network usage",
+      "paragraphs": [
+        "Network requests are limited to fetching optional supporting data such as palette names. No personal images or camera frames are uploaded."
+      ],
+      "bullets": [
+        "If you prefer a fully offline experience, you can revoke network access at the system level.",
+        "You may revoke camera and photo permissions anytime from your device settings."
+      ]
+    },
+    {
+      "heading": "Data retention",
+      "paragraphs": [
+        "Saved colors and palettes stay on your device until you delete them. Clearing the app data or uninstalling removes your saved items."
+      ],
+      "bullets": []
+    }
+  ]
 }

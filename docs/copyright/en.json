@@ -1,3 +1,31 @@
 {
-    "content": "copyright"
+  "sections": [
+    {
+      "heading": "Ownership",
+      "paragraphs": [
+        "© 2024 Color Picker by Primortex. All rights reserved. The Color Picker name, logo, and application assets are proprietary and may not be reused without permission."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Third-party components",
+      "paragraphs": [
+        "Color Picker is built on open-source technologies. We acknowledge and respect the licenses of each library we rely on."
+      ],
+      "bullets": [
+        "Jetpack Compose Material 3 for UI components",
+        "CameraX for camera integration",
+        "Coil for image loading",
+        "Ktor for lightweight networking",
+        "Navigation Compose and Accompanist Navigation Animation for in-app navigation"
+      ]
+    },
+    {
+      "heading": "License notes",
+      "paragraphs": [
+        "All third-party libraries remain the property of their respective owners. Their original licenses are preserved and credited here so you can review them in detail."
+      ],
+      "bullets": []
+    }
+  ]
 }
