@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Xử lý trên thiết bị",
+      "paragraphs": [
+        "Việc lấy mẫu màu diễn ra hoàn toàn trên thiết bị của bạn. Bản xem trước từ camera và ảnh đã chọn chỉ được phân tích để trích xuất giá trị màu và không được truyền lên máy chủ.",
+        "Tất cả chức năng cốt lõi, bao gồm phát hiện màu, tính toán RGB/HEX và chỉnh sửa bảng màu, đều được thực hiện cục bộ. Không có dữ liệu hình ảnh thô nào rời khỏi thiết bị của bạn."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Sử dụng mạng",
+      "paragraphs": [
+        "Các yêu cầu mạng chỉ giới hạn ở việc lấy dữ liệu hỗ trợ tùy chọn, không mang tính cá nhân như tên màu hoặc bảng màu, nội dung thông tin hoặc siêu dữ liệu tham chiếu. Không có hình ảnh cá nhân, khung hình camera hoặc ảnh nào được tải lên."
+      ],
+      "bullets": [
+        "Không cần truy cập mạng cho chức năng cốt lõi.",
+        "Bạn có thể sử dụng ứng dụng hoàn toàn ngoại tuyến bằng cách tắt truy cập mạng ở cấp hệ thống.",
+        "Bạn có thể thu hồi quyền camera và ảnh bất kỳ lúc nào từ cài đặt thiết bị."
+      ]
+    },
+    {
+      "heading": "Lưu giữ dữ liệu",
+      "paragraphs": [
+        "Các màu và bảng màu đã lưu được lưu trữ cục bộ trên thiết bị của bạn và sẽ ở đó cho đến khi bạn xóa chúng.",
+        "Xóa dữ liệu ứng dụng hoặc gỡ cài đặt ứng dụng sẽ xóa tất cả màu và bảng màu đã lưu. Không giữ lại bản sao lưu."
+      ],
+      "bullets": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Pemrosesan di perangkat",
+      "paragraphs": [
+        "Pengambilan sampel warna sepenuhnya terjadi di perangkat Anda. Pratinjau kamera dan foto yang dipilih dianalisis hanya untuk mengekstrak nilai warna dan tidak dikirim ke server.",
+        "Semua fungsi inti, termasuk deteksi warna, perhitungan RGB/HEX, dan pengeditan palet, dilakukan secara lokal. Tidak ada data gambar mentah yang meninggalkan perangkat Anda."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Penggunaan jaringan",
+      "paragraphs": [
+        "Permintaan jaringan dibatasi pada pengambilan data pendukung opsional yang tidak bersifat pribadi seperti nama warna atau palet, konten informatif, atau metadata referensi. Tidak ada gambar pribadi, bingkai kamera, atau foto yang diunggah."
+      ],
+      "bullets": [
+        "Akses jaringan tidak diperlukan untuk fungsi inti.",
+        "Anda dapat menggunakan aplikasi sepenuhnya offline dengan menonaktifkan akses jaringan di tingkat sistem.",
+        "Anda dapat mencabut izin kamera dan foto kapan saja dari pengaturan perangkat Anda."
+      ]
+    },
+    {
+      "heading": "Penyimpanan data",
+      "paragraphs": [
+        "Warna dan palet yang disimpan disimpan secara lokal di perangkat Anda dan tetap di sana sampai Anda menghapusnya.",
+        "Menghapus data aplikasi atau mencopot pemasangan aplikasi akan menghapus semua warna dan palet yang disimpan. Tidak ada cadangan yang disimpan."
+      ],
+      "bullets": []
+    }
+  ]
+}

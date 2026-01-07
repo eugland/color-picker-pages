@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Pemprosesan pada peranti",
+      "paragraphs": [
+        "Pensampelan warna berlaku sepenuhnya pada peranti anda. Pratonton kamera dan foto yang dipilih dianalisis hanya untuk mengekstrak nilai warna dan tidak dihantar ke pelayan.",
+        "Semua fungsi teras, termasuk pengesanan warna, pengiraan RGB/HEX, dan penyuntingan palet, dilakukan secara tempatan. Tiada data imej mentah meninggalkan peranti anda."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Penggunaan rangkaian",
+      "paragraphs": [
+        "Permintaan rangkaian dihadkan kepada mendapatkan data sokongan pilihan yang tidak peribadi seperti nama warna atau palet, kandungan maklumat atau metadata rujukan. Tiada imej peribadi, bingkai kamera atau foto dimuat naik."
+      ],
+      "bullets": [
+        "Akses rangkaian tidak diperlukan untuk fungsi teras.",
+        "Anda boleh menggunakan aplikasi sepenuhnya luar talian dengan menyahdayakan akses rangkaian pada peringkat sistem.",
+        "Anda boleh menarik balik kebenaran kamera dan foto pada bila-bila masa melalui tetapan peranti anda."
+      ]
+    },
+    {
+      "heading": "Pengekalan data",
+      "paragraphs": [
+        "Warna dan palet yang disimpan disimpan secara tempatan pada peranti anda dan kekal di sana sehingga anda memadamkannya.",
+        "Mengosongkan data aplikasi atau menyahpasang aplikasi mengalih keluar semua warna dan palet yang disimpan. Tiada sandaran disimpan."
+      ],
+      "bullets": []
+    }
+  ]
+}

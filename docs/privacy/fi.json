@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Laitteessa tapahtuva käsittely",
+      "paragraphs": [
+        "Värinäytteenotto tapahtuu kokonaan laitteellasi. Kameran esikatselut ja valitut kuvat analysoidaan vain värien arvojen poimimiseksi eikä niitä siirretä palvelimille.",
+        "Kaikki ydintoiminnot, mukaan lukien värintunnistus, RGB/HEX-laskelmat ja palettien muokkaus, suoritetaan paikallisesti. Mikään raaka kuvadata ei poistu laitteestasi."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Verkon käyttö",
+      "paragraphs": [
+        "Verkkopyynnöt rajoittuvat valinnaisten, ei-henkilökohtaisten tukitietojen, kuten värien tai palettien nimien, informatiivisen sisällön tai viitemetadatan hakemiseen. Henkilökohtaisia kuvia, kamerakehyksiä tai valokuvia ei ladata."
+      ],
+      "bullets": [
+        "Verkkoyhteyttä ei tarvita ydintoimintoihin.",
+        "Voit käyttää sovellusta täysin offline-tilassa poistamalla verkkoyhteyden käytöstä järjestelmätasolla.",
+        "Voit perua kamera- ja valokuvaoikeudet milloin tahansa laitteen asetuksista."
+      ]
+    },
+    {
+      "heading": "Tietojen säilytys",
+      "paragraphs": [
+        "Tallennetut värit ja paletit tallennetaan paikallisesti laitteellesi ja pysyvät siellä, kunnes poistat ne.",
+        "Sovellustietojen tyhjentäminen tai sovelluksen poistaminen poistaa kaikki tallennetut värit ja paletit. Varmuuskopioita ei säilytetä."
+      ],
+      "bullets": []
+    }
+  ]
+}

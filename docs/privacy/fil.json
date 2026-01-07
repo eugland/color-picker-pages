@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Pagpoproseso sa device",
+      "paragraphs": [
+        "Ganap na sa iyong device nangyayari ang pag-sample ng kulay. Ang mga preview ng camera at mga napiling larawan ay sinusuri lamang para kunin ang mga value ng kulay at hindi ipinapadala sa mga server.",
+        "Lahat ng pangunahing functionality, kabilang ang color detection, RGB/HEX calculations, at pag-edit ng palette, ay ginagawa nang lokal. Walang raw na data ng larawan ang umaalis sa iyong device."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Paggamit ng network",
+      "paragraphs": [
+        "Ang mga network request ay limitado sa pagkuha ng opsyonal na di-personal na suportang data tulad ng mga pangalan ng kulay o palette, impormasyong content, o reference metadata. Walang personal na larawan, camera frames, o photos ang ina-upload."
+      ],
+      "bullets": [
+        "Hindi kailangan ang network access para sa pangunahing functionality.",
+        "Maaari mong gamitin ang app nang ganap na offline sa pamamagitan ng pag-disable ng network access sa antas ng system.",
+        "Maaari mong bawiin ang mga pahintulot sa camera at photos anumang oras mula sa settings ng iyong device."
+      ]
+    },
+    {
+      "heading": "Pagpapanatili ng data",
+      "paragraphs": [
+        "Ang mga na-save na kulay at palette ay nakaimbak lokal sa iyong device at nananatili roon hanggang sa burahin mo ang mga ito.",
+        "Ang pag-clear ng app data o pag-uninstall ng app ay nag-aalis ng lahat ng na-save na kulay at palette. Walang mga backup na pinananatili."
+      ],
+      "bullets": []
+    }
+  ]
+}
