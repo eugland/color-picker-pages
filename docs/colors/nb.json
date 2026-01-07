@@ -1,0 +1,5210 @@
+[
+  {
+    "name": "Absolute Zero",
+    "hex": "#0048BA"
+  },
+  {
+    "name": "Acid Grønn",
+    "hex": "#B0BF1A"
+  },
+  {
+    "name": "Aero",
+    "hex": "#7CB9E8"
+  },
+  {
+    "name": "Aero Blå",
+    "hex": "#C9FFE5"
+  },
+  {
+    "name": "African Fiolett",
+    "hex": "#B284BE"
+  },
+  {
+    "name": "Air Force Blå (RAF)",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Air Force Blå (USAF)",
+    "hex": "#00308F"
+  },
+  {
+    "name": "Air Superiority Blå",
+    "hex": "#72A0C1"
+  },
+  {
+    "name": "Alabama Crimson",
+    "hex": "#AF002A"
+  },
+  {
+    "name": "Alabaster",
+    "hex": "#F2F0E6"
+  },
+  {
+    "name": "Alice Blå",
+    "hex": "#F0F8FF"
+  },
+  {
+    "name": "Alien Armpit",
+    "hex": "#84DE02"
+  },
+  {
+    "name": "Alizarin Crimson",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Alloy Oransje",
+    "hex": "#C46210"
+  },
+  {
+    "name": "Almond",
+    "hex": "#EFDECD"
+  },
+  {
+    "name": "Amaranth",
+    "hex": "#E52B50"
+  },
+  {
+    "name": "Amaranth Dyp Lilla",
+    "hex": "#9F2B68"
+  },
+  {
+    "name": "Amaranth Rosa",
+    "hex": "#F19CBB"
+  },
+  {
+    "name": "Amaranth Lilla",
+    "hex": "#AB274F"
+  },
+  {
+    "name": "Amaranth Rød",
+    "hex": "#D3212D"
+  },
+  {
+    "name": "Amazon Store",
+    "hex": "#3B7A57"
+  },
+  {
+    "name": "Amazonite",
+    "hex": "#00C4B0"
+  },
+  {
+    "name": "Amber",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Amber (SAE/ECE)",
+    "hex": "#FF7E00"
+  },
+  {
+    "name": "American Rose",
+    "hex": "#FF033E"
+  },
+  {
+    "name": "Amethyst",
+    "hex": "#9966CC"
+  },
+  {
+    "name": "Android Grønn",
+    "hex": "#A4C639"
+  },
+  {
+    "name": "Anti-Flash Hvit",
+    "hex": "#F2F3F4"
+  },
+  {
+    "name": "Antique Brass",
+    "hex": "#CD9575"
+  },
+  {
+    "name": "Antique Bronze",
+    "hex": "#665D1E"
+  },
+  {
+    "name": "Antique Fuchsia",
+    "hex": "#915C83"
+  },
+  {
+    "name": "Antique Ruby",
+    "hex": "#841B2D"
+  },
+  {
+    "name": "Antique Hvit",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Ao (English)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Apple Grønn",
+    "hex": "#8DB600"
+  },
+  {
+    "name": "Apricot",
+    "hex": "#FBCEB1"
+  },
+  {
+    "name": "Aqua",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Aquamarine",
+    "hex": "#7FFFD4"
+  },
+  {
+    "name": "Arctic Lime",
+    "hex": "#D0FF14"
+  },
+  {
+    "name": "Army Grønn",
+    "hex": "#4B5320"
+  },
+  {
+    "name": "Arsenic",
+    "hex": "#3B444B"
+  },
+  {
+    "name": "Artichoke",
+    "hex": "#8F9779"
+  },
+  {
+    "name": "Arylide Gul",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Ash Grå",
+    "hex": "#B2BEB5"
+  },
+  {
+    "name": "Asparagus",
+    "hex": "#87A96B"
+  },
+  {
+    "name": "Atomic Tangerine",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Auburn",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Aureolin",
+    "hex": "#FDEE00"
+  },
+  {
+    "name": "AuroMetalSaurus",
+    "hex": "#6E7F80"
+  },
+  {
+    "name": "Avocado",
+    "hex": "#568203"
+  },
+  {
+    "name": "Awesome",
+    "hex": "#FF2052"
+  },
+  {
+    "name": "Aztec Gull",
+    "hex": "#C39953"
+  },
+  {
+    "name": "Azur",
+    "hex": "#007FFF"
+  },
+  {
+    "name": "Azur (Web Color)",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Azur Mist",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Azureish Hvit",
+    "hex": "#DBE9F4"
+  },
+  {
+    "name": "Baby Blå",
+    "hex": "#89CFF0"
+  },
+  {
+    "name": "Baby Blå Eyes",
+    "hex": "#A1CAF1"
+  },
+  {
+    "name": "Baby Rosa",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Baby Powder",
+    "hex": "#FEFEFA"
+  },
+  {
+    "name": "Baker-Miller Rosa",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "Ball Blå",
+    "hex": "#21ABCD"
+  },
+  {
+    "name": "Banana Mania",
+    "hex": "#FAE7B5"
+  },
+  {
+    "name": "Banana Gul",
+    "hex": "#FFE135"
+  },
+  {
+    "name": "Bangladesh Grønn",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Barbie Rosa",
+    "hex": "#E0218A"
+  },
+  {
+    "name": "Barn Rød",
+    "hex": "#7C0A02"
+  },
+  {
+    "name": "Battery Charged Blå",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Battleship Grå",
+    "hex": "#848482"
+  },
+  {
+    "name": "Bazaar",
+    "hex": "#98777B"
+  },
+  {
+    "name": "Beau Blå",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Beaver",
+    "hex": "#9F8170"
+  },
+  {
+    "name": "Begonia",
+    "hex": "#FA6E79"
+  },
+  {
+    "name": "Beige",
+    "hex": "#F5F5DC"
+  },
+  {
+    "name": "B'dazzled Blå",
+    "hex": "#2E5894"
+  },
+  {
+    "name": "Big Dip O'ruby",
+    "hex": "#9C2542"
+  },
+  {
+    "name": "Big Foot Feet",
+    "hex": "#E88E5A"
+  },
+  {
+    "name": "Bisque",
+    "hex": "#FFE4C4"
+  },
+  {
+    "name": "Bistre",
+    "hex": "#3D2B1F"
+  },
+  {
+    "name": "Bistre Brun",
+    "hex": "#967117"
+  },
+  {
+    "name": "Bitter Sitron",
+    "hex": "#CAE00D"
+  },
+  {
+    "name": "Bitter Lime",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Bittersweet",
+    "hex": "#FE6F5E"
+  },
+  {
+    "name": "Bittersweet Shimmer",
+    "hex": "#BF4F51"
+  },
+  {
+    "name": "Svart",
+    "hex": "#000000"
+  },
+  {
+    "name": "Svart Bean",
+    "hex": "#3D0C02"
+  },
+  {
+    "name": "Svart Coral",
+    "hex": "#54626F"
+  },
+  {
+    "name": "Svart Leather Jacket",
+    "hex": "#253529"
+  },
+  {
+    "name": "Svart Olive",
+    "hex": "#3B3C36"
+  },
+  {
+    "name": "Svart Shadows",
+    "hex": "#BFAFB2"
+  },
+  {
+    "name": "Blanched Almond",
+    "hex": "#FFEBCD"
+  },
+  {
+    "name": "Blast-Off Bronze",
+    "hex": "#A57164"
+  },
+  {
+    "name": "Bleu De France",
+    "hex": "#318CE7"
+  },
+  {
+    "name": "Blizzard Blå",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Blond",
+    "hex": "#FAF0BE"
+  },
+  {
+    "name": "Blå",
+    "hex": "#0000FF"
+  },
+  {
+    "name": "Blå (Crayola)",
+    "hex": "#1F75FE"
+  },
+  {
+    "name": "Blå (Munsell)",
+    "hex": "#0093AF"
+  },
+  {
+    "name": "Blå (NCS)",
+    "hex": "#0087BD"
+  },
+  {
+    "name": "Blå (Pantone)",
+    "hex": "#0018A8"
+  },
+  {
+    "name": "Blå (Pigment)",
+    "hex": "#333399"
+  },
+  {
+    "name": "Blå (RYB)",
+    "hex": "#0247FE"
+  },
+  {
+    "name": "Blå Bell",
+    "hex": "#A2A2D0"
+  },
+  {
+    "name": "Blå Bolt",
+    "hex": "#00B9FB"
+  },
+  {
+    "name": "Blå-Grå",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Blå-Grønn",
+    "hex": "#0D98BA"
+  },
+  {
+    "name": "Blå Jeans",
+    "hex": "#5DADEC"
+  },
+  {
+    "name": "Blå Lagoon",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Blå-Magenta Fiolett",
+    "hex": "#553592"
+  },
+  {
+    "name": "Blå Sapphire",
+    "hex": "#126180"
+  },
+  {
+    "name": "Blå-Fiolett",
+    "hex": "#8A2BE2"
+  },
+  {
+    "name": "Blå Yonder",
+    "hex": "#5072A7"
+  },
+  {
+    "name": "Blueberry",
+    "hex": "#4F86F7"
+  },
+  {
+    "name": "Bluebonnet",
+    "hex": "#1C1CF0"
+  },
+  {
+    "name": "Blush",
+    "hex": "#DE5D83"
+  },
+  {
+    "name": "Bole",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Bondi Blå",
+    "hex": "#0095B6"
+  },
+  {
+    "name": "Bone",
+    "hex": "#E3DAC9"
+  },
+  {
+    "name": "Booger Buster",
+    "hex": "#DDE26A"
+  },
+  {
+    "name": "Boston University Rød",
+    "hex": "#CC0000"
+  },
+  {
+    "name": "Bottle Grønn",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Boysenberry",
+    "hex": "#873260"
+  },
+  {
+    "name": "Brandeis Blå",
+    "hex": "#0070FF"
+  },
+  {
+    "name": "Brass",
+    "hex": "#B5A642"
+  },
+  {
+    "name": "Brick Rød",
+    "hex": "#CB4154"
+  },
+  {
+    "name": "Klar Cerulean",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Klar Grønn",
+    "hex": "#66FF00"
+  },
+  {
+    "name": "Klar Lavender",
+    "hex": "#BF94E4"
+  },
+  {
+    "name": "Klar Lilac",
+    "hex": "#D891EF"
+  },
+  {
+    "name": "Klar Maroon",
+    "hex": "#C32148"
+  },
+  {
+    "name": "Klar Navy Blå",
+    "hex": "#1974D2"
+  },
+  {
+    "name": "Klar Rosa",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Klar Turkis",
+    "hex": "#08E8DE"
+  },
+  {
+    "name": "Klar Ube",
+    "hex": "#D19FE8"
+  },
+  {
+    "name": "Klar Gul (Crayola)",
+    "hex": "#FFAA1D"
+  },
+  {
+    "name": "Brilliant Azur",
+    "hex": "#3399FF"
+  },
+  {
+    "name": "Brilliant Lavender",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Brilliant Rose",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Brink Rosa",
+    "hex": "#FB607F"
+  },
+  {
+    "name": "British Racing Grønn",
+    "hex": "#004225"
+  },
+  {
+    "name": "Bronze",
+    "hex": "#CD7F32"
+  },
+  {
+    "name": "Bronze Gul",
+    "hex": "#737000"
+  },
+  {
+    "name": "Brun (Traditional)",
+    "hex": "#964B00"
+  },
+  {
+    "name": "Brun (Web)",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Brun-Nose",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Brun Sugar",
+    "hex": "#AF6E4D"
+  },
+  {
+    "name": "Brun Gul",
+    "hex": "#cc9966"
+  },
+  {
+    "name": "Brunswick Grønn",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "Bubble Gum",
+    "hex": "#FFC1CC"
+  },
+  {
+    "name": "Bubbles",
+    "hex": "#E7FEFF"
+  },
+  {
+    "name": "Bud Grønn",
+    "hex": "#7BB661"
+  },
+  {
+    "name": "Buff",
+    "hex": "#F0DC82"
+  },
+  {
+    "name": "Bulgarian Rose",
+    "hex": "#480607"
+  },
+  {
+    "name": "Burgundy",
+    "hex": "#800020"
+  },
+  {
+    "name": "Burlywood",
+    "hex": "#DEB887"
+  },
+  {
+    "name": "Burnished Brun",
+    "hex": "#A17A74"
+  },
+  {
+    "name": "Burnt Oransje",
+    "hex": "#CC5500"
+  },
+  {
+    "name": "Burnt Sienna",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Burnt Umber",
+    "hex": "#8A3324"
+  },
+  {
+    "name": "Button Blå",
+    "hex": "#24A0ED"
+  },
+  {
+    "name": "Byzantine",
+    "hex": "#BD33A4"
+  },
+  {
+    "name": "Byzantium",
+    "hex": "#702963"
+  },
+  {
+    "name": "Cadet",
+    "hex": "#536872"
+  },
+  {
+    "name": "Cadet Blå",
+    "hex": "#5F9EA0"
+  },
+  {
+    "name": "Cadet Grå",
+    "hex": "#91A3B0"
+  },
+  {
+    "name": "Cadmium Grønn",
+    "hex": "#006B3C"
+  },
+  {
+    "name": "Cadmium Oransje",
+    "hex": "#ED872D"
+  },
+  {
+    "name": "Cadmium Rød",
+    "hex": "#E30022"
+  },
+  {
+    "name": "Cadmium Gul",
+    "hex": "#FFF600"
+  },
+  {
+    "name": "Cafe Au Lait",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Cafe Noir",
+    "hex": "#4B3621"
+  },
+  {
+    "name": "Cal Poly Pomona Grønn",
+    "hex": "#1E4D2B"
+  },
+  {
+    "name": "Cambridge Blå",
+    "hex": "#A3C1AD"
+  },
+  {
+    "name": "Camel",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Cameo Rosa",
+    "hex": "#EFBBCC"
+  },
+  {
+    "name": "Camouflage Grønn",
+    "hex": "#78866B"
+  },
+  {
+    "name": "Canary",
+    "hex": "#FFFF99"
+  },
+  {
+    "name": "Canary Gul",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Candy Apple Rød",
+    "hex": "#FF0800"
+  },
+  {
+    "name": "Candy Rosa",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Capri",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Caput Mortuum",
+    "hex": "#592720"
+  },
+  {
+    "name": "Cardinal",
+    "hex": "#C41E3A"
+  },
+  {
+    "name": "Caribbean Grønn",
+    "hex": "#00CC99"
+  },
+  {
+    "name": "Carmine",
+    "hex": "#960018"
+  },
+  {
+    "name": "Carmine (M&P)",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Carmine Rosa",
+    "hex": "#EB4C42"
+  },
+  {
+    "name": "Carmine Rød",
+    "hex": "#FF0038"
+  },
+  {
+    "name": "Carnation Rosa",
+    "hex": "#FFA6C9"
+  },
+  {
+    "name": "Carnelian",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Carolina Blå",
+    "hex": "#56A0D3"
+  },
+  {
+    "name": "Carrot Oransje",
+    "hex": "#ED9121"
+  },
+  {
+    "name": "Castleton Grønn",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Catalina Blå",
+    "hex": "#062A78"
+  },
+  {
+    "name": "Catawba",
+    "hex": "#703642"
+  },
+  {
+    "name": "Cedar Chest",
+    "hex": "#C95A49"
+  },
+  {
+    "name": "Ceil",
+    "hex": "#92A1CF"
+  },
+  {
+    "name": "Celadon",
+    "hex": "#ACE1AF"
+  },
+  {
+    "name": "Celadon Blå",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Celadon Grønn",
+    "hex": "#2F847C"
+  },
+  {
+    "name": "Celeste",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Celestial Blå",
+    "hex": "#4997D0"
+  },
+  {
+    "name": "Cerise",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cerise Rosa",
+    "hex": "#EC3B83"
+  },
+  {
+    "name": "Cerulean",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Cerulean Blå",
+    "hex": "#2A52BE"
+  },
+  {
+    "name": "Cerulean Frost",
+    "hex": "#6D9BC3"
+  },
+  {
+    "name": "CG Blå",
+    "hex": "#007AA5"
+  },
+  {
+    "name": "CG Rød",
+    "hex": "#E03C31"
+  },
+  {
+    "name": "Chamoisee",
+    "hex": "#A0785A"
+  },
+  {
+    "name": "Champagne",
+    "hex": "#F7E7CE"
+  },
+  {
+    "name": "Champagne Rosa",
+    "hex": "#F1DDCF"
+  },
+  {
+    "name": "Charcoal",
+    "hex": "#36454F"
+  },
+  {
+    "name": "Charleston Grønn",
+    "hex": "#232B2B"
+  },
+  {
+    "name": "Charm Rosa",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Chartreuse (Traditional)",
+    "hex": "#DFFF00"
+  },
+  {
+    "name": "Chartreuse (Web)",
+    "hex": "#7FFF00"
+  },
+  {
+    "name": "Cherry",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cherry Blossom Rosa",
+    "hex": "#FFB7C5"
+  },
+  {
+    "name": "Chestnut",
+    "hex": "#954535"
+  },
+  {
+    "name": "China Rosa",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "China Rose",
+    "hex": "#A8516E"
+  },
+  {
+    "name": "Chinese Rød",
+    "hex": "#AA381E"
+  },
+  {
+    "name": "Chinese Fiolett",
+    "hex": "#856088"
+  },
+  {
+    "name": "Chlorophyll Grønn",
+    "hex": "#4AFF00"
+  },
+  {
+    "name": "Chocolate (Traditional)",
+    "hex": "#7B3F00"
+  },
+  {
+    "name": "Chocolate (Web)",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Chrome Gul",
+    "hex": "#FFA700"
+  },
+  {
+    "name": "Cinereous",
+    "hex": "#98817B"
+  },
+  {
+    "name": "Cinnabar",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Cinnamon",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Cinnamon Satin",
+    "hex": "#CD607E"
+  },
+  {
+    "name": "Citrine",
+    "hex": "#E4D00A"
+  },
+  {
+    "name": "Citron",
+    "hex": "#9FA91F"
+  },
+  {
+    "name": "Claret",
+    "hex": "#7F1734"
+  },
+  {
+    "name": "Classic Rose",
+    "hex": "#FBCCE7"
+  },
+  {
+    "name": "Cobalt Blå",
+    "hex": "#0047AB"
+  },
+  {
+    "name": "Cocoa Brun",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Coconut",
+    "hex": "#965A3E"
+  },
+  {
+    "name": "Coffee",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Columbia Blå",
+    "hex": "#C4D8E2"
+  },
+  {
+    "name": "Congo Rosa",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Kjølig Svart",
+    "hex": "#002E63"
+  },
+  {
+    "name": "Kjølig Grå",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "Copper",
+    "hex": "#B87333"
+  },
+  {
+    "name": "Copper (Crayola)",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "Copper Penny",
+    "hex": "#AD6F69"
+  },
+  {
+    "name": "Copper Rød",
+    "hex": "#CB6D51"
+  },
+  {
+    "name": "Copper Rose",
+    "hex": "#996666"
+  },
+  {
+    "name": "Coquelicot",
+    "hex": "#FF3800"
+  },
+  {
+    "name": "Coral",
+    "hex": "#FF7F50"
+  },
+  {
+    "name": "Coral Rosa",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Coral Rød",
+    "hex": "#FF4040"
+  },
+  {
+    "name": "Coral Reef",
+    "hex": "#FD7C6E"
+  },
+  {
+    "name": "Cordovan",
+    "hex": "#893F45"
+  },
+  {
+    "name": "Corn",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Cornell Rød",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Cornflower Blå",
+    "hex": "#6495ED"
+  },
+  {
+    "name": "Cornsilk",
+    "hex": "#FFF8DC"
+  },
+  {
+    "name": "Cosmic Cobalt",
+    "hex": "#2E2D88"
+  },
+  {
+    "name": "Cosmic Latte",
+    "hex": "#FFF8E7"
+  },
+  {
+    "name": "Coyote Brun",
+    "hex": "#81613C"
+  },
+  {
+    "name": "Cotton Candy",
+    "hex": "#FFBCD9"
+  },
+  {
+    "name": "Cream",
+    "hex": "#FFFDD0"
+  },
+  {
+    "name": "Crimson",
+    "hex": "#DC143C"
+  },
+  {
+    "name": "Crimson Glory",
+    "hex": "#BE0032"
+  },
+  {
+    "name": "Crimson Rød",
+    "hex": "#990000"
+  },
+  {
+    "name": "Cultured",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Cyan",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Cyan Azur",
+    "hex": "#4E82B4"
+  },
+  {
+    "name": "Cyan-Blå Azur",
+    "hex": "#4682BF"
+  },
+  {
+    "name": "Cyan Cobalt Blå",
+    "hex": "#28589C"
+  },
+  {
+    "name": "Cyan Cornflower Blå",
+    "hex": "#188BC2"
+  },
+  {
+    "name": "Cyan (Process)",
+    "hex": "#00B7EB"
+  },
+  {
+    "name": "Cyber Grape",
+    "hex": "#58427C"
+  },
+  {
+    "name": "Cyber Gul",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Cyclamen",
+    "hex": "#F56FA1"
+  },
+  {
+    "name": "Daffodil",
+    "hex": "#FFFF31"
+  },
+  {
+    "name": "Dandelion",
+    "hex": "#F0E130"
+  },
+  {
+    "name": "Mørk Blå",
+    "hex": "#00008B"
+  },
+  {
+    "name": "Mørk Blå-Grå",
+    "hex": "#666699"
+  },
+  {
+    "name": "Mørk Brun",
+    "hex": "#654321"
+  },
+  {
+    "name": "Mørk Brun-Tangelo",
+    "hex": "#88654E"
+  },
+  {
+    "name": "Mørk Byzantium",
+    "hex": "#5D3954"
+  },
+  {
+    "name": "Mørk Candy Apple Rød",
+    "hex": "#A40000"
+  },
+  {
+    "name": "Mørk Cerulean",
+    "hex": "#08457E"
+  },
+  {
+    "name": "Mørk Chestnut",
+    "hex": "#986960"
+  },
+  {
+    "name": "Mørk Coral",
+    "hex": "#CD5B45"
+  },
+  {
+    "name": "Mørk Cyan",
+    "hex": "#008B8B"
+  },
+  {
+    "name": "Mørk Elektrisk Blå",
+    "hex": "#536878"
+  },
+  {
+    "name": "Mørk Goldenrod",
+    "hex": "#B8860B"
+  },
+  {
+    "name": "Mørk Grå (X11)",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "Mørk Grønn",
+    "hex": "#013220"
+  },
+  {
+    "name": "Mørk Grønn (X11)",
+    "hex": "#006400"
+  },
+  {
+    "name": "Mørk Gunmetal",
+    "hex": "#1F262A"
+  },
+  {
+    "name": "Mørk Imperial Blå",
+    "hex": "#00416A"
+  },
+  {
+    "name": "Mørk Imperial Blå",
+    "hex": "#00147E"
+  },
+  {
+    "name": "Mørk Jungle Grønn",
+    "hex": "#1A2421"
+  },
+  {
+    "name": "Mørk Khaki",
+    "hex": "#BDB76B"
+  },
+  {
+    "name": "Mørk Lava",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Mørk Lavender",
+    "hex": "#734F96"
+  },
+  {
+    "name": "Mørk Liver",
+    "hex": "#534B4F"
+  },
+  {
+    "name": "Mørk Liver (Horses)",
+    "hex": "#543D37"
+  },
+  {
+    "name": "Mørk Magenta",
+    "hex": "#8B008B"
+  },
+  {
+    "name": "Mørk Middels Grå",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "Mørk Midnight Blå",
+    "hex": "#003366"
+  },
+  {
+    "name": "Mørk Moss Grønn",
+    "hex": "#4A5D23"
+  },
+  {
+    "name": "Mørk Olive Grønn",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "Mørk Oransje",
+    "hex": "#FF8C00"
+  },
+  {
+    "name": "Mørk Orchid",
+    "hex": "#9932CC"
+  },
+  {
+    "name": "Mørk Pastell Blå",
+    "hex": "#779ECB"
+  },
+  {
+    "name": "Mørk Pastell Grønn",
+    "hex": "#03C03C"
+  },
+  {
+    "name": "Mørk Pastell Lilla",
+    "hex": "#966FD6"
+  },
+  {
+    "name": "Mørk Pastell Rød",
+    "hex": "#C23B22"
+  },
+  {
+    "name": "Mørk Rosa",
+    "hex": "#E75480"
+  },
+  {
+    "name": "Mørk Powder Blå",
+    "hex": "#003399"
+  },
+  {
+    "name": "Mørk Puce",
+    "hex": "#4F3A3C"
+  },
+  {
+    "name": "Mørk Lilla",
+    "hex": "#301934"
+  },
+  {
+    "name": "Mørk Raspberry",
+    "hex": "#872657"
+  },
+  {
+    "name": "Mørk Rød",
+    "hex": "#8B0000"
+  },
+  {
+    "name": "Mørk Salmon",
+    "hex": "#E9967A"
+  },
+  {
+    "name": "Mørk Scarlet",
+    "hex": "#560319"
+  },
+  {
+    "name": "Mørk Hav Grønn",
+    "hex": "#8FBC8F"
+  },
+  {
+    "name": "Mørk Sienna",
+    "hex": "#3C1414"
+  },
+  {
+    "name": "Mørk Himmel Blå",
+    "hex": "#8CBED6"
+  },
+  {
+    "name": "Mørk Slate Blå",
+    "hex": "#483D8B"
+  },
+  {
+    "name": "Mørk Slate Grå",
+    "hex": "#2F4F4F"
+  },
+  {
+    "name": "Mørk Spring Grønn",
+    "hex": "#177245"
+  },
+  {
+    "name": "Mørk Tan",
+    "hex": "#918151"
+  },
+  {
+    "name": "Mørk Tangerine",
+    "hex": "#FFA812"
+  },
+  {
+    "name": "Mørk Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Mørk Terra Cotta",
+    "hex": "#CC4E5C"
+  },
+  {
+    "name": "Mørk Turkis",
+    "hex": "#00CED1"
+  },
+  {
+    "name": "Mørk Vanilla",
+    "hex": "#D1BEA8"
+  },
+  {
+    "name": "Mørk Fiolett",
+    "hex": "#9400D3"
+  },
+  {
+    "name": "Mørk Gul",
+    "hex": "#9B870C"
+  },
+  {
+    "name": "Dartmouth Grønn",
+    "hex": "#00703C"
+  },
+  {
+    "name": "Davy's Grå",
+    "hex": "#555555"
+  },
+  {
+    "name": "Debian Rød",
+    "hex": "#D70A53"
+  },
+  {
+    "name": "Dyp Aquamarine",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Dyp Carmine",
+    "hex": "#A9203E"
+  },
+  {
+    "name": "Dyp Carmine Rosa",
+    "hex": "#EF3038"
+  },
+  {
+    "name": "Dyp Carrot Oransje",
+    "hex": "#E9692C"
+  },
+  {
+    "name": "Dyp Cerise",
+    "hex": "#DA3287"
+  },
+  {
+    "name": "Dyp Champagne",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Dyp Chestnut",
+    "hex": "#B94E48"
+  },
+  {
+    "name": "Dyp Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Dyp Fuchsia",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Dyp Grønn",
+    "hex": "#056608"
+  },
+  {
+    "name": "Dyp Grønn-Cyan Turkis",
+    "hex": "#0E7C61"
+  },
+  {
+    "name": "Dyp Jungle Grønn",
+    "hex": "#004B49"
+  },
+  {
+    "name": "Dyp Koamaru",
+    "hex": "#333366"
+  },
+  {
+    "name": "Dyp Sitron",
+    "hex": "#F5C71A"
+  },
+  {
+    "name": "Dyp Lilac",
+    "hex": "#9955BB"
+  },
+  {
+    "name": "Dyp Magenta",
+    "hex": "#CC00CC"
+  },
+  {
+    "name": "Dyp Maroon",
+    "hex": "#820000"
+  },
+  {
+    "name": "Dyp Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "Dyp Moss Grønn",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Dyp Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Dyp Rosa",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Dyp Puce",
+    "hex": "#A95C68"
+  },
+  {
+    "name": "Dyp Rød",
+    "hex": "#850101"
+  },
+  {
+    "name": "Dyp Ruby",
+    "hex": "#843F5B"
+  },
+  {
+    "name": "Dyp Saffron",
+    "hex": "#FF9933"
+  },
+  {
+    "name": "Dyp Himmel Blå",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Dyp Space Sparkle",
+    "hex": "#4A646C"
+  },
+  {
+    "name": "Dyp Spring Bud",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "Dyp Taupe",
+    "hex": "#7E5E60"
+  },
+  {
+    "name": "Dyp Tuscan Rød",
+    "hex": "#66424D"
+  },
+  {
+    "name": "Dyp Fiolett",
+    "hex": "#330066"
+  },
+  {
+    "name": "Deer",
+    "hex": "#BA8759"
+  },
+  {
+    "name": "Denim",
+    "hex": "#1560BD"
+  },
+  {
+    "name": "Denim Blå",
+    "hex": "#2243B6"
+  },
+  {
+    "name": "Desaturated Cyan",
+    "hex": "#669999"
+  },
+  {
+    "name": "Desert",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Desert Sand",
+    "hex": "#EDC9AF"
+  },
+  {
+    "name": "Desire",
+    "hex": "#EA3C53"
+  },
+  {
+    "name": "Diamond",
+    "hex": "#B9F2FF"
+  },
+  {
+    "name": "Dim Grå",
+    "hex": "#696969"
+  },
+  {
+    "name": "Dingy Dungeon",
+    "hex": "#C53151"
+  },
+  {
+    "name": "Dirt",
+    "hex": "#9B7653"
+  },
+  {
+    "name": "Dodger Blå",
+    "hex": "#1E90FF"
+  },
+  {
+    "name": "Dodie Gul",
+    "hex": "#FEF65B"
+  },
+  {
+    "name": "Dogwood Rose",
+    "hex": "#D71868"
+  },
+  {
+    "name": "Dollar Bill",
+    "hex": "#85BB65"
+  },
+  {
+    "name": "Dolphin Grå",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Donkey Brun",
+    "hex": "#664C28"
+  },
+  {
+    "name": "Drab",
+    "hex": "#967117"
+  },
+  {
+    "name": "Duke Blå",
+    "hex": "#00009C"
+  },
+  {
+    "name": "Dust Storm",
+    "hex": "#E5CCC9"
+  },
+  {
+    "name": "Dutch Hvit",
+    "hex": "#EFDFBB"
+  },
+  {
+    "name": "Earth Gul",
+    "hex": "#E1A95F"
+  },
+  {
+    "name": "Ebony",
+    "hex": "#555D50"
+  },
+  {
+    "name": "Ecru",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Eerie Svart",
+    "hex": "#1B1B1B"
+  },
+  {
+    "name": "Eggplant",
+    "hex": "#614051"
+  },
+  {
+    "name": "Eggshell",
+    "hex": "#F0EAD6"
+  },
+  {
+    "name": "Egyptian Blå",
+    "hex": "#1034A6"
+  },
+  {
+    "name": "Elektrisk Blå",
+    "hex": "#7DF9FF"
+  },
+  {
+    "name": "Elektrisk Crimson",
+    "hex": "#FF003F"
+  },
+  {
+    "name": "Elektrisk Cyan",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Elektrisk Grønn",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Elektrisk Indigo",
+    "hex": "#6F00FF"
+  },
+  {
+    "name": "Elektrisk Lavender",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Elektrisk Lime",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Elektrisk Lilla",
+    "hex": "#BF00FF"
+  },
+  {
+    "name": "Elektrisk Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Elektrisk Fiolett",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Elektrisk Gul",
+    "hex": "#FFFF33"
+  },
+  {
+    "name": "Emerald",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Eminence",
+    "hex": "#6C3082"
+  },
+  {
+    "name": "English Grønn",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "English Lavender",
+    "hex": "#B48395"
+  },
+  {
+    "name": "English Rød",
+    "hex": "#AB4B52"
+  },
+  {
+    "name": "English Vermillion",
+    "hex": "#CC474B"
+  },
+  {
+    "name": "English Fiolett",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Eton Blå",
+    "hex": "#96C8A2"
+  },
+  {
+    "name": "Eucalyptus",
+    "hex": "#44D7A8"
+  },
+  {
+    "name": "Fallow",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Falu Rød",
+    "hex": "#801818"
+  },
+  {
+    "name": "Fandango",
+    "hex": "#B53389"
+  },
+  {
+    "name": "Fandango Rosa",
+    "hex": "#DE5285"
+  },
+  {
+    "name": "Fashion Fuchsia",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Fawn",
+    "hex": "#E5AA70"
+  },
+  {
+    "name": "Feldgrau",
+    "hex": "#4D5D53"
+  },
+  {
+    "name": "Feldspar",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Fern Grønn",
+    "hex": "#4F7942"
+  },
+  {
+    "name": "Ferrari Rød",
+    "hex": "#FF2800"
+  },
+  {
+    "name": "Field Drab",
+    "hex": "#6C541E"
+  },
+  {
+    "name": "Fiery Rose",
+    "hex": "#FF5470"
+  },
+  {
+    "name": "Firebrick",
+    "hex": "#B22222"
+  },
+  {
+    "name": "Fire Engine Rød",
+    "hex": "#CE2029"
+  },
+  {
+    "name": "Flame",
+    "hex": "#E25822"
+  },
+  {
+    "name": "Flamingo Rosa",
+    "hex": "#FC8EAC"
+  },
+  {
+    "name": "Flattery",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Flavescent",
+    "hex": "#F7E98E"
+  },
+  {
+    "name": "Flax",
+    "hex": "#EEDC82"
+  },
+  {
+    "name": "Flirt",
+    "hex": "#A2006D"
+  },
+  {
+    "name": "Floral Hvit",
+    "hex": "#FFFAF0"
+  },
+  {
+    "name": "Fluorescent Oransje",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Fluorescent Rosa",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Fluorescent Gul",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Folly",
+    "hex": "#FF004F"
+  },
+  {
+    "name": "Forest Grønn (Traditional)",
+    "hex": "#014421"
+  },
+  {
+    "name": "Forest Grønn (Web)",
+    "hex": "#228B22"
+  },
+  {
+    "name": "French Beige",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "French Bistre",
+    "hex": "#856D4D"
+  },
+  {
+    "name": "French Blå",
+    "hex": "#0072BB"
+  },
+  {
+    "name": "French Fuchsia",
+    "hex": "#FD3F92"
+  },
+  {
+    "name": "French Lilac",
+    "hex": "#86608E"
+  },
+  {
+    "name": "French Lime",
+    "hex": "#9EFD38"
+  },
+  {
+    "name": "French Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "French Rosa",
+    "hex": "#FD6C9E"
+  },
+  {
+    "name": "French Plum",
+    "hex": "#811453"
+  },
+  {
+    "name": "French Puce",
+    "hex": "#4E1609"
+  },
+  {
+    "name": "French Raspberry",
+    "hex": "#C72C48"
+  },
+  {
+    "name": "French Rose",
+    "hex": "#F64A8A"
+  },
+  {
+    "name": "French Himmel Blå",
+    "hex": "#77B5FE"
+  },
+  {
+    "name": "French Fiolett",
+    "hex": "#8806CE"
+  },
+  {
+    "name": "French Wine",
+    "hex": "#AC1E44"
+  },
+  {
+    "name": "Fresh Air",
+    "hex": "#A6E7FF"
+  },
+  {
+    "name": "Frogert",
+    "hex": "#E936A7"
+  },
+  {
+    "name": "Fuchsia",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Fuchsia (Crayola)",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Fuchsia Rosa",
+    "hex": "#FF77FF"
+  },
+  {
+    "name": "Fuchsia Lilla",
+    "hex": "#CC397B"
+  },
+  {
+    "name": "Fuchsia Rose",
+    "hex": "#C74375"
+  },
+  {
+    "name": "Fulvous",
+    "hex": "#E48400"
+  },
+  {
+    "name": "Fuzzy Wuzzy",
+    "hex": "#CC6666"
+  },
+  {
+    "name": "Gainsboro",
+    "hex": "#DCDCDC"
+  },
+  {
+    "name": "Gamboge",
+    "hex": "#E49B0F"
+  },
+  {
+    "name": "Gamboge Oransje (Brun)",
+    "hex": "#996600"
+  },
+  {
+    "name": "Gargoyle Gas",
+    "hex": "#FFDF46"
+  },
+  {
+    "name": "Generic Viridian",
+    "hex": "#007F66"
+  },
+  {
+    "name": "Ghost Hvit",
+    "hex": "#F8F8FF"
+  },
+  {
+    "name": "Giant's Club",
+    "hex": "#B05C52"
+  },
+  {
+    "name": "Giants Oransje",
+    "hex": "#FE5A1D"
+  },
+  {
+    "name": "Ginger",
+    "hex": "#B06500"
+  },
+  {
+    "name": "Glaucous",
+    "hex": "#6082B6"
+  },
+  {
+    "name": "Glitter",
+    "hex": "#E6E8FA"
+  },
+  {
+    "name": "Glossy Grape",
+    "hex": "#AB92B3"
+  },
+  {
+    "name": "GO Grønn",
+    "hex": "#00AB66"
+  },
+  {
+    "name": "Gull (Metallic)",
+    "hex": "#D4AF37"
+  },
+  {
+    "name": "Gull (Web) (Golden)",
+    "hex": "#FFD700"
+  },
+  {
+    "name": "Gull Fusion",
+    "hex": "#85754E"
+  },
+  {
+    "name": "Golden Brun",
+    "hex": "#996515"
+  },
+  {
+    "name": "Golden Poppy",
+    "hex": "#FCC200"
+  },
+  {
+    "name": "Golden Gul",
+    "hex": "#FFDF00"
+  },
+  {
+    "name": "Goldenrod",
+    "hex": "#DAA520"
+  },
+  {
+    "name": "Granite Grå",
+    "hex": "#676767"
+  },
+  {
+    "name": "Granny Smith Apple",
+    "hex": "#A8E4A0"
+  },
+  {
+    "name": "Grape",
+    "hex": "#6F2DA8"
+  },
+  {
+    "name": "Grå",
+    "hex": "#808080"
+  },
+  {
+    "name": "Grå (HTML/CSS Grå)",
+    "hex": "#808080"
+  },
+  {
+    "name": "Grå (X11 Grå)",
+    "hex": "#BEBEBE"
+  },
+  {
+    "name": "Grå-Asparagus",
+    "hex": "#465945"
+  },
+  {
+    "name": "Grå-Blå",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "Grønn (Color Wheel) (X11 Grønn)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Grønn (Crayola)",
+    "hex": "#1CAC78"
+  },
+  {
+    "name": "Grønn (HTML/CSS Color)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Grønn (Munsell)",
+    "hex": "#00A877"
+  },
+  {
+    "name": "Grønn (NCS)",
+    "hex": "#009F6B"
+  },
+  {
+    "name": "Grønn (Pantone)",
+    "hex": "#00AD43"
+  },
+  {
+    "name": "Grønn (Pigment)",
+    "hex": "#00A550"
+  },
+  {
+    "name": "Grønn (RYB)",
+    "hex": "#66B032"
+  },
+  {
+    "name": "Grønn-Blå",
+    "hex": "#1164B4"
+  },
+  {
+    "name": "Grønn-Cyan",
+    "hex": "#009966"
+  },
+  {
+    "name": "Grønn Lizard",
+    "hex": "#A7F432"
+  },
+  {
+    "name": "Grønn Sheen",
+    "hex": "#6EAEA1"
+  },
+  {
+    "name": "Grønn-Gul",
+    "hex": "#ADFF2F"
+  },
+  {
+    "name": "Grizzly",
+    "hex": "#885818"
+  },
+  {
+    "name": "Grullo",
+    "hex": "#A99A86"
+  },
+  {
+    "name": "Guppie Grønn",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Gunmetal",
+    "hex": "#2a3439"
+  },
+  {
+    "name": "Halaya Ube",
+    "hex": "#663854"
+  },
+  {
+    "name": "Han Blå",
+    "hex": "#446CCF"
+  },
+  {
+    "name": "Han Lilla",
+    "hex": "#5218FA"
+  },
+  {
+    "name": "Hansa Gul",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Harlequin",
+    "hex": "#3FFF00"
+  },
+  {
+    "name": "Harlequin Grønn",
+    "hex": "#46CB18"
+  },
+  {
+    "name": "Harvard Crimson",
+    "hex": "#C90016"
+  },
+  {
+    "name": "Harvest Gull",
+    "hex": "#DA9100"
+  },
+  {
+    "name": "Heart Gull",
+    "hex": "#808000"
+  },
+  {
+    "name": "Heat Wave",
+    "hex": "#FF7A00"
+  },
+  {
+    "name": "Heidelberg Rød",
+    "hex": "#960018"
+  },
+  {
+    "name": "Heliotrope",
+    "hex": "#DF73FF"
+  },
+  {
+    "name": "Heliotrope Grå",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Heliotrope Magenta",
+    "hex": "#AA00BB"
+  },
+  {
+    "name": "Hollywood Cerise",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Honeydew",
+    "hex": "#F0FFF0"
+  },
+  {
+    "name": "Honolulu Blå",
+    "hex": "#006DB0"
+  },
+  {
+    "name": "Hooker's Grønn",
+    "hex": "#49796B"
+  },
+  {
+    "name": "Hot Magenta",
+    "hex": "#FF1DCE"
+  },
+  {
+    "name": "Hot Rosa",
+    "hex": "#FF69B4"
+  },
+  {
+    "name": "Hunter Grønn",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Iceberg",
+    "hex": "#71A6D2"
+  },
+  {
+    "name": "Icterine",
+    "hex": "#FCF75E"
+  },
+  {
+    "name": "Iguana Grønn",
+    "hex": "#71BC78"
+  },
+  {
+    "name": "Illuminating Emerald",
+    "hex": "#319177"
+  },
+  {
+    "name": "Imperial",
+    "hex": "#602F6B"
+  },
+  {
+    "name": "Imperial Blå",
+    "hex": "#002395"
+  },
+  {
+    "name": "Imperial Lilla",
+    "hex": "#66023C"
+  },
+  {
+    "name": "Imperial Rød",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Inchworm",
+    "hex": "#B2EC5D"
+  },
+  {
+    "name": "Independence",
+    "hex": "#4C516D"
+  },
+  {
+    "name": "India Grønn",
+    "hex": "#138808"
+  },
+  {
+    "name": "Indian Rød",
+    "hex": "#CD5C5C"
+  },
+  {
+    "name": "Indian Gul",
+    "hex": "#E3A857"
+  },
+  {
+    "name": "Indigo",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Indigo Dye",
+    "hex": "#091F92"
+  },
+  {
+    "name": "Indigo (Web)",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Infra Rød",
+    "hex": "#FF496C"
+  },
+  {
+    "name": "Interdimensional Blå",
+    "hex": "#360CCC"
+  },
+  {
+    "name": "International Klein Blå",
+    "hex": "#002FA7"
+  },
+  {
+    "name": "International Oransje (Aerospace)",
+    "hex": "#FF4F00"
+  },
+  {
+    "name": "International Oransje (Engineering)",
+    "hex": "#BA160C"
+  },
+  {
+    "name": "International Oransje (Golden Gate Bridge)",
+    "hex": "#C0362C"
+  },
+  {
+    "name": "Iris",
+    "hex": "#5A4FCF"
+  },
+  {
+    "name": "Irresistible",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Isabelline",
+    "hex": "#F4F0EC"
+  },
+  {
+    "name": "Islamic Grønn",
+    "hex": "#009000"
+  },
+  {
+    "name": "Italian Himmel Blå",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Ivory",
+    "hex": "#FFFFF0"
+  },
+  {
+    "name": "Jade",
+    "hex": "#00A86B"
+  },
+  {
+    "name": "Japanese Carmine",
+    "hex": "#9D2933"
+  },
+  {
+    "name": "Japanese Indigo",
+    "hex": "#264348"
+  },
+  {
+    "name": "Japanese Fiolett",
+    "hex": "#5B3256"
+  },
+  {
+    "name": "Jasmine",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Jasper",
+    "hex": "#D73B3E"
+  },
+  {
+    "name": "Jazzberry Jam",
+    "hex": "#A50B5E"
+  },
+  {
+    "name": "Jelly Bean",
+    "hex": "#DA614E"
+  },
+  {
+    "name": "Jet",
+    "hex": "#343434"
+  },
+  {
+    "name": "Jonquil",
+    "hex": "#F4CA16"
+  },
+  {
+    "name": "Jordy Blå",
+    "hex": "#8AB9F1"
+  },
+  {
+    "name": "June Bud",
+    "hex": "#BDDA57"
+  },
+  {
+    "name": "Jungle Grønn",
+    "hex": "#29AB87"
+  },
+  {
+    "name": "Kelly Grønn",
+    "hex": "#4CBB17"
+  },
+  {
+    "name": "Kenyan Copper",
+    "hex": "#7C1C05"
+  },
+  {
+    "name": "Keppel",
+    "hex": "#3AB09E"
+  },
+  {
+    "name": "Key Lime",
+    "hex": "#E8F48C"
+  },
+  {
+    "name": "Khaki (HTML/CSS) (Khaki)",
+    "hex": "#C3B091"
+  },
+  {
+    "name": "Khaki (X11) (Lys Khaki)",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Kiwi",
+    "hex": "#8EE53F"
+  },
+  {
+    "name": "Kobe",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Kobi",
+    "hex": "#E79FC4"
+  },
+  {
+    "name": "Kobicha",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Kombu Grønn",
+    "hex": "#354230"
+  },
+  {
+    "name": "KSU Lilla",
+    "hex": "#512888"
+  },
+  {
+    "name": "KU Crimson",
+    "hex": "#E8000D"
+  },
+  {
+    "name": "La Salle Grønn",
+    "hex": "#087830"
+  },
+  {
+    "name": "Languid Lavender",
+    "hex": "#D6CADD"
+  },
+  {
+    "name": "Lapis Lazuli",
+    "hex": "#26619C"
+  },
+  {
+    "name": "Laser Sitron",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "Laurel Grønn",
+    "hex": "#A9BA9D"
+  },
+  {
+    "name": "Lava",
+    "hex": "#CF1020"
+  },
+  {
+    "name": "Lavender (Floral)",
+    "hex": "#B57EDC"
+  },
+  {
+    "name": "Lavender (Web)",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "Lavender Blå",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Lavender Blush",
+    "hex": "#FFF0F5"
+  },
+  {
+    "name": "Lavender Grå",
+    "hex": "#C4C3D0"
+  },
+  {
+    "name": "Lavender Indigo",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Lavender Magenta",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "Lavender Mist",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "Lavender Rosa",
+    "hex": "#FBAED2"
+  },
+  {
+    "name": "Lavender Lilla",
+    "hex": "#967BB6"
+  },
+  {
+    "name": "Lavender Rose",
+    "hex": "#FBA0E3"
+  },
+  {
+    "name": "Lawn Grønn",
+    "hex": "#7CFC00"
+  },
+  {
+    "name": "Sitron",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Sitron Chiffon",
+    "hex": "#FFFACD"
+  },
+  {
+    "name": "Sitron Curry",
+    "hex": "#CCA01D"
+  },
+  {
+    "name": "Sitron Glacier",
+    "hex": "#FDFF00"
+  },
+  {
+    "name": "Sitron Lime",
+    "hex": "#E3FF00"
+  },
+  {
+    "name": "Sitron Meringue",
+    "hex": "#F6EABE"
+  },
+  {
+    "name": "Sitron Gul",
+    "hex": "#FFF44F"
+  },
+  {
+    "name": "Licorice",
+    "hex": "#1A1110"
+  },
+  {
+    "name": "Liberty",
+    "hex": "#545AA7"
+  },
+  {
+    "name": "Lys Apricot",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Lys Blå",
+    "hex": "#ADD8E6"
+  },
+  {
+    "name": "Lys Brun",
+    "hex": "#B5651D"
+  },
+  {
+    "name": "Lys Carmine Rosa",
+    "hex": "#E66771"
+  },
+  {
+    "name": "Lys Cobalt Blå",
+    "hex": "#88ACE0"
+  },
+  {
+    "name": "Lys Coral",
+    "hex": "#F08080"
+  },
+  {
+    "name": "Lys Cornflower Blå",
+    "hex": "#93CCEA"
+  },
+  {
+    "name": "Lys Crimson",
+    "hex": "#F56991"
+  },
+  {
+    "name": "Lys Cyan",
+    "hex": "#E0FFFF"
+  },
+  {
+    "name": "Lys Dyp Rosa",
+    "hex": "#FF5CCD"
+  },
+  {
+    "name": "Lys French Beige",
+    "hex": "#C8AD7F"
+  },
+  {
+    "name": "Lys Fuchsia Rosa",
+    "hex": "#F984EF"
+  },
+  {
+    "name": "Lys Goldenrod Gul",
+    "hex": "#FAFAD2"
+  },
+  {
+    "name": "Lys Grå",
+    "hex": "#D3D3D3"
+  },
+  {
+    "name": "Lys Grayish Magenta",
+    "hex": "#CC99CC"
+  },
+  {
+    "name": "Lys Grønn",
+    "hex": "#90EE90"
+  },
+  {
+    "name": "Lys Hot Rosa",
+    "hex": "#FFB3DE"
+  },
+  {
+    "name": "Lys Khaki",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Lys Middels Orchid",
+    "hex": "#D39BCB"
+  },
+  {
+    "name": "Lys Moss Grønn",
+    "hex": "#ADDFAD"
+  },
+  {
+    "name": "Lys Oransje",
+    "hex": "#FED8B1"
+  },
+  {
+    "name": "Lys Orchid",
+    "hex": "#E6A8D7"
+  },
+  {
+    "name": "Lys Pastell Lilla",
+    "hex": "#B19CD9"
+  },
+  {
+    "name": "Lys Rosa",
+    "hex": "#FFB6C1"
+  },
+  {
+    "name": "Lys Rød Ochre",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Lys Salmon",
+    "hex": "#FFA07A"
+  },
+  {
+    "name": "Lys Salmon Rosa",
+    "hex": "#FF9999"
+  },
+  {
+    "name": "Lys Hav Grønn",
+    "hex": "#20B2AA"
+  },
+  {
+    "name": "Lys Himmel Blå",
+    "hex": "#87CEFA"
+  },
+  {
+    "name": "Lys Slate Grå",
+    "hex": "#778899"
+  },
+  {
+    "name": "Lys Steel Blå",
+    "hex": "#B0C4DE"
+  },
+  {
+    "name": "Lys Taupe",
+    "hex": "#B38B6D"
+  },
+  {
+    "name": "Lys Thulian Rosa",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Lys Gul",
+    "hex": "#FFFFE0"
+  },
+  {
+    "name": "Lilac",
+    "hex": "#C8A2C8"
+  },
+  {
+    "name": "Lilac Luster",
+    "hex": "#AE98AA"
+  },
+  {
+    "name": "Lime (Color Wheel)",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Lime (Web) (X11 Grønn)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Lime Grønn",
+    "hex": "#32CD32"
+  },
+  {
+    "name": "Limerick",
+    "hex": "#9DC209"
+  },
+  {
+    "name": "Lincoln Grønn",
+    "hex": "#195905"
+  },
+  {
+    "name": "Linen",
+    "hex": "#FAF0E6"
+  },
+  {
+    "name": "Loeen (Lopen) Look",
+    "hex": "#15F2FD"
+  },
+  {
+    "name": "Liseran Lilla",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Little Boy Blå",
+    "hex": "#6CA0DC"
+  },
+  {
+    "name": "Liver",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Liver (Dogs)",
+    "hex": "#B86D29"
+  },
+  {
+    "name": "Liver (Organ)",
+    "hex": "#6C2E1F"
+  },
+  {
+    "name": "Liver Chestnut",
+    "hex": "#987456"
+  },
+  {
+    "name": "Livid",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Lumber",
+    "hex": "#FFE4CD"
+  },
+  {
+    "name": "Lust",
+    "hex": "#E62020"
+  },
+  {
+    "name": "Maastricht Blå",
+    "hex": "#001C3D"
+  },
+  {
+    "name": "Macaroni And Cheese",
+    "hex": "#FFBD88"
+  },
+  {
+    "name": "Madder Lake",
+    "hex": "#CC3336"
+  },
+  {
+    "name": "Magenta",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Magenta (Crayola)",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Magenta (Dye)",
+    "hex": "#CA1F7B"
+  },
+  {
+    "name": "Magenta (Pantone)",
+    "hex": "#D0417E"
+  },
+  {
+    "name": "Magenta (Process)",
+    "hex": "#FF0090"
+  },
+  {
+    "name": "Magenta Haze",
+    "hex": "#9F4576"
+  },
+  {
+    "name": "Magenta-Rosa",
+    "hex": "#CC338B"
+  },
+  {
+    "name": "Magic Mint",
+    "hex": "#AAF0D1"
+  },
+  {
+    "name": "Magic Potion",
+    "hex": "#FF4466"
+  },
+  {
+    "name": "Magnolia",
+    "hex": "#F8F4FF"
+  },
+  {
+    "name": "Mahogany",
+    "hex": "#C04000"
+  },
+  {
+    "name": "Maize",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Majorelle Blå",
+    "hex": "#6050DC"
+  },
+  {
+    "name": "Malachite",
+    "hex": "#0BDA51"
+  },
+  {
+    "name": "Manatee",
+    "hex": "#979AAA"
+  },
+  {
+    "name": "Mandarin",
+    "hex": "#F37A48"
+  },
+  {
+    "name": "Mango Tango",
+    "hex": "#FF8243"
+  },
+  {
+    "name": "Mantis",
+    "hex": "#74C365"
+  },
+  {
+    "name": "Mardi Gras",
+    "hex": "#880085"
+  },
+  {
+    "name": "Marigold",
+    "hex": "#EAA221"
+  },
+  {
+    "name": "Maroon (Crayola)",
+    "hex": "#C32148"
+  },
+  {
+    "name": "Maroon (HTML/CSS)",
+    "hex": "#800000"
+  },
+  {
+    "name": "Maroon (X11)",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Mauve",
+    "hex": "#E0B0FF"
+  },
+  {
+    "name": "Mauve Taupe",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Mauvelous",
+    "hex": "#EF98AA"
+  },
+  {
+    "name": "Maximum Blå",
+    "hex": "#47ABCC"
+  },
+  {
+    "name": "Maximum Blå Grønn",
+    "hex": "#30BFBF"
+  },
+  {
+    "name": "Maximum Blå Lilla",
+    "hex": "#ACACE6"
+  },
+  {
+    "name": "Maximum Grønn",
+    "hex": "#5E8C31"
+  },
+  {
+    "name": "Maximum Grønn Gul",
+    "hex": "#D9E650"
+  },
+  {
+    "name": "Maximum Lilla",
+    "hex": "#733380"
+  },
+  {
+    "name": "Maximum Rød",
+    "hex": "#D92121"
+  },
+  {
+    "name": "Maximum Rød Lilla",
+    "hex": "#A63A79"
+  },
+  {
+    "name": "Maximum Gul",
+    "hex": "#FAFA37"
+  },
+  {
+    "name": "Maximum Gul Rød",
+    "hex": "#F2BA49"
+  },
+  {
+    "name": "May Grønn",
+    "hex": "#4C9141"
+  },
+  {
+    "name": "Maya Blå",
+    "hex": "#73C2FB"
+  },
+  {
+    "name": "Meat Brun",
+    "hex": "#E5B73B"
+  },
+  {
+    "name": "Middels Aquamarine",
+    "hex": "#66DDAA"
+  },
+  {
+    "name": "Middels Blå",
+    "hex": "#0000CD"
+  },
+  {
+    "name": "Middels Candy Apple Rød",
+    "hex": "#E2062C"
+  },
+  {
+    "name": "Middels Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Middels Champagne",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Middels Elektrisk Blå",
+    "hex": "#035096"
+  },
+  {
+    "name": "Middels Jungle Grønn",
+    "hex": "#1C352D"
+  },
+  {
+    "name": "Middels Lavender Magenta",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Middels Orchid",
+    "hex": "#BA55D3"
+  },
+  {
+    "name": "Middels Persian Blå",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Middels Lilla",
+    "hex": "#9370DB"
+  },
+  {
+    "name": "Middels Rød-Fiolett",
+    "hex": "#BB3385"
+  },
+  {
+    "name": "Middels Ruby",
+    "hex": "#AA4069"
+  },
+  {
+    "name": "Middels Hav Grønn",
+    "hex": "#3CB371"
+  },
+  {
+    "name": "Middels Himmel Blå",
+    "hex": "#80DAEB"
+  },
+  {
+    "name": "Middels Slate Blå",
+    "hex": "#7B68EE"
+  },
+  {
+    "name": "Middels Spring Bud",
+    "hex": "#C9DC87"
+  },
+  {
+    "name": "Middels Spring Grønn",
+    "hex": "#00FA9A"
+  },
+  {
+    "name": "Middels Taupe",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Middels Turkis",
+    "hex": "#48D1CC"
+  },
+  {
+    "name": "Middels Tuscan Rød",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Middels Vermilion",
+    "hex": "#D9603B"
+  },
+  {
+    "name": "Middels Fiolett-Rød",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Mellow Apricot",
+    "hex": "#F8B878"
+  },
+  {
+    "name": "Mellow Gul",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Melon",
+    "hex": "#FDBCB4"
+  },
+  {
+    "name": "Metallic Seaweed",
+    "hex": "#0A7E8C"
+  },
+  {
+    "name": "Metallic Sunburst",
+    "hex": "#9C7C38"
+  },
+  {
+    "name": "Mexican Rosa",
+    "hex": "#E4007C"
+  },
+  {
+    "name": "Middle Blå",
+    "hex": "#7ED4E6"
+  },
+  {
+    "name": "Middle Blå Grønn",
+    "hex": "#8DD9CC"
+  },
+  {
+    "name": "Middle Blå Lilla",
+    "hex": "#8B72BE"
+  },
+  {
+    "name": "Middle Rød Lilla",
+    "hex": "#210837"
+  },
+  {
+    "name": "Middle Grønn",
+    "hex": "#4D8C57"
+  },
+  {
+    "name": "Middle Grønn Gul",
+    "hex": "#ACBF60"
+  },
+  {
+    "name": "Middle Lilla",
+    "hex": "#D982B5"
+  },
+  {
+    "name": "Middle Rød",
+    "hex": "#E58E73"
+  },
+  {
+    "name": "Middle Rød Lilla",
+    "hex": "#A55353"
+  },
+  {
+    "name": "Middle Gul",
+    "hex": "#FFEB00"
+  },
+  {
+    "name": "Middle Gul Rød",
+    "hex": "#ECB176"
+  },
+  {
+    "name": "Midnight",
+    "hex": "#702670"
+  },
+  {
+    "name": "Midnight Blå",
+    "hex": "#191970"
+  },
+  {
+    "name": "Midnight Grønn (Eagle Grønn)",
+    "hex": "#004953"
+  },
+  {
+    "name": "Mikado Gul",
+    "hex": "#FFC40C"
+  },
+  {
+    "name": "Milk",
+    "hex": "#FDFFF5"
+  },
+  {
+    "name": "Mimi Rosa",
+    "hex": "#FFDAE9"
+  },
+  {
+    "name": "Mindaro",
+    "hex": "#E3F988"
+  },
+  {
+    "name": "Ming",
+    "hex": "#36747D"
+  },
+  {
+    "name": "Minion Gul",
+    "hex": "#F5E050"
+  },
+  {
+    "name": "Mint",
+    "hex": "#3EB489"
+  },
+  {
+    "name": "Mint Cream",
+    "hex": "#F5FFFA"
+  },
+  {
+    "name": "Mint Grønn",
+    "hex": "#98FF98"
+  },
+  {
+    "name": "Misty Moss",
+    "hex": "#BBB477"
+  },
+  {
+    "name": "Misty Rose",
+    "hex": "#FFE4E1"
+  },
+  {
+    "name": "Moccasin",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Mode Beige",
+    "hex": "#967117"
+  },
+  {
+    "name": "Moonstone Blå",
+    "hex": "#73A9C2"
+  },
+  {
+    "name": "Mordant Rød 19",
+    "hex": "#AE0C00"
+  },
+  {
+    "name": "Morning Blå",
+    "hex": "#8DA399"
+  },
+  {
+    "name": "Moss Grønn",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Mountain Meadow",
+    "hex": "#30BA8F"
+  },
+  {
+    "name": "Mountbatten Rosa",
+    "hex": "#997A8D"
+  },
+  {
+    "name": "MSU Grønn",
+    "hex": "#18453B"
+  },
+  {
+    "name": "Mughal Grønn",
+    "hex": "#306030"
+  },
+  {
+    "name": "Mulberry",
+    "hex": "#C54B8C"
+  },
+  {
+    "name": "Mummy's Tomb",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Mustard",
+    "hex": "#FFDB58"
+  },
+  {
+    "name": "Myrtle Grønn",
+    "hex": "#317873"
+  },
+  {
+    "name": "Mystic",
+    "hex": "#D65282"
+  },
+  {
+    "name": "Mystic Maroon",
+    "hex": "#AD4379"
+  },
+  {
+    "name": "Nadeshiko Rosa",
+    "hex": "#F6ADC6"
+  },
+  {
+    "name": "Napier Grønn",
+    "hex": "#2A8000"
+  },
+  {
+    "name": "Naples Gul",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Navajo Hvit",
+    "hex": "#FFDEAD"
+  },
+  {
+    "name": "Navy",
+    "hex": "#000080"
+  },
+  {
+    "name": "Navy Lilla",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Neon Carrot",
+    "hex": "#FFA343"
+  },
+  {
+    "name": "Neon Fuchsia",
+    "hex": "#FE4164"
+  },
+  {
+    "name": "Neon Grønn",
+    "hex": "#39FF14"
+  },
+  {
+    "name": "New Car",
+    "hex": "#214FC6"
+  },
+  {
+    "name": "New York Rosa",
+    "hex": "#D7837F"
+  },
+  {
+    "name": "Nickel",
+    "hex": "#727472"
+  },
+  {
+    "name": "Non-Photo Blå",
+    "hex": "#A4DDED"
+  },
+  {
+    "name": "North Texas Grønn",
+    "hex": "#059033"
+  },
+  {
+    "name": "Nyanza",
+    "hex": "#E9FFDB"
+  },
+  {
+    "name": "Ocean Blå",
+    "hex": "#4F42B5"
+  },
+  {
+    "name": "Ocean Boat Blå",
+    "hex": "#0077BE"
+  },
+  {
+    "name": "Ocean Grønn",
+    "hex": "#48BF91"
+  },
+  {
+    "name": "Ochre",
+    "hex": "#CC7722"
+  },
+  {
+    "name": "Office Grønn",
+    "hex": "#008000"
+  },
+  {
+    "name": "Ogre Odor",
+    "hex": "#FD5240"
+  },
+  {
+    "name": "Gammel Burgundy",
+    "hex": "#43302E"
+  },
+  {
+    "name": "Gammel Gull",
+    "hex": "#CFB53B"
+  },
+  {
+    "name": "Gammel Heliotrope",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Gammel Lace",
+    "hex": "#FDF5E6"
+  },
+  {
+    "name": "Gammel Lavender",
+    "hex": "#796878"
+  },
+  {
+    "name": "Gammel Mauve",
+    "hex": "#673147"
+  },
+  {
+    "name": "Gammel Moss Grønn",
+    "hex": "#867E36"
+  },
+  {
+    "name": "Gammel Rose",
+    "hex": "#C08081"
+  },
+  {
+    "name": "Gammel Sølv",
+    "hex": "#848482"
+  },
+  {
+    "name": "Olive",
+    "hex": "#808000"
+  },
+  {
+    "name": "Olive Drab (#3)",
+    "hex": "#6B8E23"
+  },
+  {
+    "name": "Olive Drab #7",
+    "hex": "#3C341F"
+  },
+  {
+    "name": "Olivine",
+    "hex": "#9AB973"
+  },
+  {
+    "name": "Onyx",
+    "hex": "#353839"
+  },
+  {
+    "name": "Opera Mauve",
+    "hex": "#B784A7"
+  },
+  {
+    "name": "Oransje (Color Wheel)",
+    "hex": "#FF7F00"
+  },
+  {
+    "name": "Oransje (Crayola)",
+    "hex": "#FF7538"
+  },
+  {
+    "name": "Oransje (Pantone)",
+    "hex": "#FF5800"
+  },
+  {
+    "name": "Oransje (RYB)",
+    "hex": "#FB9902"
+  },
+  {
+    "name": "Oransje (Web)",
+    "hex": "#FFA500"
+  },
+  {
+    "name": "Oransje Peel",
+    "hex": "#FF9F00"
+  },
+  {
+    "name": "Oransje-Rød",
+    "hex": "#FF4500"
+  },
+  {
+    "name": "Oransje Soda",
+    "hex": "#FA5B3D"
+  },
+  {
+    "name": "Oransje-Gul",
+    "hex": "#F8D568"
+  },
+  {
+    "name": "Orchid",
+    "hex": "#DA70D6"
+  },
+  {
+    "name": "Orchid Rosa",
+    "hex": "#F2BDCD"
+  },
+  {
+    "name": "Orioles Oransje",
+    "hex": "#FB4F14"
+  },
+  {
+    "name": "Otter Brun",
+    "hex": "#654321"
+  },
+  {
+    "name": "Outer Space",
+    "hex": "#414A4C"
+  },
+  {
+    "name": "Outrageous Oransje",
+    "hex": "#FF6E4A"
+  },
+  {
+    "name": "Oxford Blå",
+    "hex": "#002147"
+  },
+  {
+    "name": "OU Crimson Rød",
+    "hex": "#990000"
+  },
+  {
+    "name": "Pacific Blå",
+    "hex": "#1CA9C9"
+  },
+  {
+    "name": "Pakistan Grønn",
+    "hex": "#006600"
+  },
+  {
+    "name": "Palatinate Blå",
+    "hex": "#273BE2"
+  },
+  {
+    "name": "Palatinate Lilla",
+    "hex": "#682860"
+  },
+  {
+    "name": "Blekt Aqua",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Blekt Blå",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "Blekt Brun",
+    "hex": "#987654"
+  },
+  {
+    "name": "Blekt Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Blekt Cerulean",
+    "hex": "#9BC4E2"
+  },
+  {
+    "name": "Blekt Chestnut",
+    "hex": "#DDADAF"
+  },
+  {
+    "name": "Blekt Copper",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "Blekt Cornflower Blå",
+    "hex": "#ABCDEF"
+  },
+  {
+    "name": "Blekt Cyan",
+    "hex": "#87D3F8"
+  },
+  {
+    "name": "Blekt Gull",
+    "hex": "#E6BE8A"
+  },
+  {
+    "name": "Blekt Goldenrod",
+    "hex": "#EEE8AA"
+  },
+  {
+    "name": "Blekt Grønn",
+    "hex": "#98FB98"
+  },
+  {
+    "name": "Blekt Lavender",
+    "hex": "#DCD0FF"
+  },
+  {
+    "name": "Blekt Magenta",
+    "hex": "#F984E5"
+  },
+  {
+    "name": "Blekt Magenta-Rosa",
+    "hex": "#FF99CC"
+  },
+  {
+    "name": "Blekt Rosa",
+    "hex": "#FADADD"
+  },
+  {
+    "name": "Blekt Plum",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Blekt Rød-Fiolett",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Blekt Robin Egg Blå",
+    "hex": "#96DED1"
+  },
+  {
+    "name": "Blekt Sølv",
+    "hex": "#C9C0BB"
+  },
+  {
+    "name": "Blekt Spring Bud",
+    "hex": "#ECEBBD"
+  },
+  {
+    "name": "Blekt Taupe",
+    "hex": "#BC987E"
+  },
+  {
+    "name": "Blekt Turkis",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "Blekt Fiolett",
+    "hex": "#CC99FF"
+  },
+  {
+    "name": "Blekt Fiolett-Rød",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Palm Leaf",
+    "hex": "#6F9940"
+  },
+  {
+    "name": "Pansy Lilla",
+    "hex": "#78184A"
+  },
+  {
+    "name": "Paolo Veronese Grønn",
+    "hex": "#009B7D"
+  },
+  {
+    "name": "Papaya Whip",
+    "hex": "#FFEFD5"
+  },
+  {
+    "name": "Paradise Rosa",
+    "hex": "#E63E62"
+  },
+  {
+    "name": "Paris Grønn",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Parrot Rosa",
+    "hex": "#D998A0"
+  },
+  {
+    "name": "Pastell Blå",
+    "hex": "#AEC6CF"
+  },
+  {
+    "name": "Pastell Brun",
+    "hex": "#836953"
+  },
+  {
+    "name": "Pastell Grå",
+    "hex": "#CFCFC4"
+  },
+  {
+    "name": "Pastell Grønn",
+    "hex": "#77DD77"
+  },
+  {
+    "name": "Pastell Magenta",
+    "hex": "#F49AC2"
+  },
+  {
+    "name": "Pastell Oransje",
+    "hex": "#FFB347"
+  },
+  {
+    "name": "Pastell Rosa",
+    "hex": "#DEA5A4"
+  },
+  {
+    "name": "Pastell Lilla",
+    "hex": "#B39EB5"
+  },
+  {
+    "name": "Pastell Rød",
+    "hex": "#FF6961"
+  },
+  {
+    "name": "Pastell Fiolett",
+    "hex": "#CB99C9"
+  },
+  {
+    "name": "Pastell Gul",
+    "hex": "#FDFD96"
+  },
+  {
+    "name": "Patriarch",
+    "hex": "#800080"
+  },
+  {
+    "name": "Payne's Grå",
+    "hex": "#536878"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFE5B4"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Peach-Oransje",
+    "hex": "#FFCC99"
+  },
+  {
+    "name": "Peach Puff",
+    "hex": "#FFDAB9"
+  },
+  {
+    "name": "Peach-Gul",
+    "hex": "#FADFAD"
+  },
+  {
+    "name": "Pear",
+    "hex": "#D1E231"
+  },
+  {
+    "name": "Pearl",
+    "hex": "#EAE0C8"
+  },
+  {
+    "name": "Pearl Aqua",
+    "hex": "#88D8C0"
+  },
+  {
+    "name": "Pearly Lilla",
+    "hex": "#B768A2"
+  },
+  {
+    "name": "Peridot",
+    "hex": "#E6E200"
+  },
+  {
+    "name": "Periwinkle",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Permanent Geranium Lake",
+    "hex": "#E12C2C"
+  },
+  {
+    "name": "Persian Blå",
+    "hex": "#1C39BB"
+  },
+  {
+    "name": "Persian Grønn",
+    "hex": "#00A693"
+  },
+  {
+    "name": "Persian Indigo",
+    "hex": "#32127A"
+  },
+  {
+    "name": "Persian Oransje",
+    "hex": "#D99058"
+  },
+  {
+    "name": "Persian Rosa",
+    "hex": "#F77FBE"
+  },
+  {
+    "name": "Persian Plum",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Persian Rød",
+    "hex": "#CC3333"
+  },
+  {
+    "name": "Persian Rose",
+    "hex": "#FE28A2"
+  },
+  {
+    "name": "Persimmon",
+    "hex": "#EC5800"
+  },
+  {
+    "name": "Peru",
+    "hex": "#CD853F"
+  },
+  {
+    "name": "Pewter Blå",
+    "hex": "#8BA8B7"
+  },
+  {
+    "name": "Phlox",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Phthalo Blå",
+    "hex": "#000F89"
+  },
+  {
+    "name": "Phthalo Grønn",
+    "hex": "#123524"
+  },
+  {
+    "name": "Picton Blå",
+    "hex": "#45B1E8"
+  },
+  {
+    "name": "Pictorial Carmine",
+    "hex": "#C30B4E"
+  },
+  {
+    "name": "Piggy Rosa",
+    "hex": "#FDDDE6"
+  },
+  {
+    "name": "Pine Grønn",
+    "hex": "#01796F"
+  },
+  {
+    "name": "Pineapple",
+    "hex": "#563C0D"
+  },
+  {
+    "name": "Rosa",
+    "hex": "#FFC0CB"
+  },
+  {
+    "name": "Rosa (Pantone)",
+    "hex": "#D74894"
+  },
+  {
+    "name": "Rosa Flamingo",
+    "hex": "#FC74FD"
+  },
+  {
+    "name": "Rosa Lace",
+    "hex": "#FFDDF4"
+  },
+  {
+    "name": "Rosa Lavender",
+    "hex": "#D8B2D1"
+  },
+  {
+    "name": "Rosa-Oransje",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Rosa Pearl",
+    "hex": "#E7ACCF"
+  },
+  {
+    "name": "Rosa Raspberry",
+    "hex": "#980036"
+  },
+  {
+    "name": "Rosa Sherbet",
+    "hex": "#F78FA7"
+  },
+  {
+    "name": "Pistachio",
+    "hex": "#93C572"
+  },
+  {
+    "name": "Pixie Powder",
+    "hex": "#391285"
+  },
+  {
+    "name": "Platinum",
+    "hex": "#E5E4E2"
+  },
+  {
+    "name": "Plum",
+    "hex": "#8E4585"
+  },
+  {
+    "name": "Plum (Web)",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Plump Lilla",
+    "hex": "#5946B2"
+  },
+  {
+    "name": "Polished Pine",
+    "hex": "#5DA493"
+  },
+  {
+    "name": "Pomp And Power",
+    "hex": "#86608E"
+  },
+  {
+    "name": "Popstar",
+    "hex": "#BE4F62"
+  },
+  {
+    "name": "Portland Oransje",
+    "hex": "#FF5A36"
+  },
+  {
+    "name": "Powder Blå",
+    "hex": "#B0E0E6"
+  },
+  {
+    "name": "Princess Perfume",
+    "hex": "#FF85CF"
+  },
+  {
+    "name": "Princeton Oransje",
+    "hex": "#F58025"
+  },
+  {
+    "name": "Prune",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Prussian Blå",
+    "hex": "#003153"
+  },
+  {
+    "name": "Psychedelic Lilla",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Puce",
+    "hex": "#CC8899"
+  },
+  {
+    "name": "Puce Rød",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Pullman Brun (UPS Brun)",
+    "hex": "#644117"
+  },
+  {
+    "name": "Pullman Grønn",
+    "hex": "#3B331C"
+  },
+  {
+    "name": "Pumpkin",
+    "hex": "#FF7518"
+  },
+  {
+    "name": "Lilla (HTML)",
+    "hex": "#800080"
+  },
+  {
+    "name": "Lilla (Munsell)",
+    "hex": "#9F00C5"
+  },
+  {
+    "name": "Lilla (X11)",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Lilla Heart",
+    "hex": "#69359C"
+  },
+  {
+    "name": "Lilla Mountain Majesty",
+    "hex": "#9678B6"
+  },
+  {
+    "name": "Lilla Navy",
+    "hex": "#4E5180"
+  },
+  {
+    "name": "Lilla Pizzazz",
+    "hex": "#FE4EDA"
+  },
+  {
+    "name": "Lilla Plum",
+    "hex": "#9C51B6"
+  },
+  {
+    "name": "Lilla Taupe",
+    "hex": "#50404D"
+  },
+  {
+    "name": "Purpureus",
+    "hex": "#9A4EAE"
+  },
+  {
+    "name": "Quartz",
+    "hex": "#51484F"
+  },
+  {
+    "name": "Queen Blå",
+    "hex": "#436B95"
+  },
+  {
+    "name": "Queen Rosa",
+    "hex": "#E8CCD7"
+  },
+  {
+    "name": "Quick Sølv",
+    "hex": "#A6A6A6"
+  },
+  {
+    "name": "Quinacridone Magenta",
+    "hex": "#8E3A59"
+  },
+  {
+    "name": "Rackley",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Radical Rød",
+    "hex": "#FF355E"
+  },
+  {
+    "name": "Raisin Svart",
+    "hex": "#242124"
+  },
+  {
+    "name": "Rajah",
+    "hex": "#FBAB60"
+  },
+  {
+    "name": "Raspberry",
+    "hex": "#E30B5D"
+  },
+  {
+    "name": "Raspberry Glace",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Raspberry Rosa",
+    "hex": "#E25098"
+  },
+  {
+    "name": "Raspberry Rose",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Raw Sienna",
+    "hex": "#D68A59"
+  },
+  {
+    "name": "Raw Umber",
+    "hex": "#826644"
+  },
+  {
+    "name": "Razzle Dazzle Rose",
+    "hex": "#FF33CC"
+  },
+  {
+    "name": "Razzmatazz",
+    "hex": "#E3256B"
+  },
+  {
+    "name": "Razzmic Berry",
+    "hex": "#8D4E85"
+  },
+  {
+    "name": "Rebecca Lilla",
+    "hex": "#663399"
+  },
+  {
+    "name": "Rød",
+    "hex": "#FF0000"
+  },
+  {
+    "name": "Rød (Crayola)",
+    "hex": "#EE204D"
+  },
+  {
+    "name": "Rød (Munsell)",
+    "hex": "#F2003C"
+  },
+  {
+    "name": "Rød (NCS)",
+    "hex": "#C40233"
+  },
+  {
+    "name": "Rød (Pantone)",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Rød (Pigment)",
+    "hex": "#ED1C24"
+  },
+  {
+    "name": "Rød (RYB)",
+    "hex": "#FE2712"
+  },
+  {
+    "name": "Rød-Brun",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Rød Devil",
+    "hex": "#860111"
+  },
+  {
+    "name": "Rød-Oransje",
+    "hex": "#FF5349"
+  },
+  {
+    "name": "Rød-Lilla",
+    "hex": "#E40078"
+  },
+  {
+    "name": "Rød Salsa",
+    "hex": "#FD3A4A"
+  },
+  {
+    "name": "Rød-Fiolett",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Redwood",
+    "hex": "#A45A52"
+  },
+  {
+    "name": "Regalia",
+    "hex": "#522D80"
+  },
+  {
+    "name": "Registration Svart",
+    "hex": "#000000"
+  },
+  {
+    "name": "Resolution Blå",
+    "hex": "#002387"
+  },
+  {
+    "name": "Rhythm",
+    "hex": "#777696"
+  },
+  {
+    "name": "Rik Svart",
+    "hex": "#004040"
+  },
+  {
+    "name": "Rik Svart (FOGRA29)",
+    "hex": "#010B13"
+  },
+  {
+    "name": "Rik Svart (FOGRA39)",
+    "hex": "#010203"
+  },
+  {
+    "name": "Rik Brilliant Lavender",
+    "hex": "#F1A7FE"
+  },
+  {
+    "name": "Rik Carmine",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Rik Elektrisk Blå",
+    "hex": "#0892D0"
+  },
+  {
+    "name": "Rik Lavender",
+    "hex": "#A76BCF"
+  },
+  {
+    "name": "Rik Lilac",
+    "hex": "#B666D2"
+  },
+  {
+    "name": "Rik Maroon",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Rifle Grønn",
+    "hex": "#444C38"
+  },
+  {
+    "name": "Roast Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Robin Egg Blå",
+    "hex": "#00CCCC"
+  },
+  {
+    "name": "Rocket Metallic",
+    "hex": "#8A7F80"
+  },
+  {
+    "name": "Roman Sølv",
+    "hex": "#838996"
+  },
+  {
+    "name": "Rose",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Rose Bonbon",
+    "hex": "#F9429E"
+  },
+  {
+    "name": "Rose Dust",
+    "hex": "#9E5E6F"
+  },
+  {
+    "name": "Rose Ebony",
+    "hex": "#674846"
+  },
+  {
+    "name": "Rose Gull",
+    "hex": "#B76E79"
+  },
+  {
+    "name": "Rose Madder",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Rose Rosa",
+    "hex": "#FF66CC"
+  },
+  {
+    "name": "Rose Quartz",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Rose Rød",
+    "hex": "#C21E56"
+  },
+  {
+    "name": "Rose Taupe",
+    "hex": "#905D5D"
+  },
+  {
+    "name": "Rose Vale",
+    "hex": "#AB4E52"
+  },
+  {
+    "name": "Rosewood",
+    "hex": "#65000B"
+  },
+  {
+    "name": "Rosso Corsa",
+    "hex": "#D40000"
+  },
+  {
+    "name": "Rosy Brun",
+    "hex": "#BC8F8F"
+  },
+  {
+    "name": "Royal Azur",
+    "hex": "#0038A8"
+  },
+  {
+    "name": "Royal Blå",
+    "hex": "#002366"
+  },
+  {
+    "name": "Royal Blå",
+    "hex": "#4169E1"
+  },
+  {
+    "name": "Royal Fuchsia",
+    "hex": "#CA2C92"
+  },
+  {
+    "name": "Royal Lilla",
+    "hex": "#7851A9"
+  },
+  {
+    "name": "Royal Gul",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Ruber",
+    "hex": "#CE4676"
+  },
+  {
+    "name": "Rubine Rød",
+    "hex": "#D10056"
+  },
+  {
+    "name": "Ruby",
+    "hex": "#E0115F"
+  },
+  {
+    "name": "Ruby Rød",
+    "hex": "#9B111E"
+  },
+  {
+    "name": "Ruddy",
+    "hex": "#FF0028"
+  },
+  {
+    "name": "Ruddy Brun",
+    "hex": "#BB6528"
+  },
+  {
+    "name": "Ruddy Rosa",
+    "hex": "#E18E96"
+  },
+  {
+    "name": "Rufous",
+    "hex": "#A81C07"
+  },
+  {
+    "name": "Russet",
+    "hex": "#80461B"
+  },
+  {
+    "name": "Russian Grønn",
+    "hex": "#679267"
+  },
+  {
+    "name": "Russian Fiolett",
+    "hex": "#32174D"
+  },
+  {
+    "name": "Rust",
+    "hex": "#B7410E"
+  },
+  {
+    "name": "Rusty Rød",
+    "hex": "#DA2C43"
+  },
+  {
+    "name": "Sacramento State Grønn",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Saddle Brun",
+    "hex": "#8B4513"
+  },
+  {
+    "name": "Safety Oransje",
+    "hex": "#FF7800"
+  },
+  {
+    "name": "Safety Oransje (Blaze Oransje)",
+    "hex": "#FF6700"
+  },
+  {
+    "name": "Safety Gul",
+    "hex": "#EED202"
+  },
+  {
+    "name": "Saffron",
+    "hex": "#F4C430"
+  },
+  {
+    "name": "Sage",
+    "hex": "#BCB88A"
+  },
+  {
+    "name": "St. Patrick's Blå",
+    "hex": "#23297A"
+  },
+  {
+    "name": "Salmon",
+    "hex": "#FA8072"
+  },
+  {
+    "name": "Salmon Rosa",
+    "hex": "#FF91A4"
+  },
+  {
+    "name": "Sand",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Sand Dune",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sandstorm",
+    "hex": "#ECD540"
+  },
+  {
+    "name": "Sandy Brun",
+    "hex": "#F4A460"
+  },
+  {
+    "name": "Sandy Tan",
+    "hex": "#FDD9B5"
+  },
+  {
+    "name": "Sandy Taupe",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sangria",
+    "hex": "#92000A"
+  },
+  {
+    "name": "Sap Grønn",
+    "hex": "#507D2A"
+  },
+  {
+    "name": "Sapphire",
+    "hex": "#0F52BA"
+  },
+  {
+    "name": "Sapphire Blå",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Sasquatch Socks",
+    "hex": "#FF4681"
+  },
+  {
+    "name": "Satin Sheen Gull",
+    "hex": "#CBA135"
+  },
+  {
+    "name": "Scarlet",
+    "hex": "#FF2400"
+  },
+  {
+    "name": "Scarlet",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Schauss Rosa",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "School Bus Gul",
+    "hex": "#FFD800"
+  },
+  {
+    "name": "Screamin' Grønn",
+    "hex": "#66FF66"
+  },
+  {
+    "name": "Hav Blå",
+    "hex": "#006994"
+  },
+  {
+    "name": "Hav Foam Grønn",
+    "hex": "#9FE2BF"
+  },
+  {
+    "name": "Hav Grønn",
+    "hex": "#2E8B57"
+  },
+  {
+    "name": "Hav Serpent",
+    "hex": "#4BC7CF"
+  },
+  {
+    "name": "Seal Brun",
+    "hex": "#59260B"
+  },
+  {
+    "name": "Seashell",
+    "hex": "#FFF5EE"
+  },
+  {
+    "name": "Selective Gul",
+    "hex": "#FFBA00"
+  },
+  {
+    "name": "Sepia",
+    "hex": "#704214"
+  },
+  {
+    "name": "Shadow",
+    "hex": "#8A795D"
+  },
+  {
+    "name": "Shadow Blå",
+    "hex": "#778BA5"
+  },
+  {
+    "name": "Shampoo",
+    "hex": "#FFCFF1"
+  },
+  {
+    "name": "Shamrock Grønn",
+    "hex": "#009E60"
+  },
+  {
+    "name": "Sheen Grønn",
+    "hex": "#8FD400"
+  },
+  {
+    "name": "Shimmering Blush",
+    "hex": "#D98695"
+  },
+  {
+    "name": "Shiny Shamrock",
+    "hex": "#5FA778"
+  },
+  {
+    "name": "Shocking Rosa",
+    "hex": "#FC0FC0"
+  },
+  {
+    "name": "Shocking Rosa (Crayola)",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Sienna",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Sølv",
+    "hex": "#C0C0C0"
+  },
+  {
+    "name": "Sølv Chalice",
+    "hex": "#ACACAC"
+  },
+  {
+    "name": "Sølv Lake Blå",
+    "hex": "#5D89BA"
+  },
+  {
+    "name": "Sølv Rosa",
+    "hex": "#C4AEAD"
+  },
+  {
+    "name": "Sølv Sand",
+    "hex": "#BFC1C2"
+  },
+  {
+    "name": "Sinopia",
+    "hex": "#CB410B"
+  },
+  {
+    "name": "Sizzling Rød",
+    "hex": "#FF3855"
+  },
+  {
+    "name": "Sizzling Sunrise",
+    "hex": "#FFDB00"
+  },
+  {
+    "name": "Skobeloff",
+    "hex": "#007474"
+  },
+  {
+    "name": "Himmel Blå",
+    "hex": "#87CEEB"
+  },
+  {
+    "name": "Himmel Magenta",
+    "hex": "#CF71AF"
+  },
+  {
+    "name": "Slate Blå",
+    "hex": "#6A5ACD"
+  },
+  {
+    "name": "Slate Grå",
+    "hex": "#708090"
+  },
+  {
+    "name": "Smalt (Mørk Powder Blå)",
+    "hex": "#003399"
+  },
+  {
+    "name": "Slimy Grønn",
+    "hex": "#299617"
+  },
+  {
+    "name": "Smashed Pumpkin",
+    "hex": "#FF6D3A"
+  },
+  {
+    "name": "Smitten",
+    "hex": "#C84186"
+  },
+  {
+    "name": "Smoke",
+    "hex": "#738276"
+  },
+  {
+    "name": "Smokey Topaz",
+    "hex": "#832A0D"
+  },
+  {
+    "name": "Smoky Svart",
+    "hex": "#100C08"
+  },
+  {
+    "name": "Smoky Topaz",
+    "hex": "#933D41"
+  },
+  {
+    "name": "Snow",
+    "hex": "#FFFAFA"
+  },
+  {
+    "name": "Soap",
+    "hex": "#CEC8EF"
+  },
+  {
+    "name": "Solid Rosa",
+    "hex": "#893843"
+  },
+  {
+    "name": "Sonic Sølv",
+    "hex": "#757575"
+  },
+  {
+    "name": "Spartan Crimson",
+    "hex": "#9E1316"
+  },
+  {
+    "name": "Space Cadet",
+    "hex": "#1D2951"
+  },
+  {
+    "name": "Spanish Bistre",
+    "hex": "#807532"
+  },
+  {
+    "name": "Spanish Blå",
+    "hex": "#0070B8"
+  },
+  {
+    "name": "Spanish Carmine",
+    "hex": "#D10047"
+  },
+  {
+    "name": "Spanish Crimson",
+    "hex": "#E51A4C"
+  },
+  {
+    "name": "Spanish Grå",
+    "hex": "#989898"
+  },
+  {
+    "name": "Spanish Grønn",
+    "hex": "#009150"
+  },
+  {
+    "name": "Spanish Oransje",
+    "hex": "#E86100"
+  },
+  {
+    "name": "Spanish Rosa",
+    "hex": "#F7BFBE"
+  },
+  {
+    "name": "Spanish Rød",
+    "hex": "#E60026"
+  },
+  {
+    "name": "Spanish Himmel Blå",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Spanish Fiolett",
+    "hex": "#4C2882"
+  },
+  {
+    "name": "Spanish Viridian",
+    "hex": "#007F5C"
+  },
+  {
+    "name": "Spicy Mix",
+    "hex": "#8B5f4D"
+  },
+  {
+    "name": "Spiro Disco Ball",
+    "hex": "#0FC0FC"
+  },
+  {
+    "name": "Spring Bud",
+    "hex": "#A7FC00"
+  },
+  {
+    "name": "Spring Frost",
+    "hex": "#87FF2A"
+  },
+  {
+    "name": "Spring Grønn",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Star Command Blå",
+    "hex": "#007BB8"
+  },
+  {
+    "name": "Steel Blå",
+    "hex": "#4682B4"
+  },
+  {
+    "name": "Steel Rosa",
+    "hex": "#CC33CC"
+  },
+  {
+    "name": "Steel Teal",
+    "hex": "#5F8A8B"
+  },
+  {
+    "name": "Stil De Grain Gul",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Stizza",
+    "hex": "#990000"
+  },
+  {
+    "name": "Stormcloud",
+    "hex": "#4F666A"
+  },
+  {
+    "name": "Straw",
+    "hex": "#E4D96F"
+  },
+  {
+    "name": "Strawberry",
+    "hex": "#FC5A8D"
+  },
+  {
+    "name": "Sugar Plum",
+    "hex": "#914E75"
+  },
+  {
+    "name": "Sunburnt Cyclops",
+    "hex": "#FF404C"
+  },
+  {
+    "name": "Sunglow",
+    "hex": "#FFCC33"
+  },
+  {
+    "name": "Sunny",
+    "hex": "#F2F27A"
+  },
+  {
+    "name": "Sunray",
+    "hex": "#E3AB57"
+  },
+  {
+    "name": "Sunset",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Sunset Oransje",
+    "hex": "#FD5E53"
+  },
+  {
+    "name": "Super Rosa",
+    "hex": "#CF6BA9"
+  },
+  {
+    "name": "Sweet Brun",
+    "hex": "#A83731"
+  },
+  {
+    "name": "Tan",
+    "hex": "#D2B48C"
+  },
+  {
+    "name": "Tangelo",
+    "hex": "#F94D00"
+  },
+  {
+    "name": "Tangerine",
+    "hex": "#F28500"
+  },
+  {
+    "name": "Tangerine Gul",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "Tango Rosa",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Tart Oransje",
+    "hex": "#FB4D46"
+  },
+  {
+    "name": "Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Taupe Grå",
+    "hex": "#8B8589"
+  },
+  {
+    "name": "Tea Grønn",
+    "hex": "#D0F0C0"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Teal",
+    "hex": "#008080"
+  },
+  {
+    "name": "Teal Blå",
+    "hex": "#367588"
+  },
+  {
+    "name": "Teal Deer",
+    "hex": "#99E6B3"
+  },
+  {
+    "name": "Teal Grønn",
+    "hex": "#00827F"
+  },
+  {
+    "name": "Telemagenta",
+    "hex": "#CF3476"
+  },
+  {
+    "name": "Tenne (Tawny)",
+    "hex": "#CD5700"
+  },
+  {
+    "name": "Terra Cotta",
+    "hex": "#E2725B"
+  },
+  {
+    "name": "Thistle",
+    "hex": "#D8BFD8"
+  },
+  {
+    "name": "Thulian Rosa",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Tickle Me Rosa",
+    "hex": "#FC89AC"
+  },
+  {
+    "name": "Tiffany Blå",
+    "hex": "#0ABAB5"
+  },
+  {
+    "name": "Tiger's Eye",
+    "hex": "#E08D3C"
+  },
+  {
+    "name": "Timberwolf",
+    "hex": "#DBD7D2"
+  },
+  {
+    "name": "Titanium Gul",
+    "hex": "#EEE600"
+  },
+  {
+    "name": "Tomato",
+    "hex": "#FF6347"
+  },
+  {
+    "name": "Toolbox",
+    "hex": "#746CC0"
+  },
+  {
+    "name": "Topaz",
+    "hex": "#FFC87C"
+  },
+  {
+    "name": "Tractor Rød",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Trolley Grå",
+    "hex": "#808080"
+  },
+  {
+    "name": "Tropical Rain Forest",
+    "hex": "#00755E"
+  },
+  {
+    "name": "Tropical Fiolett",
+    "hex": "#CDA4DE"
+  },
+  {
+    "name": "True Blå",
+    "hex": "#0073CF"
+  },
+  {
+    "name": "Tufts Blå",
+    "hex": "#3E8EDE"
+  },
+  {
+    "name": "Tulip",
+    "hex": "#FF878D"
+  },
+  {
+    "name": "Tumbleweed",
+    "hex": "#DEAA88"
+  },
+  {
+    "name": "Turkish Rose",
+    "hex": "#B57281"
+  },
+  {
+    "name": "Turkis",
+    "hex": "#40E0D0"
+  },
+  {
+    "name": "Turkis Blå",
+    "hex": "#00FFEF"
+  },
+  {
+    "name": "Turkis Grønn",
+    "hex": "#A0D6B4"
+  },
+  {
+    "name": "Turkis Surf",
+    "hex": "#00C5CD"
+  },
+  {
+    "name": "Turtle Grønn",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Tuscan",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Tuscan Brun",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Tuscan Rød",
+    "hex": "#7C4848"
+  },
+  {
+    "name": "Tuscan Tan",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Tuscany",
+    "hex": "#C09999"
+  },
+  {
+    "name": "Twilight Lavender",
+    "hex": "#8A496B"
+  },
+  {
+    "name": "Tyrian Lilla",
+    "hex": "#66023C"
+  },
+  {
+    "name": "UA Blå",
+    "hex": "#0033AA"
+  },
+  {
+    "name": "UA Rød",
+    "hex": "#D9004C"
+  },
+  {
+    "name": "Ube",
+    "hex": "#8878C3"
+  },
+  {
+    "name": "UCLA Blå",
+    "hex": "#536895"
+  },
+  {
+    "name": "UCLA Gull",
+    "hex": "#FFB300"
+  },
+  {
+    "name": "UFO Grønn",
+    "hex": "#3CD070"
+  },
+  {
+    "name": "Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Ultramarine Blå",
+    "hex": "#4166F5"
+  },
+  {
+    "name": "Ultra Rosa",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Ultra Rød",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Umber",
+    "hex": "#635147"
+  },
+  {
+    "name": "Unbleached Silk",
+    "hex": "#FFDDCA"
+  },
+  {
+    "name": "United Nations Blå",
+    "hex": "#5B92E5"
+  },
+  {
+    "name": "University Of California Gull",
+    "hex": "#B78727"
+  },
+  {
+    "name": "Unmellow Gul",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "UP Forest Grønn",
+    "hex": "#014421"
+  },
+  {
+    "name": "UP Maroon",
+    "hex": "#7B1113"
+  },
+  {
+    "name": "Upsdell Rød",
+    "hex": "#AE2029"
+  },
+  {
+    "name": "Urobilin",
+    "hex": "#E1AD21"
+  },
+  {
+    "name": "USAFA Blå",
+    "hex": "#004F98"
+  },
+  {
+    "name": "USC Cardinal",
+    "hex": "#990000"
+  },
+  {
+    "name": "USC Gull",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "University Of Tennessee Oransje",
+    "hex": "#F77F00"
+  },
+  {
+    "name": "Utah Crimson",
+    "hex": "#D3003F"
+  },
+  {
+    "name": "Van Dyke Brun",
+    "hex": "#664228"
+  },
+  {
+    "name": "Vanilla",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Vanilla Ice",
+    "hex": "#F38FA9"
+  },
+  {
+    "name": "Vegas Gull",
+    "hex": "#C5B358"
+  },
+  {
+    "name": "Venetian Rød",
+    "hex": "#C80815"
+  },
+  {
+    "name": "Verdigris",
+    "hex": "#43B3AE"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#D9381E"
+  },
+  {
+    "name": "Veronica",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Very Lys Azur",
+    "hex": "#74BBFB"
+  },
+  {
+    "name": "Very Lys Blå",
+    "hex": "#6666FF"
+  },
+  {
+    "name": "Very Lys Malachite Grønn",
+    "hex": "#64E986"
+  },
+  {
+    "name": "Very Lys Tangelo",
+    "hex": "#FFB077"
+  },
+  {
+    "name": "Very Blekt Oransje",
+    "hex": "#FFDFBF"
+  },
+  {
+    "name": "Very Blekt Gul",
+    "hex": "#FFFFBF"
+  },
+  {
+    "name": "Fiolett",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Fiolett (Color Wheel)",
+    "hex": "#7F00FF"
+  },
+  {
+    "name": "Fiolett (RYB)",
+    "hex": "#8601AF"
+  },
+  {
+    "name": "Fiolett (Web)",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "Fiolett-Blå",
+    "hex": "#324AB2"
+  },
+  {
+    "name": "Fiolett-Rød",
+    "hex": "#F75394"
+  },
+  {
+    "name": "Viridian",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Viridian Grønn",
+    "hex": "#009698"
+  },
+  {
+    "name": "Vista Blå",
+    "hex": "#7C9ED9"
+  },
+  {
+    "name": "Klar Amber",
+    "hex": "#CC9900"
+  },
+  {
+    "name": "Klar Auburn",
+    "hex": "#922724"
+  },
+  {
+    "name": "Klar Burgundy",
+    "hex": "#9F1D35"
+  },
+  {
+    "name": "Klar Cerise",
+    "hex": "#DA1D81"
+  },
+  {
+    "name": "Klar Cerulean",
+    "hex": "#00AAEE"
+  },
+  {
+    "name": "Klar Crimson",
+    "hex": "#CC0033"
+  },
+  {
+    "name": "Klar Gamboge",
+    "hex": "#FF9900"
+  },
+  {
+    "name": "Klar Lime Grønn",
+    "hex": "#A6D608"
+  },
+  {
+    "name": "Klar Malachite",
+    "hex": "#00CC33"
+  },
+  {
+    "name": "Klar Mulberry",
+    "hex": "#B80CE3"
+  },
+  {
+    "name": "Klar Oransje",
+    "hex": "#FF5F00"
+  },
+  {
+    "name": "Klar Oransje Peel",
+    "hex": "#FFA000"
+  },
+  {
+    "name": "Klar Orchid",
+    "hex": "#CC00FF"
+  },
+  {
+    "name": "Klar Raspberry",
+    "hex": "#FF006C"
+  },
+  {
+    "name": "Klar Rød",
+    "hex": "#F70D1A"
+  },
+  {
+    "name": "Klar Rød-Tangelo",
+    "hex": "#DF6124"
+  },
+  {
+    "name": "Klar Himmel Blå",
+    "hex": "#00CCFF"
+  },
+  {
+    "name": "Klar Tangelo",
+    "hex": "#F07427"
+  },
+  {
+    "name": "Klar Tangerine",
+    "hex": "#FFA089"
+  },
+  {
+    "name": "Klar Vermilion",
+    "hex": "#E56024"
+  },
+  {
+    "name": "Klar Fiolett",
+    "hex": "#9F00FF"
+  },
+  {
+    "name": "Klar Gul",
+    "hex": "#FFE302"
+  },
+  {
+    "name": "Volt",
+    "hex": "#CEFF00"
+  },
+  {
+    "name": "Wageningen Grønn",
+    "hex": "#34B233"
+  },
+  {
+    "name": "Varm Svart",
+    "hex": "#004242"
+  },
+  {
+    "name": "Waterspout",
+    "hex": "#A4F4F9"
+  },
+  {
+    "name": "Weldon Blå",
+    "hex": "#7C98AB"
+  },
+  {
+    "name": "Wenge",
+    "hex": "#645452"
+  },
+  {
+    "name": "Wheat",
+    "hex": "#F5DEB3"
+  },
+  {
+    "name": "Hvit",
+    "hex": "#FFFFFF"
+  },
+  {
+    "name": "Hvit Smoke",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Wild Blå Yonder",
+    "hex": "#A2ADD0"
+  },
+  {
+    "name": "Wild Orchid",
+    "hex": "#D470A2"
+  },
+  {
+    "name": "Wild Strawberry",
+    "hex": "#FF43A4"
+  },
+  {
+    "name": "Wild Watermelon",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Willpower Oransje",
+    "hex": "#FD5800"
+  },
+  {
+    "name": "Windsor Tan",
+    "hex": "#A75502"
+  },
+  {
+    "name": "Wine",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Wine Dregs",
+    "hex": "#673147"
+  },
+  {
+    "name": "Winter Himmel",
+    "hex": "#FF007C"
+  },
+  {
+    "name": "Winter Wizard",
+    "hex": "#A0E6FF"
+  },
+  {
+    "name": "Wintergreen Dream",
+    "hex": "#56887D"
+  },
+  {
+    "name": "Wisteria",
+    "hex": "#C9A0DC"
+  },
+  {
+    "name": "Wood Brun",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Xanadu",
+    "hex": "#738678"
+  },
+  {
+    "name": "Yale Blå",
+    "hex": "#0F4D92"
+  },
+  {
+    "name": "Yankees Blå",
+    "hex": "#1C2841"
+  },
+  {
+    "name": "Gul",
+    "hex": "#FFFF00"
+  },
+  {
+    "name": "Gul (Crayola)",
+    "hex": "#FCE883"
+  },
+  {
+    "name": "Gul (Munsell)",
+    "hex": "#EFCC00"
+  },
+  {
+    "name": "Gul (NCS)",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Gul (Pantone)",
+    "hex": "#FEDF00"
+  },
+  {
+    "name": "Gul (Process)",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Gul (RYB)",
+    "hex": "#FEFE33"
+  },
+  {
+    "name": "Gul-Grønn",
+    "hex": "#9ACD32"
+  },
+  {
+    "name": "Gul Oransje",
+    "hex": "#FFAE42"
+  },
+  {
+    "name": "Gul Rose",
+    "hex": "#FFF000"
+  },
+  {
+    "name": "Gul Sunshine",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Zaffre",
+    "hex": "#0014A8"
+  },
+  {
+    "name": "Zinnwaldite Brun",
+    "hex": "#2C1608"
+  },
+  {
+    "name": "Zomp",
+    "hex": "#39A78E"
+  }
+]

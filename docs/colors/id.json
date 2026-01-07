@@ -1,0 +1,5210 @@
+[
+  {
+    "name": "Absolute Zero",
+    "hex": "#0048BA"
+  },
+  {
+    "name": "Acid Hijau",
+    "hex": "#B0BF1A"
+  },
+  {
+    "name": "Aero",
+    "hex": "#7CB9E8"
+  },
+  {
+    "name": "Aero Biru",
+    "hex": "#C9FFE5"
+  },
+  {
+    "name": "African Ungu",
+    "hex": "#B284BE"
+  },
+  {
+    "name": "Air Force Biru (RAF)",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Air Force Biru (USAF)",
+    "hex": "#00308F"
+  },
+  {
+    "name": "Air Superiority Biru",
+    "hex": "#72A0C1"
+  },
+  {
+    "name": "Alabama Crimson",
+    "hex": "#AF002A"
+  },
+  {
+    "name": "Alabaster",
+    "hex": "#F2F0E6"
+  },
+  {
+    "name": "Alice Biru",
+    "hex": "#F0F8FF"
+  },
+  {
+    "name": "Alien Armpit",
+    "hex": "#84DE02"
+  },
+  {
+    "name": "Alizarin Crimson",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Alloy Oranye",
+    "hex": "#C46210"
+  },
+  {
+    "name": "Almond",
+    "hex": "#EFDECD"
+  },
+  {
+    "name": "Amaranth",
+    "hex": "#E52B50"
+  },
+  {
+    "name": "Amaranth Pekat Ungu",
+    "hex": "#9F2B68"
+  },
+  {
+    "name": "Amaranth Merah muda",
+    "hex": "#F19CBB"
+  },
+  {
+    "name": "Amaranth Ungu",
+    "hex": "#AB274F"
+  },
+  {
+    "name": "Amaranth Merah",
+    "hex": "#D3212D"
+  },
+  {
+    "name": "Amazon Store",
+    "hex": "#3B7A57"
+  },
+  {
+    "name": "Amazonite",
+    "hex": "#00C4B0"
+  },
+  {
+    "name": "Amber",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Amber (SAE/ECE)",
+    "hex": "#FF7E00"
+  },
+  {
+    "name": "American Rose",
+    "hex": "#FF033E"
+  },
+  {
+    "name": "Amethyst",
+    "hex": "#9966CC"
+  },
+  {
+    "name": "Android Hijau",
+    "hex": "#A4C639"
+  },
+  {
+    "name": "Anti-Flash Putih",
+    "hex": "#F2F3F4"
+  },
+  {
+    "name": "Antique Brass",
+    "hex": "#CD9575"
+  },
+  {
+    "name": "Antique Bronze",
+    "hex": "#665D1E"
+  },
+  {
+    "name": "Antique Fuchsia",
+    "hex": "#915C83"
+  },
+  {
+    "name": "Antique Ruby",
+    "hex": "#841B2D"
+  },
+  {
+    "name": "Antique Putih",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Ao (English)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Apple Hijau",
+    "hex": "#8DB600"
+  },
+  {
+    "name": "Apricot",
+    "hex": "#FBCEB1"
+  },
+  {
+    "name": "Aqua",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Aquamarine",
+    "hex": "#7FFFD4"
+  },
+  {
+    "name": "Arctic Limau",
+    "hex": "#D0FF14"
+  },
+  {
+    "name": "Army Hijau",
+    "hex": "#4B5320"
+  },
+  {
+    "name": "Arsenic",
+    "hex": "#3B444B"
+  },
+  {
+    "name": "Artichoke",
+    "hex": "#8F9779"
+  },
+  {
+    "name": "Arylide Kuning",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Ash Abu-abu",
+    "hex": "#B2BEB5"
+  },
+  {
+    "name": "Asparagus",
+    "hex": "#87A96B"
+  },
+  {
+    "name": "Atomic Tangerine",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Auburn",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Aureolin",
+    "hex": "#FDEE00"
+  },
+  {
+    "name": "AuroMetalSaurus",
+    "hex": "#6E7F80"
+  },
+  {
+    "name": "Avocado",
+    "hex": "#568203"
+  },
+  {
+    "name": "Awesome",
+    "hex": "#FF2052"
+  },
+  {
+    "name": "Aztec Emas",
+    "hex": "#C39953"
+  },
+  {
+    "name": "Azur",
+    "hex": "#007FFF"
+  },
+  {
+    "name": "Azur (Web Color)",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Azur Mist",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Azureish Putih",
+    "hex": "#DBE9F4"
+  },
+  {
+    "name": "Baby Biru",
+    "hex": "#89CFF0"
+  },
+  {
+    "name": "Baby Biru Eyes",
+    "hex": "#A1CAF1"
+  },
+  {
+    "name": "Baby Merah muda",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Baby Powder",
+    "hex": "#FEFEFA"
+  },
+  {
+    "name": "Baker-Miller Merah muda",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "Ball Biru",
+    "hex": "#21ABCD"
+  },
+  {
+    "name": "Banana Mania",
+    "hex": "#FAE7B5"
+  },
+  {
+    "name": "Banana Kuning",
+    "hex": "#FFE135"
+  },
+  {
+    "name": "Bangladesh Hijau",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Barbie Merah muda",
+    "hex": "#E0218A"
+  },
+  {
+    "name": "Barn Merah",
+    "hex": "#7C0A02"
+  },
+  {
+    "name": "Battery Charged Biru",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Battleship Abu-abu",
+    "hex": "#848482"
+  },
+  {
+    "name": "Bazaar",
+    "hex": "#98777B"
+  },
+  {
+    "name": "Beau Biru",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Beaver",
+    "hex": "#9F8170"
+  },
+  {
+    "name": "Begonia",
+    "hex": "#FA6E79"
+  },
+  {
+    "name": "Beige",
+    "hex": "#F5F5DC"
+  },
+  {
+    "name": "B'dazzled Biru",
+    "hex": "#2E5894"
+  },
+  {
+    "name": "Big Dip O'ruby",
+    "hex": "#9C2542"
+  },
+  {
+    "name": "Big Foot Feet",
+    "hex": "#E88E5A"
+  },
+  {
+    "name": "Bisque",
+    "hex": "#FFE4C4"
+  },
+  {
+    "name": "Bistre",
+    "hex": "#3D2B1F"
+  },
+  {
+    "name": "Bistre Cokelat",
+    "hex": "#967117"
+  },
+  {
+    "name": "Bitter Lemon",
+    "hex": "#CAE00D"
+  },
+  {
+    "name": "Bitter Limau",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Bittersweet",
+    "hex": "#FE6F5E"
+  },
+  {
+    "name": "Bittersweet Shimmer",
+    "hex": "#BF4F51"
+  },
+  {
+    "name": "Hitam",
+    "hex": "#000000"
+  },
+  {
+    "name": "Hitam Bean",
+    "hex": "#3D0C02"
+  },
+  {
+    "name": "Hitam Coral",
+    "hex": "#54626F"
+  },
+  {
+    "name": "Hitam Leather Jacket",
+    "hex": "#253529"
+  },
+  {
+    "name": "Hitam Olive",
+    "hex": "#3B3C36"
+  },
+  {
+    "name": "Hitam Shadows",
+    "hex": "#BFAFB2"
+  },
+  {
+    "name": "Blanched Almond",
+    "hex": "#FFEBCD"
+  },
+  {
+    "name": "Blast-Off Bronze",
+    "hex": "#A57164"
+  },
+  {
+    "name": "Bleu De France",
+    "hex": "#318CE7"
+  },
+  {
+    "name": "Blizzard Biru",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Blond",
+    "hex": "#FAF0BE"
+  },
+  {
+    "name": "Biru",
+    "hex": "#0000FF"
+  },
+  {
+    "name": "Biru (Crayola)",
+    "hex": "#1F75FE"
+  },
+  {
+    "name": "Biru (Munsell)",
+    "hex": "#0093AF"
+  },
+  {
+    "name": "Biru (NCS)",
+    "hex": "#0087BD"
+  },
+  {
+    "name": "Biru (Pantone)",
+    "hex": "#0018A8"
+  },
+  {
+    "name": "Biru (Pigment)",
+    "hex": "#333399"
+  },
+  {
+    "name": "Biru (RYB)",
+    "hex": "#0247FE"
+  },
+  {
+    "name": "Biru Bell",
+    "hex": "#A2A2D0"
+  },
+  {
+    "name": "Biru Bolt",
+    "hex": "#00B9FB"
+  },
+  {
+    "name": "Biru-Abu-abu",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Biru-Hijau",
+    "hex": "#0D98BA"
+  },
+  {
+    "name": "Biru Jeans",
+    "hex": "#5DADEC"
+  },
+  {
+    "name": "Biru Lagoon",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Biru-Magenta Ungu",
+    "hex": "#553592"
+  },
+  {
+    "name": "Biru Sapphire",
+    "hex": "#126180"
+  },
+  {
+    "name": "Biru-Ungu",
+    "hex": "#8A2BE2"
+  },
+  {
+    "name": "Biru Yonder",
+    "hex": "#5072A7"
+  },
+  {
+    "name": "Blueberry",
+    "hex": "#4F86F7"
+  },
+  {
+    "name": "Bluebonnet",
+    "hex": "#1C1CF0"
+  },
+  {
+    "name": "Blush",
+    "hex": "#DE5D83"
+  },
+  {
+    "name": "Bole",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Bondi Biru",
+    "hex": "#0095B6"
+  },
+  {
+    "name": "Bone",
+    "hex": "#E3DAC9"
+  },
+  {
+    "name": "Booger Buster",
+    "hex": "#DDE26A"
+  },
+  {
+    "name": "Boston University Merah",
+    "hex": "#CC0000"
+  },
+  {
+    "name": "Bottle Hijau",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Boysenberry",
+    "hex": "#873260"
+  },
+  {
+    "name": "Brandeis Biru",
+    "hex": "#0070FF"
+  },
+  {
+    "name": "Brass",
+    "hex": "#B5A642"
+  },
+  {
+    "name": "Brick Merah",
+    "hex": "#CB4154"
+  },
+  {
+    "name": "Cerah Cerulean",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Cerah Hijau",
+    "hex": "#66FF00"
+  },
+  {
+    "name": "Cerah Lavender",
+    "hex": "#BF94E4"
+  },
+  {
+    "name": "Cerah Lilac",
+    "hex": "#D891EF"
+  },
+  {
+    "name": "Cerah Maroon",
+    "hex": "#C32148"
+  },
+  {
+    "name": "Cerah Navy Biru",
+    "hex": "#1974D2"
+  },
+  {
+    "name": "Cerah Merah muda",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Cerah Pirus",
+    "hex": "#08E8DE"
+  },
+  {
+    "name": "Cerah Ube",
+    "hex": "#D19FE8"
+  },
+  {
+    "name": "Cerah Kuning (Crayola)",
+    "hex": "#FFAA1D"
+  },
+  {
+    "name": "Brilliant Azur",
+    "hex": "#3399FF"
+  },
+  {
+    "name": "Brilliant Lavender",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Brilliant Rose",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Brink Merah muda",
+    "hex": "#FB607F"
+  },
+  {
+    "name": "British Racing Hijau",
+    "hex": "#004225"
+  },
+  {
+    "name": "Bronze",
+    "hex": "#CD7F32"
+  },
+  {
+    "name": "Bronze Kuning",
+    "hex": "#737000"
+  },
+  {
+    "name": "Cokelat (Traditional)",
+    "hex": "#964B00"
+  },
+  {
+    "name": "Cokelat (Web)",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Cokelat-Nose",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Cokelat Sugar",
+    "hex": "#AF6E4D"
+  },
+  {
+    "name": "Cokelat Kuning",
+    "hex": "#cc9966"
+  },
+  {
+    "name": "Brunswick Hijau",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "Bubble Gum",
+    "hex": "#FFC1CC"
+  },
+  {
+    "name": "Bubbles",
+    "hex": "#E7FEFF"
+  },
+  {
+    "name": "Bud Hijau",
+    "hex": "#7BB661"
+  },
+  {
+    "name": "Buff",
+    "hex": "#F0DC82"
+  },
+  {
+    "name": "Bulgarian Rose",
+    "hex": "#480607"
+  },
+  {
+    "name": "Burgundy",
+    "hex": "#800020"
+  },
+  {
+    "name": "Burlywood",
+    "hex": "#DEB887"
+  },
+  {
+    "name": "Burnished Cokelat",
+    "hex": "#A17A74"
+  },
+  {
+    "name": "Burnt Oranye",
+    "hex": "#CC5500"
+  },
+  {
+    "name": "Burnt Sienna",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Burnt Umber",
+    "hex": "#8A3324"
+  },
+  {
+    "name": "Button Biru",
+    "hex": "#24A0ED"
+  },
+  {
+    "name": "Byzantine",
+    "hex": "#BD33A4"
+  },
+  {
+    "name": "Byzantium",
+    "hex": "#702963"
+  },
+  {
+    "name": "Cadet",
+    "hex": "#536872"
+  },
+  {
+    "name": "Cadet Biru",
+    "hex": "#5F9EA0"
+  },
+  {
+    "name": "Cadet Abu-abu",
+    "hex": "#91A3B0"
+  },
+  {
+    "name": "Cadmium Hijau",
+    "hex": "#006B3C"
+  },
+  {
+    "name": "Cadmium Oranye",
+    "hex": "#ED872D"
+  },
+  {
+    "name": "Cadmium Merah",
+    "hex": "#E30022"
+  },
+  {
+    "name": "Cadmium Kuning",
+    "hex": "#FFF600"
+  },
+  {
+    "name": "Cafe Au Lait",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Cafe Noir",
+    "hex": "#4B3621"
+  },
+  {
+    "name": "Cal Poly Pomona Hijau",
+    "hex": "#1E4D2B"
+  },
+  {
+    "name": "Cambridge Biru",
+    "hex": "#A3C1AD"
+  },
+  {
+    "name": "Camel",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Cameo Merah muda",
+    "hex": "#EFBBCC"
+  },
+  {
+    "name": "Camouflage Hijau",
+    "hex": "#78866B"
+  },
+  {
+    "name": "Canary",
+    "hex": "#FFFF99"
+  },
+  {
+    "name": "Canary Kuning",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Candy Apple Merah",
+    "hex": "#FF0800"
+  },
+  {
+    "name": "Candy Merah muda",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Capri",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Caput Mortuum",
+    "hex": "#592720"
+  },
+  {
+    "name": "Cardinal",
+    "hex": "#C41E3A"
+  },
+  {
+    "name": "Caribbean Hijau",
+    "hex": "#00CC99"
+  },
+  {
+    "name": "Carmine",
+    "hex": "#960018"
+  },
+  {
+    "name": "Carmine (M&P)",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Carmine Merah muda",
+    "hex": "#EB4C42"
+  },
+  {
+    "name": "Carmine Merah",
+    "hex": "#FF0038"
+  },
+  {
+    "name": "Carnation Merah muda",
+    "hex": "#FFA6C9"
+  },
+  {
+    "name": "Carnelian",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Carolina Biru",
+    "hex": "#56A0D3"
+  },
+  {
+    "name": "Carrot Oranye",
+    "hex": "#ED9121"
+  },
+  {
+    "name": "Castleton Hijau",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Catalina Biru",
+    "hex": "#062A78"
+  },
+  {
+    "name": "Catawba",
+    "hex": "#703642"
+  },
+  {
+    "name": "Cedar Chest",
+    "hex": "#C95A49"
+  },
+  {
+    "name": "Ceil",
+    "hex": "#92A1CF"
+  },
+  {
+    "name": "Celadon",
+    "hex": "#ACE1AF"
+  },
+  {
+    "name": "Celadon Biru",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Celadon Hijau",
+    "hex": "#2F847C"
+  },
+  {
+    "name": "Celeste",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Celestial Biru",
+    "hex": "#4997D0"
+  },
+  {
+    "name": "Cerise",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cerise Merah muda",
+    "hex": "#EC3B83"
+  },
+  {
+    "name": "Cerulean",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Cerulean Biru",
+    "hex": "#2A52BE"
+  },
+  {
+    "name": "Cerulean Frost",
+    "hex": "#6D9BC3"
+  },
+  {
+    "name": "CG Biru",
+    "hex": "#007AA5"
+  },
+  {
+    "name": "CG Merah",
+    "hex": "#E03C31"
+  },
+  {
+    "name": "Chamoisee",
+    "hex": "#A0785A"
+  },
+  {
+    "name": "Champagne",
+    "hex": "#F7E7CE"
+  },
+  {
+    "name": "Champagne Merah muda",
+    "hex": "#F1DDCF"
+  },
+  {
+    "name": "Charcoal",
+    "hex": "#36454F"
+  },
+  {
+    "name": "Charleston Hijau",
+    "hex": "#232B2B"
+  },
+  {
+    "name": "Charm Merah muda",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Chartreuse (Traditional)",
+    "hex": "#DFFF00"
+  },
+  {
+    "name": "Chartreuse (Web)",
+    "hex": "#7FFF00"
+  },
+  {
+    "name": "Cherry",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cherry Blossom Merah muda",
+    "hex": "#FFB7C5"
+  },
+  {
+    "name": "Chestnut",
+    "hex": "#954535"
+  },
+  {
+    "name": "China Merah muda",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "China Rose",
+    "hex": "#A8516E"
+  },
+  {
+    "name": "Chinese Merah",
+    "hex": "#AA381E"
+  },
+  {
+    "name": "Chinese Ungu",
+    "hex": "#856088"
+  },
+  {
+    "name": "Chlorophyll Hijau",
+    "hex": "#4AFF00"
+  },
+  {
+    "name": "Chocolate (Traditional)",
+    "hex": "#7B3F00"
+  },
+  {
+    "name": "Chocolate (Web)",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Chrome Kuning",
+    "hex": "#FFA700"
+  },
+  {
+    "name": "Cinereous",
+    "hex": "#98817B"
+  },
+  {
+    "name": "Cinnabar",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Cinnamon",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Cinnamon Satin",
+    "hex": "#CD607E"
+  },
+  {
+    "name": "Citrine",
+    "hex": "#E4D00A"
+  },
+  {
+    "name": "Citron",
+    "hex": "#9FA91F"
+  },
+  {
+    "name": "Claret",
+    "hex": "#7F1734"
+  },
+  {
+    "name": "Classic Rose",
+    "hex": "#FBCCE7"
+  },
+  {
+    "name": "Cobalt Biru",
+    "hex": "#0047AB"
+  },
+  {
+    "name": "Cocoa Cokelat",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Coconut",
+    "hex": "#965A3E"
+  },
+  {
+    "name": "Coffee",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Columbia Biru",
+    "hex": "#C4D8E2"
+  },
+  {
+    "name": "Congo Merah muda",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Sejuk Hitam",
+    "hex": "#002E63"
+  },
+  {
+    "name": "Sejuk Abu-abu",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "Copper",
+    "hex": "#B87333"
+  },
+  {
+    "name": "Copper (Crayola)",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "Copper Penny",
+    "hex": "#AD6F69"
+  },
+  {
+    "name": "Copper Merah",
+    "hex": "#CB6D51"
+  },
+  {
+    "name": "Copper Rose",
+    "hex": "#996666"
+  },
+  {
+    "name": "Coquelicot",
+    "hex": "#FF3800"
+  },
+  {
+    "name": "Coral",
+    "hex": "#FF7F50"
+  },
+  {
+    "name": "Coral Merah muda",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Coral Merah",
+    "hex": "#FF4040"
+  },
+  {
+    "name": "Coral Reef",
+    "hex": "#FD7C6E"
+  },
+  {
+    "name": "Cordovan",
+    "hex": "#893F45"
+  },
+  {
+    "name": "Corn",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Cornell Merah",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Cornflower Biru",
+    "hex": "#6495ED"
+  },
+  {
+    "name": "Cornsilk",
+    "hex": "#FFF8DC"
+  },
+  {
+    "name": "Cosmic Cobalt",
+    "hex": "#2E2D88"
+  },
+  {
+    "name": "Cosmic Latte",
+    "hex": "#FFF8E7"
+  },
+  {
+    "name": "Coyote Cokelat",
+    "hex": "#81613C"
+  },
+  {
+    "name": "Cotton Candy",
+    "hex": "#FFBCD9"
+  },
+  {
+    "name": "Cream",
+    "hex": "#FFFDD0"
+  },
+  {
+    "name": "Crimson",
+    "hex": "#DC143C"
+  },
+  {
+    "name": "Crimson Glory",
+    "hex": "#BE0032"
+  },
+  {
+    "name": "Crimson Merah",
+    "hex": "#990000"
+  },
+  {
+    "name": "Cultured",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Sian",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Sian Azur",
+    "hex": "#4E82B4"
+  },
+  {
+    "name": "Sian-Biru Azur",
+    "hex": "#4682BF"
+  },
+  {
+    "name": "Sian Cobalt Biru",
+    "hex": "#28589C"
+  },
+  {
+    "name": "Sian Cornflower Biru",
+    "hex": "#188BC2"
+  },
+  {
+    "name": "Sian (Process)",
+    "hex": "#00B7EB"
+  },
+  {
+    "name": "Cyber Grape",
+    "hex": "#58427C"
+  },
+  {
+    "name": "Cyber Kuning",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Cyclamen",
+    "hex": "#F56FA1"
+  },
+  {
+    "name": "Daffodil",
+    "hex": "#FFFF31"
+  },
+  {
+    "name": "Dandelion",
+    "hex": "#F0E130"
+  },
+  {
+    "name": "Gelap Biru",
+    "hex": "#00008B"
+  },
+  {
+    "name": "Gelap Biru-Abu-abu",
+    "hex": "#666699"
+  },
+  {
+    "name": "Gelap Cokelat",
+    "hex": "#654321"
+  },
+  {
+    "name": "Gelap Cokelat-Tangelo",
+    "hex": "#88654E"
+  },
+  {
+    "name": "Gelap Byzantium",
+    "hex": "#5D3954"
+  },
+  {
+    "name": "Gelap Candy Apple Merah",
+    "hex": "#A40000"
+  },
+  {
+    "name": "Gelap Cerulean",
+    "hex": "#08457E"
+  },
+  {
+    "name": "Gelap Chestnut",
+    "hex": "#986960"
+  },
+  {
+    "name": "Gelap Coral",
+    "hex": "#CD5B45"
+  },
+  {
+    "name": "Gelap Sian",
+    "hex": "#008B8B"
+  },
+  {
+    "name": "Gelap Elektrik Biru",
+    "hex": "#536878"
+  },
+  {
+    "name": "Gelap Goldenrod",
+    "hex": "#B8860B"
+  },
+  {
+    "name": "Gelap Abu-abu (X11)",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "Gelap Hijau",
+    "hex": "#013220"
+  },
+  {
+    "name": "Gelap Hijau (X11)",
+    "hex": "#006400"
+  },
+  {
+    "name": "Gelap Gunmetal",
+    "hex": "#1F262A"
+  },
+  {
+    "name": "Gelap Imperial Biru",
+    "hex": "#00416A"
+  },
+  {
+    "name": "Gelap Imperial Biru",
+    "hex": "#00147E"
+  },
+  {
+    "name": "Gelap Jungle Hijau",
+    "hex": "#1A2421"
+  },
+  {
+    "name": "Gelap Khaki",
+    "hex": "#BDB76B"
+  },
+  {
+    "name": "Gelap Lava",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Gelap Lavender",
+    "hex": "#734F96"
+  },
+  {
+    "name": "Gelap Liver",
+    "hex": "#534B4F"
+  },
+  {
+    "name": "Gelap Liver (Horses)",
+    "hex": "#543D37"
+  },
+  {
+    "name": "Gelap Magenta",
+    "hex": "#8B008B"
+  },
+  {
+    "name": "Gelap Sedang Abu-abu",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "Gelap Midnight Biru",
+    "hex": "#003366"
+  },
+  {
+    "name": "Gelap Moss Hijau",
+    "hex": "#4A5D23"
+  },
+  {
+    "name": "Gelap Olive Hijau",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "Gelap Oranye",
+    "hex": "#FF8C00"
+  },
+  {
+    "name": "Gelap Orchid",
+    "hex": "#9932CC"
+  },
+  {
+    "name": "Gelap Pastel Biru",
+    "hex": "#779ECB"
+  },
+  {
+    "name": "Gelap Pastel Hijau",
+    "hex": "#03C03C"
+  },
+  {
+    "name": "Gelap Pastel Ungu",
+    "hex": "#966FD6"
+  },
+  {
+    "name": "Gelap Pastel Merah",
+    "hex": "#C23B22"
+  },
+  {
+    "name": "Gelap Merah muda",
+    "hex": "#E75480"
+  },
+  {
+    "name": "Gelap Powder Biru",
+    "hex": "#003399"
+  },
+  {
+    "name": "Gelap Puce",
+    "hex": "#4F3A3C"
+  },
+  {
+    "name": "Gelap Ungu",
+    "hex": "#301934"
+  },
+  {
+    "name": "Gelap Raspberry",
+    "hex": "#872657"
+  },
+  {
+    "name": "Gelap Merah",
+    "hex": "#8B0000"
+  },
+  {
+    "name": "Gelap Salmon",
+    "hex": "#E9967A"
+  },
+  {
+    "name": "Gelap Scarlet",
+    "hex": "#560319"
+  },
+  {
+    "name": "Gelap Laut Hijau",
+    "hex": "#8FBC8F"
+  },
+  {
+    "name": "Gelap Sienna",
+    "hex": "#3C1414"
+  },
+  {
+    "name": "Gelap Langit Biru",
+    "hex": "#8CBED6"
+  },
+  {
+    "name": "Gelap Slate Biru",
+    "hex": "#483D8B"
+  },
+  {
+    "name": "Gelap Slate Abu-abu",
+    "hex": "#2F4F4F"
+  },
+  {
+    "name": "Gelap Spring Hijau",
+    "hex": "#177245"
+  },
+  {
+    "name": "Gelap Tan",
+    "hex": "#918151"
+  },
+  {
+    "name": "Gelap Tangerine",
+    "hex": "#FFA812"
+  },
+  {
+    "name": "Gelap Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Gelap Terra Cotta",
+    "hex": "#CC4E5C"
+  },
+  {
+    "name": "Gelap Pirus",
+    "hex": "#00CED1"
+  },
+  {
+    "name": "Gelap Vanilla",
+    "hex": "#D1BEA8"
+  },
+  {
+    "name": "Gelap Ungu",
+    "hex": "#9400D3"
+  },
+  {
+    "name": "Gelap Kuning",
+    "hex": "#9B870C"
+  },
+  {
+    "name": "Dartmouth Hijau",
+    "hex": "#00703C"
+  },
+  {
+    "name": "Davy's Abu-abu",
+    "hex": "#555555"
+  },
+  {
+    "name": "Debian Merah",
+    "hex": "#D70A53"
+  },
+  {
+    "name": "Pekat Aquamarine",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Pekat Carmine",
+    "hex": "#A9203E"
+  },
+  {
+    "name": "Pekat Carmine Merah muda",
+    "hex": "#EF3038"
+  },
+  {
+    "name": "Pekat Carrot Oranye",
+    "hex": "#E9692C"
+  },
+  {
+    "name": "Pekat Cerise",
+    "hex": "#DA3287"
+  },
+  {
+    "name": "Pekat Champagne",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Pekat Chestnut",
+    "hex": "#B94E48"
+  },
+  {
+    "name": "Pekat Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Pekat Fuchsia",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Pekat Hijau",
+    "hex": "#056608"
+  },
+  {
+    "name": "Pekat Hijau-Sian Pirus",
+    "hex": "#0E7C61"
+  },
+  {
+    "name": "Pekat Jungle Hijau",
+    "hex": "#004B49"
+  },
+  {
+    "name": "Pekat Koamaru",
+    "hex": "#333366"
+  },
+  {
+    "name": "Pekat Lemon",
+    "hex": "#F5C71A"
+  },
+  {
+    "name": "Pekat Lilac",
+    "hex": "#9955BB"
+  },
+  {
+    "name": "Pekat Magenta",
+    "hex": "#CC00CC"
+  },
+  {
+    "name": "Pekat Maroon",
+    "hex": "#820000"
+  },
+  {
+    "name": "Pekat Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "Pekat Moss Hijau",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Pekat Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Pekat Merah muda",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Pekat Puce",
+    "hex": "#A95C68"
+  },
+  {
+    "name": "Pekat Merah",
+    "hex": "#850101"
+  },
+  {
+    "name": "Pekat Ruby",
+    "hex": "#843F5B"
+  },
+  {
+    "name": "Pekat Saffron",
+    "hex": "#FF9933"
+  },
+  {
+    "name": "Pekat Langit Biru",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Pekat Space Sparkle",
+    "hex": "#4A646C"
+  },
+  {
+    "name": "Pekat Spring Bud",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "Pekat Taupe",
+    "hex": "#7E5E60"
+  },
+  {
+    "name": "Pekat Tuscan Merah",
+    "hex": "#66424D"
+  },
+  {
+    "name": "Pekat Ungu",
+    "hex": "#330066"
+  },
+  {
+    "name": "Deer",
+    "hex": "#BA8759"
+  },
+  {
+    "name": "Denim",
+    "hex": "#1560BD"
+  },
+  {
+    "name": "Denim Biru",
+    "hex": "#2243B6"
+  },
+  {
+    "name": "Desaturated Sian",
+    "hex": "#669999"
+  },
+  {
+    "name": "Desert",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Desert Sand",
+    "hex": "#EDC9AF"
+  },
+  {
+    "name": "Desire",
+    "hex": "#EA3C53"
+  },
+  {
+    "name": "Diamond",
+    "hex": "#B9F2FF"
+  },
+  {
+    "name": "Dim Abu-abu",
+    "hex": "#696969"
+  },
+  {
+    "name": "Dingy Dungeon",
+    "hex": "#C53151"
+  },
+  {
+    "name": "Dirt",
+    "hex": "#9B7653"
+  },
+  {
+    "name": "Dodger Biru",
+    "hex": "#1E90FF"
+  },
+  {
+    "name": "Dodie Kuning",
+    "hex": "#FEF65B"
+  },
+  {
+    "name": "Dogwood Rose",
+    "hex": "#D71868"
+  },
+  {
+    "name": "Dollar Bill",
+    "hex": "#85BB65"
+  },
+  {
+    "name": "Dolphin Abu-abu",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Donkey Cokelat",
+    "hex": "#664C28"
+  },
+  {
+    "name": "Drab",
+    "hex": "#967117"
+  },
+  {
+    "name": "Duke Biru",
+    "hex": "#00009C"
+  },
+  {
+    "name": "Dust Storm",
+    "hex": "#E5CCC9"
+  },
+  {
+    "name": "Dutch Putih",
+    "hex": "#EFDFBB"
+  },
+  {
+    "name": "Earth Kuning",
+    "hex": "#E1A95F"
+  },
+  {
+    "name": "Ebony",
+    "hex": "#555D50"
+  },
+  {
+    "name": "Ecru",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Eerie Hitam",
+    "hex": "#1B1B1B"
+  },
+  {
+    "name": "Eggplant",
+    "hex": "#614051"
+  },
+  {
+    "name": "Eggshell",
+    "hex": "#F0EAD6"
+  },
+  {
+    "name": "Egyptian Biru",
+    "hex": "#1034A6"
+  },
+  {
+    "name": "Elektrik Biru",
+    "hex": "#7DF9FF"
+  },
+  {
+    "name": "Elektrik Crimson",
+    "hex": "#FF003F"
+  },
+  {
+    "name": "Elektrik Sian",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Elektrik Hijau",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Elektrik Indigo",
+    "hex": "#6F00FF"
+  },
+  {
+    "name": "Elektrik Lavender",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Elektrik Limau",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Elektrik Ungu",
+    "hex": "#BF00FF"
+  },
+  {
+    "name": "Elektrik Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Elektrik Ungu",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Elektrik Kuning",
+    "hex": "#FFFF33"
+  },
+  {
+    "name": "Emerald",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Eminence",
+    "hex": "#6C3082"
+  },
+  {
+    "name": "English Hijau",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "English Lavender",
+    "hex": "#B48395"
+  },
+  {
+    "name": "English Merah",
+    "hex": "#AB4B52"
+  },
+  {
+    "name": "English Vermillion",
+    "hex": "#CC474B"
+  },
+  {
+    "name": "English Ungu",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Eton Biru",
+    "hex": "#96C8A2"
+  },
+  {
+    "name": "Eucalyptus",
+    "hex": "#44D7A8"
+  },
+  {
+    "name": "Fallow",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Falu Merah",
+    "hex": "#801818"
+  },
+  {
+    "name": "Fandango",
+    "hex": "#B53389"
+  },
+  {
+    "name": "Fandango Merah muda",
+    "hex": "#DE5285"
+  },
+  {
+    "name": "Fashion Fuchsia",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Fawn",
+    "hex": "#E5AA70"
+  },
+  {
+    "name": "Feldgrau",
+    "hex": "#4D5D53"
+  },
+  {
+    "name": "Feldspar",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Fern Hijau",
+    "hex": "#4F7942"
+  },
+  {
+    "name": "Ferrari Merah",
+    "hex": "#FF2800"
+  },
+  {
+    "name": "Field Drab",
+    "hex": "#6C541E"
+  },
+  {
+    "name": "Fiery Rose",
+    "hex": "#FF5470"
+  },
+  {
+    "name": "Firebrick",
+    "hex": "#B22222"
+  },
+  {
+    "name": "Fire Engine Merah",
+    "hex": "#CE2029"
+  },
+  {
+    "name": "Flame",
+    "hex": "#E25822"
+  },
+  {
+    "name": "Flamingo Merah muda",
+    "hex": "#FC8EAC"
+  },
+  {
+    "name": "Flattery",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Flavescent",
+    "hex": "#F7E98E"
+  },
+  {
+    "name": "Flax",
+    "hex": "#EEDC82"
+  },
+  {
+    "name": "Flirt",
+    "hex": "#A2006D"
+  },
+  {
+    "name": "Floral Putih",
+    "hex": "#FFFAF0"
+  },
+  {
+    "name": "Fluorescent Oranye",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Fluorescent Merah muda",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Fluorescent Kuning",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Folly",
+    "hex": "#FF004F"
+  },
+  {
+    "name": "Forest Hijau (Traditional)",
+    "hex": "#014421"
+  },
+  {
+    "name": "Forest Hijau (Web)",
+    "hex": "#228B22"
+  },
+  {
+    "name": "French Beige",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "French Bistre",
+    "hex": "#856D4D"
+  },
+  {
+    "name": "French Biru",
+    "hex": "#0072BB"
+  },
+  {
+    "name": "French Fuchsia",
+    "hex": "#FD3F92"
+  },
+  {
+    "name": "French Lilac",
+    "hex": "#86608E"
+  },
+  {
+    "name": "French Limau",
+    "hex": "#9EFD38"
+  },
+  {
+    "name": "French Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "French Merah muda",
+    "hex": "#FD6C9E"
+  },
+  {
+    "name": "French Plum",
+    "hex": "#811453"
+  },
+  {
+    "name": "French Puce",
+    "hex": "#4E1609"
+  },
+  {
+    "name": "French Raspberry",
+    "hex": "#C72C48"
+  },
+  {
+    "name": "French Rose",
+    "hex": "#F64A8A"
+  },
+  {
+    "name": "French Langit Biru",
+    "hex": "#77B5FE"
+  },
+  {
+    "name": "French Ungu",
+    "hex": "#8806CE"
+  },
+  {
+    "name": "French Wine",
+    "hex": "#AC1E44"
+  },
+  {
+    "name": "Fresh Air",
+    "hex": "#A6E7FF"
+  },
+  {
+    "name": "Frogert",
+    "hex": "#E936A7"
+  },
+  {
+    "name": "Fuchsia",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Fuchsia (Crayola)",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Fuchsia Merah muda",
+    "hex": "#FF77FF"
+  },
+  {
+    "name": "Fuchsia Ungu",
+    "hex": "#CC397B"
+  },
+  {
+    "name": "Fuchsia Rose",
+    "hex": "#C74375"
+  },
+  {
+    "name": "Fulvous",
+    "hex": "#E48400"
+  },
+  {
+    "name": "Fuzzy Wuzzy",
+    "hex": "#CC6666"
+  },
+  {
+    "name": "Gainsboro",
+    "hex": "#DCDCDC"
+  },
+  {
+    "name": "Gamboge",
+    "hex": "#E49B0F"
+  },
+  {
+    "name": "Gamboge Oranye (Cokelat)",
+    "hex": "#996600"
+  },
+  {
+    "name": "Gargoyle Gas",
+    "hex": "#FFDF46"
+  },
+  {
+    "name": "Generic Viridian",
+    "hex": "#007F66"
+  },
+  {
+    "name": "Ghost Putih",
+    "hex": "#F8F8FF"
+  },
+  {
+    "name": "Giant's Club",
+    "hex": "#B05C52"
+  },
+  {
+    "name": "Giants Oranye",
+    "hex": "#FE5A1D"
+  },
+  {
+    "name": "Ginger",
+    "hex": "#B06500"
+  },
+  {
+    "name": "Glaucous",
+    "hex": "#6082B6"
+  },
+  {
+    "name": "Glitter",
+    "hex": "#E6E8FA"
+  },
+  {
+    "name": "Glossy Grape",
+    "hex": "#AB92B3"
+  },
+  {
+    "name": "GO Hijau",
+    "hex": "#00AB66"
+  },
+  {
+    "name": "Emas (Metallic)",
+    "hex": "#D4AF37"
+  },
+  {
+    "name": "Emas (Web) (Golden)",
+    "hex": "#FFD700"
+  },
+  {
+    "name": "Emas Fusion",
+    "hex": "#85754E"
+  },
+  {
+    "name": "Golden Cokelat",
+    "hex": "#996515"
+  },
+  {
+    "name": "Golden Poppy",
+    "hex": "#FCC200"
+  },
+  {
+    "name": "Golden Kuning",
+    "hex": "#FFDF00"
+  },
+  {
+    "name": "Goldenrod",
+    "hex": "#DAA520"
+  },
+  {
+    "name": "Granite Abu-abu",
+    "hex": "#676767"
+  },
+  {
+    "name": "Granny Smith Apple",
+    "hex": "#A8E4A0"
+  },
+  {
+    "name": "Grape",
+    "hex": "#6F2DA8"
+  },
+  {
+    "name": "Abu-abu",
+    "hex": "#808080"
+  },
+  {
+    "name": "Abu-abu (HTML/CSS Abu-abu)",
+    "hex": "#808080"
+  },
+  {
+    "name": "Abu-abu (X11 Abu-abu)",
+    "hex": "#BEBEBE"
+  },
+  {
+    "name": "Abu-abu-Asparagus",
+    "hex": "#465945"
+  },
+  {
+    "name": "Abu-abu-Biru",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "Hijau (Color Wheel) (X11 Hijau)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Hijau (Crayola)",
+    "hex": "#1CAC78"
+  },
+  {
+    "name": "Hijau (HTML/CSS Color)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Hijau (Munsell)",
+    "hex": "#00A877"
+  },
+  {
+    "name": "Hijau (NCS)",
+    "hex": "#009F6B"
+  },
+  {
+    "name": "Hijau (Pantone)",
+    "hex": "#00AD43"
+  },
+  {
+    "name": "Hijau (Pigment)",
+    "hex": "#00A550"
+  },
+  {
+    "name": "Hijau (RYB)",
+    "hex": "#66B032"
+  },
+  {
+    "name": "Hijau-Biru",
+    "hex": "#1164B4"
+  },
+  {
+    "name": "Hijau-Sian",
+    "hex": "#009966"
+  },
+  {
+    "name": "Hijau Lizard",
+    "hex": "#A7F432"
+  },
+  {
+    "name": "Hijau Sheen",
+    "hex": "#6EAEA1"
+  },
+  {
+    "name": "Hijau-Kuning",
+    "hex": "#ADFF2F"
+  },
+  {
+    "name": "Grizzly",
+    "hex": "#885818"
+  },
+  {
+    "name": "Grullo",
+    "hex": "#A99A86"
+  },
+  {
+    "name": "Guppie Hijau",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Gunmetal",
+    "hex": "#2a3439"
+  },
+  {
+    "name": "Halaya Ube",
+    "hex": "#663854"
+  },
+  {
+    "name": "Han Biru",
+    "hex": "#446CCF"
+  },
+  {
+    "name": "Han Ungu",
+    "hex": "#5218FA"
+  },
+  {
+    "name": "Hansa Kuning",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Harlequin",
+    "hex": "#3FFF00"
+  },
+  {
+    "name": "Harlequin Hijau",
+    "hex": "#46CB18"
+  },
+  {
+    "name": "Harvard Crimson",
+    "hex": "#C90016"
+  },
+  {
+    "name": "Harvest Emas",
+    "hex": "#DA9100"
+  },
+  {
+    "name": "Heart Emas",
+    "hex": "#808000"
+  },
+  {
+    "name": "Heat Wave",
+    "hex": "#FF7A00"
+  },
+  {
+    "name": "Heidelberg Merah",
+    "hex": "#960018"
+  },
+  {
+    "name": "Heliotrope",
+    "hex": "#DF73FF"
+  },
+  {
+    "name": "Heliotrope Abu-abu",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Heliotrope Magenta",
+    "hex": "#AA00BB"
+  },
+  {
+    "name": "Hollywood Cerise",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Honeydew",
+    "hex": "#F0FFF0"
+  },
+  {
+    "name": "Honolulu Biru",
+    "hex": "#006DB0"
+  },
+  {
+    "name": "Hooker's Hijau",
+    "hex": "#49796B"
+  },
+  {
+    "name": "Hot Magenta",
+    "hex": "#FF1DCE"
+  },
+  {
+    "name": "Hot Merah muda",
+    "hex": "#FF69B4"
+  },
+  {
+    "name": "Hunter Hijau",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Iceberg",
+    "hex": "#71A6D2"
+  },
+  {
+    "name": "Icterine",
+    "hex": "#FCF75E"
+  },
+  {
+    "name": "Iguana Hijau",
+    "hex": "#71BC78"
+  },
+  {
+    "name": "Illuminating Emerald",
+    "hex": "#319177"
+  },
+  {
+    "name": "Imperial",
+    "hex": "#602F6B"
+  },
+  {
+    "name": "Imperial Biru",
+    "hex": "#002395"
+  },
+  {
+    "name": "Imperial Ungu",
+    "hex": "#66023C"
+  },
+  {
+    "name": "Imperial Merah",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Inchworm",
+    "hex": "#B2EC5D"
+  },
+  {
+    "name": "Independence",
+    "hex": "#4C516D"
+  },
+  {
+    "name": "India Hijau",
+    "hex": "#138808"
+  },
+  {
+    "name": "Indian Merah",
+    "hex": "#CD5C5C"
+  },
+  {
+    "name": "Indian Kuning",
+    "hex": "#E3A857"
+  },
+  {
+    "name": "Indigo",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Indigo Dye",
+    "hex": "#091F92"
+  },
+  {
+    "name": "Indigo (Web)",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Infra Merah",
+    "hex": "#FF496C"
+  },
+  {
+    "name": "Interdimensional Biru",
+    "hex": "#360CCC"
+  },
+  {
+    "name": "International Klein Biru",
+    "hex": "#002FA7"
+  },
+  {
+    "name": "International Oranye (Aerospace)",
+    "hex": "#FF4F00"
+  },
+  {
+    "name": "International Oranye (Engineering)",
+    "hex": "#BA160C"
+  },
+  {
+    "name": "International Oranye (Golden Gate Bridge)",
+    "hex": "#C0362C"
+  },
+  {
+    "name": "Iris",
+    "hex": "#5A4FCF"
+  },
+  {
+    "name": "Irresistible",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Isabelline",
+    "hex": "#F4F0EC"
+  },
+  {
+    "name": "Islamic Hijau",
+    "hex": "#009000"
+  },
+  {
+    "name": "Italian Langit Biru",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Ivory",
+    "hex": "#FFFFF0"
+  },
+  {
+    "name": "Jade",
+    "hex": "#00A86B"
+  },
+  {
+    "name": "Japanese Carmine",
+    "hex": "#9D2933"
+  },
+  {
+    "name": "Japanese Indigo",
+    "hex": "#264348"
+  },
+  {
+    "name": "Japanese Ungu",
+    "hex": "#5B3256"
+  },
+  {
+    "name": "Jasmine",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Jasper",
+    "hex": "#D73B3E"
+  },
+  {
+    "name": "Jazzberry Jam",
+    "hex": "#A50B5E"
+  },
+  {
+    "name": "Jelly Bean",
+    "hex": "#DA614E"
+  },
+  {
+    "name": "Jet",
+    "hex": "#343434"
+  },
+  {
+    "name": "Jonquil",
+    "hex": "#F4CA16"
+  },
+  {
+    "name": "Jordy Biru",
+    "hex": "#8AB9F1"
+  },
+  {
+    "name": "June Bud",
+    "hex": "#BDDA57"
+  },
+  {
+    "name": "Jungle Hijau",
+    "hex": "#29AB87"
+  },
+  {
+    "name": "Kelly Hijau",
+    "hex": "#4CBB17"
+  },
+  {
+    "name": "Kenyan Copper",
+    "hex": "#7C1C05"
+  },
+  {
+    "name": "Keppel",
+    "hex": "#3AB09E"
+  },
+  {
+    "name": "Key Limau",
+    "hex": "#E8F48C"
+  },
+  {
+    "name": "Khaki (HTML/CSS) (Khaki)",
+    "hex": "#C3B091"
+  },
+  {
+    "name": "Khaki (X11) (Muda Khaki)",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Kiwi",
+    "hex": "#8EE53F"
+  },
+  {
+    "name": "Kobe",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Kobi",
+    "hex": "#E79FC4"
+  },
+  {
+    "name": "Kobicha",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Kombu Hijau",
+    "hex": "#354230"
+  },
+  {
+    "name": "KSU Ungu",
+    "hex": "#512888"
+  },
+  {
+    "name": "KU Crimson",
+    "hex": "#E8000D"
+  },
+  {
+    "name": "La Salle Hijau",
+    "hex": "#087830"
+  },
+  {
+    "name": "Languid Lavender",
+    "hex": "#D6CADD"
+  },
+  {
+    "name": "Lapis Lazuli",
+    "hex": "#26619C"
+  },
+  {
+    "name": "Laser Lemon",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "Laurel Hijau",
+    "hex": "#A9BA9D"
+  },
+  {
+    "name": "Lava",
+    "hex": "#CF1020"
+  },
+  {
+    "name": "Lavender (Floral)",
+    "hex": "#B57EDC"
+  },
+  {
+    "name": "Lavender (Web)",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "Lavender Biru",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Lavender Blush",
+    "hex": "#FFF0F5"
+  },
+  {
+    "name": "Lavender Abu-abu",
+    "hex": "#C4C3D0"
+  },
+  {
+    "name": "Lavender Indigo",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Lavender Magenta",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "Lavender Mist",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "Lavender Merah muda",
+    "hex": "#FBAED2"
+  },
+  {
+    "name": "Lavender Ungu",
+    "hex": "#967BB6"
+  },
+  {
+    "name": "Lavender Rose",
+    "hex": "#FBA0E3"
+  },
+  {
+    "name": "Lawn Hijau",
+    "hex": "#7CFC00"
+  },
+  {
+    "name": "Lemon",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Lemon Chiffon",
+    "hex": "#FFFACD"
+  },
+  {
+    "name": "Lemon Curry",
+    "hex": "#CCA01D"
+  },
+  {
+    "name": "Lemon Glacier",
+    "hex": "#FDFF00"
+  },
+  {
+    "name": "Lemon Limau",
+    "hex": "#E3FF00"
+  },
+  {
+    "name": "Lemon Meringue",
+    "hex": "#F6EABE"
+  },
+  {
+    "name": "Lemon Kuning",
+    "hex": "#FFF44F"
+  },
+  {
+    "name": "Licorice",
+    "hex": "#1A1110"
+  },
+  {
+    "name": "Liberty",
+    "hex": "#545AA7"
+  },
+  {
+    "name": "Muda Apricot",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Muda Biru",
+    "hex": "#ADD8E6"
+  },
+  {
+    "name": "Muda Cokelat",
+    "hex": "#B5651D"
+  },
+  {
+    "name": "Muda Carmine Merah muda",
+    "hex": "#E66771"
+  },
+  {
+    "name": "Muda Cobalt Biru",
+    "hex": "#88ACE0"
+  },
+  {
+    "name": "Muda Coral",
+    "hex": "#F08080"
+  },
+  {
+    "name": "Muda Cornflower Biru",
+    "hex": "#93CCEA"
+  },
+  {
+    "name": "Muda Crimson",
+    "hex": "#F56991"
+  },
+  {
+    "name": "Muda Sian",
+    "hex": "#E0FFFF"
+  },
+  {
+    "name": "Muda Pekat Merah muda",
+    "hex": "#FF5CCD"
+  },
+  {
+    "name": "Muda French Beige",
+    "hex": "#C8AD7F"
+  },
+  {
+    "name": "Muda Fuchsia Merah muda",
+    "hex": "#F984EF"
+  },
+  {
+    "name": "Muda Goldenrod Kuning",
+    "hex": "#FAFAD2"
+  },
+  {
+    "name": "Muda Abu-abu",
+    "hex": "#D3D3D3"
+  },
+  {
+    "name": "Muda Grayish Magenta",
+    "hex": "#CC99CC"
+  },
+  {
+    "name": "Muda Hijau",
+    "hex": "#90EE90"
+  },
+  {
+    "name": "Muda Hot Merah muda",
+    "hex": "#FFB3DE"
+  },
+  {
+    "name": "Muda Khaki",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Muda Sedang Orchid",
+    "hex": "#D39BCB"
+  },
+  {
+    "name": "Muda Moss Hijau",
+    "hex": "#ADDFAD"
+  },
+  {
+    "name": "Muda Oranye",
+    "hex": "#FED8B1"
+  },
+  {
+    "name": "Muda Orchid",
+    "hex": "#E6A8D7"
+  },
+  {
+    "name": "Muda Pastel Ungu",
+    "hex": "#B19CD9"
+  },
+  {
+    "name": "Muda Merah muda",
+    "hex": "#FFB6C1"
+  },
+  {
+    "name": "Muda Merah Ochre",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Muda Salmon",
+    "hex": "#FFA07A"
+  },
+  {
+    "name": "Muda Salmon Merah muda",
+    "hex": "#FF9999"
+  },
+  {
+    "name": "Muda Laut Hijau",
+    "hex": "#20B2AA"
+  },
+  {
+    "name": "Muda Langit Biru",
+    "hex": "#87CEFA"
+  },
+  {
+    "name": "Muda Slate Abu-abu",
+    "hex": "#778899"
+  },
+  {
+    "name": "Muda Steel Biru",
+    "hex": "#B0C4DE"
+  },
+  {
+    "name": "Muda Taupe",
+    "hex": "#B38B6D"
+  },
+  {
+    "name": "Muda Thulian Merah muda",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Muda Kuning",
+    "hex": "#FFFFE0"
+  },
+  {
+    "name": "Lilac",
+    "hex": "#C8A2C8"
+  },
+  {
+    "name": "Lilac Luster",
+    "hex": "#AE98AA"
+  },
+  {
+    "name": "Limau (Color Wheel)",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Limau (Web) (X11 Hijau)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Limau Hijau",
+    "hex": "#32CD32"
+  },
+  {
+    "name": "Limerick",
+    "hex": "#9DC209"
+  },
+  {
+    "name": "Lincoln Hijau",
+    "hex": "#195905"
+  },
+  {
+    "name": "Linen",
+    "hex": "#FAF0E6"
+  },
+  {
+    "name": "Loeen (Lopen) Look",
+    "hex": "#15F2FD"
+  },
+  {
+    "name": "Liseran Ungu",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Little Boy Biru",
+    "hex": "#6CA0DC"
+  },
+  {
+    "name": "Liver",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Liver (Dogs)",
+    "hex": "#B86D29"
+  },
+  {
+    "name": "Liver (Organ)",
+    "hex": "#6C2E1F"
+  },
+  {
+    "name": "Liver Chestnut",
+    "hex": "#987456"
+  },
+  {
+    "name": "Livid",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Lumber",
+    "hex": "#FFE4CD"
+  },
+  {
+    "name": "Lust",
+    "hex": "#E62020"
+  },
+  {
+    "name": "Maastricht Biru",
+    "hex": "#001C3D"
+  },
+  {
+    "name": "Macaroni And Cheese",
+    "hex": "#FFBD88"
+  },
+  {
+    "name": "Madder Lake",
+    "hex": "#CC3336"
+  },
+  {
+    "name": "Magenta",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Magenta (Crayola)",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Magenta (Dye)",
+    "hex": "#CA1F7B"
+  },
+  {
+    "name": "Magenta (Pantone)",
+    "hex": "#D0417E"
+  },
+  {
+    "name": "Magenta (Process)",
+    "hex": "#FF0090"
+  },
+  {
+    "name": "Magenta Haze",
+    "hex": "#9F4576"
+  },
+  {
+    "name": "Magenta-Merah muda",
+    "hex": "#CC338B"
+  },
+  {
+    "name": "Magic Mint",
+    "hex": "#AAF0D1"
+  },
+  {
+    "name": "Magic Potion",
+    "hex": "#FF4466"
+  },
+  {
+    "name": "Magnolia",
+    "hex": "#F8F4FF"
+  },
+  {
+    "name": "Mahogany",
+    "hex": "#C04000"
+  },
+  {
+    "name": "Maize",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Majorelle Biru",
+    "hex": "#6050DC"
+  },
+  {
+    "name": "Malachite",
+    "hex": "#0BDA51"
+  },
+  {
+    "name": "Manatee",
+    "hex": "#979AAA"
+  },
+  {
+    "name": "Mandarin",
+    "hex": "#F37A48"
+  },
+  {
+    "name": "Mango Tango",
+    "hex": "#FF8243"
+  },
+  {
+    "name": "Mantis",
+    "hex": "#74C365"
+  },
+  {
+    "name": "Mardi Gras",
+    "hex": "#880085"
+  },
+  {
+    "name": "Marigold",
+    "hex": "#EAA221"
+  },
+  {
+    "name": "Maroon (Crayola)",
+    "hex": "#C32148"
+  },
+  {
+    "name": "Maroon (HTML/CSS)",
+    "hex": "#800000"
+  },
+  {
+    "name": "Maroon (X11)",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Mauve",
+    "hex": "#E0B0FF"
+  },
+  {
+    "name": "Mauve Taupe",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Mauvelous",
+    "hex": "#EF98AA"
+  },
+  {
+    "name": "Maximum Biru",
+    "hex": "#47ABCC"
+  },
+  {
+    "name": "Maximum Biru Hijau",
+    "hex": "#30BFBF"
+  },
+  {
+    "name": "Maximum Biru Ungu",
+    "hex": "#ACACE6"
+  },
+  {
+    "name": "Maximum Hijau",
+    "hex": "#5E8C31"
+  },
+  {
+    "name": "Maximum Hijau Kuning",
+    "hex": "#D9E650"
+  },
+  {
+    "name": "Maximum Ungu",
+    "hex": "#733380"
+  },
+  {
+    "name": "Maximum Merah",
+    "hex": "#D92121"
+  },
+  {
+    "name": "Maximum Merah Ungu",
+    "hex": "#A63A79"
+  },
+  {
+    "name": "Maximum Kuning",
+    "hex": "#FAFA37"
+  },
+  {
+    "name": "Maximum Kuning Merah",
+    "hex": "#F2BA49"
+  },
+  {
+    "name": "May Hijau",
+    "hex": "#4C9141"
+  },
+  {
+    "name": "Maya Biru",
+    "hex": "#73C2FB"
+  },
+  {
+    "name": "Meat Cokelat",
+    "hex": "#E5B73B"
+  },
+  {
+    "name": "Sedang Aquamarine",
+    "hex": "#66DDAA"
+  },
+  {
+    "name": "Sedang Biru",
+    "hex": "#0000CD"
+  },
+  {
+    "name": "Sedang Candy Apple Merah",
+    "hex": "#E2062C"
+  },
+  {
+    "name": "Sedang Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Sedang Champagne",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Sedang Elektrik Biru",
+    "hex": "#035096"
+  },
+  {
+    "name": "Sedang Jungle Hijau",
+    "hex": "#1C352D"
+  },
+  {
+    "name": "Sedang Lavender Magenta",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Sedang Orchid",
+    "hex": "#BA55D3"
+  },
+  {
+    "name": "Sedang Persian Biru",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Sedang Ungu",
+    "hex": "#9370DB"
+  },
+  {
+    "name": "Sedang Merah-Ungu",
+    "hex": "#BB3385"
+  },
+  {
+    "name": "Sedang Ruby",
+    "hex": "#AA4069"
+  },
+  {
+    "name": "Sedang Laut Hijau",
+    "hex": "#3CB371"
+  },
+  {
+    "name": "Sedang Langit Biru",
+    "hex": "#80DAEB"
+  },
+  {
+    "name": "Sedang Slate Biru",
+    "hex": "#7B68EE"
+  },
+  {
+    "name": "Sedang Spring Bud",
+    "hex": "#C9DC87"
+  },
+  {
+    "name": "Sedang Spring Hijau",
+    "hex": "#00FA9A"
+  },
+  {
+    "name": "Sedang Taupe",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Sedang Pirus",
+    "hex": "#48D1CC"
+  },
+  {
+    "name": "Sedang Tuscan Merah",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Sedang Vermilion",
+    "hex": "#D9603B"
+  },
+  {
+    "name": "Sedang Ungu-Merah",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Mellow Apricot",
+    "hex": "#F8B878"
+  },
+  {
+    "name": "Mellow Kuning",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Melon",
+    "hex": "#FDBCB4"
+  },
+  {
+    "name": "Metallic Seaweed",
+    "hex": "#0A7E8C"
+  },
+  {
+    "name": "Metallic Sunburst",
+    "hex": "#9C7C38"
+  },
+  {
+    "name": "Mexican Merah muda",
+    "hex": "#E4007C"
+  },
+  {
+    "name": "Middle Biru",
+    "hex": "#7ED4E6"
+  },
+  {
+    "name": "Middle Biru Hijau",
+    "hex": "#8DD9CC"
+  },
+  {
+    "name": "Middle Biru Ungu",
+    "hex": "#8B72BE"
+  },
+  {
+    "name": "Middle Merah Ungu",
+    "hex": "#210837"
+  },
+  {
+    "name": "Middle Hijau",
+    "hex": "#4D8C57"
+  },
+  {
+    "name": "Middle Hijau Kuning",
+    "hex": "#ACBF60"
+  },
+  {
+    "name": "Middle Ungu",
+    "hex": "#D982B5"
+  },
+  {
+    "name": "Middle Merah",
+    "hex": "#E58E73"
+  },
+  {
+    "name": "Middle Merah Ungu",
+    "hex": "#A55353"
+  },
+  {
+    "name": "Middle Kuning",
+    "hex": "#FFEB00"
+  },
+  {
+    "name": "Middle Kuning Merah",
+    "hex": "#ECB176"
+  },
+  {
+    "name": "Midnight",
+    "hex": "#702670"
+  },
+  {
+    "name": "Midnight Biru",
+    "hex": "#191970"
+  },
+  {
+    "name": "Midnight Hijau (Eagle Hijau)",
+    "hex": "#004953"
+  },
+  {
+    "name": "Mikado Kuning",
+    "hex": "#FFC40C"
+  },
+  {
+    "name": "Milk",
+    "hex": "#FDFFF5"
+  },
+  {
+    "name": "Mimi Merah muda",
+    "hex": "#FFDAE9"
+  },
+  {
+    "name": "Mindaro",
+    "hex": "#E3F988"
+  },
+  {
+    "name": "Ming",
+    "hex": "#36747D"
+  },
+  {
+    "name": "Minion Kuning",
+    "hex": "#F5E050"
+  },
+  {
+    "name": "Mint",
+    "hex": "#3EB489"
+  },
+  {
+    "name": "Mint Cream",
+    "hex": "#F5FFFA"
+  },
+  {
+    "name": "Mint Hijau",
+    "hex": "#98FF98"
+  },
+  {
+    "name": "Misty Moss",
+    "hex": "#BBB477"
+  },
+  {
+    "name": "Misty Rose",
+    "hex": "#FFE4E1"
+  },
+  {
+    "name": "Moccasin",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Mode Beige",
+    "hex": "#967117"
+  },
+  {
+    "name": "Moonstone Biru",
+    "hex": "#73A9C2"
+  },
+  {
+    "name": "Mordant Merah 19",
+    "hex": "#AE0C00"
+  },
+  {
+    "name": "Morning Biru",
+    "hex": "#8DA399"
+  },
+  {
+    "name": "Moss Hijau",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Mountain Meadow",
+    "hex": "#30BA8F"
+  },
+  {
+    "name": "Mountbatten Merah muda",
+    "hex": "#997A8D"
+  },
+  {
+    "name": "MSU Hijau",
+    "hex": "#18453B"
+  },
+  {
+    "name": "Mughal Hijau",
+    "hex": "#306030"
+  },
+  {
+    "name": "Mulberry",
+    "hex": "#C54B8C"
+  },
+  {
+    "name": "Mummy's Tomb",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Mustard",
+    "hex": "#FFDB58"
+  },
+  {
+    "name": "Myrtle Hijau",
+    "hex": "#317873"
+  },
+  {
+    "name": "Mystic",
+    "hex": "#D65282"
+  },
+  {
+    "name": "Mystic Maroon",
+    "hex": "#AD4379"
+  },
+  {
+    "name": "Nadeshiko Merah muda",
+    "hex": "#F6ADC6"
+  },
+  {
+    "name": "Napier Hijau",
+    "hex": "#2A8000"
+  },
+  {
+    "name": "Naples Kuning",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Navajo Putih",
+    "hex": "#FFDEAD"
+  },
+  {
+    "name": "Navy",
+    "hex": "#000080"
+  },
+  {
+    "name": "Navy Ungu",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Neon Carrot",
+    "hex": "#FFA343"
+  },
+  {
+    "name": "Neon Fuchsia",
+    "hex": "#FE4164"
+  },
+  {
+    "name": "Neon Hijau",
+    "hex": "#39FF14"
+  },
+  {
+    "name": "New Car",
+    "hex": "#214FC6"
+  },
+  {
+    "name": "New York Merah muda",
+    "hex": "#D7837F"
+  },
+  {
+    "name": "Nickel",
+    "hex": "#727472"
+  },
+  {
+    "name": "Non-Photo Biru",
+    "hex": "#A4DDED"
+  },
+  {
+    "name": "North Texas Hijau",
+    "hex": "#059033"
+  },
+  {
+    "name": "Nyanza",
+    "hex": "#E9FFDB"
+  },
+  {
+    "name": "Ocean Biru",
+    "hex": "#4F42B5"
+  },
+  {
+    "name": "Ocean Boat Biru",
+    "hex": "#0077BE"
+  },
+  {
+    "name": "Ocean Hijau",
+    "hex": "#48BF91"
+  },
+  {
+    "name": "Ochre",
+    "hex": "#CC7722"
+  },
+  {
+    "name": "Office Hijau",
+    "hex": "#008000"
+  },
+  {
+    "name": "Ogre Odor",
+    "hex": "#FD5240"
+  },
+  {
+    "name": "Tua Burgundy",
+    "hex": "#43302E"
+  },
+  {
+    "name": "Tua Emas",
+    "hex": "#CFB53B"
+  },
+  {
+    "name": "Tua Heliotrope",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Tua Lace",
+    "hex": "#FDF5E6"
+  },
+  {
+    "name": "Tua Lavender",
+    "hex": "#796878"
+  },
+  {
+    "name": "Tua Mauve",
+    "hex": "#673147"
+  },
+  {
+    "name": "Tua Moss Hijau",
+    "hex": "#867E36"
+  },
+  {
+    "name": "Tua Rose",
+    "hex": "#C08081"
+  },
+  {
+    "name": "Tua Perak",
+    "hex": "#848482"
+  },
+  {
+    "name": "Olive",
+    "hex": "#808000"
+  },
+  {
+    "name": "Olive Drab (#3)",
+    "hex": "#6B8E23"
+  },
+  {
+    "name": "Olive Drab #7",
+    "hex": "#3C341F"
+  },
+  {
+    "name": "Olivine",
+    "hex": "#9AB973"
+  },
+  {
+    "name": "Onyx",
+    "hex": "#353839"
+  },
+  {
+    "name": "Opera Mauve",
+    "hex": "#B784A7"
+  },
+  {
+    "name": "Oranye (Color Wheel)",
+    "hex": "#FF7F00"
+  },
+  {
+    "name": "Oranye (Crayola)",
+    "hex": "#FF7538"
+  },
+  {
+    "name": "Oranye (Pantone)",
+    "hex": "#FF5800"
+  },
+  {
+    "name": "Oranye (RYB)",
+    "hex": "#FB9902"
+  },
+  {
+    "name": "Oranye (Web)",
+    "hex": "#FFA500"
+  },
+  {
+    "name": "Oranye Peel",
+    "hex": "#FF9F00"
+  },
+  {
+    "name": "Oranye-Merah",
+    "hex": "#FF4500"
+  },
+  {
+    "name": "Oranye Soda",
+    "hex": "#FA5B3D"
+  },
+  {
+    "name": "Oranye-Kuning",
+    "hex": "#F8D568"
+  },
+  {
+    "name": "Orchid",
+    "hex": "#DA70D6"
+  },
+  {
+    "name": "Orchid Merah muda",
+    "hex": "#F2BDCD"
+  },
+  {
+    "name": "Orioles Oranye",
+    "hex": "#FB4F14"
+  },
+  {
+    "name": "Otter Cokelat",
+    "hex": "#654321"
+  },
+  {
+    "name": "Outer Space",
+    "hex": "#414A4C"
+  },
+  {
+    "name": "Outrageous Oranye",
+    "hex": "#FF6E4A"
+  },
+  {
+    "name": "Oxford Biru",
+    "hex": "#002147"
+  },
+  {
+    "name": "OU Crimson Merah",
+    "hex": "#990000"
+  },
+  {
+    "name": "Pacific Biru",
+    "hex": "#1CA9C9"
+  },
+  {
+    "name": "Pakistan Hijau",
+    "hex": "#006600"
+  },
+  {
+    "name": "Palatinate Biru",
+    "hex": "#273BE2"
+  },
+  {
+    "name": "Palatinate Ungu",
+    "hex": "#682860"
+  },
+  {
+    "name": "Pucat Aqua",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Pucat Biru",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "Pucat Cokelat",
+    "hex": "#987654"
+  },
+  {
+    "name": "Pucat Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Pucat Cerulean",
+    "hex": "#9BC4E2"
+  },
+  {
+    "name": "Pucat Chestnut",
+    "hex": "#DDADAF"
+  },
+  {
+    "name": "Pucat Copper",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "Pucat Cornflower Biru",
+    "hex": "#ABCDEF"
+  },
+  {
+    "name": "Pucat Sian",
+    "hex": "#87D3F8"
+  },
+  {
+    "name": "Pucat Emas",
+    "hex": "#E6BE8A"
+  },
+  {
+    "name": "Pucat Goldenrod",
+    "hex": "#EEE8AA"
+  },
+  {
+    "name": "Pucat Hijau",
+    "hex": "#98FB98"
+  },
+  {
+    "name": "Pucat Lavender",
+    "hex": "#DCD0FF"
+  },
+  {
+    "name": "Pucat Magenta",
+    "hex": "#F984E5"
+  },
+  {
+    "name": "Pucat Magenta-Merah muda",
+    "hex": "#FF99CC"
+  },
+  {
+    "name": "Pucat Merah muda",
+    "hex": "#FADADD"
+  },
+  {
+    "name": "Pucat Plum",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Pucat Merah-Ungu",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Pucat Robin Egg Biru",
+    "hex": "#96DED1"
+  },
+  {
+    "name": "Pucat Perak",
+    "hex": "#C9C0BB"
+  },
+  {
+    "name": "Pucat Spring Bud",
+    "hex": "#ECEBBD"
+  },
+  {
+    "name": "Pucat Taupe",
+    "hex": "#BC987E"
+  },
+  {
+    "name": "Pucat Pirus",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "Pucat Ungu",
+    "hex": "#CC99FF"
+  },
+  {
+    "name": "Pucat Ungu-Merah",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Palm Leaf",
+    "hex": "#6F9940"
+  },
+  {
+    "name": "Pansy Ungu",
+    "hex": "#78184A"
+  },
+  {
+    "name": "Paolo Veronese Hijau",
+    "hex": "#009B7D"
+  },
+  {
+    "name": "Papaya Whip",
+    "hex": "#FFEFD5"
+  },
+  {
+    "name": "Paradise Merah muda",
+    "hex": "#E63E62"
+  },
+  {
+    "name": "Paris Hijau",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Parrot Merah muda",
+    "hex": "#D998A0"
+  },
+  {
+    "name": "Pastel Biru",
+    "hex": "#AEC6CF"
+  },
+  {
+    "name": "Pastel Cokelat",
+    "hex": "#836953"
+  },
+  {
+    "name": "Pastel Abu-abu",
+    "hex": "#CFCFC4"
+  },
+  {
+    "name": "Pastel Hijau",
+    "hex": "#77DD77"
+  },
+  {
+    "name": "Pastel Magenta",
+    "hex": "#F49AC2"
+  },
+  {
+    "name": "Pastel Oranye",
+    "hex": "#FFB347"
+  },
+  {
+    "name": "Pastel Merah muda",
+    "hex": "#DEA5A4"
+  },
+  {
+    "name": "Pastel Ungu",
+    "hex": "#B39EB5"
+  },
+  {
+    "name": "Pastel Merah",
+    "hex": "#FF6961"
+  },
+  {
+    "name": "Pastel Ungu",
+    "hex": "#CB99C9"
+  },
+  {
+    "name": "Pastel Kuning",
+    "hex": "#FDFD96"
+  },
+  {
+    "name": "Patriarch",
+    "hex": "#800080"
+  },
+  {
+    "name": "Payne's Abu-abu",
+    "hex": "#536878"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFE5B4"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Peach-Oranye",
+    "hex": "#FFCC99"
+  },
+  {
+    "name": "Peach Puff",
+    "hex": "#FFDAB9"
+  },
+  {
+    "name": "Peach-Kuning",
+    "hex": "#FADFAD"
+  },
+  {
+    "name": "Pear",
+    "hex": "#D1E231"
+  },
+  {
+    "name": "Pearl",
+    "hex": "#EAE0C8"
+  },
+  {
+    "name": "Pearl Aqua",
+    "hex": "#88D8C0"
+  },
+  {
+    "name": "Pearly Ungu",
+    "hex": "#B768A2"
+  },
+  {
+    "name": "Peridot",
+    "hex": "#E6E200"
+  },
+  {
+    "name": "Periwinkle",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Permanent Geranium Lake",
+    "hex": "#E12C2C"
+  },
+  {
+    "name": "Persian Biru",
+    "hex": "#1C39BB"
+  },
+  {
+    "name": "Persian Hijau",
+    "hex": "#00A693"
+  },
+  {
+    "name": "Persian Indigo",
+    "hex": "#32127A"
+  },
+  {
+    "name": "Persian Oranye",
+    "hex": "#D99058"
+  },
+  {
+    "name": "Persian Merah muda",
+    "hex": "#F77FBE"
+  },
+  {
+    "name": "Persian Plum",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Persian Merah",
+    "hex": "#CC3333"
+  },
+  {
+    "name": "Persian Rose",
+    "hex": "#FE28A2"
+  },
+  {
+    "name": "Persimmon",
+    "hex": "#EC5800"
+  },
+  {
+    "name": "Peru",
+    "hex": "#CD853F"
+  },
+  {
+    "name": "Pewter Biru",
+    "hex": "#8BA8B7"
+  },
+  {
+    "name": "Phlox",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Phthalo Biru",
+    "hex": "#000F89"
+  },
+  {
+    "name": "Phthalo Hijau",
+    "hex": "#123524"
+  },
+  {
+    "name": "Picton Biru",
+    "hex": "#45B1E8"
+  },
+  {
+    "name": "Pictorial Carmine",
+    "hex": "#C30B4E"
+  },
+  {
+    "name": "Piggy Merah muda",
+    "hex": "#FDDDE6"
+  },
+  {
+    "name": "Pine Hijau",
+    "hex": "#01796F"
+  },
+  {
+    "name": "Pineapple",
+    "hex": "#563C0D"
+  },
+  {
+    "name": "Merah muda",
+    "hex": "#FFC0CB"
+  },
+  {
+    "name": "Merah muda (Pantone)",
+    "hex": "#D74894"
+  },
+  {
+    "name": "Merah muda Flamingo",
+    "hex": "#FC74FD"
+  },
+  {
+    "name": "Merah muda Lace",
+    "hex": "#FFDDF4"
+  },
+  {
+    "name": "Merah muda Lavender",
+    "hex": "#D8B2D1"
+  },
+  {
+    "name": "Merah muda-Oranye",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Merah muda Pearl",
+    "hex": "#E7ACCF"
+  },
+  {
+    "name": "Merah muda Raspberry",
+    "hex": "#980036"
+  },
+  {
+    "name": "Merah muda Sherbet",
+    "hex": "#F78FA7"
+  },
+  {
+    "name": "Pistachio",
+    "hex": "#93C572"
+  },
+  {
+    "name": "Pixie Powder",
+    "hex": "#391285"
+  },
+  {
+    "name": "Platinum",
+    "hex": "#E5E4E2"
+  },
+  {
+    "name": "Plum",
+    "hex": "#8E4585"
+  },
+  {
+    "name": "Plum (Web)",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Plump Ungu",
+    "hex": "#5946B2"
+  },
+  {
+    "name": "Polished Pine",
+    "hex": "#5DA493"
+  },
+  {
+    "name": "Pomp And Power",
+    "hex": "#86608E"
+  },
+  {
+    "name": "Popstar",
+    "hex": "#BE4F62"
+  },
+  {
+    "name": "Portland Oranye",
+    "hex": "#FF5A36"
+  },
+  {
+    "name": "Powder Biru",
+    "hex": "#B0E0E6"
+  },
+  {
+    "name": "Princess Perfume",
+    "hex": "#FF85CF"
+  },
+  {
+    "name": "Princeton Oranye",
+    "hex": "#F58025"
+  },
+  {
+    "name": "Prune",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Prussian Biru",
+    "hex": "#003153"
+  },
+  {
+    "name": "Psychedelic Ungu",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Puce",
+    "hex": "#CC8899"
+  },
+  {
+    "name": "Puce Merah",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Pullman Cokelat (UPS Cokelat)",
+    "hex": "#644117"
+  },
+  {
+    "name": "Pullman Hijau",
+    "hex": "#3B331C"
+  },
+  {
+    "name": "Pumpkin",
+    "hex": "#FF7518"
+  },
+  {
+    "name": "Ungu (HTML)",
+    "hex": "#800080"
+  },
+  {
+    "name": "Ungu (Munsell)",
+    "hex": "#9F00C5"
+  },
+  {
+    "name": "Ungu (X11)",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Ungu Heart",
+    "hex": "#69359C"
+  },
+  {
+    "name": "Ungu Mountain Majesty",
+    "hex": "#9678B6"
+  },
+  {
+    "name": "Ungu Navy",
+    "hex": "#4E5180"
+  },
+  {
+    "name": "Ungu Pizzazz",
+    "hex": "#FE4EDA"
+  },
+  {
+    "name": "Ungu Plum",
+    "hex": "#9C51B6"
+  },
+  {
+    "name": "Ungu Taupe",
+    "hex": "#50404D"
+  },
+  {
+    "name": "Purpureus",
+    "hex": "#9A4EAE"
+  },
+  {
+    "name": "Quartz",
+    "hex": "#51484F"
+  },
+  {
+    "name": "Queen Biru",
+    "hex": "#436B95"
+  },
+  {
+    "name": "Queen Merah muda",
+    "hex": "#E8CCD7"
+  },
+  {
+    "name": "Quick Perak",
+    "hex": "#A6A6A6"
+  },
+  {
+    "name": "Quinacridone Magenta",
+    "hex": "#8E3A59"
+  },
+  {
+    "name": "Rackley",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Radical Merah",
+    "hex": "#FF355E"
+  },
+  {
+    "name": "Raisin Hitam",
+    "hex": "#242124"
+  },
+  {
+    "name": "Rajah",
+    "hex": "#FBAB60"
+  },
+  {
+    "name": "Raspberry",
+    "hex": "#E30B5D"
+  },
+  {
+    "name": "Raspberry Glace",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Raspberry Merah muda",
+    "hex": "#E25098"
+  },
+  {
+    "name": "Raspberry Rose",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Raw Sienna",
+    "hex": "#D68A59"
+  },
+  {
+    "name": "Raw Umber",
+    "hex": "#826644"
+  },
+  {
+    "name": "Razzle Dazzle Rose",
+    "hex": "#FF33CC"
+  },
+  {
+    "name": "Razzmatazz",
+    "hex": "#E3256B"
+  },
+  {
+    "name": "Razzmic Berry",
+    "hex": "#8D4E85"
+  },
+  {
+    "name": "Rebecca Ungu",
+    "hex": "#663399"
+  },
+  {
+    "name": "Merah",
+    "hex": "#FF0000"
+  },
+  {
+    "name": "Merah (Crayola)",
+    "hex": "#EE204D"
+  },
+  {
+    "name": "Merah (Munsell)",
+    "hex": "#F2003C"
+  },
+  {
+    "name": "Merah (NCS)",
+    "hex": "#C40233"
+  },
+  {
+    "name": "Merah (Pantone)",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Merah (Pigment)",
+    "hex": "#ED1C24"
+  },
+  {
+    "name": "Merah (RYB)",
+    "hex": "#FE2712"
+  },
+  {
+    "name": "Merah-Cokelat",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Merah Devil",
+    "hex": "#860111"
+  },
+  {
+    "name": "Merah-Oranye",
+    "hex": "#FF5349"
+  },
+  {
+    "name": "Merah-Ungu",
+    "hex": "#E40078"
+  },
+  {
+    "name": "Merah Salsa",
+    "hex": "#FD3A4A"
+  },
+  {
+    "name": "Merah-Ungu",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Redwood",
+    "hex": "#A45A52"
+  },
+  {
+    "name": "Regalia",
+    "hex": "#522D80"
+  },
+  {
+    "name": "Registration Hitam",
+    "hex": "#000000"
+  },
+  {
+    "name": "Resolution Biru",
+    "hex": "#002387"
+  },
+  {
+    "name": "Rhythm",
+    "hex": "#777696"
+  },
+  {
+    "name": "Kaya Hitam",
+    "hex": "#004040"
+  },
+  {
+    "name": "Kaya Hitam (FOGRA29)",
+    "hex": "#010B13"
+  },
+  {
+    "name": "Kaya Hitam (FOGRA39)",
+    "hex": "#010203"
+  },
+  {
+    "name": "Kaya Brilliant Lavender",
+    "hex": "#F1A7FE"
+  },
+  {
+    "name": "Kaya Carmine",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Kaya Elektrik Biru",
+    "hex": "#0892D0"
+  },
+  {
+    "name": "Kaya Lavender",
+    "hex": "#A76BCF"
+  },
+  {
+    "name": "Kaya Lilac",
+    "hex": "#B666D2"
+  },
+  {
+    "name": "Kaya Maroon",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Rifle Hijau",
+    "hex": "#444C38"
+  },
+  {
+    "name": "Roast Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Robin Egg Biru",
+    "hex": "#00CCCC"
+  },
+  {
+    "name": "Rocket Metallic",
+    "hex": "#8A7F80"
+  },
+  {
+    "name": "Roman Perak",
+    "hex": "#838996"
+  },
+  {
+    "name": "Rose",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Rose Bonbon",
+    "hex": "#F9429E"
+  },
+  {
+    "name": "Rose Dust",
+    "hex": "#9E5E6F"
+  },
+  {
+    "name": "Rose Ebony",
+    "hex": "#674846"
+  },
+  {
+    "name": "Rose Emas",
+    "hex": "#B76E79"
+  },
+  {
+    "name": "Rose Madder",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Rose Merah muda",
+    "hex": "#FF66CC"
+  },
+  {
+    "name": "Rose Quartz",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Rose Merah",
+    "hex": "#C21E56"
+  },
+  {
+    "name": "Rose Taupe",
+    "hex": "#905D5D"
+  },
+  {
+    "name": "Rose Vale",
+    "hex": "#AB4E52"
+  },
+  {
+    "name": "Rosewood",
+    "hex": "#65000B"
+  },
+  {
+    "name": "Rosso Corsa",
+    "hex": "#D40000"
+  },
+  {
+    "name": "Rosy Cokelat",
+    "hex": "#BC8F8F"
+  },
+  {
+    "name": "Royal Azur",
+    "hex": "#0038A8"
+  },
+  {
+    "name": "Royal Biru",
+    "hex": "#002366"
+  },
+  {
+    "name": "Royal Biru",
+    "hex": "#4169E1"
+  },
+  {
+    "name": "Royal Fuchsia",
+    "hex": "#CA2C92"
+  },
+  {
+    "name": "Royal Ungu",
+    "hex": "#7851A9"
+  },
+  {
+    "name": "Royal Kuning",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Ruber",
+    "hex": "#CE4676"
+  },
+  {
+    "name": "Rubine Merah",
+    "hex": "#D10056"
+  },
+  {
+    "name": "Ruby",
+    "hex": "#E0115F"
+  },
+  {
+    "name": "Ruby Merah",
+    "hex": "#9B111E"
+  },
+  {
+    "name": "Ruddy",
+    "hex": "#FF0028"
+  },
+  {
+    "name": "Ruddy Cokelat",
+    "hex": "#BB6528"
+  },
+  {
+    "name": "Ruddy Merah muda",
+    "hex": "#E18E96"
+  },
+  {
+    "name": "Rufous",
+    "hex": "#A81C07"
+  },
+  {
+    "name": "Russet",
+    "hex": "#80461B"
+  },
+  {
+    "name": "Russian Hijau",
+    "hex": "#679267"
+  },
+  {
+    "name": "Russian Ungu",
+    "hex": "#32174D"
+  },
+  {
+    "name": "Rust",
+    "hex": "#B7410E"
+  },
+  {
+    "name": "Rusty Merah",
+    "hex": "#DA2C43"
+  },
+  {
+    "name": "Sacramento State Hijau",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Saddle Cokelat",
+    "hex": "#8B4513"
+  },
+  {
+    "name": "Safety Oranye",
+    "hex": "#FF7800"
+  },
+  {
+    "name": "Safety Oranye (Blaze Oranye)",
+    "hex": "#FF6700"
+  },
+  {
+    "name": "Safety Kuning",
+    "hex": "#EED202"
+  },
+  {
+    "name": "Saffron",
+    "hex": "#F4C430"
+  },
+  {
+    "name": "Sage",
+    "hex": "#BCB88A"
+  },
+  {
+    "name": "St. Patrick's Biru",
+    "hex": "#23297A"
+  },
+  {
+    "name": "Salmon",
+    "hex": "#FA8072"
+  },
+  {
+    "name": "Salmon Merah muda",
+    "hex": "#FF91A4"
+  },
+  {
+    "name": "Sand",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Sand Dune",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sandstorm",
+    "hex": "#ECD540"
+  },
+  {
+    "name": "Sandy Cokelat",
+    "hex": "#F4A460"
+  },
+  {
+    "name": "Sandy Tan",
+    "hex": "#FDD9B5"
+  },
+  {
+    "name": "Sandy Taupe",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sangria",
+    "hex": "#92000A"
+  },
+  {
+    "name": "Sap Hijau",
+    "hex": "#507D2A"
+  },
+  {
+    "name": "Sapphire",
+    "hex": "#0F52BA"
+  },
+  {
+    "name": "Sapphire Biru",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Sasquatch Socks",
+    "hex": "#FF4681"
+  },
+  {
+    "name": "Satin Sheen Emas",
+    "hex": "#CBA135"
+  },
+  {
+    "name": "Scarlet",
+    "hex": "#FF2400"
+  },
+  {
+    "name": "Scarlet",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Schauss Merah muda",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "School Bus Kuning",
+    "hex": "#FFD800"
+  },
+  {
+    "name": "Screamin' Hijau",
+    "hex": "#66FF66"
+  },
+  {
+    "name": "Laut Biru",
+    "hex": "#006994"
+  },
+  {
+    "name": "Laut Foam Hijau",
+    "hex": "#9FE2BF"
+  },
+  {
+    "name": "Laut Hijau",
+    "hex": "#2E8B57"
+  },
+  {
+    "name": "Laut Serpent",
+    "hex": "#4BC7CF"
+  },
+  {
+    "name": "Seal Cokelat",
+    "hex": "#59260B"
+  },
+  {
+    "name": "Seashell",
+    "hex": "#FFF5EE"
+  },
+  {
+    "name": "Selective Kuning",
+    "hex": "#FFBA00"
+  },
+  {
+    "name": "Sepia",
+    "hex": "#704214"
+  },
+  {
+    "name": "Shadow",
+    "hex": "#8A795D"
+  },
+  {
+    "name": "Shadow Biru",
+    "hex": "#778BA5"
+  },
+  {
+    "name": "Shampoo",
+    "hex": "#FFCFF1"
+  },
+  {
+    "name": "Shamrock Hijau",
+    "hex": "#009E60"
+  },
+  {
+    "name": "Sheen Hijau",
+    "hex": "#8FD400"
+  },
+  {
+    "name": "Shimmering Blush",
+    "hex": "#D98695"
+  },
+  {
+    "name": "Shiny Shamrock",
+    "hex": "#5FA778"
+  },
+  {
+    "name": "Shocking Merah muda",
+    "hex": "#FC0FC0"
+  },
+  {
+    "name": "Shocking Merah muda (Crayola)",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Sienna",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Perak",
+    "hex": "#C0C0C0"
+  },
+  {
+    "name": "Perak Chalice",
+    "hex": "#ACACAC"
+  },
+  {
+    "name": "Perak Lake Biru",
+    "hex": "#5D89BA"
+  },
+  {
+    "name": "Perak Merah muda",
+    "hex": "#C4AEAD"
+  },
+  {
+    "name": "Perak Sand",
+    "hex": "#BFC1C2"
+  },
+  {
+    "name": "Sinopia",
+    "hex": "#CB410B"
+  },
+  {
+    "name": "Sizzling Merah",
+    "hex": "#FF3855"
+  },
+  {
+    "name": "Sizzling Sunrise",
+    "hex": "#FFDB00"
+  },
+  {
+    "name": "Skobeloff",
+    "hex": "#007474"
+  },
+  {
+    "name": "Langit Biru",
+    "hex": "#87CEEB"
+  },
+  {
+    "name": "Langit Magenta",
+    "hex": "#CF71AF"
+  },
+  {
+    "name": "Slate Biru",
+    "hex": "#6A5ACD"
+  },
+  {
+    "name": "Slate Abu-abu",
+    "hex": "#708090"
+  },
+  {
+    "name": "Smalt (Gelap Powder Biru)",
+    "hex": "#003399"
+  },
+  {
+    "name": "Slimy Hijau",
+    "hex": "#299617"
+  },
+  {
+    "name": "Smashed Pumpkin",
+    "hex": "#FF6D3A"
+  },
+  {
+    "name": "Smitten",
+    "hex": "#C84186"
+  },
+  {
+    "name": "Smoke",
+    "hex": "#738276"
+  },
+  {
+    "name": "Smokey Topaz",
+    "hex": "#832A0D"
+  },
+  {
+    "name": "Smoky Hitam",
+    "hex": "#100C08"
+  },
+  {
+    "name": "Smoky Topaz",
+    "hex": "#933D41"
+  },
+  {
+    "name": "Snow",
+    "hex": "#FFFAFA"
+  },
+  {
+    "name": "Soap",
+    "hex": "#CEC8EF"
+  },
+  {
+    "name": "Solid Merah muda",
+    "hex": "#893843"
+  },
+  {
+    "name": "Sonic Perak",
+    "hex": "#757575"
+  },
+  {
+    "name": "Spartan Crimson",
+    "hex": "#9E1316"
+  },
+  {
+    "name": "Space Cadet",
+    "hex": "#1D2951"
+  },
+  {
+    "name": "Spanish Bistre",
+    "hex": "#807532"
+  },
+  {
+    "name": "Spanish Biru",
+    "hex": "#0070B8"
+  },
+  {
+    "name": "Spanish Carmine",
+    "hex": "#D10047"
+  },
+  {
+    "name": "Spanish Crimson",
+    "hex": "#E51A4C"
+  },
+  {
+    "name": "Spanish Abu-abu",
+    "hex": "#989898"
+  },
+  {
+    "name": "Spanish Hijau",
+    "hex": "#009150"
+  },
+  {
+    "name": "Spanish Oranye",
+    "hex": "#E86100"
+  },
+  {
+    "name": "Spanish Merah muda",
+    "hex": "#F7BFBE"
+  },
+  {
+    "name": "Spanish Merah",
+    "hex": "#E60026"
+  },
+  {
+    "name": "Spanish Langit Biru",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Spanish Ungu",
+    "hex": "#4C2882"
+  },
+  {
+    "name": "Spanish Viridian",
+    "hex": "#007F5C"
+  },
+  {
+    "name": "Spicy Mix",
+    "hex": "#8B5f4D"
+  },
+  {
+    "name": "Spiro Disco Ball",
+    "hex": "#0FC0FC"
+  },
+  {
+    "name": "Spring Bud",
+    "hex": "#A7FC00"
+  },
+  {
+    "name": "Spring Frost",
+    "hex": "#87FF2A"
+  },
+  {
+    "name": "Spring Hijau",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Star Command Biru",
+    "hex": "#007BB8"
+  },
+  {
+    "name": "Steel Biru",
+    "hex": "#4682B4"
+  },
+  {
+    "name": "Steel Merah muda",
+    "hex": "#CC33CC"
+  },
+  {
+    "name": "Steel Teal",
+    "hex": "#5F8A8B"
+  },
+  {
+    "name": "Stil De Grain Kuning",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Stizza",
+    "hex": "#990000"
+  },
+  {
+    "name": "Stormcloud",
+    "hex": "#4F666A"
+  },
+  {
+    "name": "Straw",
+    "hex": "#E4D96F"
+  },
+  {
+    "name": "Strawberry",
+    "hex": "#FC5A8D"
+  },
+  {
+    "name": "Sugar Plum",
+    "hex": "#914E75"
+  },
+  {
+    "name": "Sunburnt Cyclops",
+    "hex": "#FF404C"
+  },
+  {
+    "name": "Sunglow",
+    "hex": "#FFCC33"
+  },
+  {
+    "name": "Sunny",
+    "hex": "#F2F27A"
+  },
+  {
+    "name": "Sunray",
+    "hex": "#E3AB57"
+  },
+  {
+    "name": "Sunset",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Sunset Oranye",
+    "hex": "#FD5E53"
+  },
+  {
+    "name": "Super Merah muda",
+    "hex": "#CF6BA9"
+  },
+  {
+    "name": "Sweet Cokelat",
+    "hex": "#A83731"
+  },
+  {
+    "name": "Tan",
+    "hex": "#D2B48C"
+  },
+  {
+    "name": "Tangelo",
+    "hex": "#F94D00"
+  },
+  {
+    "name": "Tangerine",
+    "hex": "#F28500"
+  },
+  {
+    "name": "Tangerine Kuning",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "Tango Merah muda",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Tart Oranye",
+    "hex": "#FB4D46"
+  },
+  {
+    "name": "Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Taupe Abu-abu",
+    "hex": "#8B8589"
+  },
+  {
+    "name": "Tea Hijau",
+    "hex": "#D0F0C0"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Teal",
+    "hex": "#008080"
+  },
+  {
+    "name": "Teal Biru",
+    "hex": "#367588"
+  },
+  {
+    "name": "Teal Deer",
+    "hex": "#99E6B3"
+  },
+  {
+    "name": "Teal Hijau",
+    "hex": "#00827F"
+  },
+  {
+    "name": "Telemagenta",
+    "hex": "#CF3476"
+  },
+  {
+    "name": "Tenne (Tawny)",
+    "hex": "#CD5700"
+  },
+  {
+    "name": "Terra Cotta",
+    "hex": "#E2725B"
+  },
+  {
+    "name": "Thistle",
+    "hex": "#D8BFD8"
+  },
+  {
+    "name": "Thulian Merah muda",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Tickle Me Merah muda",
+    "hex": "#FC89AC"
+  },
+  {
+    "name": "Tiffany Biru",
+    "hex": "#0ABAB5"
+  },
+  {
+    "name": "Tiger's Eye",
+    "hex": "#E08D3C"
+  },
+  {
+    "name": "Timberwolf",
+    "hex": "#DBD7D2"
+  },
+  {
+    "name": "Titanium Kuning",
+    "hex": "#EEE600"
+  },
+  {
+    "name": "Tomato",
+    "hex": "#FF6347"
+  },
+  {
+    "name": "Toolbox",
+    "hex": "#746CC0"
+  },
+  {
+    "name": "Topaz",
+    "hex": "#FFC87C"
+  },
+  {
+    "name": "Tractor Merah",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Trolley Abu-abu",
+    "hex": "#808080"
+  },
+  {
+    "name": "Tropical Rain Forest",
+    "hex": "#00755E"
+  },
+  {
+    "name": "Tropical Ungu",
+    "hex": "#CDA4DE"
+  },
+  {
+    "name": "True Biru",
+    "hex": "#0073CF"
+  },
+  {
+    "name": "Tufts Biru",
+    "hex": "#3E8EDE"
+  },
+  {
+    "name": "Tulip",
+    "hex": "#FF878D"
+  },
+  {
+    "name": "Tumbleweed",
+    "hex": "#DEAA88"
+  },
+  {
+    "name": "Turkish Rose",
+    "hex": "#B57281"
+  },
+  {
+    "name": "Pirus",
+    "hex": "#40E0D0"
+  },
+  {
+    "name": "Pirus Biru",
+    "hex": "#00FFEF"
+  },
+  {
+    "name": "Pirus Hijau",
+    "hex": "#A0D6B4"
+  },
+  {
+    "name": "Pirus Surf",
+    "hex": "#00C5CD"
+  },
+  {
+    "name": "Turtle Hijau",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Tuscan",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Tuscan Cokelat",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Tuscan Merah",
+    "hex": "#7C4848"
+  },
+  {
+    "name": "Tuscan Tan",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Tuscany",
+    "hex": "#C09999"
+  },
+  {
+    "name": "Twilight Lavender",
+    "hex": "#8A496B"
+  },
+  {
+    "name": "Tyrian Ungu",
+    "hex": "#66023C"
+  },
+  {
+    "name": "UA Biru",
+    "hex": "#0033AA"
+  },
+  {
+    "name": "UA Merah",
+    "hex": "#D9004C"
+  },
+  {
+    "name": "Ube",
+    "hex": "#8878C3"
+  },
+  {
+    "name": "UCLA Biru",
+    "hex": "#536895"
+  },
+  {
+    "name": "UCLA Emas",
+    "hex": "#FFB300"
+  },
+  {
+    "name": "UFO Hijau",
+    "hex": "#3CD070"
+  },
+  {
+    "name": "Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Ultramarine Biru",
+    "hex": "#4166F5"
+  },
+  {
+    "name": "Ultra Merah muda",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Ultra Merah",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Umber",
+    "hex": "#635147"
+  },
+  {
+    "name": "Unbleached Silk",
+    "hex": "#FFDDCA"
+  },
+  {
+    "name": "United Nations Biru",
+    "hex": "#5B92E5"
+  },
+  {
+    "name": "University Of California Emas",
+    "hex": "#B78727"
+  },
+  {
+    "name": "Unmellow Kuning",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "UP Forest Hijau",
+    "hex": "#014421"
+  },
+  {
+    "name": "UP Maroon",
+    "hex": "#7B1113"
+  },
+  {
+    "name": "Upsdell Merah",
+    "hex": "#AE2029"
+  },
+  {
+    "name": "Urobilin",
+    "hex": "#E1AD21"
+  },
+  {
+    "name": "USAFA Biru",
+    "hex": "#004F98"
+  },
+  {
+    "name": "USC Cardinal",
+    "hex": "#990000"
+  },
+  {
+    "name": "USC Emas",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "University Of Tennessee Oranye",
+    "hex": "#F77F00"
+  },
+  {
+    "name": "Utah Crimson",
+    "hex": "#D3003F"
+  },
+  {
+    "name": "Van Dyke Cokelat",
+    "hex": "#664228"
+  },
+  {
+    "name": "Vanilla",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Vanilla Ice",
+    "hex": "#F38FA9"
+  },
+  {
+    "name": "Vegas Emas",
+    "hex": "#C5B358"
+  },
+  {
+    "name": "Venetian Merah",
+    "hex": "#C80815"
+  },
+  {
+    "name": "Verdigris",
+    "hex": "#43B3AE"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#D9381E"
+  },
+  {
+    "name": "Veronica",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Very Muda Azur",
+    "hex": "#74BBFB"
+  },
+  {
+    "name": "Very Muda Biru",
+    "hex": "#6666FF"
+  },
+  {
+    "name": "Very Muda Malachite Hijau",
+    "hex": "#64E986"
+  },
+  {
+    "name": "Very Muda Tangelo",
+    "hex": "#FFB077"
+  },
+  {
+    "name": "Very Pucat Oranye",
+    "hex": "#FFDFBF"
+  },
+  {
+    "name": "Very Pucat Kuning",
+    "hex": "#FFFFBF"
+  },
+  {
+    "name": "Ungu",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Ungu (Color Wheel)",
+    "hex": "#7F00FF"
+  },
+  {
+    "name": "Ungu (RYB)",
+    "hex": "#8601AF"
+  },
+  {
+    "name": "Ungu (Web)",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "Ungu-Biru",
+    "hex": "#324AB2"
+  },
+  {
+    "name": "Ungu-Merah",
+    "hex": "#F75394"
+  },
+  {
+    "name": "Viridian",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Viridian Hijau",
+    "hex": "#009698"
+  },
+  {
+    "name": "Vista Biru",
+    "hex": "#7C9ED9"
+  },
+  {
+    "name": "Cerah Amber",
+    "hex": "#CC9900"
+  },
+  {
+    "name": "Cerah Auburn",
+    "hex": "#922724"
+  },
+  {
+    "name": "Cerah Burgundy",
+    "hex": "#9F1D35"
+  },
+  {
+    "name": "Cerah Cerise",
+    "hex": "#DA1D81"
+  },
+  {
+    "name": "Cerah Cerulean",
+    "hex": "#00AAEE"
+  },
+  {
+    "name": "Cerah Crimson",
+    "hex": "#CC0033"
+  },
+  {
+    "name": "Cerah Gamboge",
+    "hex": "#FF9900"
+  },
+  {
+    "name": "Cerah Limau Hijau",
+    "hex": "#A6D608"
+  },
+  {
+    "name": "Cerah Malachite",
+    "hex": "#00CC33"
+  },
+  {
+    "name": "Cerah Mulberry",
+    "hex": "#B80CE3"
+  },
+  {
+    "name": "Cerah Oranye",
+    "hex": "#FF5F00"
+  },
+  {
+    "name": "Cerah Oranye Peel",
+    "hex": "#FFA000"
+  },
+  {
+    "name": "Cerah Orchid",
+    "hex": "#CC00FF"
+  },
+  {
+    "name": "Cerah Raspberry",
+    "hex": "#FF006C"
+  },
+  {
+    "name": "Cerah Merah",
+    "hex": "#F70D1A"
+  },
+  {
+    "name": "Cerah Merah-Tangelo",
+    "hex": "#DF6124"
+  },
+  {
+    "name": "Cerah Langit Biru",
+    "hex": "#00CCFF"
+  },
+  {
+    "name": "Cerah Tangelo",
+    "hex": "#F07427"
+  },
+  {
+    "name": "Cerah Tangerine",
+    "hex": "#FFA089"
+  },
+  {
+    "name": "Cerah Vermilion",
+    "hex": "#E56024"
+  },
+  {
+    "name": "Cerah Ungu",
+    "hex": "#9F00FF"
+  },
+  {
+    "name": "Cerah Kuning",
+    "hex": "#FFE302"
+  },
+  {
+    "name": "Volt",
+    "hex": "#CEFF00"
+  },
+  {
+    "name": "Wageningen Hijau",
+    "hex": "#34B233"
+  },
+  {
+    "name": "Hangat Hitam",
+    "hex": "#004242"
+  },
+  {
+    "name": "Waterspout",
+    "hex": "#A4F4F9"
+  },
+  {
+    "name": "Weldon Biru",
+    "hex": "#7C98AB"
+  },
+  {
+    "name": "Wenge",
+    "hex": "#645452"
+  },
+  {
+    "name": "Wheat",
+    "hex": "#F5DEB3"
+  },
+  {
+    "name": "Putih",
+    "hex": "#FFFFFF"
+  },
+  {
+    "name": "Putih Smoke",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Wild Biru Yonder",
+    "hex": "#A2ADD0"
+  },
+  {
+    "name": "Wild Orchid",
+    "hex": "#D470A2"
+  },
+  {
+    "name": "Wild Strawberry",
+    "hex": "#FF43A4"
+  },
+  {
+    "name": "Wild Watermelon",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Willpower Oranye",
+    "hex": "#FD5800"
+  },
+  {
+    "name": "Windsor Tan",
+    "hex": "#A75502"
+  },
+  {
+    "name": "Wine",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Wine Dregs",
+    "hex": "#673147"
+  },
+  {
+    "name": "Winter Langit",
+    "hex": "#FF007C"
+  },
+  {
+    "name": "Winter Wizard",
+    "hex": "#A0E6FF"
+  },
+  {
+    "name": "Wintergreen Dream",
+    "hex": "#56887D"
+  },
+  {
+    "name": "Wisteria",
+    "hex": "#C9A0DC"
+  },
+  {
+    "name": "Wood Cokelat",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Xanadu",
+    "hex": "#738678"
+  },
+  {
+    "name": "Yale Biru",
+    "hex": "#0F4D92"
+  },
+  {
+    "name": "Yankees Biru",
+    "hex": "#1C2841"
+  },
+  {
+    "name": "Kuning",
+    "hex": "#FFFF00"
+  },
+  {
+    "name": "Kuning (Crayola)",
+    "hex": "#FCE883"
+  },
+  {
+    "name": "Kuning (Munsell)",
+    "hex": "#EFCC00"
+  },
+  {
+    "name": "Kuning (NCS)",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Kuning (Pantone)",
+    "hex": "#FEDF00"
+  },
+  {
+    "name": "Kuning (Process)",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Kuning (RYB)",
+    "hex": "#FEFE33"
+  },
+  {
+    "name": "Kuning-Hijau",
+    "hex": "#9ACD32"
+  },
+  {
+    "name": "Kuning Oranye",
+    "hex": "#FFAE42"
+  },
+  {
+    "name": "Kuning Rose",
+    "hex": "#FFF000"
+  },
+  {
+    "name": "Kuning Sunshine",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Zaffre",
+    "hex": "#0014A8"
+  },
+  {
+    "name": "Zinnwaldite Cokelat",
+    "hex": "#2C1608"
+  },
+  {
+    "name": "Zomp",
+    "hex": "#39A78E"
+  }
+]
