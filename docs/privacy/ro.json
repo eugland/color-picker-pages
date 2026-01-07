@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Procesare pe dispozitiv",
+      "paragraphs": [
+        "Eșantionarea culorilor are loc integral pe dispozitivul tău. Previziunile camerei și fotografiile selectate sunt analizate doar pentru a extrage valorile culorilor și nu sunt transmise către servere.",
+        "Toate funcționalitățile principale, inclusiv detectarea culorilor, calculele RGB/HEX și editarea paletelor, sunt realizate local. Nicio dată de imagine brută nu părăsește dispozitivul tău."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Utilizarea rețelei",
+      "paragraphs": [
+        "Solicitările de rețea sunt limitate la obținerea de date de suport opționale, nepersonale, precum nume de culori sau palete, conținut informativ sau metadate de referință. Nu sunt încărcate imagini personale, cadre ale camerei sau fotografii."
+      ],
+      "bullets": [
+        "Accesul la rețea nu este necesar pentru funcționalitatea de bază.",
+        "Poți folosi aplicația complet offline dezactivând accesul la rețea la nivel de sistem.",
+        "Poți revoca permisiunile pentru cameră și fotografii oricând din setările dispozitivului."
+      ]
+    },
+    {
+      "heading": "Păstrarea datelor",
+      "paragraphs": [
+        "Culorile și paletele salvate sunt stocate local pe dispozitivul tău și rămân acolo până când le ștergi.",
+        "Ștergerea datelor aplicației sau dezinstalarea aplicației elimină toate culorile și paletele salvate. Nu se păstrează copii de rezervă."
+      ],
+      "bullets": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Eszközön történő feldolgozás",
+      "paragraphs": [
+        "A színmintavételezés teljes egészében az eszközén történik. A kameraelőnézeteket és a kiválasztott fotókat csak a színértékek kinyeréséhez elemezzük, és nem továbbítjuk szerverekre.",
+        "Minden alapvető funkció, beleértve a színfelismerést, az RGB/HEX számításokat és a palettaszerkesztést, helyben történik. Nyers képadatok nem hagyják el az eszközét."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Hálózathasználat",
+      "paragraphs": [
+        "A hálózati kérések a választható, nem személyes támogató adatok lekérésére korlátozódnak, például szín- vagy palettanevekre, tájékoztató tartalomra vagy referencia-metaadatokra. Személyes képek, kameraképkockák vagy fotók nem kerülnek feltöltésre."
+      ],
+      "bullets": [
+        "A hálózati hozzáférés nem szükséges az alapfunkciókhoz.",
+        "Az alkalmazást teljesen offline használhatja, ha a rendszer szintjén letiltja a hálózati hozzáférést.",
+        "A kamera- és fotóengedélyeket bármikor visszavonhatja az eszköz beállításaiban."
+      ]
+    },
+    {
+      "heading": "Adatmegőrzés",
+      "paragraphs": [
+        "A mentett színek és paletták helyben tárolódnak az eszközén, és addig maradnak ott, amíg nem törli őket.",
+        "Az alkalmazásadatok törlése vagy az alkalmazás eltávolítása eltávolítja az összes mentett színt és palettát. Nem készülnek biztonsági mentések."
+      ],
+      "bullets": []
+    }
+  ]
+}

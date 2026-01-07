@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Verwerking op het apparaat",
+      "paragraphs": [
+        "Kleurmonstername gebeurt volledig op uw apparaat. Cameravoorbeelden en geselecteerde foto's worden alleen geanalyseerd om kleurwaarden te extraheren en worden niet naar servers verzonden.",
+        "Alle kernfunctionaliteit, inclusief kleurdetectie, RGB/HEX-berekeningen en paletbewerking, wordt lokaal uitgevoerd. Er verlaten geen ruwe afbeeldingsgegevens uw apparaat."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Netwerkgebruik",
+      "paragraphs": [
+        "Netwerkaanvragen zijn beperkt tot het ophalen van optionele, niet-persoonlijke ondersteunende gegevens zoals kleur- of paletnamen, informatieve inhoud of referentiemetadata. Er worden geen persoonlijke afbeeldingen, cameraframes of foto's geüpload."
+      ],
+      "bullets": [
+        "Netwerktoegang is niet vereist voor kernfunctionaliteit.",
+        "U kunt de app volledig offline gebruiken door netwerktoegang op systeemniveau uit te schakelen.",
+        "U kunt camera- en fotomachtigingen op elk moment intrekken via de instellingen van uw apparaat."
+      ]
+    },
+    {
+      "heading": "Gegevensbewaring",
+      "paragraphs": [
+        "Opgeslagen kleuren en paletten worden lokaal op uw apparaat opgeslagen en blijven daar totdat u ze verwijdert.",
+        "Het wissen van app-gegevens of het verwijderen van de app verwijdert alle opgeslagen kleuren en paletten. Er worden geen back-ups bewaard."
+      ],
+      "bullets": []
+    }
+  ]
+}

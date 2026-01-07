@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Behandling på enheten",
+      "paragraphs": [
+        "Fargeprøvetaking skjer fullt ut på enheten din. Kameraforhåndsvisninger og valgte bilder analyseres kun for å trekke ut fargeverdier og sendes ikke til servere.",
+        "Alle kjernefunksjoner, inkludert fargedeteksjon, RGB/HEX-beregninger og palettredigering, utføres lokalt. Ingen rå bildedata forlater enheten din."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Nettverksbruk",
+      "paragraphs": [
+        "Nettverksforespørsler er begrenset til å hente valgfri, ikke-personlig støttedata som farge- eller palettnavn, informasjonsinnhold eller referansemetadata. Ingen personlige bilder, kamerarammer eller foto lastes opp."
+      ],
+      "bullets": [
+        "Nettverkstilgang er ikke nødvendig for kjernefunksjonalitet.",
+        "Du kan bruke appen helt offline ved å deaktivere nettverkstilgang på systemnivå.",
+        "Du kan når som helst tilbakekalle kamera- og fototillatelser fra enhetsinnstillingene."
+      ]
+    },
+    {
+      "heading": "Datalagring",
+      "paragraphs": [
+        "Lagrede farger og paletter lagres lokalt på enheten og blir der til du sletter dem.",
+        "Hvis du tømmer appdata eller avinstallerer appen, fjernes alle lagrede farger og paletter. Ingen sikkerhetskopier beholdes."
+      ],
+      "bullets": []
+    }
+  ]
+}

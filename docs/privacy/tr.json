@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Cihazda işleme",
+      "paragraphs": [
+        "Renk örnekleme tamamen cihazınızda gerçekleşir. Kamera önizlemeleri ve seçilen fotoğraflar yalnızca renk değerlerini çıkarmak için analiz edilir ve sunuculara gönderilmez.",
+        "Renk algılama, RGB/HEX hesaplamaları ve palet düzenleme dahil tüm temel işlevler yerel olarak gerçekleştirilir. Ham görüntü verileri cihazınızdan çıkmaz."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Ağ kullanımı",
+      "paragraphs": [
+        "Ağ istekleri, renk veya palet adları, bilgilendirici içerik ya da referans meta verileri gibi isteğe bağlı, kişisel olmayan destek verilerini almakla sınırlıdır. Kişisel görüntüler, kamera kareleri veya fotoğraflar yüklenmez."
+      ],
+      "bullets": [
+        "Temel işlevler için ağ erişimi gerekmez.",
+        "Sistem düzeyinde ağ erişimini devre dışı bırakarak uygulamayı tamamen çevrimdışı kullanabilirsiniz.",
+        "Kamera ve fotoğraf izinlerini cihaz ayarlarından istediğiniz zaman iptal edebilirsiniz."
+      ]
+    },
+    {
+      "heading": "Veri saklama",
+      "paragraphs": [
+        "Kaydedilen renkler ve paletler cihazınızda yerel olarak saklanır ve siz silene kadar orada kalır.",
+        "Uygulama verilerini temizlemek veya uygulamayı kaldırmak tüm kaydedilmiş renkleri ve paletleri kaldırır. Yedekler tutulmaz."
+      ],
+      "bullets": []
+    }
+  ]
+}

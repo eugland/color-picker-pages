@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Elaborazione sul dispositivo",
+      "paragraphs": [
+        "Il campionamento dei colori avviene interamente sul dispositivo. Le anteprime della fotocamera e le foto selezionate vengono analizzate solo per estrarre i valori di colore e non vengono trasmesse ai server.",
+        "Tutte le funzionalità principali, inclusi il rilevamento dei colori, i calcoli RGB/HEX e la modifica delle palette, vengono eseguite localmente. Nessun dato immagine grezzo lascia il dispositivo."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Uso della rete",
+      "paragraphs": [
+        "Le richieste di rete sono limitate al recupero di dati di supporto opzionali e non personali come nomi di colori o palette, contenuti informativi o metadati di riferimento. Nessuna immagine personale, fotogramma della fotocamera o foto viene caricata."
+      ],
+      "bullets": [
+        "L'accesso alla rete non è necessario per le funzionalità principali.",
+        "Puoi usare l'app completamente offline disabilitando l'accesso alla rete a livello di sistema.",
+        "Puoi revocare i permessi della fotocamera e delle foto in qualsiasi momento dalle impostazioni del dispositivo."
+      ]
+    },
+    {
+      "heading": "Conservazione dei dati",
+      "paragraphs": [
+        "I colori e le palette salvati vengono archiviati localmente sul dispositivo e rimangono lì finché non li elimini.",
+        "La cancellazione dei dati dell'app o la disinstallazione dell'app rimuove tutti i colori e le palette salvati. Non vengono conservati backup."
+      ],
+      "bullets": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Traitement sur l’appareil",
+      "paragraphs": [
+        "L’échantillonnage des couleurs se fait entièrement sur votre appareil. Les aperçus de la caméra et les photos sélectionnées sont analysés uniquement pour extraire des valeurs de couleur et ne sont pas transmis aux serveurs.",
+        "Toutes les fonctionnalités principales, y compris la détection des couleurs, les calculs RGB/HEX et l’édition de palettes, sont effectuées localement. Aucune donnée d’image brute ne quitte votre appareil."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Utilisation du réseau",
+      "paragraphs": [
+        "Les requêtes réseau sont limitées à la récupération de données d’assistance facultatives et non personnelles, telles que des noms de couleurs ou de palettes, du contenu informatif ou des métadonnées de référence. Aucune image personnelle, image de caméra ou photo n’est téléchargée."
+      ],
+      "bullets": [
+        "L’accès au réseau n’est pas requis pour les fonctionnalités principales.",
+        "Vous pouvez utiliser l’application entièrement hors ligne en désactivant l’accès réseau au niveau du système.",
+        "Vous pouvez révoquer les autorisations de caméra et de photos à tout moment dans les paramètres de votre appareil."
+      ]
+    },
+    {
+      "heading": "Conservation des données",
+      "paragraphs": [
+        "Les couleurs et palettes enregistrées sont stockées localement sur votre appareil et y restent jusqu’à ce que vous les supprimiez.",
+        "L’effacement des données de l’application ou sa désinstallation supprime toutes les couleurs et palettes enregistrées. Aucune sauvegarde n’est conservée."
+      ],
+      "bullets": []
+    }
+  ]
+}
