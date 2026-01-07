@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Zpracování v zařízení",
+      "paragraphs": [
+        "Vzorkování barev probíhá zcela ve vašem zařízení. Náhledy z kamery a vybrané fotografie se analyzují pouze za účelem získání hodnot barev a nejsou odesílány na servery.",
+        "Veškeré klíčové funkce, včetně detekce barev, výpočtů RGB/HEX a úprav palet, probíhají lokálně. Žádná surová obrazová data neopouštějí vaše zařízení."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Použití sítě",
+      "paragraphs": [
+        "Síťové požadavky jsou omezeny na načítání volitelných, neosobních podpůrných dat, jako jsou názvy barev či palet, informační obsah nebo referenční metadata. Nejsou nahrávány žádné osobní obrázky, snímky z kamery ani fotografie."
+      ],
+      "bullets": [
+        "Přístup k síti není pro základní funkce vyžadován.",
+        "Aplikaci můžete plně používat offline vypnutím přístupu k síti na úrovni systému.",
+        "Oprávnění k fotoaparátu a fotkám můžete kdykoli odebrat v nastavení zařízení."
+      ]
+    },
+    {
+      "heading": "Uchovávání dat",
+      "paragraphs": [
+        "Uložené barvy a palety jsou uloženy lokálně ve vašem zařízení a zůstávají tam, dokud je nesmažete.",
+        "Vymazání dat aplikace nebo odinstalování aplikace odstraní všechny uložené barvy a palety. Žádné zálohy nejsou uchovávány."
+      ],
+      "bullets": []
+    }
+  ]
+}

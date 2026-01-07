@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Przetwarzanie na urządzeniu",
+      "paragraphs": [
+        "Pobieranie próbek kolorów odbywa się w całości na Twoim urządzeniu. Podglądy z kamery i wybrane zdjęcia są analizowane wyłącznie w celu wyodrębnienia wartości kolorów i nie są przesyłane na serwery.",
+        "Wszystkie kluczowe funkcje, w tym wykrywanie kolorów, obliczenia RGB/HEX oraz edycja palet, są wykonywane lokalnie. Żadne surowe dane obrazu nie opuszczają Twojego urządzenia."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Użycie sieci",
+      "paragraphs": [
+        "Żądania sieciowe są ograniczone do pobierania opcjonalnych, nieosobowych danych pomocniczych, takich jak nazwy kolorów lub palet, treści informacyjne lub metadane referencyjne. Nie są przesyłane żadne osobiste obrazy, klatki z kamery ani zdjęcia."
+      ],
+      "bullets": [
+        "Dostęp do sieci nie jest wymagany do działania podstawowych funkcji.",
+        "Możesz używać aplikacji całkowicie offline, wyłączając dostęp do sieci na poziomie systemu.",
+        "Możesz w dowolnym momencie cofnąć uprawnienia do aparatu i zdjęć w ustawieniach urządzenia."
+      ]
+    },
+    {
+      "heading": "Przechowywanie danych",
+      "paragraphs": [
+        "Zapisane kolory i palety są przechowywane lokalnie na Twoim urządzeniu i pozostają tam, dopóki ich nie usuniesz.",
+        "Wyczyszczenie danych aplikacji lub odinstalowanie aplikacji usuwa wszystkie zapisane kolory i palety. Nie są przechowywane kopie zapasowe."
+      ],
+      "bullets": []
+    }
+  ]
+}

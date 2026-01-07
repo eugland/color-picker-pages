@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Verarbeitung auf dem Gerät",
+      "paragraphs": [
+        "Die Farbabtastung erfolgt vollständig auf Ihrem Gerät. Kameravorschauen und ausgewählte Fotos werden nur zur Extraktion von Farbwerten analysiert und nicht an Server übertragen.",
+        "Alle Kernfunktionen, einschließlich Farberkennung, RGB/HEX-Berechnungen und Palettenbearbeitung, werden lokal ausgeführt. Keine Rohbilddaten verlassen Ihr Gerät."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Netzwerknutzung",
+      "paragraphs": [
+        "Netzwerkanfragen sind auf das Abrufen optionaler, nicht personenbezogener Unterstützungsdaten wie Farb- oder Palettennamen, Informationsinhalte oder Referenzmetadaten beschränkt. Es werden keine persönlichen Bilder, Kameraframes oder Fotos hochgeladen."
+      ],
+      "bullets": [
+        "Für die Kernfunktionen ist kein Netzwerkzugang erforderlich.",
+        "Sie können die App vollständig offline verwenden, indem Sie den Netzwerkzugang auf Systemebene deaktivieren.",
+        "Sie können Kamera- und Fotoberechtigungen jederzeit in den Geräteeinstellungen widerrufen."
+      ]
+    },
+    {
+      "heading": "Datenspeicherung",
+      "paragraphs": [
+        "Gespeicherte Farben und Paletten werden lokal auf Ihrem Gerät gespeichert und bleiben dort, bis Sie sie löschen.",
+        "Das Löschen von App-Daten oder die Deinstallation der App entfernt alle gespeicherten Farben und Paletten. Es werden keine Backups aufbewahrt."
+      ],
+      "bullets": []
+    }
+  ]
+}

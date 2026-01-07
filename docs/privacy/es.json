@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "heading": "Procesamiento en el dispositivo",
+      "paragraphs": [
+        "El muestreo de color ocurre completamente en tu dispositivo. Las vistas previas de la cámara y las fotos seleccionadas se analizan solo para extraer valores de color y no se transmiten a servidores.",
+        "Toda la funcionalidad principal, incluida la detección de color, los cálculos RGB/HEX y la edición de paletas, se realiza localmente. Ningún dato de imagen sin procesar sale de tu dispositivo."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Uso de la red",
+      "paragraphs": [
+        "Las solicitudes de red se limitan a obtener datos de apoyo opcionales y no personales, como nombres de colores o paletas, contenido informativo o metadatos de referencia. No se cargan imágenes personales, fotogramas de la cámara ni fotos."
+      ],
+      "bullets": [
+        "El acceso a la red no es necesario para la funcionalidad principal.",
+        "Puedes usar la app completamente sin conexión desactivando el acceso a la red a nivel del sistema.",
+        "Puedes revocar los permisos de cámara y fotos en cualquier momento desde la configuración de tu dispositivo."
+      ]
+    },
+    {
+      "heading": "Retención de datos",
+      "paragraphs": [
+        "Los colores y paletas guardados se almacenan localmente en tu dispositivo y permanecen allí hasta que los elimines.",
+        "Borrar los datos de la app o desinstalarla elimina todos los colores y paletas guardados. No se conservan copias de seguridad."
+      ],
+      "bullets": []
+    }
+  ]
+}
