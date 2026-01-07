@@ -1,0 +1,5210 @@
+[
+  {
+    "name": "Absolute Zero",
+    "hex": "#0048BA"
+  },
+  {
+    "name": "Acid Vihreä",
+    "hex": "#B0BF1A"
+  },
+  {
+    "name": "Aero",
+    "hex": "#7CB9E8"
+  },
+  {
+    "name": "Aero Sininen",
+    "hex": "#C9FFE5"
+  },
+  {
+    "name": "African Violetti",
+    "hex": "#B284BE"
+  },
+  {
+    "name": "Air Force Sininen (RAF)",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Air Force Sininen (USAF)",
+    "hex": "#00308F"
+  },
+  {
+    "name": "Air Superiority Sininen",
+    "hex": "#72A0C1"
+  },
+  {
+    "name": "Alabama Karmiininpunainen",
+    "hex": "#AF002A"
+  },
+  {
+    "name": "Alabaster",
+    "hex": "#F2F0E6"
+  },
+  {
+    "name": "Alice Sininen",
+    "hex": "#F0F8FF"
+  },
+  {
+    "name": "Alien Armpit",
+    "hex": "#84DE02"
+  },
+  {
+    "name": "Alizarin Karmiininpunainen",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Alloy Oranssi",
+    "hex": "#C46210"
+  },
+  {
+    "name": "Almond",
+    "hex": "#EFDECD"
+  },
+  {
+    "name": "Amaranth",
+    "hex": "#E52B50"
+  },
+  {
+    "name": "Amaranth Syvä Violetti",
+    "hex": "#9F2B68"
+  },
+  {
+    "name": "Amaranth Pinkki",
+    "hex": "#F19CBB"
+  },
+  {
+    "name": "Amaranth Violetti",
+    "hex": "#AB274F"
+  },
+  {
+    "name": "Amaranth Punainen",
+    "hex": "#D3212D"
+  },
+  {
+    "name": "Amazon Store",
+    "hex": "#3B7A57"
+  },
+  {
+    "name": "Amazonite",
+    "hex": "#00C4B0"
+  },
+  {
+    "name": "Amber",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Amber (SAE/ECE)",
+    "hex": "#FF7E00"
+  },
+  {
+    "name": "American Rose",
+    "hex": "#FF033E"
+  },
+  {
+    "name": "Amethyst",
+    "hex": "#9966CC"
+  },
+  {
+    "name": "Android Vihreä",
+    "hex": "#A4C639"
+  },
+  {
+    "name": "Anti-Flash Valkoinen",
+    "hex": "#F2F3F4"
+  },
+  {
+    "name": "Antique Brass",
+    "hex": "#CD9575"
+  },
+  {
+    "name": "Antique Pronssi",
+    "hex": "#665D1E"
+  },
+  {
+    "name": "Antique Fuchsia",
+    "hex": "#915C83"
+  },
+  {
+    "name": "Antique Rubiini",
+    "hex": "#841B2D"
+  },
+  {
+    "name": "Antique Valkoinen",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Ao (English)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Apple Vihreä",
+    "hex": "#8DB600"
+  },
+  {
+    "name": "Apricot",
+    "hex": "#FBCEB1"
+  },
+  {
+    "name": "Aqua",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Aquamarine",
+    "hex": "#7FFFD4"
+  },
+  {
+    "name": "Arctic Lime",
+    "hex": "#D0FF14"
+  },
+  {
+    "name": "Army Vihreä",
+    "hex": "#4B5320"
+  },
+  {
+    "name": "Arsenic",
+    "hex": "#3B444B"
+  },
+  {
+    "name": "Artichoke",
+    "hex": "#8F9779"
+  },
+  {
+    "name": "Arylide Keltainen",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Ash Harmaa",
+    "hex": "#B2BEB5"
+  },
+  {
+    "name": "Asparagus",
+    "hex": "#87A96B"
+  },
+  {
+    "name": "Atomic Tangerine",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Auburn",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Aureolin",
+    "hex": "#FDEE00"
+  },
+  {
+    "name": "AuroMetalSaurus",
+    "hex": "#6E7F80"
+  },
+  {
+    "name": "Avocado",
+    "hex": "#568203"
+  },
+  {
+    "name": "Awesome",
+    "hex": "#FF2052"
+  },
+  {
+    "name": "Aztec Kulta",
+    "hex": "#C39953"
+  },
+  {
+    "name": "Atsuuri",
+    "hex": "#007FFF"
+  },
+  {
+    "name": "Atsuuri (Web Color)",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Atsuuri Mist",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Azureish Valkoinen",
+    "hex": "#DBE9F4"
+  },
+  {
+    "name": "Baby Sininen",
+    "hex": "#89CFF0"
+  },
+  {
+    "name": "Baby Sininen Eyes",
+    "hex": "#A1CAF1"
+  },
+  {
+    "name": "Baby Pinkki",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Baby Powder",
+    "hex": "#FEFEFA"
+  },
+  {
+    "name": "Baker-Miller Pinkki",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "Ball Sininen",
+    "hex": "#21ABCD"
+  },
+  {
+    "name": "Banana Mania",
+    "hex": "#FAE7B5"
+  },
+  {
+    "name": "Banana Keltainen",
+    "hex": "#FFE135"
+  },
+  {
+    "name": "Bangladesh Vihreä",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Barbie Pinkki",
+    "hex": "#E0218A"
+  },
+  {
+    "name": "Barn Punainen",
+    "hex": "#7C0A02"
+  },
+  {
+    "name": "Battery Charged Sininen",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Battleship Harmaa",
+    "hex": "#848482"
+  },
+  {
+    "name": "Bazaar",
+    "hex": "#98777B"
+  },
+  {
+    "name": "Beau Sininen",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Beaver",
+    "hex": "#9F8170"
+  },
+  {
+    "name": "Begonia",
+    "hex": "#FA6E79"
+  },
+  {
+    "name": "Beige",
+    "hex": "#F5F5DC"
+  },
+  {
+    "name": "B'dazzled Sininen",
+    "hex": "#2E5894"
+  },
+  {
+    "name": "Big Dip O'ruby",
+    "hex": "#9C2542"
+  },
+  {
+    "name": "Big Foot Feet",
+    "hex": "#E88E5A"
+  },
+  {
+    "name": "Bisque",
+    "hex": "#FFE4C4"
+  },
+  {
+    "name": "Bistre",
+    "hex": "#3D2B1F"
+  },
+  {
+    "name": "Bistre Ruskea",
+    "hex": "#967117"
+  },
+  {
+    "name": "Bitter Lemon",
+    "hex": "#CAE00D"
+  },
+  {
+    "name": "Bitter Lime",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Bittersweet",
+    "hex": "#FE6F5E"
+  },
+  {
+    "name": "Bittersweet Shimmer",
+    "hex": "#BF4F51"
+  },
+  {
+    "name": "Musta",
+    "hex": "#000000"
+  },
+  {
+    "name": "Musta Bean",
+    "hex": "#3D0C02"
+  },
+  {
+    "name": "Musta Coral",
+    "hex": "#54626F"
+  },
+  {
+    "name": "Musta Leather Jacket",
+    "hex": "#253529"
+  },
+  {
+    "name": "Musta Oliivi",
+    "hex": "#3B3C36"
+  },
+  {
+    "name": "Musta Shadows",
+    "hex": "#BFAFB2"
+  },
+  {
+    "name": "Blanched Almond",
+    "hex": "#FFEBCD"
+  },
+  {
+    "name": "Blast-Off Pronssi",
+    "hex": "#A57164"
+  },
+  {
+    "name": "Bleu De France",
+    "hex": "#318CE7"
+  },
+  {
+    "name": "Blizzard Sininen",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Blond",
+    "hex": "#FAF0BE"
+  },
+  {
+    "name": "Sininen",
+    "hex": "#0000FF"
+  },
+  {
+    "name": "Sininen (Crayola)",
+    "hex": "#1F75FE"
+  },
+  {
+    "name": "Sininen (Munsell)",
+    "hex": "#0093AF"
+  },
+  {
+    "name": "Sininen (NCS)",
+    "hex": "#0087BD"
+  },
+  {
+    "name": "Sininen (Pantone)",
+    "hex": "#0018A8"
+  },
+  {
+    "name": "Sininen (Pigment)",
+    "hex": "#333399"
+  },
+  {
+    "name": "Sininen (RYB)",
+    "hex": "#0247FE"
+  },
+  {
+    "name": "Sininen Bell",
+    "hex": "#A2A2D0"
+  },
+  {
+    "name": "Sininen Bolt",
+    "hex": "#00B9FB"
+  },
+  {
+    "name": "Sininen-Harmaa",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Sininen-Vihreä",
+    "hex": "#0D98BA"
+  },
+  {
+    "name": "Sininen Jeans",
+    "hex": "#5DADEC"
+  },
+  {
+    "name": "Sininen Lagoon",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Sininen-Magenta Violetti",
+    "hex": "#553592"
+  },
+  {
+    "name": "Sininen Safiiri",
+    "hex": "#126180"
+  },
+  {
+    "name": "Sininen-Violetti",
+    "hex": "#8A2BE2"
+  },
+  {
+    "name": "Sininen Yonder",
+    "hex": "#5072A7"
+  },
+  {
+    "name": "Blueberry",
+    "hex": "#4F86F7"
+  },
+  {
+    "name": "Bluebonnet",
+    "hex": "#1C1CF0"
+  },
+  {
+    "name": "Blush",
+    "hex": "#DE5D83"
+  },
+  {
+    "name": "Bole",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Bondi Sininen",
+    "hex": "#0095B6"
+  },
+  {
+    "name": "Bone",
+    "hex": "#E3DAC9"
+  },
+  {
+    "name": "Booger Buster",
+    "hex": "#DDE26A"
+  },
+  {
+    "name": "Boston University Punainen",
+    "hex": "#CC0000"
+  },
+  {
+    "name": "Bottle Vihreä",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Boysenberry",
+    "hex": "#873260"
+  },
+  {
+    "name": "Brandeis Sininen",
+    "hex": "#0070FF"
+  },
+  {
+    "name": "Brass",
+    "hex": "#B5A642"
+  },
+  {
+    "name": "Brick Punainen",
+    "hex": "#CB4154"
+  },
+  {
+    "name": "Kirkas Cerulean",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Kirkas Vihreä",
+    "hex": "#66FF00"
+  },
+  {
+    "name": "Kirkas Laventeli",
+    "hex": "#BF94E4"
+  },
+  {
+    "name": "Kirkas Lilac",
+    "hex": "#D891EF"
+  },
+  {
+    "name": "Kirkas Kastanjanruskea",
+    "hex": "#C32148"
+  },
+  {
+    "name": "Kirkas Navy Sininen",
+    "hex": "#1974D2"
+  },
+  {
+    "name": "Kirkas Pinkki",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Kirkas Turkoosi",
+    "hex": "#08E8DE"
+  },
+  {
+    "name": "Kirkas Ube",
+    "hex": "#D19FE8"
+  },
+  {
+    "name": "Kirkas Keltainen (Crayola)",
+    "hex": "#FFAA1D"
+  },
+  {
+    "name": "Brilliant Atsuuri",
+    "hex": "#3399FF"
+  },
+  {
+    "name": "Brilliant Laventeli",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Brilliant Rose",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Brink Pinkki",
+    "hex": "#FB607F"
+  },
+  {
+    "name": "British Racing Vihreä",
+    "hex": "#004225"
+  },
+  {
+    "name": "Pronssi",
+    "hex": "#CD7F32"
+  },
+  {
+    "name": "Pronssi Keltainen",
+    "hex": "#737000"
+  },
+  {
+    "name": "Ruskea (Traditional)",
+    "hex": "#964B00"
+  },
+  {
+    "name": "Ruskea (Web)",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Ruskea-Nose",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Ruskea Sugar",
+    "hex": "#AF6E4D"
+  },
+  {
+    "name": "Ruskea Keltainen",
+    "hex": "#cc9966"
+  },
+  {
+    "name": "Brunswick Vihreä",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "Bubble Gum",
+    "hex": "#FFC1CC"
+  },
+  {
+    "name": "Bubbles",
+    "hex": "#E7FEFF"
+  },
+  {
+    "name": "Bud Vihreä",
+    "hex": "#7BB661"
+  },
+  {
+    "name": "Buff",
+    "hex": "#F0DC82"
+  },
+  {
+    "name": "Bulgarian Rose",
+    "hex": "#480607"
+  },
+  {
+    "name": "Burgundy",
+    "hex": "#800020"
+  },
+  {
+    "name": "Burlywood",
+    "hex": "#DEB887"
+  },
+  {
+    "name": "Burnished Ruskea",
+    "hex": "#A17A74"
+  },
+  {
+    "name": "Burnt Oranssi",
+    "hex": "#CC5500"
+  },
+  {
+    "name": "Burnt Sienna",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Burnt Umber",
+    "hex": "#8A3324"
+  },
+  {
+    "name": "Button Sininen",
+    "hex": "#24A0ED"
+  },
+  {
+    "name": "Byzantine",
+    "hex": "#BD33A4"
+  },
+  {
+    "name": "Byzantium",
+    "hex": "#702963"
+  },
+  {
+    "name": "Cadet",
+    "hex": "#536872"
+  },
+  {
+    "name": "Cadet Sininen",
+    "hex": "#5F9EA0"
+  },
+  {
+    "name": "Cadet Harmaa",
+    "hex": "#91A3B0"
+  },
+  {
+    "name": "Cadmium Vihreä",
+    "hex": "#006B3C"
+  },
+  {
+    "name": "Cadmium Oranssi",
+    "hex": "#ED872D"
+  },
+  {
+    "name": "Cadmium Punainen",
+    "hex": "#E30022"
+  },
+  {
+    "name": "Cadmium Keltainen",
+    "hex": "#FFF600"
+  },
+  {
+    "name": "Cafe Au Lait",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Cafe Noir",
+    "hex": "#4B3621"
+  },
+  {
+    "name": "Cal Poly Pomona Vihreä",
+    "hex": "#1E4D2B"
+  },
+  {
+    "name": "Cambridge Sininen",
+    "hex": "#A3C1AD"
+  },
+  {
+    "name": "Camel",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Cameo Pinkki",
+    "hex": "#EFBBCC"
+  },
+  {
+    "name": "Camouflage Vihreä",
+    "hex": "#78866B"
+  },
+  {
+    "name": "Canary",
+    "hex": "#FFFF99"
+  },
+  {
+    "name": "Canary Keltainen",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Candy Apple Punainen",
+    "hex": "#FF0800"
+  },
+  {
+    "name": "Candy Pinkki",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Capri",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Caput Mortuum",
+    "hex": "#592720"
+  },
+  {
+    "name": "Cardinal",
+    "hex": "#C41E3A"
+  },
+  {
+    "name": "Caribbean Vihreä",
+    "hex": "#00CC99"
+  },
+  {
+    "name": "Carmine",
+    "hex": "#960018"
+  },
+  {
+    "name": "Carmine (M&P)",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Carmine Pinkki",
+    "hex": "#EB4C42"
+  },
+  {
+    "name": "Carmine Punainen",
+    "hex": "#FF0038"
+  },
+  {
+    "name": "Carnation Pinkki",
+    "hex": "#FFA6C9"
+  },
+  {
+    "name": "Carnelian",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Carolina Sininen",
+    "hex": "#56A0D3"
+  },
+  {
+    "name": "Carrot Oranssi",
+    "hex": "#ED9121"
+  },
+  {
+    "name": "Castleton Vihreä",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Catalina Sininen",
+    "hex": "#062A78"
+  },
+  {
+    "name": "Catawba",
+    "hex": "#703642"
+  },
+  {
+    "name": "Cedar Chest",
+    "hex": "#C95A49"
+  },
+  {
+    "name": "Ceil",
+    "hex": "#92A1CF"
+  },
+  {
+    "name": "Celadon",
+    "hex": "#ACE1AF"
+  },
+  {
+    "name": "Celadon Sininen",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Celadon Vihreä",
+    "hex": "#2F847C"
+  },
+  {
+    "name": "Celeste",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Celestial Sininen",
+    "hex": "#4997D0"
+  },
+  {
+    "name": "Cerise",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cerise Pinkki",
+    "hex": "#EC3B83"
+  },
+  {
+    "name": "Cerulean",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Cerulean Sininen",
+    "hex": "#2A52BE"
+  },
+  {
+    "name": "Cerulean Frost",
+    "hex": "#6D9BC3"
+  },
+  {
+    "name": "CG Sininen",
+    "hex": "#007AA5"
+  },
+  {
+    "name": "CG Punainen",
+    "hex": "#E03C31"
+  },
+  {
+    "name": "Chamoisee",
+    "hex": "#A0785A"
+  },
+  {
+    "name": "Champagne",
+    "hex": "#F7E7CE"
+  },
+  {
+    "name": "Champagne Pinkki",
+    "hex": "#F1DDCF"
+  },
+  {
+    "name": "Charcoal",
+    "hex": "#36454F"
+  },
+  {
+    "name": "Charleston Vihreä",
+    "hex": "#232B2B"
+  },
+  {
+    "name": "Charm Pinkki",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Chartreuse (Traditional)",
+    "hex": "#DFFF00"
+  },
+  {
+    "name": "Chartreuse (Web)",
+    "hex": "#7FFF00"
+  },
+  {
+    "name": "Cherry",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cherry Blossom Pinkki",
+    "hex": "#FFB7C5"
+  },
+  {
+    "name": "Chestnut",
+    "hex": "#954535"
+  },
+  {
+    "name": "China Pinkki",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "China Rose",
+    "hex": "#A8516E"
+  },
+  {
+    "name": "Chinese Punainen",
+    "hex": "#AA381E"
+  },
+  {
+    "name": "Chinese Violetti",
+    "hex": "#856088"
+  },
+  {
+    "name": "Chlorophyll Vihreä",
+    "hex": "#4AFF00"
+  },
+  {
+    "name": "Chocolate (Traditional)",
+    "hex": "#7B3F00"
+  },
+  {
+    "name": "Chocolate (Web)",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Chrome Keltainen",
+    "hex": "#FFA700"
+  },
+  {
+    "name": "Cinereous",
+    "hex": "#98817B"
+  },
+  {
+    "name": "Cinnabar",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Cinnamon",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Cinnamon Satin",
+    "hex": "#CD607E"
+  },
+  {
+    "name": "Citrine",
+    "hex": "#E4D00A"
+  },
+  {
+    "name": "Citron",
+    "hex": "#9FA91F"
+  },
+  {
+    "name": "Claret",
+    "hex": "#7F1734"
+  },
+  {
+    "name": "Classic Rose",
+    "hex": "#FBCCE7"
+  },
+  {
+    "name": "Cobalt Sininen",
+    "hex": "#0047AB"
+  },
+  {
+    "name": "Cocoa Ruskea",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Coconut",
+    "hex": "#965A3E"
+  },
+  {
+    "name": "Coffee",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Columbia Sininen",
+    "hex": "#C4D8E2"
+  },
+  {
+    "name": "Congo Pinkki",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Cool Musta",
+    "hex": "#002E63"
+  },
+  {
+    "name": "Cool Harmaa",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "Kupari",
+    "hex": "#B87333"
+  },
+  {
+    "name": "Kupari (Crayola)",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "Kupari Penny",
+    "hex": "#AD6F69"
+  },
+  {
+    "name": "Kupari Punainen",
+    "hex": "#CB6D51"
+  },
+  {
+    "name": "Kupari Rose",
+    "hex": "#996666"
+  },
+  {
+    "name": "Coquelicot",
+    "hex": "#FF3800"
+  },
+  {
+    "name": "Coral",
+    "hex": "#FF7F50"
+  },
+  {
+    "name": "Coral Pinkki",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Coral Punainen",
+    "hex": "#FF4040"
+  },
+  {
+    "name": "Coral Reef",
+    "hex": "#FD7C6E"
+  },
+  {
+    "name": "Cordovan",
+    "hex": "#893F45"
+  },
+  {
+    "name": "Corn",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Cornell Punainen",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Cornflower Sininen",
+    "hex": "#6495ED"
+  },
+  {
+    "name": "Cornsilk",
+    "hex": "#FFF8DC"
+  },
+  {
+    "name": "Cosmic Cobalt",
+    "hex": "#2E2D88"
+  },
+  {
+    "name": "Cosmic Latte",
+    "hex": "#FFF8E7"
+  },
+  {
+    "name": "Coyote Ruskea",
+    "hex": "#81613C"
+  },
+  {
+    "name": "Cotton Candy",
+    "hex": "#FFBCD9"
+  },
+  {
+    "name": "Cream",
+    "hex": "#FFFDD0"
+  },
+  {
+    "name": "Karmiininpunainen",
+    "hex": "#DC143C"
+  },
+  {
+    "name": "Karmiininpunainen Glory",
+    "hex": "#BE0032"
+  },
+  {
+    "name": "Karmiininpunainen Punainen",
+    "hex": "#990000"
+  },
+  {
+    "name": "Cultured",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Syaani",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Syaani Atsuuri",
+    "hex": "#4E82B4"
+  },
+  {
+    "name": "Syaani-Sininen Atsuuri",
+    "hex": "#4682BF"
+  },
+  {
+    "name": "Syaani Cobalt Sininen",
+    "hex": "#28589C"
+  },
+  {
+    "name": "Syaani Cornflower Sininen",
+    "hex": "#188BC2"
+  },
+  {
+    "name": "Syaani (Process)",
+    "hex": "#00B7EB"
+  },
+  {
+    "name": "Cyber Grape",
+    "hex": "#58427C"
+  },
+  {
+    "name": "Cyber Keltainen",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Cyclamen",
+    "hex": "#F56FA1"
+  },
+  {
+    "name": "Daffodil",
+    "hex": "#FFFF31"
+  },
+  {
+    "name": "Dandelion",
+    "hex": "#F0E130"
+  },
+  {
+    "name": "Tumma Sininen",
+    "hex": "#00008B"
+  },
+  {
+    "name": "Tumma Sininen-Harmaa",
+    "hex": "#666699"
+  },
+  {
+    "name": "Tumma Ruskea",
+    "hex": "#654321"
+  },
+  {
+    "name": "Tumma Ruskea-Tangelo",
+    "hex": "#88654E"
+  },
+  {
+    "name": "Tumma Byzantium",
+    "hex": "#5D3954"
+  },
+  {
+    "name": "Tumma Candy Apple Punainen",
+    "hex": "#A40000"
+  },
+  {
+    "name": "Tumma Cerulean",
+    "hex": "#08457E"
+  },
+  {
+    "name": "Tumma Chestnut",
+    "hex": "#986960"
+  },
+  {
+    "name": "Tumma Coral",
+    "hex": "#CD5B45"
+  },
+  {
+    "name": "Tumma Syaani",
+    "hex": "#008B8B"
+  },
+  {
+    "name": "Tumma Electric Sininen",
+    "hex": "#536878"
+  },
+  {
+    "name": "Tumma Goldenrod",
+    "hex": "#B8860B"
+  },
+  {
+    "name": "Tumma Harmaa (X11)",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "Tumma Vihreä",
+    "hex": "#013220"
+  },
+  {
+    "name": "Tumma Vihreä (X11)",
+    "hex": "#006400"
+  },
+  {
+    "name": "Tumma Gunmetal",
+    "hex": "#1F262A"
+  },
+  {
+    "name": "Tumma Imperial Sininen",
+    "hex": "#00416A"
+  },
+  {
+    "name": "Tumma Imperial Sininen",
+    "hex": "#00147E"
+  },
+  {
+    "name": "Tumma Jungle Vihreä",
+    "hex": "#1A2421"
+  },
+  {
+    "name": "Tumma Khaki",
+    "hex": "#BDB76B"
+  },
+  {
+    "name": "Tumma Lava",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Tumma Laventeli",
+    "hex": "#734F96"
+  },
+  {
+    "name": "Tumma Liver",
+    "hex": "#534B4F"
+  },
+  {
+    "name": "Tumma Liver (Horses)",
+    "hex": "#543D37"
+  },
+  {
+    "name": "Tumma Magenta",
+    "hex": "#8B008B"
+  },
+  {
+    "name": "Tumma Medium Harmaa",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "Tumma Midnight Sininen",
+    "hex": "#003366"
+  },
+  {
+    "name": "Tumma Moss Vihreä",
+    "hex": "#4A5D23"
+  },
+  {
+    "name": "Tumma Oliivi Vihreä",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "Tumma Oranssi",
+    "hex": "#FF8C00"
+  },
+  {
+    "name": "Tumma Orchid",
+    "hex": "#9932CC"
+  },
+  {
+    "name": "Tumma Pastel Sininen",
+    "hex": "#779ECB"
+  },
+  {
+    "name": "Tumma Pastel Vihreä",
+    "hex": "#03C03C"
+  },
+  {
+    "name": "Tumma Pastel Violetti",
+    "hex": "#966FD6"
+  },
+  {
+    "name": "Tumma Pastel Punainen",
+    "hex": "#C23B22"
+  },
+  {
+    "name": "Tumma Pinkki",
+    "hex": "#E75480"
+  },
+  {
+    "name": "Tumma Powder Sininen",
+    "hex": "#003399"
+  },
+  {
+    "name": "Tumma Puce",
+    "hex": "#4F3A3C"
+  },
+  {
+    "name": "Tumma Violetti",
+    "hex": "#301934"
+  },
+  {
+    "name": "Tumma Raspberry",
+    "hex": "#872657"
+  },
+  {
+    "name": "Tumma Punainen",
+    "hex": "#8B0000"
+  },
+  {
+    "name": "Tumma Salmon",
+    "hex": "#E9967A"
+  },
+  {
+    "name": "Tumma Skarletti",
+    "hex": "#560319"
+  },
+  {
+    "name": "Tumma Sea Vihreä",
+    "hex": "#8FBC8F"
+  },
+  {
+    "name": "Tumma Sienna",
+    "hex": "#3C1414"
+  },
+  {
+    "name": "Tumma Sky Sininen",
+    "hex": "#8CBED6"
+  },
+  {
+    "name": "Tumma Slate Sininen",
+    "hex": "#483D8B"
+  },
+  {
+    "name": "Tumma Slate Harmaa",
+    "hex": "#2F4F4F"
+  },
+  {
+    "name": "Tumma Spring Vihreä",
+    "hex": "#177245"
+  },
+  {
+    "name": "Tumma Tan",
+    "hex": "#918151"
+  },
+  {
+    "name": "Tumma Tangerine",
+    "hex": "#FFA812"
+  },
+  {
+    "name": "Tumma Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Tumma Terra Cotta",
+    "hex": "#CC4E5C"
+  },
+  {
+    "name": "Tumma Turkoosi",
+    "hex": "#00CED1"
+  },
+  {
+    "name": "Tumma Vanilla",
+    "hex": "#D1BEA8"
+  },
+  {
+    "name": "Tumma Violetti",
+    "hex": "#9400D3"
+  },
+  {
+    "name": "Tumma Keltainen",
+    "hex": "#9B870C"
+  },
+  {
+    "name": "Dartmouth Vihreä",
+    "hex": "#00703C"
+  },
+  {
+    "name": "Davy's Harmaa",
+    "hex": "#555555"
+  },
+  {
+    "name": "Debian Punainen",
+    "hex": "#D70A53"
+  },
+  {
+    "name": "Syvä Aquamarine",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Syvä Carmine",
+    "hex": "#A9203E"
+  },
+  {
+    "name": "Syvä Carmine Pinkki",
+    "hex": "#EF3038"
+  },
+  {
+    "name": "Syvä Carrot Oranssi",
+    "hex": "#E9692C"
+  },
+  {
+    "name": "Syvä Cerise",
+    "hex": "#DA3287"
+  },
+  {
+    "name": "Syvä Champagne",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Syvä Chestnut",
+    "hex": "#B94E48"
+  },
+  {
+    "name": "Syvä Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Syvä Fuchsia",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Syvä Vihreä",
+    "hex": "#056608"
+  },
+  {
+    "name": "Syvä Vihreä-Syaani Turkoosi",
+    "hex": "#0E7C61"
+  },
+  {
+    "name": "Syvä Jungle Vihreä",
+    "hex": "#004B49"
+  },
+  {
+    "name": "Syvä Koamaru",
+    "hex": "#333366"
+  },
+  {
+    "name": "Syvä Lemon",
+    "hex": "#F5C71A"
+  },
+  {
+    "name": "Syvä Lilac",
+    "hex": "#9955BB"
+  },
+  {
+    "name": "Syvä Magenta",
+    "hex": "#CC00CC"
+  },
+  {
+    "name": "Syvä Kastanjanruskea",
+    "hex": "#820000"
+  },
+  {
+    "name": "Syvä Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "Syvä Moss Vihreä",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Syvä Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Syvä Pinkki",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Syvä Puce",
+    "hex": "#A95C68"
+  },
+  {
+    "name": "Syvä Punainen",
+    "hex": "#850101"
+  },
+  {
+    "name": "Syvä Rubiini",
+    "hex": "#843F5B"
+  },
+  {
+    "name": "Syvä Saffron",
+    "hex": "#FF9933"
+  },
+  {
+    "name": "Syvä Sky Sininen",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Syvä Space Sparkle",
+    "hex": "#4A646C"
+  },
+  {
+    "name": "Syvä Spring Bud",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "Syvä Taupe",
+    "hex": "#7E5E60"
+  },
+  {
+    "name": "Syvä Tuscan Punainen",
+    "hex": "#66424D"
+  },
+  {
+    "name": "Syvä Violetti",
+    "hex": "#330066"
+  },
+  {
+    "name": "Deer",
+    "hex": "#BA8759"
+  },
+  {
+    "name": "Denim",
+    "hex": "#1560BD"
+  },
+  {
+    "name": "Denim Sininen",
+    "hex": "#2243B6"
+  },
+  {
+    "name": "Desaturated Syaani",
+    "hex": "#669999"
+  },
+  {
+    "name": "Desert",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Desert Sand",
+    "hex": "#EDC9AF"
+  },
+  {
+    "name": "Desire",
+    "hex": "#EA3C53"
+  },
+  {
+    "name": "Diamond",
+    "hex": "#B9F2FF"
+  },
+  {
+    "name": "Dim Harmaa",
+    "hex": "#696969"
+  },
+  {
+    "name": "Dingy Dungeon",
+    "hex": "#C53151"
+  },
+  {
+    "name": "Dirt",
+    "hex": "#9B7653"
+  },
+  {
+    "name": "Dodger Sininen",
+    "hex": "#1E90FF"
+  },
+  {
+    "name": "Dodie Keltainen",
+    "hex": "#FEF65B"
+  },
+  {
+    "name": "Dogwood Rose",
+    "hex": "#D71868"
+  },
+  {
+    "name": "Dollar Bill",
+    "hex": "#85BB65"
+  },
+  {
+    "name": "Dolphin Harmaa",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Donkey Ruskea",
+    "hex": "#664C28"
+  },
+  {
+    "name": "Drab",
+    "hex": "#967117"
+  },
+  {
+    "name": "Duke Sininen",
+    "hex": "#00009C"
+  },
+  {
+    "name": "Dust Storm",
+    "hex": "#E5CCC9"
+  },
+  {
+    "name": "Dutch Valkoinen",
+    "hex": "#EFDFBB"
+  },
+  {
+    "name": "Earth Keltainen",
+    "hex": "#E1A95F"
+  },
+  {
+    "name": "Ebony",
+    "hex": "#555D50"
+  },
+  {
+    "name": "Ecru",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Eerie Musta",
+    "hex": "#1B1B1B"
+  },
+  {
+    "name": "Eggplant",
+    "hex": "#614051"
+  },
+  {
+    "name": "Eggshell",
+    "hex": "#F0EAD6"
+  },
+  {
+    "name": "Egyptian Sininen",
+    "hex": "#1034A6"
+  },
+  {
+    "name": "Electric Sininen",
+    "hex": "#7DF9FF"
+  },
+  {
+    "name": "Electric Karmiininpunainen",
+    "hex": "#FF003F"
+  },
+  {
+    "name": "Electric Syaani",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Electric Vihreä",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Electric Indigo",
+    "hex": "#6F00FF"
+  },
+  {
+    "name": "Electric Laventeli",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Electric Lime",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Electric Violetti",
+    "hex": "#BF00FF"
+  },
+  {
+    "name": "Electric Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Electric Violetti",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Electric Keltainen",
+    "hex": "#FFFF33"
+  },
+  {
+    "name": "Smaragdi",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Eminence",
+    "hex": "#6C3082"
+  },
+  {
+    "name": "English Vihreä",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "English Laventeli",
+    "hex": "#B48395"
+  },
+  {
+    "name": "English Punainen",
+    "hex": "#AB4B52"
+  },
+  {
+    "name": "English Vermillion",
+    "hex": "#CC474B"
+  },
+  {
+    "name": "English Violetti",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Eton Sininen",
+    "hex": "#96C8A2"
+  },
+  {
+    "name": "Eucalyptus",
+    "hex": "#44D7A8"
+  },
+  {
+    "name": "Fallow",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Falu Punainen",
+    "hex": "#801818"
+  },
+  {
+    "name": "Fandango",
+    "hex": "#B53389"
+  },
+  {
+    "name": "Fandango Pinkki",
+    "hex": "#DE5285"
+  },
+  {
+    "name": "Fashion Fuchsia",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Fawn",
+    "hex": "#E5AA70"
+  },
+  {
+    "name": "Feldgrau",
+    "hex": "#4D5D53"
+  },
+  {
+    "name": "Feldspar",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Fern Vihreä",
+    "hex": "#4F7942"
+  },
+  {
+    "name": "Ferrari Punainen",
+    "hex": "#FF2800"
+  },
+  {
+    "name": "Field Drab",
+    "hex": "#6C541E"
+  },
+  {
+    "name": "Fiery Rose",
+    "hex": "#FF5470"
+  },
+  {
+    "name": "Firebrick",
+    "hex": "#B22222"
+  },
+  {
+    "name": "Fire Engine Punainen",
+    "hex": "#CE2029"
+  },
+  {
+    "name": "Flame",
+    "hex": "#E25822"
+  },
+  {
+    "name": "Flamingo Pinkki",
+    "hex": "#FC8EAC"
+  },
+  {
+    "name": "Flattery",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Flavescent",
+    "hex": "#F7E98E"
+  },
+  {
+    "name": "Flax",
+    "hex": "#EEDC82"
+  },
+  {
+    "name": "Flirt",
+    "hex": "#A2006D"
+  },
+  {
+    "name": "Floral Valkoinen",
+    "hex": "#FFFAF0"
+  },
+  {
+    "name": "Fluorescent Oranssi",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Fluorescent Pinkki",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Fluorescent Keltainen",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Folly",
+    "hex": "#FF004F"
+  },
+  {
+    "name": "Forest Vihreä (Traditional)",
+    "hex": "#014421"
+  },
+  {
+    "name": "Forest Vihreä (Web)",
+    "hex": "#228B22"
+  },
+  {
+    "name": "French Beige",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "French Bistre",
+    "hex": "#856D4D"
+  },
+  {
+    "name": "French Sininen",
+    "hex": "#0072BB"
+  },
+  {
+    "name": "French Fuchsia",
+    "hex": "#FD3F92"
+  },
+  {
+    "name": "French Lilac",
+    "hex": "#86608E"
+  },
+  {
+    "name": "French Lime",
+    "hex": "#9EFD38"
+  },
+  {
+    "name": "French Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "French Pinkki",
+    "hex": "#FD6C9E"
+  },
+  {
+    "name": "French Plum",
+    "hex": "#811453"
+  },
+  {
+    "name": "French Puce",
+    "hex": "#4E1609"
+  },
+  {
+    "name": "French Raspberry",
+    "hex": "#C72C48"
+  },
+  {
+    "name": "French Rose",
+    "hex": "#F64A8A"
+  },
+  {
+    "name": "French Sky Sininen",
+    "hex": "#77B5FE"
+  },
+  {
+    "name": "French Violetti",
+    "hex": "#8806CE"
+  },
+  {
+    "name": "French Wine",
+    "hex": "#AC1E44"
+  },
+  {
+    "name": "Fresh Air",
+    "hex": "#A6E7FF"
+  },
+  {
+    "name": "Frogert",
+    "hex": "#E936A7"
+  },
+  {
+    "name": "Fuchsia",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Fuchsia (Crayola)",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Fuchsia Pinkki",
+    "hex": "#FF77FF"
+  },
+  {
+    "name": "Fuchsia Violetti",
+    "hex": "#CC397B"
+  },
+  {
+    "name": "Fuchsia Rose",
+    "hex": "#C74375"
+  },
+  {
+    "name": "Fulvous",
+    "hex": "#E48400"
+  },
+  {
+    "name": "Fuzzy Wuzzy",
+    "hex": "#CC6666"
+  },
+  {
+    "name": "Gainsboro",
+    "hex": "#DCDCDC"
+  },
+  {
+    "name": "Gamboge",
+    "hex": "#E49B0F"
+  },
+  {
+    "name": "Gamboge Oranssi (Ruskea)",
+    "hex": "#996600"
+  },
+  {
+    "name": "Gargoyle Gas",
+    "hex": "#FFDF46"
+  },
+  {
+    "name": "Generic Viridian",
+    "hex": "#007F66"
+  },
+  {
+    "name": "Ghost Valkoinen",
+    "hex": "#F8F8FF"
+  },
+  {
+    "name": "Giant's Club",
+    "hex": "#B05C52"
+  },
+  {
+    "name": "Giants Oranssi",
+    "hex": "#FE5A1D"
+  },
+  {
+    "name": "Ginger",
+    "hex": "#B06500"
+  },
+  {
+    "name": "Glaucous",
+    "hex": "#6082B6"
+  },
+  {
+    "name": "Glitter",
+    "hex": "#E6E8FA"
+  },
+  {
+    "name": "Glossy Grape",
+    "hex": "#AB92B3"
+  },
+  {
+    "name": "GO Vihreä",
+    "hex": "#00AB66"
+  },
+  {
+    "name": "Kulta (Metallic)",
+    "hex": "#D4AF37"
+  },
+  {
+    "name": "Kulta (Web) (Golden)",
+    "hex": "#FFD700"
+  },
+  {
+    "name": "Kulta Fusion",
+    "hex": "#85754E"
+  },
+  {
+    "name": "Golden Ruskea",
+    "hex": "#996515"
+  },
+  {
+    "name": "Golden Poppy",
+    "hex": "#FCC200"
+  },
+  {
+    "name": "Golden Keltainen",
+    "hex": "#FFDF00"
+  },
+  {
+    "name": "Goldenrod",
+    "hex": "#DAA520"
+  },
+  {
+    "name": "Granite Harmaa",
+    "hex": "#676767"
+  },
+  {
+    "name": "Granny Smith Apple",
+    "hex": "#A8E4A0"
+  },
+  {
+    "name": "Grape",
+    "hex": "#6F2DA8"
+  },
+  {
+    "name": "Harmaa",
+    "hex": "#808080"
+  },
+  {
+    "name": "Harmaa (HTML/CSS Harmaa)",
+    "hex": "#808080"
+  },
+  {
+    "name": "Harmaa (X11 Harmaa)",
+    "hex": "#BEBEBE"
+  },
+  {
+    "name": "Harmaa-Asparagus",
+    "hex": "#465945"
+  },
+  {
+    "name": "Harmaa-Sininen",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "Vihreä (Color Wheel) (X11 Vihreä)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Vihreä (Crayola)",
+    "hex": "#1CAC78"
+  },
+  {
+    "name": "Vihreä (HTML/CSS Color)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Vihreä (Munsell)",
+    "hex": "#00A877"
+  },
+  {
+    "name": "Vihreä (NCS)",
+    "hex": "#009F6B"
+  },
+  {
+    "name": "Vihreä (Pantone)",
+    "hex": "#00AD43"
+  },
+  {
+    "name": "Vihreä (Pigment)",
+    "hex": "#00A550"
+  },
+  {
+    "name": "Vihreä (RYB)",
+    "hex": "#66B032"
+  },
+  {
+    "name": "Vihreä-Sininen",
+    "hex": "#1164B4"
+  },
+  {
+    "name": "Vihreä-Syaani",
+    "hex": "#009966"
+  },
+  {
+    "name": "Vihreä Lizard",
+    "hex": "#A7F432"
+  },
+  {
+    "name": "Vihreä Sheen",
+    "hex": "#6EAEA1"
+  },
+  {
+    "name": "Vihreä-Keltainen",
+    "hex": "#ADFF2F"
+  },
+  {
+    "name": "Grizzly",
+    "hex": "#885818"
+  },
+  {
+    "name": "Grullo",
+    "hex": "#A99A86"
+  },
+  {
+    "name": "Guppie Vihreä",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Gunmetal",
+    "hex": "#2a3439"
+  },
+  {
+    "name": "Halaya Ube",
+    "hex": "#663854"
+  },
+  {
+    "name": "Han Sininen",
+    "hex": "#446CCF"
+  },
+  {
+    "name": "Han Violetti",
+    "hex": "#5218FA"
+  },
+  {
+    "name": "Hansa Keltainen",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Harlequin",
+    "hex": "#3FFF00"
+  },
+  {
+    "name": "Harlequin Vihreä",
+    "hex": "#46CB18"
+  },
+  {
+    "name": "Harvard Karmiininpunainen",
+    "hex": "#C90016"
+  },
+  {
+    "name": "Harvest Kulta",
+    "hex": "#DA9100"
+  },
+  {
+    "name": "Heart Kulta",
+    "hex": "#808000"
+  },
+  {
+    "name": "Heat Wave",
+    "hex": "#FF7A00"
+  },
+  {
+    "name": "Heidelberg Punainen",
+    "hex": "#960018"
+  },
+  {
+    "name": "Heliotrope",
+    "hex": "#DF73FF"
+  },
+  {
+    "name": "Heliotrope Harmaa",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Heliotrope Magenta",
+    "hex": "#AA00BB"
+  },
+  {
+    "name": "Hollywood Cerise",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Honeydew",
+    "hex": "#F0FFF0"
+  },
+  {
+    "name": "Honolulu Sininen",
+    "hex": "#006DB0"
+  },
+  {
+    "name": "Hooker's Vihreä",
+    "hex": "#49796B"
+  },
+  {
+    "name": "Hot Magenta",
+    "hex": "#FF1DCE"
+  },
+  {
+    "name": "Hot Pinkki",
+    "hex": "#FF69B4"
+  },
+  {
+    "name": "Hunter Vihreä",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Iceberg",
+    "hex": "#71A6D2"
+  },
+  {
+    "name": "Icterine",
+    "hex": "#FCF75E"
+  },
+  {
+    "name": "Iguana Vihreä",
+    "hex": "#71BC78"
+  },
+  {
+    "name": "Illuminating Smaragdi",
+    "hex": "#319177"
+  },
+  {
+    "name": "Imperial",
+    "hex": "#602F6B"
+  },
+  {
+    "name": "Imperial Sininen",
+    "hex": "#002395"
+  },
+  {
+    "name": "Imperial Violetti",
+    "hex": "#66023C"
+  },
+  {
+    "name": "Imperial Punainen",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Inchworm",
+    "hex": "#B2EC5D"
+  },
+  {
+    "name": "Independence",
+    "hex": "#4C516D"
+  },
+  {
+    "name": "India Vihreä",
+    "hex": "#138808"
+  },
+  {
+    "name": "Indian Punainen",
+    "hex": "#CD5C5C"
+  },
+  {
+    "name": "Indian Keltainen",
+    "hex": "#E3A857"
+  },
+  {
+    "name": "Indigo",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Indigo Dye",
+    "hex": "#091F92"
+  },
+  {
+    "name": "Indigo (Web)",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Infra Punainen",
+    "hex": "#FF496C"
+  },
+  {
+    "name": "Interdimensional Sininen",
+    "hex": "#360CCC"
+  },
+  {
+    "name": "International Klein Sininen",
+    "hex": "#002FA7"
+  },
+  {
+    "name": "International Oranssi (Aerospace)",
+    "hex": "#FF4F00"
+  },
+  {
+    "name": "International Oranssi (Engineering)",
+    "hex": "#BA160C"
+  },
+  {
+    "name": "International Oranssi (Golden Gate Bridge)",
+    "hex": "#C0362C"
+  },
+  {
+    "name": "Iris",
+    "hex": "#5A4FCF"
+  },
+  {
+    "name": "Irresistible",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Isabelline",
+    "hex": "#F4F0EC"
+  },
+  {
+    "name": "Islamic Vihreä",
+    "hex": "#009000"
+  },
+  {
+    "name": "Italian Sky Sininen",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Ivory",
+    "hex": "#FFFFF0"
+  },
+  {
+    "name": "Jade",
+    "hex": "#00A86B"
+  },
+  {
+    "name": "Japanese Carmine",
+    "hex": "#9D2933"
+  },
+  {
+    "name": "Japanese Indigo",
+    "hex": "#264348"
+  },
+  {
+    "name": "Japanese Violetti",
+    "hex": "#5B3256"
+  },
+  {
+    "name": "Jasmine",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Jasper",
+    "hex": "#D73B3E"
+  },
+  {
+    "name": "Jazzberry Jam",
+    "hex": "#A50B5E"
+  },
+  {
+    "name": "Jelly Bean",
+    "hex": "#DA614E"
+  },
+  {
+    "name": "Jet",
+    "hex": "#343434"
+  },
+  {
+    "name": "Jonquil",
+    "hex": "#F4CA16"
+  },
+  {
+    "name": "Jordy Sininen",
+    "hex": "#8AB9F1"
+  },
+  {
+    "name": "June Bud",
+    "hex": "#BDDA57"
+  },
+  {
+    "name": "Jungle Vihreä",
+    "hex": "#29AB87"
+  },
+  {
+    "name": "Kelly Vihreä",
+    "hex": "#4CBB17"
+  },
+  {
+    "name": "Kenyan Kupari",
+    "hex": "#7C1C05"
+  },
+  {
+    "name": "Keppel",
+    "hex": "#3AB09E"
+  },
+  {
+    "name": "Key Lime",
+    "hex": "#E8F48C"
+  },
+  {
+    "name": "Khaki (HTML/CSS) (Khaki)",
+    "hex": "#C3B091"
+  },
+  {
+    "name": "Khaki (X11) (Vaalea Khaki)",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Kiwi",
+    "hex": "#8EE53F"
+  },
+  {
+    "name": "Kobe",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Kobi",
+    "hex": "#E79FC4"
+  },
+  {
+    "name": "Kobicha",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Kombu Vihreä",
+    "hex": "#354230"
+  },
+  {
+    "name": "KSU Violetti",
+    "hex": "#512888"
+  },
+  {
+    "name": "KU Karmiininpunainen",
+    "hex": "#E8000D"
+  },
+  {
+    "name": "La Salle Vihreä",
+    "hex": "#087830"
+  },
+  {
+    "name": "Languid Laventeli",
+    "hex": "#D6CADD"
+  },
+  {
+    "name": "Lapis Lazuli",
+    "hex": "#26619C"
+  },
+  {
+    "name": "Laser Lemon",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "Laurel Vihreä",
+    "hex": "#A9BA9D"
+  },
+  {
+    "name": "Lava",
+    "hex": "#CF1020"
+  },
+  {
+    "name": "Laventeli (Floral)",
+    "hex": "#B57EDC"
+  },
+  {
+    "name": "Laventeli (Web)",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "Laventeli Sininen",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Laventeli Blush",
+    "hex": "#FFF0F5"
+  },
+  {
+    "name": "Laventeli Harmaa",
+    "hex": "#C4C3D0"
+  },
+  {
+    "name": "Laventeli Indigo",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Laventeli Magenta",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "Laventeli Mist",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "Laventeli Pinkki",
+    "hex": "#FBAED2"
+  },
+  {
+    "name": "Laventeli Violetti",
+    "hex": "#967BB6"
+  },
+  {
+    "name": "Laventeli Rose",
+    "hex": "#FBA0E3"
+  },
+  {
+    "name": "Lawn Vihreä",
+    "hex": "#7CFC00"
+  },
+  {
+    "name": "Lemon",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Lemon Chiffon",
+    "hex": "#FFFACD"
+  },
+  {
+    "name": "Lemon Curry",
+    "hex": "#CCA01D"
+  },
+  {
+    "name": "Lemon Glacier",
+    "hex": "#FDFF00"
+  },
+  {
+    "name": "Lemon Lime",
+    "hex": "#E3FF00"
+  },
+  {
+    "name": "Lemon Meringue",
+    "hex": "#F6EABE"
+  },
+  {
+    "name": "Lemon Keltainen",
+    "hex": "#FFF44F"
+  },
+  {
+    "name": "Licorice",
+    "hex": "#1A1110"
+  },
+  {
+    "name": "Liberty",
+    "hex": "#545AA7"
+  },
+  {
+    "name": "Vaalea Apricot",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Vaalea Sininen",
+    "hex": "#ADD8E6"
+  },
+  {
+    "name": "Vaalea Ruskea",
+    "hex": "#B5651D"
+  },
+  {
+    "name": "Vaalea Carmine Pinkki",
+    "hex": "#E66771"
+  },
+  {
+    "name": "Vaalea Cobalt Sininen",
+    "hex": "#88ACE0"
+  },
+  {
+    "name": "Vaalea Coral",
+    "hex": "#F08080"
+  },
+  {
+    "name": "Vaalea Cornflower Sininen",
+    "hex": "#93CCEA"
+  },
+  {
+    "name": "Vaalea Karmiininpunainen",
+    "hex": "#F56991"
+  },
+  {
+    "name": "Vaalea Syaani",
+    "hex": "#E0FFFF"
+  },
+  {
+    "name": "Vaalea Syvä Pinkki",
+    "hex": "#FF5CCD"
+  },
+  {
+    "name": "Vaalea French Beige",
+    "hex": "#C8AD7F"
+  },
+  {
+    "name": "Vaalea Fuchsia Pinkki",
+    "hex": "#F984EF"
+  },
+  {
+    "name": "Vaalea Goldenrod Keltainen",
+    "hex": "#FAFAD2"
+  },
+  {
+    "name": "Vaalea Harmaa",
+    "hex": "#D3D3D3"
+  },
+  {
+    "name": "Vaalea Grayish Magenta",
+    "hex": "#CC99CC"
+  },
+  {
+    "name": "Vaalea Vihreä",
+    "hex": "#90EE90"
+  },
+  {
+    "name": "Vaalea Hot Pinkki",
+    "hex": "#FFB3DE"
+  },
+  {
+    "name": "Vaalea Khaki",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Vaalea Medium Orchid",
+    "hex": "#D39BCB"
+  },
+  {
+    "name": "Vaalea Moss Vihreä",
+    "hex": "#ADDFAD"
+  },
+  {
+    "name": "Vaalea Oranssi",
+    "hex": "#FED8B1"
+  },
+  {
+    "name": "Vaalea Orchid",
+    "hex": "#E6A8D7"
+  },
+  {
+    "name": "Vaalea Pastel Violetti",
+    "hex": "#B19CD9"
+  },
+  {
+    "name": "Vaalea Pinkki",
+    "hex": "#FFB6C1"
+  },
+  {
+    "name": "Vaalea Punainen Ochre",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Vaalea Salmon",
+    "hex": "#FFA07A"
+  },
+  {
+    "name": "Vaalea Salmon Pinkki",
+    "hex": "#FF9999"
+  },
+  {
+    "name": "Vaalea Sea Vihreä",
+    "hex": "#20B2AA"
+  },
+  {
+    "name": "Vaalea Sky Sininen",
+    "hex": "#87CEFA"
+  },
+  {
+    "name": "Vaalea Slate Harmaa",
+    "hex": "#778899"
+  },
+  {
+    "name": "Vaalea Steel Sininen",
+    "hex": "#B0C4DE"
+  },
+  {
+    "name": "Vaalea Taupe",
+    "hex": "#B38B6D"
+  },
+  {
+    "name": "Vaalea Thulian Pinkki",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Vaalea Keltainen",
+    "hex": "#FFFFE0"
+  },
+  {
+    "name": "Lilac",
+    "hex": "#C8A2C8"
+  },
+  {
+    "name": "Lilac Luster",
+    "hex": "#AE98AA"
+  },
+  {
+    "name": "Lime (Color Wheel)",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Lime (Web) (X11 Vihreä)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Lime Vihreä",
+    "hex": "#32CD32"
+  },
+  {
+    "name": "Limerick",
+    "hex": "#9DC209"
+  },
+  {
+    "name": "Lincoln Vihreä",
+    "hex": "#195905"
+  },
+  {
+    "name": "Linen",
+    "hex": "#FAF0E6"
+  },
+  {
+    "name": "Loeen (Lopen) Look",
+    "hex": "#15F2FD"
+  },
+  {
+    "name": "Liseran Violetti",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Little Boy Sininen",
+    "hex": "#6CA0DC"
+  },
+  {
+    "name": "Liver",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Liver (Dogs)",
+    "hex": "#B86D29"
+  },
+  {
+    "name": "Liver (Organ)",
+    "hex": "#6C2E1F"
+  },
+  {
+    "name": "Liver Chestnut",
+    "hex": "#987456"
+  },
+  {
+    "name": "Livid",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Lumber",
+    "hex": "#FFE4CD"
+  },
+  {
+    "name": "Lust",
+    "hex": "#E62020"
+  },
+  {
+    "name": "Maastricht Sininen",
+    "hex": "#001C3D"
+  },
+  {
+    "name": "Macaroni And Cheese",
+    "hex": "#FFBD88"
+  },
+  {
+    "name": "Madder Lake",
+    "hex": "#CC3336"
+  },
+  {
+    "name": "Magenta",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Magenta (Crayola)",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Magenta (Dye)",
+    "hex": "#CA1F7B"
+  },
+  {
+    "name": "Magenta (Pantone)",
+    "hex": "#D0417E"
+  },
+  {
+    "name": "Magenta (Process)",
+    "hex": "#FF0090"
+  },
+  {
+    "name": "Magenta Haze",
+    "hex": "#9F4576"
+  },
+  {
+    "name": "Magenta-Pinkki",
+    "hex": "#CC338B"
+  },
+  {
+    "name": "Magic Mint",
+    "hex": "#AAF0D1"
+  },
+  {
+    "name": "Magic Potion",
+    "hex": "#FF4466"
+  },
+  {
+    "name": "Magnolia",
+    "hex": "#F8F4FF"
+  },
+  {
+    "name": "Mahogany",
+    "hex": "#C04000"
+  },
+  {
+    "name": "Maize",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Majorelle Sininen",
+    "hex": "#6050DC"
+  },
+  {
+    "name": "Malachite",
+    "hex": "#0BDA51"
+  },
+  {
+    "name": "Manatee",
+    "hex": "#979AAA"
+  },
+  {
+    "name": "Mandarin",
+    "hex": "#F37A48"
+  },
+  {
+    "name": "Mango Tango",
+    "hex": "#FF8243"
+  },
+  {
+    "name": "Mantis",
+    "hex": "#74C365"
+  },
+  {
+    "name": "Mardi Gras",
+    "hex": "#880085"
+  },
+  {
+    "name": "Marigold",
+    "hex": "#EAA221"
+  },
+  {
+    "name": "Kastanjanruskea (Crayola)",
+    "hex": "#C32148"
+  },
+  {
+    "name": "Kastanjanruskea (HTML/CSS)",
+    "hex": "#800000"
+  },
+  {
+    "name": "Kastanjanruskea (X11)",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Mauve",
+    "hex": "#E0B0FF"
+  },
+  {
+    "name": "Mauve Taupe",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Mauvelous",
+    "hex": "#EF98AA"
+  },
+  {
+    "name": "Maximum Sininen",
+    "hex": "#47ABCC"
+  },
+  {
+    "name": "Maximum Sininen Vihreä",
+    "hex": "#30BFBF"
+  },
+  {
+    "name": "Maximum Sininen Violetti",
+    "hex": "#ACACE6"
+  },
+  {
+    "name": "Maximum Vihreä",
+    "hex": "#5E8C31"
+  },
+  {
+    "name": "Maximum Vihreä Keltainen",
+    "hex": "#D9E650"
+  },
+  {
+    "name": "Maximum Violetti",
+    "hex": "#733380"
+  },
+  {
+    "name": "Maximum Punainen",
+    "hex": "#D92121"
+  },
+  {
+    "name": "Maximum Punainen Violetti",
+    "hex": "#A63A79"
+  },
+  {
+    "name": "Maximum Keltainen",
+    "hex": "#FAFA37"
+  },
+  {
+    "name": "Maximum Keltainen Punainen",
+    "hex": "#F2BA49"
+  },
+  {
+    "name": "May Vihreä",
+    "hex": "#4C9141"
+  },
+  {
+    "name": "Maya Sininen",
+    "hex": "#73C2FB"
+  },
+  {
+    "name": "Meat Ruskea",
+    "hex": "#E5B73B"
+  },
+  {
+    "name": "Medium Aquamarine",
+    "hex": "#66DDAA"
+  },
+  {
+    "name": "Medium Sininen",
+    "hex": "#0000CD"
+  },
+  {
+    "name": "Medium Candy Apple Punainen",
+    "hex": "#E2062C"
+  },
+  {
+    "name": "Medium Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Medium Champagne",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Medium Electric Sininen",
+    "hex": "#035096"
+  },
+  {
+    "name": "Medium Jungle Vihreä",
+    "hex": "#1C352D"
+  },
+  {
+    "name": "Medium Laventeli Magenta",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Medium Orchid",
+    "hex": "#BA55D3"
+  },
+  {
+    "name": "Medium Persian Sininen",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Medium Violetti",
+    "hex": "#9370DB"
+  },
+  {
+    "name": "Medium Punainen-Violetti",
+    "hex": "#BB3385"
+  },
+  {
+    "name": "Medium Rubiini",
+    "hex": "#AA4069"
+  },
+  {
+    "name": "Medium Sea Vihreä",
+    "hex": "#3CB371"
+  },
+  {
+    "name": "Medium Sky Sininen",
+    "hex": "#80DAEB"
+  },
+  {
+    "name": "Medium Slate Sininen",
+    "hex": "#7B68EE"
+  },
+  {
+    "name": "Medium Spring Bud",
+    "hex": "#C9DC87"
+  },
+  {
+    "name": "Medium Spring Vihreä",
+    "hex": "#00FA9A"
+  },
+  {
+    "name": "Medium Taupe",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Medium Turkoosi",
+    "hex": "#48D1CC"
+  },
+  {
+    "name": "Medium Tuscan Punainen",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Medium Vermilion",
+    "hex": "#D9603B"
+  },
+  {
+    "name": "Medium Violetti-Punainen",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Mellow Apricot",
+    "hex": "#F8B878"
+  },
+  {
+    "name": "Mellow Keltainen",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Melon",
+    "hex": "#FDBCB4"
+  },
+  {
+    "name": "Metallic Seaweed",
+    "hex": "#0A7E8C"
+  },
+  {
+    "name": "Metallic Sunburst",
+    "hex": "#9C7C38"
+  },
+  {
+    "name": "Mexican Pinkki",
+    "hex": "#E4007C"
+  },
+  {
+    "name": "Middle Sininen",
+    "hex": "#7ED4E6"
+  },
+  {
+    "name": "Middle Sininen Vihreä",
+    "hex": "#8DD9CC"
+  },
+  {
+    "name": "Middle Sininen Violetti",
+    "hex": "#8B72BE"
+  },
+  {
+    "name": "Middle Punainen Violetti",
+    "hex": "#210837"
+  },
+  {
+    "name": "Middle Vihreä",
+    "hex": "#4D8C57"
+  },
+  {
+    "name": "Middle Vihreä Keltainen",
+    "hex": "#ACBF60"
+  },
+  {
+    "name": "Middle Violetti",
+    "hex": "#D982B5"
+  },
+  {
+    "name": "Middle Punainen",
+    "hex": "#E58E73"
+  },
+  {
+    "name": "Middle Punainen Violetti",
+    "hex": "#A55353"
+  },
+  {
+    "name": "Middle Keltainen",
+    "hex": "#FFEB00"
+  },
+  {
+    "name": "Middle Keltainen Punainen",
+    "hex": "#ECB176"
+  },
+  {
+    "name": "Midnight",
+    "hex": "#702670"
+  },
+  {
+    "name": "Midnight Sininen",
+    "hex": "#191970"
+  },
+  {
+    "name": "Midnight Vihreä (Eagle Vihreä)",
+    "hex": "#004953"
+  },
+  {
+    "name": "Mikado Keltainen",
+    "hex": "#FFC40C"
+  },
+  {
+    "name": "Milk",
+    "hex": "#FDFFF5"
+  },
+  {
+    "name": "Mimi Pinkki",
+    "hex": "#FFDAE9"
+  },
+  {
+    "name": "Mindaro",
+    "hex": "#E3F988"
+  },
+  {
+    "name": "Ming",
+    "hex": "#36747D"
+  },
+  {
+    "name": "Minion Keltainen",
+    "hex": "#F5E050"
+  },
+  {
+    "name": "Mint",
+    "hex": "#3EB489"
+  },
+  {
+    "name": "Mint Cream",
+    "hex": "#F5FFFA"
+  },
+  {
+    "name": "Mint Vihreä",
+    "hex": "#98FF98"
+  },
+  {
+    "name": "Misty Moss",
+    "hex": "#BBB477"
+  },
+  {
+    "name": "Misty Rose",
+    "hex": "#FFE4E1"
+  },
+  {
+    "name": "Moccasin",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Mode Beige",
+    "hex": "#967117"
+  },
+  {
+    "name": "Moonstone Sininen",
+    "hex": "#73A9C2"
+  },
+  {
+    "name": "Mordant Punainen 19",
+    "hex": "#AE0C00"
+  },
+  {
+    "name": "Morning Sininen",
+    "hex": "#8DA399"
+  },
+  {
+    "name": "Moss Vihreä",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Mountain Meadow",
+    "hex": "#30BA8F"
+  },
+  {
+    "name": "Mountbatten Pinkki",
+    "hex": "#997A8D"
+  },
+  {
+    "name": "MSU Vihreä",
+    "hex": "#18453B"
+  },
+  {
+    "name": "Mughal Vihreä",
+    "hex": "#306030"
+  },
+  {
+    "name": "Mulberry",
+    "hex": "#C54B8C"
+  },
+  {
+    "name": "Mummy's Tomb",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Mustard",
+    "hex": "#FFDB58"
+  },
+  {
+    "name": "Myrtle Vihreä",
+    "hex": "#317873"
+  },
+  {
+    "name": "Mystic",
+    "hex": "#D65282"
+  },
+  {
+    "name": "Mystic Kastanjanruskea",
+    "hex": "#AD4379"
+  },
+  {
+    "name": "Nadeshiko Pinkki",
+    "hex": "#F6ADC6"
+  },
+  {
+    "name": "Napier Vihreä",
+    "hex": "#2A8000"
+  },
+  {
+    "name": "Naples Keltainen",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Navajo Valkoinen",
+    "hex": "#FFDEAD"
+  },
+  {
+    "name": "Navy",
+    "hex": "#000080"
+  },
+  {
+    "name": "Navy Violetti",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Neon Carrot",
+    "hex": "#FFA343"
+  },
+  {
+    "name": "Neon Fuchsia",
+    "hex": "#FE4164"
+  },
+  {
+    "name": "Neon Vihreä",
+    "hex": "#39FF14"
+  },
+  {
+    "name": "New Car",
+    "hex": "#214FC6"
+  },
+  {
+    "name": "New York Pinkki",
+    "hex": "#D7837F"
+  },
+  {
+    "name": "Nickel",
+    "hex": "#727472"
+  },
+  {
+    "name": "Non-Photo Sininen",
+    "hex": "#A4DDED"
+  },
+  {
+    "name": "North Texas Vihreä",
+    "hex": "#059033"
+  },
+  {
+    "name": "Nyanza",
+    "hex": "#E9FFDB"
+  },
+  {
+    "name": "Ocean Sininen",
+    "hex": "#4F42B5"
+  },
+  {
+    "name": "Ocean Boat Sininen",
+    "hex": "#0077BE"
+  },
+  {
+    "name": "Ocean Vihreä",
+    "hex": "#48BF91"
+  },
+  {
+    "name": "Ochre",
+    "hex": "#CC7722"
+  },
+  {
+    "name": "Office Vihreä",
+    "hex": "#008000"
+  },
+  {
+    "name": "Ogre Odor",
+    "hex": "#FD5240"
+  },
+  {
+    "name": "Old Burgundy",
+    "hex": "#43302E"
+  },
+  {
+    "name": "Old Kulta",
+    "hex": "#CFB53B"
+  },
+  {
+    "name": "Old Heliotrope",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Old Lace",
+    "hex": "#FDF5E6"
+  },
+  {
+    "name": "Old Laventeli",
+    "hex": "#796878"
+  },
+  {
+    "name": "Old Mauve",
+    "hex": "#673147"
+  },
+  {
+    "name": "Old Moss Vihreä",
+    "hex": "#867E36"
+  },
+  {
+    "name": "Old Rose",
+    "hex": "#C08081"
+  },
+  {
+    "name": "Old Hopea",
+    "hex": "#848482"
+  },
+  {
+    "name": "Oliivi",
+    "hex": "#808000"
+  },
+  {
+    "name": "Oliivi Drab (#3)",
+    "hex": "#6B8E23"
+  },
+  {
+    "name": "Oliivi Drab #7",
+    "hex": "#3C341F"
+  },
+  {
+    "name": "Olivine",
+    "hex": "#9AB973"
+  },
+  {
+    "name": "Onyx",
+    "hex": "#353839"
+  },
+  {
+    "name": "Opera Mauve",
+    "hex": "#B784A7"
+  },
+  {
+    "name": "Oranssi (Color Wheel)",
+    "hex": "#FF7F00"
+  },
+  {
+    "name": "Oranssi (Crayola)",
+    "hex": "#FF7538"
+  },
+  {
+    "name": "Oranssi (Pantone)",
+    "hex": "#FF5800"
+  },
+  {
+    "name": "Oranssi (RYB)",
+    "hex": "#FB9902"
+  },
+  {
+    "name": "Oranssi (Web)",
+    "hex": "#FFA500"
+  },
+  {
+    "name": "Oranssi Peel",
+    "hex": "#FF9F00"
+  },
+  {
+    "name": "Oranssi-Punainen",
+    "hex": "#FF4500"
+  },
+  {
+    "name": "Oranssi Soda",
+    "hex": "#FA5B3D"
+  },
+  {
+    "name": "Oranssi-Keltainen",
+    "hex": "#F8D568"
+  },
+  {
+    "name": "Orchid",
+    "hex": "#DA70D6"
+  },
+  {
+    "name": "Orchid Pinkki",
+    "hex": "#F2BDCD"
+  },
+  {
+    "name": "Orioles Oranssi",
+    "hex": "#FB4F14"
+  },
+  {
+    "name": "Otter Ruskea",
+    "hex": "#654321"
+  },
+  {
+    "name": "Outer Space",
+    "hex": "#414A4C"
+  },
+  {
+    "name": "Outrageous Oranssi",
+    "hex": "#FF6E4A"
+  },
+  {
+    "name": "Oxford Sininen",
+    "hex": "#002147"
+  },
+  {
+    "name": "OU Karmiininpunainen Punainen",
+    "hex": "#990000"
+  },
+  {
+    "name": "Pacific Sininen",
+    "hex": "#1CA9C9"
+  },
+  {
+    "name": "Pakistan Vihreä",
+    "hex": "#006600"
+  },
+  {
+    "name": "Palatinate Sininen",
+    "hex": "#273BE2"
+  },
+  {
+    "name": "Palatinate Violetti",
+    "hex": "#682860"
+  },
+  {
+    "name": "Haalea Aqua",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Haalea Sininen",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "Haalea Ruskea",
+    "hex": "#987654"
+  },
+  {
+    "name": "Haalea Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Haalea Cerulean",
+    "hex": "#9BC4E2"
+  },
+  {
+    "name": "Haalea Chestnut",
+    "hex": "#DDADAF"
+  },
+  {
+    "name": "Haalea Kupari",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "Haalea Cornflower Sininen",
+    "hex": "#ABCDEF"
+  },
+  {
+    "name": "Haalea Syaani",
+    "hex": "#87D3F8"
+  },
+  {
+    "name": "Haalea Kulta",
+    "hex": "#E6BE8A"
+  },
+  {
+    "name": "Haalea Goldenrod",
+    "hex": "#EEE8AA"
+  },
+  {
+    "name": "Haalea Vihreä",
+    "hex": "#98FB98"
+  },
+  {
+    "name": "Haalea Laventeli",
+    "hex": "#DCD0FF"
+  },
+  {
+    "name": "Haalea Magenta",
+    "hex": "#F984E5"
+  },
+  {
+    "name": "Haalea Magenta-Pinkki",
+    "hex": "#FF99CC"
+  },
+  {
+    "name": "Haalea Pinkki",
+    "hex": "#FADADD"
+  },
+  {
+    "name": "Haalea Plum",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Haalea Punainen-Violetti",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Haalea Robin Egg Sininen",
+    "hex": "#96DED1"
+  },
+  {
+    "name": "Haalea Hopea",
+    "hex": "#C9C0BB"
+  },
+  {
+    "name": "Haalea Spring Bud",
+    "hex": "#ECEBBD"
+  },
+  {
+    "name": "Haalea Taupe",
+    "hex": "#BC987E"
+  },
+  {
+    "name": "Haalea Turkoosi",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "Haalea Violetti",
+    "hex": "#CC99FF"
+  },
+  {
+    "name": "Haalea Violetti-Punainen",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Palm Leaf",
+    "hex": "#6F9940"
+  },
+  {
+    "name": "Pansy Violetti",
+    "hex": "#78184A"
+  },
+  {
+    "name": "Paolo Veronese Vihreä",
+    "hex": "#009B7D"
+  },
+  {
+    "name": "Papaya Whip",
+    "hex": "#FFEFD5"
+  },
+  {
+    "name": "Paradise Pinkki",
+    "hex": "#E63E62"
+  },
+  {
+    "name": "Paris Vihreä",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Parrot Pinkki",
+    "hex": "#D998A0"
+  },
+  {
+    "name": "Pastel Sininen",
+    "hex": "#AEC6CF"
+  },
+  {
+    "name": "Pastel Ruskea",
+    "hex": "#836953"
+  },
+  {
+    "name": "Pastel Harmaa",
+    "hex": "#CFCFC4"
+  },
+  {
+    "name": "Pastel Vihreä",
+    "hex": "#77DD77"
+  },
+  {
+    "name": "Pastel Magenta",
+    "hex": "#F49AC2"
+  },
+  {
+    "name": "Pastel Oranssi",
+    "hex": "#FFB347"
+  },
+  {
+    "name": "Pastel Pinkki",
+    "hex": "#DEA5A4"
+  },
+  {
+    "name": "Pastel Violetti",
+    "hex": "#B39EB5"
+  },
+  {
+    "name": "Pastel Punainen",
+    "hex": "#FF6961"
+  },
+  {
+    "name": "Pastel Violetti",
+    "hex": "#CB99C9"
+  },
+  {
+    "name": "Pastel Keltainen",
+    "hex": "#FDFD96"
+  },
+  {
+    "name": "Patriarch",
+    "hex": "#800080"
+  },
+  {
+    "name": "Payne's Harmaa",
+    "hex": "#536878"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFE5B4"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Peach-Oranssi",
+    "hex": "#FFCC99"
+  },
+  {
+    "name": "Peach Puff",
+    "hex": "#FFDAB9"
+  },
+  {
+    "name": "Peach-Keltainen",
+    "hex": "#FADFAD"
+  },
+  {
+    "name": "Pear",
+    "hex": "#D1E231"
+  },
+  {
+    "name": "Pearl",
+    "hex": "#EAE0C8"
+  },
+  {
+    "name": "Pearl Aqua",
+    "hex": "#88D8C0"
+  },
+  {
+    "name": "Pearly Violetti",
+    "hex": "#B768A2"
+  },
+  {
+    "name": "Peridot",
+    "hex": "#E6E200"
+  },
+  {
+    "name": "Periwinkle",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Permanent Geranium Lake",
+    "hex": "#E12C2C"
+  },
+  {
+    "name": "Persian Sininen",
+    "hex": "#1C39BB"
+  },
+  {
+    "name": "Persian Vihreä",
+    "hex": "#00A693"
+  },
+  {
+    "name": "Persian Indigo",
+    "hex": "#32127A"
+  },
+  {
+    "name": "Persian Oranssi",
+    "hex": "#D99058"
+  },
+  {
+    "name": "Persian Pinkki",
+    "hex": "#F77FBE"
+  },
+  {
+    "name": "Persian Plum",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Persian Punainen",
+    "hex": "#CC3333"
+  },
+  {
+    "name": "Persian Rose",
+    "hex": "#FE28A2"
+  },
+  {
+    "name": "Persimmon",
+    "hex": "#EC5800"
+  },
+  {
+    "name": "Peru",
+    "hex": "#CD853F"
+  },
+  {
+    "name": "Pewter Sininen",
+    "hex": "#8BA8B7"
+  },
+  {
+    "name": "Phlox",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Phthalo Sininen",
+    "hex": "#000F89"
+  },
+  {
+    "name": "Phthalo Vihreä",
+    "hex": "#123524"
+  },
+  {
+    "name": "Picton Sininen",
+    "hex": "#45B1E8"
+  },
+  {
+    "name": "Pictorial Carmine",
+    "hex": "#C30B4E"
+  },
+  {
+    "name": "Piggy Pinkki",
+    "hex": "#FDDDE6"
+  },
+  {
+    "name": "Pine Vihreä",
+    "hex": "#01796F"
+  },
+  {
+    "name": "Pineapple",
+    "hex": "#563C0D"
+  },
+  {
+    "name": "Pinkki",
+    "hex": "#FFC0CB"
+  },
+  {
+    "name": "Pinkki (Pantone)",
+    "hex": "#D74894"
+  },
+  {
+    "name": "Pinkki Flamingo",
+    "hex": "#FC74FD"
+  },
+  {
+    "name": "Pinkki Lace",
+    "hex": "#FFDDF4"
+  },
+  {
+    "name": "Pinkki Laventeli",
+    "hex": "#D8B2D1"
+  },
+  {
+    "name": "Pinkki-Oranssi",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Pinkki Pearl",
+    "hex": "#E7ACCF"
+  },
+  {
+    "name": "Pinkki Raspberry",
+    "hex": "#980036"
+  },
+  {
+    "name": "Pinkki Sherbet",
+    "hex": "#F78FA7"
+  },
+  {
+    "name": "Pistachio",
+    "hex": "#93C572"
+  },
+  {
+    "name": "Pixie Powder",
+    "hex": "#391285"
+  },
+  {
+    "name": "Platinum",
+    "hex": "#E5E4E2"
+  },
+  {
+    "name": "Plum",
+    "hex": "#8E4585"
+  },
+  {
+    "name": "Plum (Web)",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Plump Violetti",
+    "hex": "#5946B2"
+  },
+  {
+    "name": "Polished Pine",
+    "hex": "#5DA493"
+  },
+  {
+    "name": "Pomp And Power",
+    "hex": "#86608E"
+  },
+  {
+    "name": "Popstar",
+    "hex": "#BE4F62"
+  },
+  {
+    "name": "Portland Oranssi",
+    "hex": "#FF5A36"
+  },
+  {
+    "name": "Powder Sininen",
+    "hex": "#B0E0E6"
+  },
+  {
+    "name": "Princess Perfume",
+    "hex": "#FF85CF"
+  },
+  {
+    "name": "Princeton Oranssi",
+    "hex": "#F58025"
+  },
+  {
+    "name": "Prune",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Prussian Sininen",
+    "hex": "#003153"
+  },
+  {
+    "name": "Psychedelic Violetti",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Puce",
+    "hex": "#CC8899"
+  },
+  {
+    "name": "Puce Punainen",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Pullman Ruskea (UPS Ruskea)",
+    "hex": "#644117"
+  },
+  {
+    "name": "Pullman Vihreä",
+    "hex": "#3B331C"
+  },
+  {
+    "name": "Pumpkin",
+    "hex": "#FF7518"
+  },
+  {
+    "name": "Violetti (HTML)",
+    "hex": "#800080"
+  },
+  {
+    "name": "Violetti (Munsell)",
+    "hex": "#9F00C5"
+  },
+  {
+    "name": "Violetti (X11)",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Violetti Heart",
+    "hex": "#69359C"
+  },
+  {
+    "name": "Violetti Mountain Majesty",
+    "hex": "#9678B6"
+  },
+  {
+    "name": "Violetti Navy",
+    "hex": "#4E5180"
+  },
+  {
+    "name": "Violetti Pizzazz",
+    "hex": "#FE4EDA"
+  },
+  {
+    "name": "Violetti Plum",
+    "hex": "#9C51B6"
+  },
+  {
+    "name": "Violetti Taupe",
+    "hex": "#50404D"
+  },
+  {
+    "name": "Purpureus",
+    "hex": "#9A4EAE"
+  },
+  {
+    "name": "Quartz",
+    "hex": "#51484F"
+  },
+  {
+    "name": "Queen Sininen",
+    "hex": "#436B95"
+  },
+  {
+    "name": "Queen Pinkki",
+    "hex": "#E8CCD7"
+  },
+  {
+    "name": "Quick Hopea",
+    "hex": "#A6A6A6"
+  },
+  {
+    "name": "Quinacridone Magenta",
+    "hex": "#8E3A59"
+  },
+  {
+    "name": "Rackley",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Radical Punainen",
+    "hex": "#FF355E"
+  },
+  {
+    "name": "Raisin Musta",
+    "hex": "#242124"
+  },
+  {
+    "name": "Rajah",
+    "hex": "#FBAB60"
+  },
+  {
+    "name": "Raspberry",
+    "hex": "#E30B5D"
+  },
+  {
+    "name": "Raspberry Glace",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Raspberry Pinkki",
+    "hex": "#E25098"
+  },
+  {
+    "name": "Raspberry Rose",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Raw Sienna",
+    "hex": "#D68A59"
+  },
+  {
+    "name": "Raw Umber",
+    "hex": "#826644"
+  },
+  {
+    "name": "Razzle Dazzle Rose",
+    "hex": "#FF33CC"
+  },
+  {
+    "name": "Razzmatazz",
+    "hex": "#E3256B"
+  },
+  {
+    "name": "Razzmic Berry",
+    "hex": "#8D4E85"
+  },
+  {
+    "name": "Rebecca Violetti",
+    "hex": "#663399"
+  },
+  {
+    "name": "Punainen",
+    "hex": "#FF0000"
+  },
+  {
+    "name": "Punainen (Crayola)",
+    "hex": "#EE204D"
+  },
+  {
+    "name": "Punainen (Munsell)",
+    "hex": "#F2003C"
+  },
+  {
+    "name": "Punainen (NCS)",
+    "hex": "#C40233"
+  },
+  {
+    "name": "Punainen (Pantone)",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Punainen (Pigment)",
+    "hex": "#ED1C24"
+  },
+  {
+    "name": "Punainen (RYB)",
+    "hex": "#FE2712"
+  },
+  {
+    "name": "Punainen-Ruskea",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Punainen Devil",
+    "hex": "#860111"
+  },
+  {
+    "name": "Punainen-Oranssi",
+    "hex": "#FF5349"
+  },
+  {
+    "name": "Punainen-Violetti",
+    "hex": "#E40078"
+  },
+  {
+    "name": "Punainen Salsa",
+    "hex": "#FD3A4A"
+  },
+  {
+    "name": "Punainen-Violetti",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Redwood",
+    "hex": "#A45A52"
+  },
+  {
+    "name": "Regalia",
+    "hex": "#522D80"
+  },
+  {
+    "name": "Registration Musta",
+    "hex": "#000000"
+  },
+  {
+    "name": "Resolution Sininen",
+    "hex": "#002387"
+  },
+  {
+    "name": "Rhythm",
+    "hex": "#777696"
+  },
+  {
+    "name": "Syvä Musta",
+    "hex": "#004040"
+  },
+  {
+    "name": "Syvä Musta (FOGRA29)",
+    "hex": "#010B13"
+  },
+  {
+    "name": "Syvä Musta (FOGRA39)",
+    "hex": "#010203"
+  },
+  {
+    "name": "Syvä Brilliant Laventeli",
+    "hex": "#F1A7FE"
+  },
+  {
+    "name": "Syvä Carmine",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Syvä Electric Sininen",
+    "hex": "#0892D0"
+  },
+  {
+    "name": "Syvä Laventeli",
+    "hex": "#A76BCF"
+  },
+  {
+    "name": "Syvä Lilac",
+    "hex": "#B666D2"
+  },
+  {
+    "name": "Syvä Kastanjanruskea",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Rifle Vihreä",
+    "hex": "#444C38"
+  },
+  {
+    "name": "Roast Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Robin Egg Sininen",
+    "hex": "#00CCCC"
+  },
+  {
+    "name": "Rocket Metallic",
+    "hex": "#8A7F80"
+  },
+  {
+    "name": "Roman Hopea",
+    "hex": "#838996"
+  },
+  {
+    "name": "Rose",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Rose Bonbon",
+    "hex": "#F9429E"
+  },
+  {
+    "name": "Rose Dust",
+    "hex": "#9E5E6F"
+  },
+  {
+    "name": "Rose Ebony",
+    "hex": "#674846"
+  },
+  {
+    "name": "Rose Kulta",
+    "hex": "#B76E79"
+  },
+  {
+    "name": "Rose Madder",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Rose Pinkki",
+    "hex": "#FF66CC"
+  },
+  {
+    "name": "Rose Quartz",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Rose Punainen",
+    "hex": "#C21E56"
+  },
+  {
+    "name": "Rose Taupe",
+    "hex": "#905D5D"
+  },
+  {
+    "name": "Rose Vale",
+    "hex": "#AB4E52"
+  },
+  {
+    "name": "Rosewood",
+    "hex": "#65000B"
+  },
+  {
+    "name": "Rosso Corsa",
+    "hex": "#D40000"
+  },
+  {
+    "name": "Rosy Ruskea",
+    "hex": "#BC8F8F"
+  },
+  {
+    "name": "Royal Atsuuri",
+    "hex": "#0038A8"
+  },
+  {
+    "name": "Royal Sininen",
+    "hex": "#002366"
+  },
+  {
+    "name": "Royal Sininen",
+    "hex": "#4169E1"
+  },
+  {
+    "name": "Royal Fuchsia",
+    "hex": "#CA2C92"
+  },
+  {
+    "name": "Royal Violetti",
+    "hex": "#7851A9"
+  },
+  {
+    "name": "Royal Keltainen",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Ruber",
+    "hex": "#CE4676"
+  },
+  {
+    "name": "Rubine Punainen",
+    "hex": "#D10056"
+  },
+  {
+    "name": "Rubiini",
+    "hex": "#E0115F"
+  },
+  {
+    "name": "Rubiini Punainen",
+    "hex": "#9B111E"
+  },
+  {
+    "name": "Ruddy",
+    "hex": "#FF0028"
+  },
+  {
+    "name": "Ruddy Ruskea",
+    "hex": "#BB6528"
+  },
+  {
+    "name": "Ruddy Pinkki",
+    "hex": "#E18E96"
+  },
+  {
+    "name": "Rufous",
+    "hex": "#A81C07"
+  },
+  {
+    "name": "Russet",
+    "hex": "#80461B"
+  },
+  {
+    "name": "Russian Vihreä",
+    "hex": "#679267"
+  },
+  {
+    "name": "Russian Violetti",
+    "hex": "#32174D"
+  },
+  {
+    "name": "Rust",
+    "hex": "#B7410E"
+  },
+  {
+    "name": "Rusty Punainen",
+    "hex": "#DA2C43"
+  },
+  {
+    "name": "Sacramento State Vihreä",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Saddle Ruskea",
+    "hex": "#8B4513"
+  },
+  {
+    "name": "Safety Oranssi",
+    "hex": "#FF7800"
+  },
+  {
+    "name": "Safety Oranssi (Blaze Oranssi)",
+    "hex": "#FF6700"
+  },
+  {
+    "name": "Safety Keltainen",
+    "hex": "#EED202"
+  },
+  {
+    "name": "Saffron",
+    "hex": "#F4C430"
+  },
+  {
+    "name": "Sage",
+    "hex": "#BCB88A"
+  },
+  {
+    "name": "St. Patrick's Sininen",
+    "hex": "#23297A"
+  },
+  {
+    "name": "Salmon",
+    "hex": "#FA8072"
+  },
+  {
+    "name": "Salmon Pinkki",
+    "hex": "#FF91A4"
+  },
+  {
+    "name": "Sand",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Sand Dune",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sandstorm",
+    "hex": "#ECD540"
+  },
+  {
+    "name": "Sandy Ruskea",
+    "hex": "#F4A460"
+  },
+  {
+    "name": "Sandy Tan",
+    "hex": "#FDD9B5"
+  },
+  {
+    "name": "Sandy Taupe",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sangria",
+    "hex": "#92000A"
+  },
+  {
+    "name": "Sap Vihreä",
+    "hex": "#507D2A"
+  },
+  {
+    "name": "Safiiri",
+    "hex": "#0F52BA"
+  },
+  {
+    "name": "Safiiri Sininen",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Sasquatch Socks",
+    "hex": "#FF4681"
+  },
+  {
+    "name": "Satin Sheen Kulta",
+    "hex": "#CBA135"
+  },
+  {
+    "name": "Skarletti",
+    "hex": "#FF2400"
+  },
+  {
+    "name": "Skarletti",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Schauss Pinkki",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "School Bus Keltainen",
+    "hex": "#FFD800"
+  },
+  {
+    "name": "Screamin' Vihreä",
+    "hex": "#66FF66"
+  },
+  {
+    "name": "Sea Sininen",
+    "hex": "#006994"
+  },
+  {
+    "name": "Sea Foam Vihreä",
+    "hex": "#9FE2BF"
+  },
+  {
+    "name": "Sea Vihreä",
+    "hex": "#2E8B57"
+  },
+  {
+    "name": "Sea Serpent",
+    "hex": "#4BC7CF"
+  },
+  {
+    "name": "Seal Ruskea",
+    "hex": "#59260B"
+  },
+  {
+    "name": "Seashell",
+    "hex": "#FFF5EE"
+  },
+  {
+    "name": "Selective Keltainen",
+    "hex": "#FFBA00"
+  },
+  {
+    "name": "Sepia",
+    "hex": "#704214"
+  },
+  {
+    "name": "Shadow",
+    "hex": "#8A795D"
+  },
+  {
+    "name": "Shadow Sininen",
+    "hex": "#778BA5"
+  },
+  {
+    "name": "Shampoo",
+    "hex": "#FFCFF1"
+  },
+  {
+    "name": "Shamrock Vihreä",
+    "hex": "#009E60"
+  },
+  {
+    "name": "Sheen Vihreä",
+    "hex": "#8FD400"
+  },
+  {
+    "name": "Shimmering Blush",
+    "hex": "#D98695"
+  },
+  {
+    "name": "Shiny Shamrock",
+    "hex": "#5FA778"
+  },
+  {
+    "name": "Shocking Pinkki",
+    "hex": "#FC0FC0"
+  },
+  {
+    "name": "Shocking Pinkki (Crayola)",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Sienna",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Hopea",
+    "hex": "#C0C0C0"
+  },
+  {
+    "name": "Hopea Chalice",
+    "hex": "#ACACAC"
+  },
+  {
+    "name": "Hopea Lake Sininen",
+    "hex": "#5D89BA"
+  },
+  {
+    "name": "Hopea Pinkki",
+    "hex": "#C4AEAD"
+  },
+  {
+    "name": "Hopea Sand",
+    "hex": "#BFC1C2"
+  },
+  {
+    "name": "Sinopia",
+    "hex": "#CB410B"
+  },
+  {
+    "name": "Sizzling Punainen",
+    "hex": "#FF3855"
+  },
+  {
+    "name": "Sizzling Sunrise",
+    "hex": "#FFDB00"
+  },
+  {
+    "name": "Skobeloff",
+    "hex": "#007474"
+  },
+  {
+    "name": "Sky Sininen",
+    "hex": "#87CEEB"
+  },
+  {
+    "name": "Sky Magenta",
+    "hex": "#CF71AF"
+  },
+  {
+    "name": "Slate Sininen",
+    "hex": "#6A5ACD"
+  },
+  {
+    "name": "Slate Harmaa",
+    "hex": "#708090"
+  },
+  {
+    "name": "Smalt (Tumma Powder Sininen)",
+    "hex": "#003399"
+  },
+  {
+    "name": "Slimy Vihreä",
+    "hex": "#299617"
+  },
+  {
+    "name": "Smashed Pumpkin",
+    "hex": "#FF6D3A"
+  },
+  {
+    "name": "Smitten",
+    "hex": "#C84186"
+  },
+  {
+    "name": "Smoke",
+    "hex": "#738276"
+  },
+  {
+    "name": "Smokey Topaz",
+    "hex": "#832A0D"
+  },
+  {
+    "name": "Smoky Musta",
+    "hex": "#100C08"
+  },
+  {
+    "name": "Smoky Topaz",
+    "hex": "#933D41"
+  },
+  {
+    "name": "Snow",
+    "hex": "#FFFAFA"
+  },
+  {
+    "name": "Soap",
+    "hex": "#CEC8EF"
+  },
+  {
+    "name": "Solid Pinkki",
+    "hex": "#893843"
+  },
+  {
+    "name": "Sonic Hopea",
+    "hex": "#757575"
+  },
+  {
+    "name": "Spartan Karmiininpunainen",
+    "hex": "#9E1316"
+  },
+  {
+    "name": "Space Cadet",
+    "hex": "#1D2951"
+  },
+  {
+    "name": "Spanish Bistre",
+    "hex": "#807532"
+  },
+  {
+    "name": "Spanish Sininen",
+    "hex": "#0070B8"
+  },
+  {
+    "name": "Spanish Carmine",
+    "hex": "#D10047"
+  },
+  {
+    "name": "Spanish Karmiininpunainen",
+    "hex": "#E51A4C"
+  },
+  {
+    "name": "Spanish Harmaa",
+    "hex": "#989898"
+  },
+  {
+    "name": "Spanish Vihreä",
+    "hex": "#009150"
+  },
+  {
+    "name": "Spanish Oranssi",
+    "hex": "#E86100"
+  },
+  {
+    "name": "Spanish Pinkki",
+    "hex": "#F7BFBE"
+  },
+  {
+    "name": "Spanish Punainen",
+    "hex": "#E60026"
+  },
+  {
+    "name": "Spanish Sky Sininen",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Spanish Violetti",
+    "hex": "#4C2882"
+  },
+  {
+    "name": "Spanish Viridian",
+    "hex": "#007F5C"
+  },
+  {
+    "name": "Spicy Mix",
+    "hex": "#8B5f4D"
+  },
+  {
+    "name": "Spiro Disco Ball",
+    "hex": "#0FC0FC"
+  },
+  {
+    "name": "Spring Bud",
+    "hex": "#A7FC00"
+  },
+  {
+    "name": "Spring Frost",
+    "hex": "#87FF2A"
+  },
+  {
+    "name": "Spring Vihreä",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Star Command Sininen",
+    "hex": "#007BB8"
+  },
+  {
+    "name": "Steel Sininen",
+    "hex": "#4682B4"
+  },
+  {
+    "name": "Steel Pinkki",
+    "hex": "#CC33CC"
+  },
+  {
+    "name": "Steel Sinivihreä",
+    "hex": "#5F8A8B"
+  },
+  {
+    "name": "Stil De Grain Keltainen",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Stizza",
+    "hex": "#990000"
+  },
+  {
+    "name": "Stormcloud",
+    "hex": "#4F666A"
+  },
+  {
+    "name": "Straw",
+    "hex": "#E4D96F"
+  },
+  {
+    "name": "Strawberry",
+    "hex": "#FC5A8D"
+  },
+  {
+    "name": "Sugar Plum",
+    "hex": "#914E75"
+  },
+  {
+    "name": "Sunburnt Cyclops",
+    "hex": "#FF404C"
+  },
+  {
+    "name": "Sunglow",
+    "hex": "#FFCC33"
+  },
+  {
+    "name": "Sunny",
+    "hex": "#F2F27A"
+  },
+  {
+    "name": "Sunray",
+    "hex": "#E3AB57"
+  },
+  {
+    "name": "Sunset",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Sunset Oranssi",
+    "hex": "#FD5E53"
+  },
+  {
+    "name": "Super Pinkki",
+    "hex": "#CF6BA9"
+  },
+  {
+    "name": "Sweet Ruskea",
+    "hex": "#A83731"
+  },
+  {
+    "name": "Tan",
+    "hex": "#D2B48C"
+  },
+  {
+    "name": "Tangelo",
+    "hex": "#F94D00"
+  },
+  {
+    "name": "Tangerine",
+    "hex": "#F28500"
+  },
+  {
+    "name": "Tangerine Keltainen",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "Tango Pinkki",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Tart Oranssi",
+    "hex": "#FB4D46"
+  },
+  {
+    "name": "Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Taupe Harmaa",
+    "hex": "#8B8589"
+  },
+  {
+    "name": "Tea Vihreä",
+    "hex": "#D0F0C0"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Sinivihreä",
+    "hex": "#008080"
+  },
+  {
+    "name": "Sinivihreä Sininen",
+    "hex": "#367588"
+  },
+  {
+    "name": "Sinivihreä Deer",
+    "hex": "#99E6B3"
+  },
+  {
+    "name": "Sinivihreä Vihreä",
+    "hex": "#00827F"
+  },
+  {
+    "name": "Telemagenta",
+    "hex": "#CF3476"
+  },
+  {
+    "name": "Tenne (Tawny)",
+    "hex": "#CD5700"
+  },
+  {
+    "name": "Terra Cotta",
+    "hex": "#E2725B"
+  },
+  {
+    "name": "Thistle",
+    "hex": "#D8BFD8"
+  },
+  {
+    "name": "Thulian Pinkki",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Tickle Me Pinkki",
+    "hex": "#FC89AC"
+  },
+  {
+    "name": "Tiffany Sininen",
+    "hex": "#0ABAB5"
+  },
+  {
+    "name": "Tiger's Eye",
+    "hex": "#E08D3C"
+  },
+  {
+    "name": "Timberwolf",
+    "hex": "#DBD7D2"
+  },
+  {
+    "name": "Titanium Keltainen",
+    "hex": "#EEE600"
+  },
+  {
+    "name": "Tomato",
+    "hex": "#FF6347"
+  },
+  {
+    "name": "Toolbox",
+    "hex": "#746CC0"
+  },
+  {
+    "name": "Topaz",
+    "hex": "#FFC87C"
+  },
+  {
+    "name": "Tractor Punainen",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Trolley Harmaa",
+    "hex": "#808080"
+  },
+  {
+    "name": "Tropical Rain Forest",
+    "hex": "#00755E"
+  },
+  {
+    "name": "Tropical Violetti",
+    "hex": "#CDA4DE"
+  },
+  {
+    "name": "True Sininen",
+    "hex": "#0073CF"
+  },
+  {
+    "name": "Tufts Sininen",
+    "hex": "#3E8EDE"
+  },
+  {
+    "name": "Tulip",
+    "hex": "#FF878D"
+  },
+  {
+    "name": "Tumbleweed",
+    "hex": "#DEAA88"
+  },
+  {
+    "name": "Turkish Rose",
+    "hex": "#B57281"
+  },
+  {
+    "name": "Turkoosi",
+    "hex": "#40E0D0"
+  },
+  {
+    "name": "Turkoosi Sininen",
+    "hex": "#00FFEF"
+  },
+  {
+    "name": "Turkoosi Vihreä",
+    "hex": "#A0D6B4"
+  },
+  {
+    "name": "Turkoosi Surf",
+    "hex": "#00C5CD"
+  },
+  {
+    "name": "Turtle Vihreä",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Tuscan",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Tuscan Ruskea",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Tuscan Punainen",
+    "hex": "#7C4848"
+  },
+  {
+    "name": "Tuscan Tan",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Tuscany",
+    "hex": "#C09999"
+  },
+  {
+    "name": "Twilight Laventeli",
+    "hex": "#8A496B"
+  },
+  {
+    "name": "Tyrian Violetti",
+    "hex": "#66023C"
+  },
+  {
+    "name": "UA Sininen",
+    "hex": "#0033AA"
+  },
+  {
+    "name": "UA Punainen",
+    "hex": "#D9004C"
+  },
+  {
+    "name": "Ube",
+    "hex": "#8878C3"
+  },
+  {
+    "name": "UCLA Sininen",
+    "hex": "#536895"
+  },
+  {
+    "name": "UCLA Kulta",
+    "hex": "#FFB300"
+  },
+  {
+    "name": "UFO Vihreä",
+    "hex": "#3CD070"
+  },
+  {
+    "name": "Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Ultramarine Sininen",
+    "hex": "#4166F5"
+  },
+  {
+    "name": "Ultra Pinkki",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Ultra Punainen",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Umber",
+    "hex": "#635147"
+  },
+  {
+    "name": "Unbleached Silk",
+    "hex": "#FFDDCA"
+  },
+  {
+    "name": "United Nations Sininen",
+    "hex": "#5B92E5"
+  },
+  {
+    "name": "University Of California Kulta",
+    "hex": "#B78727"
+  },
+  {
+    "name": "Unmellow Keltainen",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "UP Forest Vihreä",
+    "hex": "#014421"
+  },
+  {
+    "name": "UP Kastanjanruskea",
+    "hex": "#7B1113"
+  },
+  {
+    "name": "Upsdell Punainen",
+    "hex": "#AE2029"
+  },
+  {
+    "name": "Urobilin",
+    "hex": "#E1AD21"
+  },
+  {
+    "name": "USAFA Sininen",
+    "hex": "#004F98"
+  },
+  {
+    "name": "USC Cardinal",
+    "hex": "#990000"
+  },
+  {
+    "name": "USC Kulta",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "University Of Tennessee Oranssi",
+    "hex": "#F77F00"
+  },
+  {
+    "name": "Utah Karmiininpunainen",
+    "hex": "#D3003F"
+  },
+  {
+    "name": "Van Dyke Ruskea",
+    "hex": "#664228"
+  },
+  {
+    "name": "Vanilla",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Vanilla Ice",
+    "hex": "#F38FA9"
+  },
+  {
+    "name": "Vegas Kulta",
+    "hex": "#C5B358"
+  },
+  {
+    "name": "Venetian Punainen",
+    "hex": "#C80815"
+  },
+  {
+    "name": "Verdigris",
+    "hex": "#43B3AE"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#D9381E"
+  },
+  {
+    "name": "Veronica",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Very Vaalea Atsuuri",
+    "hex": "#74BBFB"
+  },
+  {
+    "name": "Very Vaalea Sininen",
+    "hex": "#6666FF"
+  },
+  {
+    "name": "Very Vaalea Malachite Vihreä",
+    "hex": "#64E986"
+  },
+  {
+    "name": "Very Vaalea Tangelo",
+    "hex": "#FFB077"
+  },
+  {
+    "name": "Very Haalea Oranssi",
+    "hex": "#FFDFBF"
+  },
+  {
+    "name": "Very Haalea Keltainen",
+    "hex": "#FFFFBF"
+  },
+  {
+    "name": "Violetti",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Violetti (Color Wheel)",
+    "hex": "#7F00FF"
+  },
+  {
+    "name": "Violetti (RYB)",
+    "hex": "#8601AF"
+  },
+  {
+    "name": "Violetti (Web)",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "Violetti-Sininen",
+    "hex": "#324AB2"
+  },
+  {
+    "name": "Violetti-Punainen",
+    "hex": "#F75394"
+  },
+  {
+    "name": "Viridian",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Viridian Vihreä",
+    "hex": "#009698"
+  },
+  {
+    "name": "Vista Sininen",
+    "hex": "#7C9ED9"
+  },
+  {
+    "name": "Värikäs Amber",
+    "hex": "#CC9900"
+  },
+  {
+    "name": "Värikäs Auburn",
+    "hex": "#922724"
+  },
+  {
+    "name": "Värikäs Burgundy",
+    "hex": "#9F1D35"
+  },
+  {
+    "name": "Värikäs Cerise",
+    "hex": "#DA1D81"
+  },
+  {
+    "name": "Värikäs Cerulean",
+    "hex": "#00AAEE"
+  },
+  {
+    "name": "Värikäs Karmiininpunainen",
+    "hex": "#CC0033"
+  },
+  {
+    "name": "Värikäs Gamboge",
+    "hex": "#FF9900"
+  },
+  {
+    "name": "Värikäs Lime Vihreä",
+    "hex": "#A6D608"
+  },
+  {
+    "name": "Värikäs Malachite",
+    "hex": "#00CC33"
+  },
+  {
+    "name": "Värikäs Mulberry",
+    "hex": "#B80CE3"
+  },
+  {
+    "name": "Värikäs Oranssi",
+    "hex": "#FF5F00"
+  },
+  {
+    "name": "Värikäs Oranssi Peel",
+    "hex": "#FFA000"
+  },
+  {
+    "name": "Värikäs Orchid",
+    "hex": "#CC00FF"
+  },
+  {
+    "name": "Värikäs Raspberry",
+    "hex": "#FF006C"
+  },
+  {
+    "name": "Värikäs Punainen",
+    "hex": "#F70D1A"
+  },
+  {
+    "name": "Värikäs Punainen-Tangelo",
+    "hex": "#DF6124"
+  },
+  {
+    "name": "Värikäs Sky Sininen",
+    "hex": "#00CCFF"
+  },
+  {
+    "name": "Värikäs Tangelo",
+    "hex": "#F07427"
+  },
+  {
+    "name": "Värikäs Tangerine",
+    "hex": "#FFA089"
+  },
+  {
+    "name": "Värikäs Vermilion",
+    "hex": "#E56024"
+  },
+  {
+    "name": "Värikäs Violetti",
+    "hex": "#9F00FF"
+  },
+  {
+    "name": "Värikäs Keltainen",
+    "hex": "#FFE302"
+  },
+  {
+    "name": "Volt",
+    "hex": "#CEFF00"
+  },
+  {
+    "name": "Wageningen Vihreä",
+    "hex": "#34B233"
+  },
+  {
+    "name": "Warm Musta",
+    "hex": "#004242"
+  },
+  {
+    "name": "Waterspout",
+    "hex": "#A4F4F9"
+  },
+  {
+    "name": "Weldon Sininen",
+    "hex": "#7C98AB"
+  },
+  {
+    "name": "Wenge",
+    "hex": "#645452"
+  },
+  {
+    "name": "Wheat",
+    "hex": "#F5DEB3"
+  },
+  {
+    "name": "Valkoinen",
+    "hex": "#FFFFFF"
+  },
+  {
+    "name": "Valkoinen Smoke",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Wild Sininen Yonder",
+    "hex": "#A2ADD0"
+  },
+  {
+    "name": "Wild Orchid",
+    "hex": "#D470A2"
+  },
+  {
+    "name": "Wild Strawberry",
+    "hex": "#FF43A4"
+  },
+  {
+    "name": "Wild Watermelon",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Willpower Oranssi",
+    "hex": "#FD5800"
+  },
+  {
+    "name": "Windsor Tan",
+    "hex": "#A75502"
+  },
+  {
+    "name": "Wine",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Wine Dregs",
+    "hex": "#673147"
+  },
+  {
+    "name": "Winter Sky",
+    "hex": "#FF007C"
+  },
+  {
+    "name": "Winter Wizard",
+    "hex": "#A0E6FF"
+  },
+  {
+    "name": "Wintergreen Dream",
+    "hex": "#56887D"
+  },
+  {
+    "name": "Wisteria",
+    "hex": "#C9A0DC"
+  },
+  {
+    "name": "Wood Ruskea",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Xanadu",
+    "hex": "#738678"
+  },
+  {
+    "name": "Yale Sininen",
+    "hex": "#0F4D92"
+  },
+  {
+    "name": "Yankees Sininen",
+    "hex": "#1C2841"
+  },
+  {
+    "name": "Keltainen",
+    "hex": "#FFFF00"
+  },
+  {
+    "name": "Keltainen (Crayola)",
+    "hex": "#FCE883"
+  },
+  {
+    "name": "Keltainen (Munsell)",
+    "hex": "#EFCC00"
+  },
+  {
+    "name": "Keltainen (NCS)",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Keltainen (Pantone)",
+    "hex": "#FEDF00"
+  },
+  {
+    "name": "Keltainen (Process)",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Keltainen (RYB)",
+    "hex": "#FEFE33"
+  },
+  {
+    "name": "Keltainen-Vihreä",
+    "hex": "#9ACD32"
+  },
+  {
+    "name": "Keltainen Oranssi",
+    "hex": "#FFAE42"
+  },
+  {
+    "name": "Keltainen Rose",
+    "hex": "#FFF000"
+  },
+  {
+    "name": "Keltainen Sunshine",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Zaffre",
+    "hex": "#0014A8"
+  },
+  {
+    "name": "Zinnwaldite Ruskea",
+    "hex": "#2C1608"
+  },
+  {
+    "name": "Zomp",
+    "hex": "#39A78E"
+  }
+]

@@ -1,0 +1,5210 @@
+[
+  {
+    "name": "Absolute Zero",
+    "hex": "#0048BA"
+  },
+  {
+    "name": "Acid Πράσινο",
+    "hex": "#B0BF1A"
+  },
+  {
+    "name": "Aero",
+    "hex": "#7CB9E8"
+  },
+  {
+    "name": "Aero Μπλε",
+    "hex": "#C9FFE5"
+  },
+  {
+    "name": "African Βιολετί",
+    "hex": "#B284BE"
+  },
+  {
+    "name": "Air Force Μπλε (RAF)",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Air Force Μπλε (USAF)",
+    "hex": "#00308F"
+  },
+  {
+    "name": "Air Superiority Μπλε",
+    "hex": "#72A0C1"
+  },
+  {
+    "name": "Alabama Πορφυρό",
+    "hex": "#AF002A"
+  },
+  {
+    "name": "Alabaster",
+    "hex": "#F2F0E6"
+  },
+  {
+    "name": "Alice Μπλε",
+    "hex": "#F0F8FF"
+  },
+  {
+    "name": "Alien Armpit",
+    "hex": "#84DE02"
+  },
+  {
+    "name": "Alizarin Πορφυρό",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Alloy Πορτοκαλί",
+    "hex": "#C46210"
+  },
+  {
+    "name": "Almond",
+    "hex": "#EFDECD"
+  },
+  {
+    "name": "Amaranth",
+    "hex": "#E52B50"
+  },
+  {
+    "name": "Amaranth Βαθύ Μωβ",
+    "hex": "#9F2B68"
+  },
+  {
+    "name": "Amaranth Ροζ",
+    "hex": "#F19CBB"
+  },
+  {
+    "name": "Amaranth Μωβ",
+    "hex": "#AB274F"
+  },
+  {
+    "name": "Amaranth Κόκκινο",
+    "hex": "#D3212D"
+  },
+  {
+    "name": "Amazon Store",
+    "hex": "#3B7A57"
+  },
+  {
+    "name": "Amazonite",
+    "hex": "#00C4B0"
+  },
+  {
+    "name": "Amber",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Amber (SAE/ECE)",
+    "hex": "#FF7E00"
+  },
+  {
+    "name": "American Rose",
+    "hex": "#FF033E"
+  },
+  {
+    "name": "Amethyst",
+    "hex": "#9966CC"
+  },
+  {
+    "name": "Android Πράσινο",
+    "hex": "#A4C639"
+  },
+  {
+    "name": "Anti-Flash Λευκό",
+    "hex": "#F2F3F4"
+  },
+  {
+    "name": "Antique Brass",
+    "hex": "#CD9575"
+  },
+  {
+    "name": "Antique Μπρούντζο",
+    "hex": "#665D1E"
+  },
+  {
+    "name": "Antique Fuchsia",
+    "hex": "#915C83"
+  },
+  {
+    "name": "Antique Ρουμπίνι",
+    "hex": "#841B2D"
+  },
+  {
+    "name": "Antique Λευκό",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Ao (English)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Apple Πράσινο",
+    "hex": "#8DB600"
+  },
+  {
+    "name": "Apricot",
+    "hex": "#FBCEB1"
+  },
+  {
+    "name": "Aqua",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Aquamarine",
+    "hex": "#7FFFD4"
+  },
+  {
+    "name": "Arctic Lime",
+    "hex": "#D0FF14"
+  },
+  {
+    "name": "Army Πράσινο",
+    "hex": "#4B5320"
+  },
+  {
+    "name": "Arsenic",
+    "hex": "#3B444B"
+  },
+  {
+    "name": "Artichoke",
+    "hex": "#8F9779"
+  },
+  {
+    "name": "Arylide Κίτρινο",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Ash Γκρι",
+    "hex": "#B2BEB5"
+  },
+  {
+    "name": "Asparagus",
+    "hex": "#87A96B"
+  },
+  {
+    "name": "Atomic Tangerine",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Auburn",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Aureolin",
+    "hex": "#FDEE00"
+  },
+  {
+    "name": "AuroMetalSaurus",
+    "hex": "#6E7F80"
+  },
+  {
+    "name": "Avocado",
+    "hex": "#568203"
+  },
+  {
+    "name": "Awesome",
+    "hex": "#FF2052"
+  },
+  {
+    "name": "Aztec Χρυσό",
+    "hex": "#C39953"
+  },
+  {
+    "name": "Αζούρ",
+    "hex": "#007FFF"
+  },
+  {
+    "name": "Αζούρ (Web Color)",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Αζούρ Mist",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Azureish Λευκό",
+    "hex": "#DBE9F4"
+  },
+  {
+    "name": "Baby Μπλε",
+    "hex": "#89CFF0"
+  },
+  {
+    "name": "Baby Μπλε Eyes",
+    "hex": "#A1CAF1"
+  },
+  {
+    "name": "Baby Ροζ",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Baby Powder",
+    "hex": "#FEFEFA"
+  },
+  {
+    "name": "Baker-Miller Ροζ",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "Ball Μπλε",
+    "hex": "#21ABCD"
+  },
+  {
+    "name": "Banana Mania",
+    "hex": "#FAE7B5"
+  },
+  {
+    "name": "Banana Κίτρινο",
+    "hex": "#FFE135"
+  },
+  {
+    "name": "Bangladesh Πράσινο",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Barbie Ροζ",
+    "hex": "#E0218A"
+  },
+  {
+    "name": "Barn Κόκκινο",
+    "hex": "#7C0A02"
+  },
+  {
+    "name": "Battery Charged Μπλε",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Battleship Γκρι",
+    "hex": "#848482"
+  },
+  {
+    "name": "Bazaar",
+    "hex": "#98777B"
+  },
+  {
+    "name": "Beau Μπλε",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Beaver",
+    "hex": "#9F8170"
+  },
+  {
+    "name": "Begonia",
+    "hex": "#FA6E79"
+  },
+  {
+    "name": "Beige",
+    "hex": "#F5F5DC"
+  },
+  {
+    "name": "B'dazzled Μπλε",
+    "hex": "#2E5894"
+  },
+  {
+    "name": "Big Dip O'ruby",
+    "hex": "#9C2542"
+  },
+  {
+    "name": "Big Foot Feet",
+    "hex": "#E88E5A"
+  },
+  {
+    "name": "Bisque",
+    "hex": "#FFE4C4"
+  },
+  {
+    "name": "Bistre",
+    "hex": "#3D2B1F"
+  },
+  {
+    "name": "Bistre Καφέ",
+    "hex": "#967117"
+  },
+  {
+    "name": "Bitter Lemon",
+    "hex": "#CAE00D"
+  },
+  {
+    "name": "Bitter Lime",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Bittersweet",
+    "hex": "#FE6F5E"
+  },
+  {
+    "name": "Bittersweet Shimmer",
+    "hex": "#BF4F51"
+  },
+  {
+    "name": "Μαύρο",
+    "hex": "#000000"
+  },
+  {
+    "name": "Μαύρο Bean",
+    "hex": "#3D0C02"
+  },
+  {
+    "name": "Μαύρο Coral",
+    "hex": "#54626F"
+  },
+  {
+    "name": "Μαύρο Leather Jacket",
+    "hex": "#253529"
+  },
+  {
+    "name": "Μαύρο Ελιάς",
+    "hex": "#3B3C36"
+  },
+  {
+    "name": "Μαύρο Shadows",
+    "hex": "#BFAFB2"
+  },
+  {
+    "name": "Blanched Almond",
+    "hex": "#FFEBCD"
+  },
+  {
+    "name": "Blast-Off Μπρούντζο",
+    "hex": "#A57164"
+  },
+  {
+    "name": "Bleu De France",
+    "hex": "#318CE7"
+  },
+  {
+    "name": "Blizzard Μπλε",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Blond",
+    "hex": "#FAF0BE"
+  },
+  {
+    "name": "Μπλε",
+    "hex": "#0000FF"
+  },
+  {
+    "name": "Μπλε (Crayola)",
+    "hex": "#1F75FE"
+  },
+  {
+    "name": "Μπλε (Munsell)",
+    "hex": "#0093AF"
+  },
+  {
+    "name": "Μπλε (NCS)",
+    "hex": "#0087BD"
+  },
+  {
+    "name": "Μπλε (Pantone)",
+    "hex": "#0018A8"
+  },
+  {
+    "name": "Μπλε (Pigment)",
+    "hex": "#333399"
+  },
+  {
+    "name": "Μπλε (RYB)",
+    "hex": "#0247FE"
+  },
+  {
+    "name": "Μπλε Bell",
+    "hex": "#A2A2D0"
+  },
+  {
+    "name": "Μπλε Bolt",
+    "hex": "#00B9FB"
+  },
+  {
+    "name": "Μπλε-Γκρι",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Μπλε-Πράσινο",
+    "hex": "#0D98BA"
+  },
+  {
+    "name": "Μπλε Jeans",
+    "hex": "#5DADEC"
+  },
+  {
+    "name": "Μπλε Lagoon",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Μπλε-Ματζέντα Βιολετί",
+    "hex": "#553592"
+  },
+  {
+    "name": "Μπλε Ζαφείρι",
+    "hex": "#126180"
+  },
+  {
+    "name": "Μπλε-Βιολετί",
+    "hex": "#8A2BE2"
+  },
+  {
+    "name": "Μπλε Yonder",
+    "hex": "#5072A7"
+  },
+  {
+    "name": "Blueberry",
+    "hex": "#4F86F7"
+  },
+  {
+    "name": "Bluebonnet",
+    "hex": "#1C1CF0"
+  },
+  {
+    "name": "Blush",
+    "hex": "#DE5D83"
+  },
+  {
+    "name": "Bole",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Bondi Μπλε",
+    "hex": "#0095B6"
+  },
+  {
+    "name": "Bone",
+    "hex": "#E3DAC9"
+  },
+  {
+    "name": "Booger Buster",
+    "hex": "#DDE26A"
+  },
+  {
+    "name": "Boston University Κόκκινο",
+    "hex": "#CC0000"
+  },
+  {
+    "name": "Bottle Πράσινο",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Boysenberry",
+    "hex": "#873260"
+  },
+  {
+    "name": "Brandeis Μπλε",
+    "hex": "#0070FF"
+  },
+  {
+    "name": "Brass",
+    "hex": "#B5A642"
+  },
+  {
+    "name": "Brick Κόκκινο",
+    "hex": "#CB4154"
+  },
+  {
+    "name": "Λαμπερό Cerulean",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Λαμπερό Πράσινο",
+    "hex": "#66FF00"
+  },
+  {
+    "name": "Λαμπερό Λεβάντα",
+    "hex": "#BF94E4"
+  },
+  {
+    "name": "Λαμπερό Lilac",
+    "hex": "#D891EF"
+  },
+  {
+    "name": "Λαμπερό Μπορντό",
+    "hex": "#C32148"
+  },
+  {
+    "name": "Λαμπερό Navy Μπλε",
+    "hex": "#1974D2"
+  },
+  {
+    "name": "Λαμπερό Ροζ",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Λαμπερό Τυρκουάζ",
+    "hex": "#08E8DE"
+  },
+  {
+    "name": "Λαμπερό Ube",
+    "hex": "#D19FE8"
+  },
+  {
+    "name": "Λαμπερό Κίτρινο (Crayola)",
+    "hex": "#FFAA1D"
+  },
+  {
+    "name": "Brilliant Αζούρ",
+    "hex": "#3399FF"
+  },
+  {
+    "name": "Brilliant Λεβάντα",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Brilliant Rose",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Brink Ροζ",
+    "hex": "#FB607F"
+  },
+  {
+    "name": "British Racing Πράσινο",
+    "hex": "#004225"
+  },
+  {
+    "name": "Μπρούντζο",
+    "hex": "#CD7F32"
+  },
+  {
+    "name": "Μπρούντζο Κίτρινο",
+    "hex": "#737000"
+  },
+  {
+    "name": "Καφέ (Traditional)",
+    "hex": "#964B00"
+  },
+  {
+    "name": "Καφέ (Web)",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Καφέ-Nose",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Καφέ Sugar",
+    "hex": "#AF6E4D"
+  },
+  {
+    "name": "Καφέ Κίτρινο",
+    "hex": "#cc9966"
+  },
+  {
+    "name": "Brunswick Πράσινο",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "Bubble Gum",
+    "hex": "#FFC1CC"
+  },
+  {
+    "name": "Bubbles",
+    "hex": "#E7FEFF"
+  },
+  {
+    "name": "Bud Πράσινο",
+    "hex": "#7BB661"
+  },
+  {
+    "name": "Buff",
+    "hex": "#F0DC82"
+  },
+  {
+    "name": "Bulgarian Rose",
+    "hex": "#480607"
+  },
+  {
+    "name": "Burgundy",
+    "hex": "#800020"
+  },
+  {
+    "name": "Burlywood",
+    "hex": "#DEB887"
+  },
+  {
+    "name": "Burnished Καφέ",
+    "hex": "#A17A74"
+  },
+  {
+    "name": "Burnt Πορτοκαλί",
+    "hex": "#CC5500"
+  },
+  {
+    "name": "Burnt Sienna",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Burnt Umber",
+    "hex": "#8A3324"
+  },
+  {
+    "name": "Button Μπλε",
+    "hex": "#24A0ED"
+  },
+  {
+    "name": "Byzantine",
+    "hex": "#BD33A4"
+  },
+  {
+    "name": "Byzantium",
+    "hex": "#702963"
+  },
+  {
+    "name": "Cadet",
+    "hex": "#536872"
+  },
+  {
+    "name": "Cadet Μπλε",
+    "hex": "#5F9EA0"
+  },
+  {
+    "name": "Cadet Γκρι",
+    "hex": "#91A3B0"
+  },
+  {
+    "name": "Cadmium Πράσινο",
+    "hex": "#006B3C"
+  },
+  {
+    "name": "Cadmium Πορτοκαλί",
+    "hex": "#ED872D"
+  },
+  {
+    "name": "Cadmium Κόκκινο",
+    "hex": "#E30022"
+  },
+  {
+    "name": "Cadmium Κίτρινο",
+    "hex": "#FFF600"
+  },
+  {
+    "name": "Cafe Au Lait",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Cafe Noir",
+    "hex": "#4B3621"
+  },
+  {
+    "name": "Cal Poly Pomona Πράσινο",
+    "hex": "#1E4D2B"
+  },
+  {
+    "name": "Cambridge Μπλε",
+    "hex": "#A3C1AD"
+  },
+  {
+    "name": "Camel",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Cameo Ροζ",
+    "hex": "#EFBBCC"
+  },
+  {
+    "name": "Camouflage Πράσινο",
+    "hex": "#78866B"
+  },
+  {
+    "name": "Canary",
+    "hex": "#FFFF99"
+  },
+  {
+    "name": "Canary Κίτρινο",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Candy Apple Κόκκινο",
+    "hex": "#FF0800"
+  },
+  {
+    "name": "Candy Ροζ",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Capri",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Caput Mortuum",
+    "hex": "#592720"
+  },
+  {
+    "name": "Cardinal",
+    "hex": "#C41E3A"
+  },
+  {
+    "name": "Caribbean Πράσινο",
+    "hex": "#00CC99"
+  },
+  {
+    "name": "Carmine",
+    "hex": "#960018"
+  },
+  {
+    "name": "Carmine (M&P)",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Carmine Ροζ",
+    "hex": "#EB4C42"
+  },
+  {
+    "name": "Carmine Κόκκινο",
+    "hex": "#FF0038"
+  },
+  {
+    "name": "Carnation Ροζ",
+    "hex": "#FFA6C9"
+  },
+  {
+    "name": "Carnelian",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Carolina Μπλε",
+    "hex": "#56A0D3"
+  },
+  {
+    "name": "Carrot Πορτοκαλί",
+    "hex": "#ED9121"
+  },
+  {
+    "name": "Castleton Πράσινο",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Catalina Μπλε",
+    "hex": "#062A78"
+  },
+  {
+    "name": "Catawba",
+    "hex": "#703642"
+  },
+  {
+    "name": "Cedar Chest",
+    "hex": "#C95A49"
+  },
+  {
+    "name": "Ceil",
+    "hex": "#92A1CF"
+  },
+  {
+    "name": "Celadon",
+    "hex": "#ACE1AF"
+  },
+  {
+    "name": "Celadon Μπλε",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Celadon Πράσινο",
+    "hex": "#2F847C"
+  },
+  {
+    "name": "Celeste",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Celestial Μπλε",
+    "hex": "#4997D0"
+  },
+  {
+    "name": "Cerise",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cerise Ροζ",
+    "hex": "#EC3B83"
+  },
+  {
+    "name": "Cerulean",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Cerulean Μπλε",
+    "hex": "#2A52BE"
+  },
+  {
+    "name": "Cerulean Frost",
+    "hex": "#6D9BC3"
+  },
+  {
+    "name": "CG Μπλε",
+    "hex": "#007AA5"
+  },
+  {
+    "name": "CG Κόκκινο",
+    "hex": "#E03C31"
+  },
+  {
+    "name": "Chamoisee",
+    "hex": "#A0785A"
+  },
+  {
+    "name": "Champagne",
+    "hex": "#F7E7CE"
+  },
+  {
+    "name": "Champagne Ροζ",
+    "hex": "#F1DDCF"
+  },
+  {
+    "name": "Charcoal",
+    "hex": "#36454F"
+  },
+  {
+    "name": "Charleston Πράσινο",
+    "hex": "#232B2B"
+  },
+  {
+    "name": "Charm Ροζ",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Chartreuse (Traditional)",
+    "hex": "#DFFF00"
+  },
+  {
+    "name": "Chartreuse (Web)",
+    "hex": "#7FFF00"
+  },
+  {
+    "name": "Cherry",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cherry Blossom Ροζ",
+    "hex": "#FFB7C5"
+  },
+  {
+    "name": "Chestnut",
+    "hex": "#954535"
+  },
+  {
+    "name": "China Ροζ",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "China Rose",
+    "hex": "#A8516E"
+  },
+  {
+    "name": "Chinese Κόκκινο",
+    "hex": "#AA381E"
+  },
+  {
+    "name": "Chinese Βιολετί",
+    "hex": "#856088"
+  },
+  {
+    "name": "Chlorophyll Πράσινο",
+    "hex": "#4AFF00"
+  },
+  {
+    "name": "Chocolate (Traditional)",
+    "hex": "#7B3F00"
+  },
+  {
+    "name": "Chocolate (Web)",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Chrome Κίτρινο",
+    "hex": "#FFA700"
+  },
+  {
+    "name": "Cinereous",
+    "hex": "#98817B"
+  },
+  {
+    "name": "Cinnabar",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Cinnamon",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Cinnamon Satin",
+    "hex": "#CD607E"
+  },
+  {
+    "name": "Citrine",
+    "hex": "#E4D00A"
+  },
+  {
+    "name": "Citron",
+    "hex": "#9FA91F"
+  },
+  {
+    "name": "Claret",
+    "hex": "#7F1734"
+  },
+  {
+    "name": "Classic Rose",
+    "hex": "#FBCCE7"
+  },
+  {
+    "name": "Cobalt Μπλε",
+    "hex": "#0047AB"
+  },
+  {
+    "name": "Cocoa Καφέ",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Coconut",
+    "hex": "#965A3E"
+  },
+  {
+    "name": "Coffee",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Columbia Μπλε",
+    "hex": "#C4D8E2"
+  },
+  {
+    "name": "Congo Ροζ",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Cool Μαύρο",
+    "hex": "#002E63"
+  },
+  {
+    "name": "Cool Γκρι",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "Χαλκός",
+    "hex": "#B87333"
+  },
+  {
+    "name": "Χαλκός (Crayola)",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "Χαλκός Penny",
+    "hex": "#AD6F69"
+  },
+  {
+    "name": "Χαλκός Κόκκινο",
+    "hex": "#CB6D51"
+  },
+  {
+    "name": "Χαλκός Rose",
+    "hex": "#996666"
+  },
+  {
+    "name": "Coquelicot",
+    "hex": "#FF3800"
+  },
+  {
+    "name": "Coral",
+    "hex": "#FF7F50"
+  },
+  {
+    "name": "Coral Ροζ",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Coral Κόκκινο",
+    "hex": "#FF4040"
+  },
+  {
+    "name": "Coral Reef",
+    "hex": "#FD7C6E"
+  },
+  {
+    "name": "Cordovan",
+    "hex": "#893F45"
+  },
+  {
+    "name": "Corn",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Cornell Κόκκινο",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Cornflower Μπλε",
+    "hex": "#6495ED"
+  },
+  {
+    "name": "Cornsilk",
+    "hex": "#FFF8DC"
+  },
+  {
+    "name": "Cosmic Cobalt",
+    "hex": "#2E2D88"
+  },
+  {
+    "name": "Cosmic Latte",
+    "hex": "#FFF8E7"
+  },
+  {
+    "name": "Coyote Καφέ",
+    "hex": "#81613C"
+  },
+  {
+    "name": "Cotton Candy",
+    "hex": "#FFBCD9"
+  },
+  {
+    "name": "Cream",
+    "hex": "#FFFDD0"
+  },
+  {
+    "name": "Πορφυρό",
+    "hex": "#DC143C"
+  },
+  {
+    "name": "Πορφυρό Glory",
+    "hex": "#BE0032"
+  },
+  {
+    "name": "Πορφυρό Κόκκινο",
+    "hex": "#990000"
+  },
+  {
+    "name": "Cultured",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Κυανό",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Κυανό Αζούρ",
+    "hex": "#4E82B4"
+  },
+  {
+    "name": "Κυανό-Μπλε Αζούρ",
+    "hex": "#4682BF"
+  },
+  {
+    "name": "Κυανό Cobalt Μπλε",
+    "hex": "#28589C"
+  },
+  {
+    "name": "Κυανό Cornflower Μπλε",
+    "hex": "#188BC2"
+  },
+  {
+    "name": "Κυανό (Process)",
+    "hex": "#00B7EB"
+  },
+  {
+    "name": "Cyber Grape",
+    "hex": "#58427C"
+  },
+  {
+    "name": "Cyber Κίτρινο",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Cyclamen",
+    "hex": "#F56FA1"
+  },
+  {
+    "name": "Daffodil",
+    "hex": "#FFFF31"
+  },
+  {
+    "name": "Dandelion",
+    "hex": "#F0E130"
+  },
+  {
+    "name": "Σκούρο Μπλε",
+    "hex": "#00008B"
+  },
+  {
+    "name": "Σκούρο Μπλε-Γκρι",
+    "hex": "#666699"
+  },
+  {
+    "name": "Σκούρο Καφέ",
+    "hex": "#654321"
+  },
+  {
+    "name": "Σκούρο Καφέ-Tangelo",
+    "hex": "#88654E"
+  },
+  {
+    "name": "Σκούρο Byzantium",
+    "hex": "#5D3954"
+  },
+  {
+    "name": "Σκούρο Candy Apple Κόκκινο",
+    "hex": "#A40000"
+  },
+  {
+    "name": "Σκούρο Cerulean",
+    "hex": "#08457E"
+  },
+  {
+    "name": "Σκούρο Chestnut",
+    "hex": "#986960"
+  },
+  {
+    "name": "Σκούρο Coral",
+    "hex": "#CD5B45"
+  },
+  {
+    "name": "Σκούρο Κυανό",
+    "hex": "#008B8B"
+  },
+  {
+    "name": "Σκούρο Electric Μπλε",
+    "hex": "#536878"
+  },
+  {
+    "name": "Σκούρο Goldenrod",
+    "hex": "#B8860B"
+  },
+  {
+    "name": "Σκούρο Γκρι (X11)",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "Σκούρο Πράσινο",
+    "hex": "#013220"
+  },
+  {
+    "name": "Σκούρο Πράσινο (X11)",
+    "hex": "#006400"
+  },
+  {
+    "name": "Σκούρο Gunmetal",
+    "hex": "#1F262A"
+  },
+  {
+    "name": "Σκούρο Imperial Μπλε",
+    "hex": "#00416A"
+  },
+  {
+    "name": "Σκούρο Imperial Μπλε",
+    "hex": "#00147E"
+  },
+  {
+    "name": "Σκούρο Jungle Πράσινο",
+    "hex": "#1A2421"
+  },
+  {
+    "name": "Σκούρο Khaki",
+    "hex": "#BDB76B"
+  },
+  {
+    "name": "Σκούρο Lava",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Σκούρο Λεβάντα",
+    "hex": "#734F96"
+  },
+  {
+    "name": "Σκούρο Liver",
+    "hex": "#534B4F"
+  },
+  {
+    "name": "Σκούρο Liver (Horses)",
+    "hex": "#543D37"
+  },
+  {
+    "name": "Σκούρο Ματζέντα",
+    "hex": "#8B008B"
+  },
+  {
+    "name": "Σκούρο Medium Γκρι",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "Σκούρο Midnight Μπλε",
+    "hex": "#003366"
+  },
+  {
+    "name": "Σκούρο Moss Πράσινο",
+    "hex": "#4A5D23"
+  },
+  {
+    "name": "Σκούρο Ελιάς Πράσινο",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "Σκούρο Πορτοκαλί",
+    "hex": "#FF8C00"
+  },
+  {
+    "name": "Σκούρο Orchid",
+    "hex": "#9932CC"
+  },
+  {
+    "name": "Σκούρο Pastel Μπλε",
+    "hex": "#779ECB"
+  },
+  {
+    "name": "Σκούρο Pastel Πράσινο",
+    "hex": "#03C03C"
+  },
+  {
+    "name": "Σκούρο Pastel Μωβ",
+    "hex": "#966FD6"
+  },
+  {
+    "name": "Σκούρο Pastel Κόκκινο",
+    "hex": "#C23B22"
+  },
+  {
+    "name": "Σκούρο Ροζ",
+    "hex": "#E75480"
+  },
+  {
+    "name": "Σκούρο Powder Μπλε",
+    "hex": "#003399"
+  },
+  {
+    "name": "Σκούρο Puce",
+    "hex": "#4F3A3C"
+  },
+  {
+    "name": "Σκούρο Μωβ",
+    "hex": "#301934"
+  },
+  {
+    "name": "Σκούρο Raspberry",
+    "hex": "#872657"
+  },
+  {
+    "name": "Σκούρο Κόκκινο",
+    "hex": "#8B0000"
+  },
+  {
+    "name": "Σκούρο Salmon",
+    "hex": "#E9967A"
+  },
+  {
+    "name": "Σκούρο Σκάρλετ",
+    "hex": "#560319"
+  },
+  {
+    "name": "Σκούρο Sea Πράσινο",
+    "hex": "#8FBC8F"
+  },
+  {
+    "name": "Σκούρο Sienna",
+    "hex": "#3C1414"
+  },
+  {
+    "name": "Σκούρο Sky Μπλε",
+    "hex": "#8CBED6"
+  },
+  {
+    "name": "Σκούρο Slate Μπλε",
+    "hex": "#483D8B"
+  },
+  {
+    "name": "Σκούρο Slate Γκρι",
+    "hex": "#2F4F4F"
+  },
+  {
+    "name": "Σκούρο Spring Πράσινο",
+    "hex": "#177245"
+  },
+  {
+    "name": "Σκούρο Tan",
+    "hex": "#918151"
+  },
+  {
+    "name": "Σκούρο Tangerine",
+    "hex": "#FFA812"
+  },
+  {
+    "name": "Σκούρο Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Σκούρο Terra Cotta",
+    "hex": "#CC4E5C"
+  },
+  {
+    "name": "Σκούρο Τυρκουάζ",
+    "hex": "#00CED1"
+  },
+  {
+    "name": "Σκούρο Vanilla",
+    "hex": "#D1BEA8"
+  },
+  {
+    "name": "Σκούρο Βιολετί",
+    "hex": "#9400D3"
+  },
+  {
+    "name": "Σκούρο Κίτρινο",
+    "hex": "#9B870C"
+  },
+  {
+    "name": "Dartmouth Πράσινο",
+    "hex": "#00703C"
+  },
+  {
+    "name": "Davy's Γκρι",
+    "hex": "#555555"
+  },
+  {
+    "name": "Debian Κόκκινο",
+    "hex": "#D70A53"
+  },
+  {
+    "name": "Βαθύ Aquamarine",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Βαθύ Carmine",
+    "hex": "#A9203E"
+  },
+  {
+    "name": "Βαθύ Carmine Ροζ",
+    "hex": "#EF3038"
+  },
+  {
+    "name": "Βαθύ Carrot Πορτοκαλί",
+    "hex": "#E9692C"
+  },
+  {
+    "name": "Βαθύ Cerise",
+    "hex": "#DA3287"
+  },
+  {
+    "name": "Βαθύ Champagne",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Βαθύ Chestnut",
+    "hex": "#B94E48"
+  },
+  {
+    "name": "Βαθύ Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Βαθύ Fuchsia",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Βαθύ Πράσινο",
+    "hex": "#056608"
+  },
+  {
+    "name": "Βαθύ Πράσινο-Κυανό Τυρκουάζ",
+    "hex": "#0E7C61"
+  },
+  {
+    "name": "Βαθύ Jungle Πράσινο",
+    "hex": "#004B49"
+  },
+  {
+    "name": "Βαθύ Koamaru",
+    "hex": "#333366"
+  },
+  {
+    "name": "Βαθύ Lemon",
+    "hex": "#F5C71A"
+  },
+  {
+    "name": "Βαθύ Lilac",
+    "hex": "#9955BB"
+  },
+  {
+    "name": "Βαθύ Ματζέντα",
+    "hex": "#CC00CC"
+  },
+  {
+    "name": "Βαθύ Μπορντό",
+    "hex": "#820000"
+  },
+  {
+    "name": "Βαθύ Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "Βαθύ Moss Πράσινο",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Βαθύ Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Βαθύ Ροζ",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Βαθύ Puce",
+    "hex": "#A95C68"
+  },
+  {
+    "name": "Βαθύ Κόκκινο",
+    "hex": "#850101"
+  },
+  {
+    "name": "Βαθύ Ρουμπίνι",
+    "hex": "#843F5B"
+  },
+  {
+    "name": "Βαθύ Saffron",
+    "hex": "#FF9933"
+  },
+  {
+    "name": "Βαθύ Sky Μπλε",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Βαθύ Space Sparkle",
+    "hex": "#4A646C"
+  },
+  {
+    "name": "Βαθύ Spring Bud",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "Βαθύ Taupe",
+    "hex": "#7E5E60"
+  },
+  {
+    "name": "Βαθύ Tuscan Κόκκινο",
+    "hex": "#66424D"
+  },
+  {
+    "name": "Βαθύ Βιολετί",
+    "hex": "#330066"
+  },
+  {
+    "name": "Deer",
+    "hex": "#BA8759"
+  },
+  {
+    "name": "Denim",
+    "hex": "#1560BD"
+  },
+  {
+    "name": "Denim Μπλε",
+    "hex": "#2243B6"
+  },
+  {
+    "name": "Desaturated Κυανό",
+    "hex": "#669999"
+  },
+  {
+    "name": "Desert",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Desert Sand",
+    "hex": "#EDC9AF"
+  },
+  {
+    "name": "Desire",
+    "hex": "#EA3C53"
+  },
+  {
+    "name": "Diamond",
+    "hex": "#B9F2FF"
+  },
+  {
+    "name": "Dim Γκρι",
+    "hex": "#696969"
+  },
+  {
+    "name": "Dingy Dungeon",
+    "hex": "#C53151"
+  },
+  {
+    "name": "Dirt",
+    "hex": "#9B7653"
+  },
+  {
+    "name": "Dodger Μπλε",
+    "hex": "#1E90FF"
+  },
+  {
+    "name": "Dodie Κίτρινο",
+    "hex": "#FEF65B"
+  },
+  {
+    "name": "Dogwood Rose",
+    "hex": "#D71868"
+  },
+  {
+    "name": "Dollar Bill",
+    "hex": "#85BB65"
+  },
+  {
+    "name": "Dolphin Γκρι",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Donkey Καφέ",
+    "hex": "#664C28"
+  },
+  {
+    "name": "Drab",
+    "hex": "#967117"
+  },
+  {
+    "name": "Duke Μπλε",
+    "hex": "#00009C"
+  },
+  {
+    "name": "Dust Storm",
+    "hex": "#E5CCC9"
+  },
+  {
+    "name": "Dutch Λευκό",
+    "hex": "#EFDFBB"
+  },
+  {
+    "name": "Earth Κίτρινο",
+    "hex": "#E1A95F"
+  },
+  {
+    "name": "Ebony",
+    "hex": "#555D50"
+  },
+  {
+    "name": "Ecru",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Eerie Μαύρο",
+    "hex": "#1B1B1B"
+  },
+  {
+    "name": "Eggplant",
+    "hex": "#614051"
+  },
+  {
+    "name": "Eggshell",
+    "hex": "#F0EAD6"
+  },
+  {
+    "name": "Egyptian Μπλε",
+    "hex": "#1034A6"
+  },
+  {
+    "name": "Electric Μπλε",
+    "hex": "#7DF9FF"
+  },
+  {
+    "name": "Electric Πορφυρό",
+    "hex": "#FF003F"
+  },
+  {
+    "name": "Electric Κυανό",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Electric Πράσινο",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Electric Ίντιγκο",
+    "hex": "#6F00FF"
+  },
+  {
+    "name": "Electric Λεβάντα",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Electric Lime",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Electric Μωβ",
+    "hex": "#BF00FF"
+  },
+  {
+    "name": "Electric Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Electric Βιολετί",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Electric Κίτρινο",
+    "hex": "#FFFF33"
+  },
+  {
+    "name": "Σμαραγδί",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Eminence",
+    "hex": "#6C3082"
+  },
+  {
+    "name": "English Πράσινο",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "English Λεβάντα",
+    "hex": "#B48395"
+  },
+  {
+    "name": "English Κόκκινο",
+    "hex": "#AB4B52"
+  },
+  {
+    "name": "English Vermillion",
+    "hex": "#CC474B"
+  },
+  {
+    "name": "English Βιολετί",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Eton Μπλε",
+    "hex": "#96C8A2"
+  },
+  {
+    "name": "Eucalyptus",
+    "hex": "#44D7A8"
+  },
+  {
+    "name": "Fallow",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Falu Κόκκινο",
+    "hex": "#801818"
+  },
+  {
+    "name": "Fandango",
+    "hex": "#B53389"
+  },
+  {
+    "name": "Fandango Ροζ",
+    "hex": "#DE5285"
+  },
+  {
+    "name": "Fashion Fuchsia",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Fawn",
+    "hex": "#E5AA70"
+  },
+  {
+    "name": "Feldgrau",
+    "hex": "#4D5D53"
+  },
+  {
+    "name": "Feldspar",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Fern Πράσινο",
+    "hex": "#4F7942"
+  },
+  {
+    "name": "Ferrari Κόκκινο",
+    "hex": "#FF2800"
+  },
+  {
+    "name": "Field Drab",
+    "hex": "#6C541E"
+  },
+  {
+    "name": "Fiery Rose",
+    "hex": "#FF5470"
+  },
+  {
+    "name": "Firebrick",
+    "hex": "#B22222"
+  },
+  {
+    "name": "Fire Engine Κόκκινο",
+    "hex": "#CE2029"
+  },
+  {
+    "name": "Flame",
+    "hex": "#E25822"
+  },
+  {
+    "name": "Flamingo Ροζ",
+    "hex": "#FC8EAC"
+  },
+  {
+    "name": "Flattery",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Flavescent",
+    "hex": "#F7E98E"
+  },
+  {
+    "name": "Flax",
+    "hex": "#EEDC82"
+  },
+  {
+    "name": "Flirt",
+    "hex": "#A2006D"
+  },
+  {
+    "name": "Floral Λευκό",
+    "hex": "#FFFAF0"
+  },
+  {
+    "name": "Fluorescent Πορτοκαλί",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Fluorescent Ροζ",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Fluorescent Κίτρινο",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Folly",
+    "hex": "#FF004F"
+  },
+  {
+    "name": "Forest Πράσινο (Traditional)",
+    "hex": "#014421"
+  },
+  {
+    "name": "Forest Πράσινο (Web)",
+    "hex": "#228B22"
+  },
+  {
+    "name": "French Beige",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "French Bistre",
+    "hex": "#856D4D"
+  },
+  {
+    "name": "French Μπλε",
+    "hex": "#0072BB"
+  },
+  {
+    "name": "French Fuchsia",
+    "hex": "#FD3F92"
+  },
+  {
+    "name": "French Lilac",
+    "hex": "#86608E"
+  },
+  {
+    "name": "French Lime",
+    "hex": "#9EFD38"
+  },
+  {
+    "name": "French Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "French Ροζ",
+    "hex": "#FD6C9E"
+  },
+  {
+    "name": "French Plum",
+    "hex": "#811453"
+  },
+  {
+    "name": "French Puce",
+    "hex": "#4E1609"
+  },
+  {
+    "name": "French Raspberry",
+    "hex": "#C72C48"
+  },
+  {
+    "name": "French Rose",
+    "hex": "#F64A8A"
+  },
+  {
+    "name": "French Sky Μπλε",
+    "hex": "#77B5FE"
+  },
+  {
+    "name": "French Βιολετί",
+    "hex": "#8806CE"
+  },
+  {
+    "name": "French Wine",
+    "hex": "#AC1E44"
+  },
+  {
+    "name": "Fresh Air",
+    "hex": "#A6E7FF"
+  },
+  {
+    "name": "Frogert",
+    "hex": "#E936A7"
+  },
+  {
+    "name": "Fuchsia",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Fuchsia (Crayola)",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Fuchsia Ροζ",
+    "hex": "#FF77FF"
+  },
+  {
+    "name": "Fuchsia Μωβ",
+    "hex": "#CC397B"
+  },
+  {
+    "name": "Fuchsia Rose",
+    "hex": "#C74375"
+  },
+  {
+    "name": "Fulvous",
+    "hex": "#E48400"
+  },
+  {
+    "name": "Fuzzy Wuzzy",
+    "hex": "#CC6666"
+  },
+  {
+    "name": "Gainsboro",
+    "hex": "#DCDCDC"
+  },
+  {
+    "name": "Gamboge",
+    "hex": "#E49B0F"
+  },
+  {
+    "name": "Gamboge Πορτοκαλί (Καφέ)",
+    "hex": "#996600"
+  },
+  {
+    "name": "Gargoyle Gas",
+    "hex": "#FFDF46"
+  },
+  {
+    "name": "Generic Viridian",
+    "hex": "#007F66"
+  },
+  {
+    "name": "Ghost Λευκό",
+    "hex": "#F8F8FF"
+  },
+  {
+    "name": "Giant's Club",
+    "hex": "#B05C52"
+  },
+  {
+    "name": "Giants Πορτοκαλί",
+    "hex": "#FE5A1D"
+  },
+  {
+    "name": "Ginger",
+    "hex": "#B06500"
+  },
+  {
+    "name": "Glaucous",
+    "hex": "#6082B6"
+  },
+  {
+    "name": "Glitter",
+    "hex": "#E6E8FA"
+  },
+  {
+    "name": "Glossy Grape",
+    "hex": "#AB92B3"
+  },
+  {
+    "name": "GO Πράσινο",
+    "hex": "#00AB66"
+  },
+  {
+    "name": "Χρυσό (Metallic)",
+    "hex": "#D4AF37"
+  },
+  {
+    "name": "Χρυσό (Web) (Golden)",
+    "hex": "#FFD700"
+  },
+  {
+    "name": "Χρυσό Fusion",
+    "hex": "#85754E"
+  },
+  {
+    "name": "Golden Καφέ",
+    "hex": "#996515"
+  },
+  {
+    "name": "Golden Poppy",
+    "hex": "#FCC200"
+  },
+  {
+    "name": "Golden Κίτρινο",
+    "hex": "#FFDF00"
+  },
+  {
+    "name": "Goldenrod",
+    "hex": "#DAA520"
+  },
+  {
+    "name": "Granite Γκρι",
+    "hex": "#676767"
+  },
+  {
+    "name": "Granny Smith Apple",
+    "hex": "#A8E4A0"
+  },
+  {
+    "name": "Grape",
+    "hex": "#6F2DA8"
+  },
+  {
+    "name": "Γκρι",
+    "hex": "#808080"
+  },
+  {
+    "name": "Γκρι (HTML/CSS Γκρι)",
+    "hex": "#808080"
+  },
+  {
+    "name": "Γκρι (X11 Γκρι)",
+    "hex": "#BEBEBE"
+  },
+  {
+    "name": "Γκρι-Asparagus",
+    "hex": "#465945"
+  },
+  {
+    "name": "Γκρι-Μπλε",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "Πράσινο (Color Wheel) (X11 Πράσινο)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Πράσινο (Crayola)",
+    "hex": "#1CAC78"
+  },
+  {
+    "name": "Πράσινο (HTML/CSS Color)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Πράσινο (Munsell)",
+    "hex": "#00A877"
+  },
+  {
+    "name": "Πράσινο (NCS)",
+    "hex": "#009F6B"
+  },
+  {
+    "name": "Πράσινο (Pantone)",
+    "hex": "#00AD43"
+  },
+  {
+    "name": "Πράσινο (Pigment)",
+    "hex": "#00A550"
+  },
+  {
+    "name": "Πράσινο (RYB)",
+    "hex": "#66B032"
+  },
+  {
+    "name": "Πράσινο-Μπλε",
+    "hex": "#1164B4"
+  },
+  {
+    "name": "Πράσινο-Κυανό",
+    "hex": "#009966"
+  },
+  {
+    "name": "Πράσινο Lizard",
+    "hex": "#A7F432"
+  },
+  {
+    "name": "Πράσινο Sheen",
+    "hex": "#6EAEA1"
+  },
+  {
+    "name": "Πράσινο-Κίτρινο",
+    "hex": "#ADFF2F"
+  },
+  {
+    "name": "Grizzly",
+    "hex": "#885818"
+  },
+  {
+    "name": "Grullo",
+    "hex": "#A99A86"
+  },
+  {
+    "name": "Guppie Πράσινο",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Gunmetal",
+    "hex": "#2a3439"
+  },
+  {
+    "name": "Halaya Ube",
+    "hex": "#663854"
+  },
+  {
+    "name": "Han Μπλε",
+    "hex": "#446CCF"
+  },
+  {
+    "name": "Han Μωβ",
+    "hex": "#5218FA"
+  },
+  {
+    "name": "Hansa Κίτρινο",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Harlequin",
+    "hex": "#3FFF00"
+  },
+  {
+    "name": "Harlequin Πράσινο",
+    "hex": "#46CB18"
+  },
+  {
+    "name": "Harvard Πορφυρό",
+    "hex": "#C90016"
+  },
+  {
+    "name": "Harvest Χρυσό",
+    "hex": "#DA9100"
+  },
+  {
+    "name": "Heart Χρυσό",
+    "hex": "#808000"
+  },
+  {
+    "name": "Heat Wave",
+    "hex": "#FF7A00"
+  },
+  {
+    "name": "Heidelberg Κόκκινο",
+    "hex": "#960018"
+  },
+  {
+    "name": "Heliotrope",
+    "hex": "#DF73FF"
+  },
+  {
+    "name": "Heliotrope Γκρι",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Heliotrope Ματζέντα",
+    "hex": "#AA00BB"
+  },
+  {
+    "name": "Hollywood Cerise",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Honeydew",
+    "hex": "#F0FFF0"
+  },
+  {
+    "name": "Honolulu Μπλε",
+    "hex": "#006DB0"
+  },
+  {
+    "name": "Hooker's Πράσινο",
+    "hex": "#49796B"
+  },
+  {
+    "name": "Hot Ματζέντα",
+    "hex": "#FF1DCE"
+  },
+  {
+    "name": "Hot Ροζ",
+    "hex": "#FF69B4"
+  },
+  {
+    "name": "Hunter Πράσινο",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Iceberg",
+    "hex": "#71A6D2"
+  },
+  {
+    "name": "Icterine",
+    "hex": "#FCF75E"
+  },
+  {
+    "name": "Iguana Πράσινο",
+    "hex": "#71BC78"
+  },
+  {
+    "name": "Illuminating Σμαραγδί",
+    "hex": "#319177"
+  },
+  {
+    "name": "Imperial",
+    "hex": "#602F6B"
+  },
+  {
+    "name": "Imperial Μπλε",
+    "hex": "#002395"
+  },
+  {
+    "name": "Imperial Μωβ",
+    "hex": "#66023C"
+  },
+  {
+    "name": "Imperial Κόκκινο",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Inchworm",
+    "hex": "#B2EC5D"
+  },
+  {
+    "name": "Independence",
+    "hex": "#4C516D"
+  },
+  {
+    "name": "India Πράσινο",
+    "hex": "#138808"
+  },
+  {
+    "name": "Indian Κόκκινο",
+    "hex": "#CD5C5C"
+  },
+  {
+    "name": "Indian Κίτρινο",
+    "hex": "#E3A857"
+  },
+  {
+    "name": "Ίντιγκο",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Ίντιγκο Dye",
+    "hex": "#091F92"
+  },
+  {
+    "name": "Ίντιγκο (Web)",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Infra Κόκκινο",
+    "hex": "#FF496C"
+  },
+  {
+    "name": "Interdimensional Μπλε",
+    "hex": "#360CCC"
+  },
+  {
+    "name": "International Klein Μπλε",
+    "hex": "#002FA7"
+  },
+  {
+    "name": "International Πορτοκαλί (Aerospace)",
+    "hex": "#FF4F00"
+  },
+  {
+    "name": "International Πορτοκαλί (Engineering)",
+    "hex": "#BA160C"
+  },
+  {
+    "name": "International Πορτοκαλί (Golden Gate Bridge)",
+    "hex": "#C0362C"
+  },
+  {
+    "name": "Iris",
+    "hex": "#5A4FCF"
+  },
+  {
+    "name": "Irresistible",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Isabelline",
+    "hex": "#F4F0EC"
+  },
+  {
+    "name": "Islamic Πράσινο",
+    "hex": "#009000"
+  },
+  {
+    "name": "Italian Sky Μπλε",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Ivory",
+    "hex": "#FFFFF0"
+  },
+  {
+    "name": "Jade",
+    "hex": "#00A86B"
+  },
+  {
+    "name": "Japanese Carmine",
+    "hex": "#9D2933"
+  },
+  {
+    "name": "Japanese Ίντιγκο",
+    "hex": "#264348"
+  },
+  {
+    "name": "Japanese Βιολετί",
+    "hex": "#5B3256"
+  },
+  {
+    "name": "Jasmine",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Jasper",
+    "hex": "#D73B3E"
+  },
+  {
+    "name": "Jazzberry Jam",
+    "hex": "#A50B5E"
+  },
+  {
+    "name": "Jelly Bean",
+    "hex": "#DA614E"
+  },
+  {
+    "name": "Jet",
+    "hex": "#343434"
+  },
+  {
+    "name": "Jonquil",
+    "hex": "#F4CA16"
+  },
+  {
+    "name": "Jordy Μπλε",
+    "hex": "#8AB9F1"
+  },
+  {
+    "name": "June Bud",
+    "hex": "#BDDA57"
+  },
+  {
+    "name": "Jungle Πράσινο",
+    "hex": "#29AB87"
+  },
+  {
+    "name": "Kelly Πράσινο",
+    "hex": "#4CBB17"
+  },
+  {
+    "name": "Kenyan Χαλκός",
+    "hex": "#7C1C05"
+  },
+  {
+    "name": "Keppel",
+    "hex": "#3AB09E"
+  },
+  {
+    "name": "Key Lime",
+    "hex": "#E8F48C"
+  },
+  {
+    "name": "Khaki (HTML/CSS) (Khaki)",
+    "hex": "#C3B091"
+  },
+  {
+    "name": "Khaki (X11) (Ανοιχτό Khaki)",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Kiwi",
+    "hex": "#8EE53F"
+  },
+  {
+    "name": "Kobe",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Kobi",
+    "hex": "#E79FC4"
+  },
+  {
+    "name": "Kobicha",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Kombu Πράσινο",
+    "hex": "#354230"
+  },
+  {
+    "name": "KSU Μωβ",
+    "hex": "#512888"
+  },
+  {
+    "name": "KU Πορφυρό",
+    "hex": "#E8000D"
+  },
+  {
+    "name": "La Salle Πράσινο",
+    "hex": "#087830"
+  },
+  {
+    "name": "Languid Λεβάντα",
+    "hex": "#D6CADD"
+  },
+  {
+    "name": "Lapis Lazuli",
+    "hex": "#26619C"
+  },
+  {
+    "name": "Laser Lemon",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "Laurel Πράσινο",
+    "hex": "#A9BA9D"
+  },
+  {
+    "name": "Lava",
+    "hex": "#CF1020"
+  },
+  {
+    "name": "Λεβάντα (Floral)",
+    "hex": "#B57EDC"
+  },
+  {
+    "name": "Λεβάντα (Web)",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "Λεβάντα Μπλε",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Λεβάντα Blush",
+    "hex": "#FFF0F5"
+  },
+  {
+    "name": "Λεβάντα Γκρι",
+    "hex": "#C4C3D0"
+  },
+  {
+    "name": "Λεβάντα Ίντιγκο",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Λεβάντα Ματζέντα",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "Λεβάντα Mist",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "Λεβάντα Ροζ",
+    "hex": "#FBAED2"
+  },
+  {
+    "name": "Λεβάντα Μωβ",
+    "hex": "#967BB6"
+  },
+  {
+    "name": "Λεβάντα Rose",
+    "hex": "#FBA0E3"
+  },
+  {
+    "name": "Lawn Πράσινο",
+    "hex": "#7CFC00"
+  },
+  {
+    "name": "Lemon",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Lemon Chiffon",
+    "hex": "#FFFACD"
+  },
+  {
+    "name": "Lemon Curry",
+    "hex": "#CCA01D"
+  },
+  {
+    "name": "Lemon Glacier",
+    "hex": "#FDFF00"
+  },
+  {
+    "name": "Lemon Lime",
+    "hex": "#E3FF00"
+  },
+  {
+    "name": "Lemon Meringue",
+    "hex": "#F6EABE"
+  },
+  {
+    "name": "Lemon Κίτρινο",
+    "hex": "#FFF44F"
+  },
+  {
+    "name": "Licorice",
+    "hex": "#1A1110"
+  },
+  {
+    "name": "Liberty",
+    "hex": "#545AA7"
+  },
+  {
+    "name": "Ανοιχτό Apricot",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Ανοιχτό Μπλε",
+    "hex": "#ADD8E6"
+  },
+  {
+    "name": "Ανοιχτό Καφέ",
+    "hex": "#B5651D"
+  },
+  {
+    "name": "Ανοιχτό Carmine Ροζ",
+    "hex": "#E66771"
+  },
+  {
+    "name": "Ανοιχτό Cobalt Μπλε",
+    "hex": "#88ACE0"
+  },
+  {
+    "name": "Ανοιχτό Coral",
+    "hex": "#F08080"
+  },
+  {
+    "name": "Ανοιχτό Cornflower Μπλε",
+    "hex": "#93CCEA"
+  },
+  {
+    "name": "Ανοιχτό Πορφυρό",
+    "hex": "#F56991"
+  },
+  {
+    "name": "Ανοιχτό Κυανό",
+    "hex": "#E0FFFF"
+  },
+  {
+    "name": "Ανοιχτό Βαθύ Ροζ",
+    "hex": "#FF5CCD"
+  },
+  {
+    "name": "Ανοιχτό French Beige",
+    "hex": "#C8AD7F"
+  },
+  {
+    "name": "Ανοιχτό Fuchsia Ροζ",
+    "hex": "#F984EF"
+  },
+  {
+    "name": "Ανοιχτό Goldenrod Κίτρινο",
+    "hex": "#FAFAD2"
+  },
+  {
+    "name": "Ανοιχτό Γκρι",
+    "hex": "#D3D3D3"
+  },
+  {
+    "name": "Ανοιχτό Grayish Ματζέντα",
+    "hex": "#CC99CC"
+  },
+  {
+    "name": "Ανοιχτό Πράσινο",
+    "hex": "#90EE90"
+  },
+  {
+    "name": "Ανοιχτό Hot Ροζ",
+    "hex": "#FFB3DE"
+  },
+  {
+    "name": "Ανοιχτό Khaki",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Ανοιχτό Medium Orchid",
+    "hex": "#D39BCB"
+  },
+  {
+    "name": "Ανοιχτό Moss Πράσινο",
+    "hex": "#ADDFAD"
+  },
+  {
+    "name": "Ανοιχτό Πορτοκαλί",
+    "hex": "#FED8B1"
+  },
+  {
+    "name": "Ανοιχτό Orchid",
+    "hex": "#E6A8D7"
+  },
+  {
+    "name": "Ανοιχτό Pastel Μωβ",
+    "hex": "#B19CD9"
+  },
+  {
+    "name": "Ανοιχτό Ροζ",
+    "hex": "#FFB6C1"
+  },
+  {
+    "name": "Ανοιχτό Κόκκινο Ochre",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Ανοιχτό Salmon",
+    "hex": "#FFA07A"
+  },
+  {
+    "name": "Ανοιχτό Salmon Ροζ",
+    "hex": "#FF9999"
+  },
+  {
+    "name": "Ανοιχτό Sea Πράσινο",
+    "hex": "#20B2AA"
+  },
+  {
+    "name": "Ανοιχτό Sky Μπλε",
+    "hex": "#87CEFA"
+  },
+  {
+    "name": "Ανοιχτό Slate Γκρι",
+    "hex": "#778899"
+  },
+  {
+    "name": "Ανοιχτό Steel Μπλε",
+    "hex": "#B0C4DE"
+  },
+  {
+    "name": "Ανοιχτό Taupe",
+    "hex": "#B38B6D"
+  },
+  {
+    "name": "Ανοιχτό Thulian Ροζ",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Ανοιχτό Κίτρινο",
+    "hex": "#FFFFE0"
+  },
+  {
+    "name": "Lilac",
+    "hex": "#C8A2C8"
+  },
+  {
+    "name": "Lilac Luster",
+    "hex": "#AE98AA"
+  },
+  {
+    "name": "Lime (Color Wheel)",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Lime (Web) (X11 Πράσινο)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Lime Πράσινο",
+    "hex": "#32CD32"
+  },
+  {
+    "name": "Limerick",
+    "hex": "#9DC209"
+  },
+  {
+    "name": "Lincoln Πράσινο",
+    "hex": "#195905"
+  },
+  {
+    "name": "Linen",
+    "hex": "#FAF0E6"
+  },
+  {
+    "name": "Loeen (Lopen) Look",
+    "hex": "#15F2FD"
+  },
+  {
+    "name": "Liseran Μωβ",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Little Boy Μπλε",
+    "hex": "#6CA0DC"
+  },
+  {
+    "name": "Liver",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Liver (Dogs)",
+    "hex": "#B86D29"
+  },
+  {
+    "name": "Liver (Organ)",
+    "hex": "#6C2E1F"
+  },
+  {
+    "name": "Liver Chestnut",
+    "hex": "#987456"
+  },
+  {
+    "name": "Livid",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Lumber",
+    "hex": "#FFE4CD"
+  },
+  {
+    "name": "Lust",
+    "hex": "#E62020"
+  },
+  {
+    "name": "Maastricht Μπλε",
+    "hex": "#001C3D"
+  },
+  {
+    "name": "Macaroni And Cheese",
+    "hex": "#FFBD88"
+  },
+  {
+    "name": "Madder Lake",
+    "hex": "#CC3336"
+  },
+  {
+    "name": "Ματζέντα",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Ματζέντα (Crayola)",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Ματζέντα (Dye)",
+    "hex": "#CA1F7B"
+  },
+  {
+    "name": "Ματζέντα (Pantone)",
+    "hex": "#D0417E"
+  },
+  {
+    "name": "Ματζέντα (Process)",
+    "hex": "#FF0090"
+  },
+  {
+    "name": "Ματζέντα Haze",
+    "hex": "#9F4576"
+  },
+  {
+    "name": "Ματζέντα-Ροζ",
+    "hex": "#CC338B"
+  },
+  {
+    "name": "Magic Mint",
+    "hex": "#AAF0D1"
+  },
+  {
+    "name": "Magic Potion",
+    "hex": "#FF4466"
+  },
+  {
+    "name": "Magnolia",
+    "hex": "#F8F4FF"
+  },
+  {
+    "name": "Mahogany",
+    "hex": "#C04000"
+  },
+  {
+    "name": "Maize",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Majorelle Μπλε",
+    "hex": "#6050DC"
+  },
+  {
+    "name": "Malachite",
+    "hex": "#0BDA51"
+  },
+  {
+    "name": "Manatee",
+    "hex": "#979AAA"
+  },
+  {
+    "name": "Mandarin",
+    "hex": "#F37A48"
+  },
+  {
+    "name": "Mango Tango",
+    "hex": "#FF8243"
+  },
+  {
+    "name": "Mantis",
+    "hex": "#74C365"
+  },
+  {
+    "name": "Mardi Gras",
+    "hex": "#880085"
+  },
+  {
+    "name": "Marigold",
+    "hex": "#EAA221"
+  },
+  {
+    "name": "Μπορντό (Crayola)",
+    "hex": "#C32148"
+  },
+  {
+    "name": "Μπορντό (HTML/CSS)",
+    "hex": "#800000"
+  },
+  {
+    "name": "Μπορντό (X11)",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Mauve",
+    "hex": "#E0B0FF"
+  },
+  {
+    "name": "Mauve Taupe",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Mauvelous",
+    "hex": "#EF98AA"
+  },
+  {
+    "name": "Maximum Μπλε",
+    "hex": "#47ABCC"
+  },
+  {
+    "name": "Maximum Μπλε Πράσινο",
+    "hex": "#30BFBF"
+  },
+  {
+    "name": "Maximum Μπλε Μωβ",
+    "hex": "#ACACE6"
+  },
+  {
+    "name": "Maximum Πράσινο",
+    "hex": "#5E8C31"
+  },
+  {
+    "name": "Maximum Πράσινο Κίτρινο",
+    "hex": "#D9E650"
+  },
+  {
+    "name": "Maximum Μωβ",
+    "hex": "#733380"
+  },
+  {
+    "name": "Maximum Κόκκινο",
+    "hex": "#D92121"
+  },
+  {
+    "name": "Maximum Κόκκινο Μωβ",
+    "hex": "#A63A79"
+  },
+  {
+    "name": "Maximum Κίτρινο",
+    "hex": "#FAFA37"
+  },
+  {
+    "name": "Maximum Κίτρινο Κόκκινο",
+    "hex": "#F2BA49"
+  },
+  {
+    "name": "May Πράσινο",
+    "hex": "#4C9141"
+  },
+  {
+    "name": "Maya Μπλε",
+    "hex": "#73C2FB"
+  },
+  {
+    "name": "Meat Καφέ",
+    "hex": "#E5B73B"
+  },
+  {
+    "name": "Medium Aquamarine",
+    "hex": "#66DDAA"
+  },
+  {
+    "name": "Medium Μπλε",
+    "hex": "#0000CD"
+  },
+  {
+    "name": "Medium Candy Apple Κόκκινο",
+    "hex": "#E2062C"
+  },
+  {
+    "name": "Medium Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Medium Champagne",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Medium Electric Μπλε",
+    "hex": "#035096"
+  },
+  {
+    "name": "Medium Jungle Πράσινο",
+    "hex": "#1C352D"
+  },
+  {
+    "name": "Medium Λεβάντα Ματζέντα",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Medium Orchid",
+    "hex": "#BA55D3"
+  },
+  {
+    "name": "Medium Persian Μπλε",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Medium Μωβ",
+    "hex": "#9370DB"
+  },
+  {
+    "name": "Medium Κόκκινο-Βιολετί",
+    "hex": "#BB3385"
+  },
+  {
+    "name": "Medium Ρουμπίνι",
+    "hex": "#AA4069"
+  },
+  {
+    "name": "Medium Sea Πράσινο",
+    "hex": "#3CB371"
+  },
+  {
+    "name": "Medium Sky Μπλε",
+    "hex": "#80DAEB"
+  },
+  {
+    "name": "Medium Slate Μπλε",
+    "hex": "#7B68EE"
+  },
+  {
+    "name": "Medium Spring Bud",
+    "hex": "#C9DC87"
+  },
+  {
+    "name": "Medium Spring Πράσινο",
+    "hex": "#00FA9A"
+  },
+  {
+    "name": "Medium Taupe",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Medium Τυρκουάζ",
+    "hex": "#48D1CC"
+  },
+  {
+    "name": "Medium Tuscan Κόκκινο",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Medium Vermilion",
+    "hex": "#D9603B"
+  },
+  {
+    "name": "Medium Βιολετί-Κόκκινο",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Mellow Apricot",
+    "hex": "#F8B878"
+  },
+  {
+    "name": "Mellow Κίτρινο",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Melon",
+    "hex": "#FDBCB4"
+  },
+  {
+    "name": "Metallic Seaweed",
+    "hex": "#0A7E8C"
+  },
+  {
+    "name": "Metallic Sunburst",
+    "hex": "#9C7C38"
+  },
+  {
+    "name": "Mexican Ροζ",
+    "hex": "#E4007C"
+  },
+  {
+    "name": "Middle Μπλε",
+    "hex": "#7ED4E6"
+  },
+  {
+    "name": "Middle Μπλε Πράσινο",
+    "hex": "#8DD9CC"
+  },
+  {
+    "name": "Middle Μπλε Μωβ",
+    "hex": "#8B72BE"
+  },
+  {
+    "name": "Middle Κόκκινο Μωβ",
+    "hex": "#210837"
+  },
+  {
+    "name": "Middle Πράσινο",
+    "hex": "#4D8C57"
+  },
+  {
+    "name": "Middle Πράσινο Κίτρινο",
+    "hex": "#ACBF60"
+  },
+  {
+    "name": "Middle Μωβ",
+    "hex": "#D982B5"
+  },
+  {
+    "name": "Middle Κόκκινο",
+    "hex": "#E58E73"
+  },
+  {
+    "name": "Middle Κόκκινο Μωβ",
+    "hex": "#A55353"
+  },
+  {
+    "name": "Middle Κίτρινο",
+    "hex": "#FFEB00"
+  },
+  {
+    "name": "Middle Κίτρινο Κόκκινο",
+    "hex": "#ECB176"
+  },
+  {
+    "name": "Midnight",
+    "hex": "#702670"
+  },
+  {
+    "name": "Midnight Μπλε",
+    "hex": "#191970"
+  },
+  {
+    "name": "Midnight Πράσινο (Eagle Πράσινο)",
+    "hex": "#004953"
+  },
+  {
+    "name": "Mikado Κίτρινο",
+    "hex": "#FFC40C"
+  },
+  {
+    "name": "Milk",
+    "hex": "#FDFFF5"
+  },
+  {
+    "name": "Mimi Ροζ",
+    "hex": "#FFDAE9"
+  },
+  {
+    "name": "Mindaro",
+    "hex": "#E3F988"
+  },
+  {
+    "name": "Ming",
+    "hex": "#36747D"
+  },
+  {
+    "name": "Minion Κίτρινο",
+    "hex": "#F5E050"
+  },
+  {
+    "name": "Mint",
+    "hex": "#3EB489"
+  },
+  {
+    "name": "Mint Cream",
+    "hex": "#F5FFFA"
+  },
+  {
+    "name": "Mint Πράσινο",
+    "hex": "#98FF98"
+  },
+  {
+    "name": "Misty Moss",
+    "hex": "#BBB477"
+  },
+  {
+    "name": "Misty Rose",
+    "hex": "#FFE4E1"
+  },
+  {
+    "name": "Moccasin",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Mode Beige",
+    "hex": "#967117"
+  },
+  {
+    "name": "Moonstone Μπλε",
+    "hex": "#73A9C2"
+  },
+  {
+    "name": "Mordant Κόκκινο 19",
+    "hex": "#AE0C00"
+  },
+  {
+    "name": "Morning Μπλε",
+    "hex": "#8DA399"
+  },
+  {
+    "name": "Moss Πράσινο",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Mountain Meadow",
+    "hex": "#30BA8F"
+  },
+  {
+    "name": "Mountbatten Ροζ",
+    "hex": "#997A8D"
+  },
+  {
+    "name": "MSU Πράσινο",
+    "hex": "#18453B"
+  },
+  {
+    "name": "Mughal Πράσινο",
+    "hex": "#306030"
+  },
+  {
+    "name": "Mulberry",
+    "hex": "#C54B8C"
+  },
+  {
+    "name": "Mummy's Tomb",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Mustard",
+    "hex": "#FFDB58"
+  },
+  {
+    "name": "Myrtle Πράσινο",
+    "hex": "#317873"
+  },
+  {
+    "name": "Mystic",
+    "hex": "#D65282"
+  },
+  {
+    "name": "Mystic Μπορντό",
+    "hex": "#AD4379"
+  },
+  {
+    "name": "Nadeshiko Ροζ",
+    "hex": "#F6ADC6"
+  },
+  {
+    "name": "Napier Πράσινο",
+    "hex": "#2A8000"
+  },
+  {
+    "name": "Naples Κίτρινο",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Navajo Λευκό",
+    "hex": "#FFDEAD"
+  },
+  {
+    "name": "Navy",
+    "hex": "#000080"
+  },
+  {
+    "name": "Navy Μωβ",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Neon Carrot",
+    "hex": "#FFA343"
+  },
+  {
+    "name": "Neon Fuchsia",
+    "hex": "#FE4164"
+  },
+  {
+    "name": "Neon Πράσινο",
+    "hex": "#39FF14"
+  },
+  {
+    "name": "New Car",
+    "hex": "#214FC6"
+  },
+  {
+    "name": "New York Ροζ",
+    "hex": "#D7837F"
+  },
+  {
+    "name": "Nickel",
+    "hex": "#727472"
+  },
+  {
+    "name": "Non-Photo Μπλε",
+    "hex": "#A4DDED"
+  },
+  {
+    "name": "North Texas Πράσινο",
+    "hex": "#059033"
+  },
+  {
+    "name": "Nyanza",
+    "hex": "#E9FFDB"
+  },
+  {
+    "name": "Ocean Μπλε",
+    "hex": "#4F42B5"
+  },
+  {
+    "name": "Ocean Boat Μπλε",
+    "hex": "#0077BE"
+  },
+  {
+    "name": "Ocean Πράσινο",
+    "hex": "#48BF91"
+  },
+  {
+    "name": "Ochre",
+    "hex": "#CC7722"
+  },
+  {
+    "name": "Office Πράσινο",
+    "hex": "#008000"
+  },
+  {
+    "name": "Ogre Odor",
+    "hex": "#FD5240"
+  },
+  {
+    "name": "Old Burgundy",
+    "hex": "#43302E"
+  },
+  {
+    "name": "Old Χρυσό",
+    "hex": "#CFB53B"
+  },
+  {
+    "name": "Old Heliotrope",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Old Lace",
+    "hex": "#FDF5E6"
+  },
+  {
+    "name": "Old Λεβάντα",
+    "hex": "#796878"
+  },
+  {
+    "name": "Old Mauve",
+    "hex": "#673147"
+  },
+  {
+    "name": "Old Moss Πράσινο",
+    "hex": "#867E36"
+  },
+  {
+    "name": "Old Rose",
+    "hex": "#C08081"
+  },
+  {
+    "name": "Old Ασημί",
+    "hex": "#848482"
+  },
+  {
+    "name": "Ελιάς",
+    "hex": "#808000"
+  },
+  {
+    "name": "Ελιάς Drab (#3)",
+    "hex": "#6B8E23"
+  },
+  {
+    "name": "Ελιάς Drab #7",
+    "hex": "#3C341F"
+  },
+  {
+    "name": "Olivine",
+    "hex": "#9AB973"
+  },
+  {
+    "name": "Onyx",
+    "hex": "#353839"
+  },
+  {
+    "name": "Opera Mauve",
+    "hex": "#B784A7"
+  },
+  {
+    "name": "Πορτοκαλί (Color Wheel)",
+    "hex": "#FF7F00"
+  },
+  {
+    "name": "Πορτοκαλί (Crayola)",
+    "hex": "#FF7538"
+  },
+  {
+    "name": "Πορτοκαλί (Pantone)",
+    "hex": "#FF5800"
+  },
+  {
+    "name": "Πορτοκαλί (RYB)",
+    "hex": "#FB9902"
+  },
+  {
+    "name": "Πορτοκαλί (Web)",
+    "hex": "#FFA500"
+  },
+  {
+    "name": "Πορτοκαλί Peel",
+    "hex": "#FF9F00"
+  },
+  {
+    "name": "Πορτοκαλί-Κόκκινο",
+    "hex": "#FF4500"
+  },
+  {
+    "name": "Πορτοκαλί Soda",
+    "hex": "#FA5B3D"
+  },
+  {
+    "name": "Πορτοκαλί-Κίτρινο",
+    "hex": "#F8D568"
+  },
+  {
+    "name": "Orchid",
+    "hex": "#DA70D6"
+  },
+  {
+    "name": "Orchid Ροζ",
+    "hex": "#F2BDCD"
+  },
+  {
+    "name": "Orioles Πορτοκαλί",
+    "hex": "#FB4F14"
+  },
+  {
+    "name": "Otter Καφέ",
+    "hex": "#654321"
+  },
+  {
+    "name": "Outer Space",
+    "hex": "#414A4C"
+  },
+  {
+    "name": "Outrageous Πορτοκαλί",
+    "hex": "#FF6E4A"
+  },
+  {
+    "name": "Oxford Μπλε",
+    "hex": "#002147"
+  },
+  {
+    "name": "OU Πορφυρό Κόκκινο",
+    "hex": "#990000"
+  },
+  {
+    "name": "Pacific Μπλε",
+    "hex": "#1CA9C9"
+  },
+  {
+    "name": "Pakistan Πράσινο",
+    "hex": "#006600"
+  },
+  {
+    "name": "Palatinate Μπλε",
+    "hex": "#273BE2"
+  },
+  {
+    "name": "Palatinate Μωβ",
+    "hex": "#682860"
+  },
+  {
+    "name": "Χλωμό Aqua",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Χλωμό Μπλε",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "Χλωμό Καφέ",
+    "hex": "#987654"
+  },
+  {
+    "name": "Χλωμό Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Χλωμό Cerulean",
+    "hex": "#9BC4E2"
+  },
+  {
+    "name": "Χλωμό Chestnut",
+    "hex": "#DDADAF"
+  },
+  {
+    "name": "Χλωμό Χαλκός",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "Χλωμό Cornflower Μπλε",
+    "hex": "#ABCDEF"
+  },
+  {
+    "name": "Χλωμό Κυανό",
+    "hex": "#87D3F8"
+  },
+  {
+    "name": "Χλωμό Χρυσό",
+    "hex": "#E6BE8A"
+  },
+  {
+    "name": "Χλωμό Goldenrod",
+    "hex": "#EEE8AA"
+  },
+  {
+    "name": "Χλωμό Πράσινο",
+    "hex": "#98FB98"
+  },
+  {
+    "name": "Χλωμό Λεβάντα",
+    "hex": "#DCD0FF"
+  },
+  {
+    "name": "Χλωμό Ματζέντα",
+    "hex": "#F984E5"
+  },
+  {
+    "name": "Χλωμό Ματζέντα-Ροζ",
+    "hex": "#FF99CC"
+  },
+  {
+    "name": "Χλωμό Ροζ",
+    "hex": "#FADADD"
+  },
+  {
+    "name": "Χλωμό Plum",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Χλωμό Κόκκινο-Βιολετί",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Χλωμό Robin Egg Μπλε",
+    "hex": "#96DED1"
+  },
+  {
+    "name": "Χλωμό Ασημί",
+    "hex": "#C9C0BB"
+  },
+  {
+    "name": "Χλωμό Spring Bud",
+    "hex": "#ECEBBD"
+  },
+  {
+    "name": "Χλωμό Taupe",
+    "hex": "#BC987E"
+  },
+  {
+    "name": "Χλωμό Τυρκουάζ",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "Χλωμό Βιολετί",
+    "hex": "#CC99FF"
+  },
+  {
+    "name": "Χλωμό Βιολετί-Κόκκινο",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Palm Leaf",
+    "hex": "#6F9940"
+  },
+  {
+    "name": "Pansy Μωβ",
+    "hex": "#78184A"
+  },
+  {
+    "name": "Paolo Veronese Πράσινο",
+    "hex": "#009B7D"
+  },
+  {
+    "name": "Papaya Whip",
+    "hex": "#FFEFD5"
+  },
+  {
+    "name": "Paradise Ροζ",
+    "hex": "#E63E62"
+  },
+  {
+    "name": "Paris Πράσινο",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Parrot Ροζ",
+    "hex": "#D998A0"
+  },
+  {
+    "name": "Pastel Μπλε",
+    "hex": "#AEC6CF"
+  },
+  {
+    "name": "Pastel Καφέ",
+    "hex": "#836953"
+  },
+  {
+    "name": "Pastel Γκρι",
+    "hex": "#CFCFC4"
+  },
+  {
+    "name": "Pastel Πράσινο",
+    "hex": "#77DD77"
+  },
+  {
+    "name": "Pastel Ματζέντα",
+    "hex": "#F49AC2"
+  },
+  {
+    "name": "Pastel Πορτοκαλί",
+    "hex": "#FFB347"
+  },
+  {
+    "name": "Pastel Ροζ",
+    "hex": "#DEA5A4"
+  },
+  {
+    "name": "Pastel Μωβ",
+    "hex": "#B39EB5"
+  },
+  {
+    "name": "Pastel Κόκκινο",
+    "hex": "#FF6961"
+  },
+  {
+    "name": "Pastel Βιολετί",
+    "hex": "#CB99C9"
+  },
+  {
+    "name": "Pastel Κίτρινο",
+    "hex": "#FDFD96"
+  },
+  {
+    "name": "Patriarch",
+    "hex": "#800080"
+  },
+  {
+    "name": "Payne's Γκρι",
+    "hex": "#536878"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFE5B4"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Peach-Πορτοκαλί",
+    "hex": "#FFCC99"
+  },
+  {
+    "name": "Peach Puff",
+    "hex": "#FFDAB9"
+  },
+  {
+    "name": "Peach-Κίτρινο",
+    "hex": "#FADFAD"
+  },
+  {
+    "name": "Pear",
+    "hex": "#D1E231"
+  },
+  {
+    "name": "Pearl",
+    "hex": "#EAE0C8"
+  },
+  {
+    "name": "Pearl Aqua",
+    "hex": "#88D8C0"
+  },
+  {
+    "name": "Pearly Μωβ",
+    "hex": "#B768A2"
+  },
+  {
+    "name": "Peridot",
+    "hex": "#E6E200"
+  },
+  {
+    "name": "Periwinkle",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Permanent Geranium Lake",
+    "hex": "#E12C2C"
+  },
+  {
+    "name": "Persian Μπλε",
+    "hex": "#1C39BB"
+  },
+  {
+    "name": "Persian Πράσινο",
+    "hex": "#00A693"
+  },
+  {
+    "name": "Persian Ίντιγκο",
+    "hex": "#32127A"
+  },
+  {
+    "name": "Persian Πορτοκαλί",
+    "hex": "#D99058"
+  },
+  {
+    "name": "Persian Ροζ",
+    "hex": "#F77FBE"
+  },
+  {
+    "name": "Persian Plum",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Persian Κόκκινο",
+    "hex": "#CC3333"
+  },
+  {
+    "name": "Persian Rose",
+    "hex": "#FE28A2"
+  },
+  {
+    "name": "Persimmon",
+    "hex": "#EC5800"
+  },
+  {
+    "name": "Peru",
+    "hex": "#CD853F"
+  },
+  {
+    "name": "Pewter Μπλε",
+    "hex": "#8BA8B7"
+  },
+  {
+    "name": "Phlox",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Phthalo Μπλε",
+    "hex": "#000F89"
+  },
+  {
+    "name": "Phthalo Πράσινο",
+    "hex": "#123524"
+  },
+  {
+    "name": "Picton Μπλε",
+    "hex": "#45B1E8"
+  },
+  {
+    "name": "Pictorial Carmine",
+    "hex": "#C30B4E"
+  },
+  {
+    "name": "Piggy Ροζ",
+    "hex": "#FDDDE6"
+  },
+  {
+    "name": "Pine Πράσινο",
+    "hex": "#01796F"
+  },
+  {
+    "name": "Pineapple",
+    "hex": "#563C0D"
+  },
+  {
+    "name": "Ροζ",
+    "hex": "#FFC0CB"
+  },
+  {
+    "name": "Ροζ (Pantone)",
+    "hex": "#D74894"
+  },
+  {
+    "name": "Ροζ Flamingo",
+    "hex": "#FC74FD"
+  },
+  {
+    "name": "Ροζ Lace",
+    "hex": "#FFDDF4"
+  },
+  {
+    "name": "Ροζ Λεβάντα",
+    "hex": "#D8B2D1"
+  },
+  {
+    "name": "Ροζ-Πορτοκαλί",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Ροζ Pearl",
+    "hex": "#E7ACCF"
+  },
+  {
+    "name": "Ροζ Raspberry",
+    "hex": "#980036"
+  },
+  {
+    "name": "Ροζ Sherbet",
+    "hex": "#F78FA7"
+  },
+  {
+    "name": "Pistachio",
+    "hex": "#93C572"
+  },
+  {
+    "name": "Pixie Powder",
+    "hex": "#391285"
+  },
+  {
+    "name": "Platinum",
+    "hex": "#E5E4E2"
+  },
+  {
+    "name": "Plum",
+    "hex": "#8E4585"
+  },
+  {
+    "name": "Plum (Web)",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Plump Μωβ",
+    "hex": "#5946B2"
+  },
+  {
+    "name": "Polished Pine",
+    "hex": "#5DA493"
+  },
+  {
+    "name": "Pomp And Power",
+    "hex": "#86608E"
+  },
+  {
+    "name": "Popstar",
+    "hex": "#BE4F62"
+  },
+  {
+    "name": "Portland Πορτοκαλί",
+    "hex": "#FF5A36"
+  },
+  {
+    "name": "Powder Μπλε",
+    "hex": "#B0E0E6"
+  },
+  {
+    "name": "Princess Perfume",
+    "hex": "#FF85CF"
+  },
+  {
+    "name": "Princeton Πορτοκαλί",
+    "hex": "#F58025"
+  },
+  {
+    "name": "Prune",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Prussian Μπλε",
+    "hex": "#003153"
+  },
+  {
+    "name": "Psychedelic Μωβ",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Puce",
+    "hex": "#CC8899"
+  },
+  {
+    "name": "Puce Κόκκινο",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Pullman Καφέ (UPS Καφέ)",
+    "hex": "#644117"
+  },
+  {
+    "name": "Pullman Πράσινο",
+    "hex": "#3B331C"
+  },
+  {
+    "name": "Pumpkin",
+    "hex": "#FF7518"
+  },
+  {
+    "name": "Μωβ (HTML)",
+    "hex": "#800080"
+  },
+  {
+    "name": "Μωβ (Munsell)",
+    "hex": "#9F00C5"
+  },
+  {
+    "name": "Μωβ (X11)",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Μωβ Heart",
+    "hex": "#69359C"
+  },
+  {
+    "name": "Μωβ Mountain Majesty",
+    "hex": "#9678B6"
+  },
+  {
+    "name": "Μωβ Navy",
+    "hex": "#4E5180"
+  },
+  {
+    "name": "Μωβ Pizzazz",
+    "hex": "#FE4EDA"
+  },
+  {
+    "name": "Μωβ Plum",
+    "hex": "#9C51B6"
+  },
+  {
+    "name": "Μωβ Taupe",
+    "hex": "#50404D"
+  },
+  {
+    "name": "Purpureus",
+    "hex": "#9A4EAE"
+  },
+  {
+    "name": "Quartz",
+    "hex": "#51484F"
+  },
+  {
+    "name": "Queen Μπλε",
+    "hex": "#436B95"
+  },
+  {
+    "name": "Queen Ροζ",
+    "hex": "#E8CCD7"
+  },
+  {
+    "name": "Quick Ασημί",
+    "hex": "#A6A6A6"
+  },
+  {
+    "name": "Quinacridone Ματζέντα",
+    "hex": "#8E3A59"
+  },
+  {
+    "name": "Rackley",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Radical Κόκκινο",
+    "hex": "#FF355E"
+  },
+  {
+    "name": "Raisin Μαύρο",
+    "hex": "#242124"
+  },
+  {
+    "name": "Rajah",
+    "hex": "#FBAB60"
+  },
+  {
+    "name": "Raspberry",
+    "hex": "#E30B5D"
+  },
+  {
+    "name": "Raspberry Glace",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Raspberry Ροζ",
+    "hex": "#E25098"
+  },
+  {
+    "name": "Raspberry Rose",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Raw Sienna",
+    "hex": "#D68A59"
+  },
+  {
+    "name": "Raw Umber",
+    "hex": "#826644"
+  },
+  {
+    "name": "Razzle Dazzle Rose",
+    "hex": "#FF33CC"
+  },
+  {
+    "name": "Razzmatazz",
+    "hex": "#E3256B"
+  },
+  {
+    "name": "Razzmic Berry",
+    "hex": "#8D4E85"
+  },
+  {
+    "name": "Rebecca Μωβ",
+    "hex": "#663399"
+  },
+  {
+    "name": "Κόκκινο",
+    "hex": "#FF0000"
+  },
+  {
+    "name": "Κόκκινο (Crayola)",
+    "hex": "#EE204D"
+  },
+  {
+    "name": "Κόκκινο (Munsell)",
+    "hex": "#F2003C"
+  },
+  {
+    "name": "Κόκκινο (NCS)",
+    "hex": "#C40233"
+  },
+  {
+    "name": "Κόκκινο (Pantone)",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Κόκκινο (Pigment)",
+    "hex": "#ED1C24"
+  },
+  {
+    "name": "Κόκκινο (RYB)",
+    "hex": "#FE2712"
+  },
+  {
+    "name": "Κόκκινο-Καφέ",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Κόκκινο Devil",
+    "hex": "#860111"
+  },
+  {
+    "name": "Κόκκινο-Πορτοκαλί",
+    "hex": "#FF5349"
+  },
+  {
+    "name": "Κόκκινο-Μωβ",
+    "hex": "#E40078"
+  },
+  {
+    "name": "Κόκκινο Salsa",
+    "hex": "#FD3A4A"
+  },
+  {
+    "name": "Κόκκινο-Βιολετί",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Redwood",
+    "hex": "#A45A52"
+  },
+  {
+    "name": "Regalia",
+    "hex": "#522D80"
+  },
+  {
+    "name": "Registration Μαύρο",
+    "hex": "#000000"
+  },
+  {
+    "name": "Resolution Μπλε",
+    "hex": "#002387"
+  },
+  {
+    "name": "Rhythm",
+    "hex": "#777696"
+  },
+  {
+    "name": "Έντονο Μαύρο",
+    "hex": "#004040"
+  },
+  {
+    "name": "Έντονο Μαύρο (FOGRA29)",
+    "hex": "#010B13"
+  },
+  {
+    "name": "Έντονο Μαύρο (FOGRA39)",
+    "hex": "#010203"
+  },
+  {
+    "name": "Έντονο Brilliant Λεβάντα",
+    "hex": "#F1A7FE"
+  },
+  {
+    "name": "Έντονο Carmine",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Έντονο Electric Μπλε",
+    "hex": "#0892D0"
+  },
+  {
+    "name": "Έντονο Λεβάντα",
+    "hex": "#A76BCF"
+  },
+  {
+    "name": "Έντονο Lilac",
+    "hex": "#B666D2"
+  },
+  {
+    "name": "Έντονο Μπορντό",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Rifle Πράσινο",
+    "hex": "#444C38"
+  },
+  {
+    "name": "Roast Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Robin Egg Μπλε",
+    "hex": "#00CCCC"
+  },
+  {
+    "name": "Rocket Metallic",
+    "hex": "#8A7F80"
+  },
+  {
+    "name": "Roman Ασημί",
+    "hex": "#838996"
+  },
+  {
+    "name": "Rose",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Rose Bonbon",
+    "hex": "#F9429E"
+  },
+  {
+    "name": "Rose Dust",
+    "hex": "#9E5E6F"
+  },
+  {
+    "name": "Rose Ebony",
+    "hex": "#674846"
+  },
+  {
+    "name": "Rose Χρυσό",
+    "hex": "#B76E79"
+  },
+  {
+    "name": "Rose Madder",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Rose Ροζ",
+    "hex": "#FF66CC"
+  },
+  {
+    "name": "Rose Quartz",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Rose Κόκκινο",
+    "hex": "#C21E56"
+  },
+  {
+    "name": "Rose Taupe",
+    "hex": "#905D5D"
+  },
+  {
+    "name": "Rose Vale",
+    "hex": "#AB4E52"
+  },
+  {
+    "name": "Rosewood",
+    "hex": "#65000B"
+  },
+  {
+    "name": "Rosso Corsa",
+    "hex": "#D40000"
+  },
+  {
+    "name": "Rosy Καφέ",
+    "hex": "#BC8F8F"
+  },
+  {
+    "name": "Royal Αζούρ",
+    "hex": "#0038A8"
+  },
+  {
+    "name": "Royal Μπλε",
+    "hex": "#002366"
+  },
+  {
+    "name": "Royal Μπλε",
+    "hex": "#4169E1"
+  },
+  {
+    "name": "Royal Fuchsia",
+    "hex": "#CA2C92"
+  },
+  {
+    "name": "Royal Μωβ",
+    "hex": "#7851A9"
+  },
+  {
+    "name": "Royal Κίτρινο",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Ruber",
+    "hex": "#CE4676"
+  },
+  {
+    "name": "Rubine Κόκκινο",
+    "hex": "#D10056"
+  },
+  {
+    "name": "Ρουμπίνι",
+    "hex": "#E0115F"
+  },
+  {
+    "name": "Ρουμπίνι Κόκκινο",
+    "hex": "#9B111E"
+  },
+  {
+    "name": "Ruddy",
+    "hex": "#FF0028"
+  },
+  {
+    "name": "Ruddy Καφέ",
+    "hex": "#BB6528"
+  },
+  {
+    "name": "Ruddy Ροζ",
+    "hex": "#E18E96"
+  },
+  {
+    "name": "Rufous",
+    "hex": "#A81C07"
+  },
+  {
+    "name": "Russet",
+    "hex": "#80461B"
+  },
+  {
+    "name": "Russian Πράσινο",
+    "hex": "#679267"
+  },
+  {
+    "name": "Russian Βιολετί",
+    "hex": "#32174D"
+  },
+  {
+    "name": "Rust",
+    "hex": "#B7410E"
+  },
+  {
+    "name": "Rusty Κόκκινο",
+    "hex": "#DA2C43"
+  },
+  {
+    "name": "Sacramento State Πράσινο",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Saddle Καφέ",
+    "hex": "#8B4513"
+  },
+  {
+    "name": "Safety Πορτοκαλί",
+    "hex": "#FF7800"
+  },
+  {
+    "name": "Safety Πορτοκαλί (Blaze Πορτοκαλί)",
+    "hex": "#FF6700"
+  },
+  {
+    "name": "Safety Κίτρινο",
+    "hex": "#EED202"
+  },
+  {
+    "name": "Saffron",
+    "hex": "#F4C430"
+  },
+  {
+    "name": "Sage",
+    "hex": "#BCB88A"
+  },
+  {
+    "name": "St. Patrick's Μπλε",
+    "hex": "#23297A"
+  },
+  {
+    "name": "Salmon",
+    "hex": "#FA8072"
+  },
+  {
+    "name": "Salmon Ροζ",
+    "hex": "#FF91A4"
+  },
+  {
+    "name": "Sand",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Sand Dune",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sandstorm",
+    "hex": "#ECD540"
+  },
+  {
+    "name": "Sandy Καφέ",
+    "hex": "#F4A460"
+  },
+  {
+    "name": "Sandy Tan",
+    "hex": "#FDD9B5"
+  },
+  {
+    "name": "Sandy Taupe",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sangria",
+    "hex": "#92000A"
+  },
+  {
+    "name": "Sap Πράσινο",
+    "hex": "#507D2A"
+  },
+  {
+    "name": "Ζαφείρι",
+    "hex": "#0F52BA"
+  },
+  {
+    "name": "Ζαφείρι Μπλε",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Sasquatch Socks",
+    "hex": "#FF4681"
+  },
+  {
+    "name": "Satin Sheen Χρυσό",
+    "hex": "#CBA135"
+  },
+  {
+    "name": "Σκάρλετ",
+    "hex": "#FF2400"
+  },
+  {
+    "name": "Σκάρλετ",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Schauss Ροζ",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "School Bus Κίτρινο",
+    "hex": "#FFD800"
+  },
+  {
+    "name": "Screamin' Πράσινο",
+    "hex": "#66FF66"
+  },
+  {
+    "name": "Sea Μπλε",
+    "hex": "#006994"
+  },
+  {
+    "name": "Sea Foam Πράσινο",
+    "hex": "#9FE2BF"
+  },
+  {
+    "name": "Sea Πράσινο",
+    "hex": "#2E8B57"
+  },
+  {
+    "name": "Sea Serpent",
+    "hex": "#4BC7CF"
+  },
+  {
+    "name": "Seal Καφέ",
+    "hex": "#59260B"
+  },
+  {
+    "name": "Seashell",
+    "hex": "#FFF5EE"
+  },
+  {
+    "name": "Selective Κίτρινο",
+    "hex": "#FFBA00"
+  },
+  {
+    "name": "Sepia",
+    "hex": "#704214"
+  },
+  {
+    "name": "Shadow",
+    "hex": "#8A795D"
+  },
+  {
+    "name": "Shadow Μπλε",
+    "hex": "#778BA5"
+  },
+  {
+    "name": "Shampoo",
+    "hex": "#FFCFF1"
+  },
+  {
+    "name": "Shamrock Πράσινο",
+    "hex": "#009E60"
+  },
+  {
+    "name": "Sheen Πράσινο",
+    "hex": "#8FD400"
+  },
+  {
+    "name": "Shimmering Blush",
+    "hex": "#D98695"
+  },
+  {
+    "name": "Shiny Shamrock",
+    "hex": "#5FA778"
+  },
+  {
+    "name": "Shocking Ροζ",
+    "hex": "#FC0FC0"
+  },
+  {
+    "name": "Shocking Ροζ (Crayola)",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Sienna",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Ασημί",
+    "hex": "#C0C0C0"
+  },
+  {
+    "name": "Ασημί Chalice",
+    "hex": "#ACACAC"
+  },
+  {
+    "name": "Ασημί Lake Μπλε",
+    "hex": "#5D89BA"
+  },
+  {
+    "name": "Ασημί Ροζ",
+    "hex": "#C4AEAD"
+  },
+  {
+    "name": "Ασημί Sand",
+    "hex": "#BFC1C2"
+  },
+  {
+    "name": "Sinopia",
+    "hex": "#CB410B"
+  },
+  {
+    "name": "Sizzling Κόκκινο",
+    "hex": "#FF3855"
+  },
+  {
+    "name": "Sizzling Sunrise",
+    "hex": "#FFDB00"
+  },
+  {
+    "name": "Skobeloff",
+    "hex": "#007474"
+  },
+  {
+    "name": "Sky Μπλε",
+    "hex": "#87CEEB"
+  },
+  {
+    "name": "Sky Ματζέντα",
+    "hex": "#CF71AF"
+  },
+  {
+    "name": "Slate Μπλε",
+    "hex": "#6A5ACD"
+  },
+  {
+    "name": "Slate Γκρι",
+    "hex": "#708090"
+  },
+  {
+    "name": "Smalt (Σκούρο Powder Μπλε)",
+    "hex": "#003399"
+  },
+  {
+    "name": "Slimy Πράσινο",
+    "hex": "#299617"
+  },
+  {
+    "name": "Smashed Pumpkin",
+    "hex": "#FF6D3A"
+  },
+  {
+    "name": "Smitten",
+    "hex": "#C84186"
+  },
+  {
+    "name": "Smoke",
+    "hex": "#738276"
+  },
+  {
+    "name": "Smokey Topaz",
+    "hex": "#832A0D"
+  },
+  {
+    "name": "Smoky Μαύρο",
+    "hex": "#100C08"
+  },
+  {
+    "name": "Smoky Topaz",
+    "hex": "#933D41"
+  },
+  {
+    "name": "Snow",
+    "hex": "#FFFAFA"
+  },
+  {
+    "name": "Soap",
+    "hex": "#CEC8EF"
+  },
+  {
+    "name": "Solid Ροζ",
+    "hex": "#893843"
+  },
+  {
+    "name": "Sonic Ασημί",
+    "hex": "#757575"
+  },
+  {
+    "name": "Spartan Πορφυρό",
+    "hex": "#9E1316"
+  },
+  {
+    "name": "Space Cadet",
+    "hex": "#1D2951"
+  },
+  {
+    "name": "Spanish Bistre",
+    "hex": "#807532"
+  },
+  {
+    "name": "Spanish Μπλε",
+    "hex": "#0070B8"
+  },
+  {
+    "name": "Spanish Carmine",
+    "hex": "#D10047"
+  },
+  {
+    "name": "Spanish Πορφυρό",
+    "hex": "#E51A4C"
+  },
+  {
+    "name": "Spanish Γκρι",
+    "hex": "#989898"
+  },
+  {
+    "name": "Spanish Πράσινο",
+    "hex": "#009150"
+  },
+  {
+    "name": "Spanish Πορτοκαλί",
+    "hex": "#E86100"
+  },
+  {
+    "name": "Spanish Ροζ",
+    "hex": "#F7BFBE"
+  },
+  {
+    "name": "Spanish Κόκκινο",
+    "hex": "#E60026"
+  },
+  {
+    "name": "Spanish Sky Μπλε",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Spanish Βιολετί",
+    "hex": "#4C2882"
+  },
+  {
+    "name": "Spanish Viridian",
+    "hex": "#007F5C"
+  },
+  {
+    "name": "Spicy Mix",
+    "hex": "#8B5f4D"
+  },
+  {
+    "name": "Spiro Disco Ball",
+    "hex": "#0FC0FC"
+  },
+  {
+    "name": "Spring Bud",
+    "hex": "#A7FC00"
+  },
+  {
+    "name": "Spring Frost",
+    "hex": "#87FF2A"
+  },
+  {
+    "name": "Spring Πράσινο",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Star Command Μπλε",
+    "hex": "#007BB8"
+  },
+  {
+    "name": "Steel Μπλε",
+    "hex": "#4682B4"
+  },
+  {
+    "name": "Steel Ροζ",
+    "hex": "#CC33CC"
+  },
+  {
+    "name": "Steel Πετρόλ",
+    "hex": "#5F8A8B"
+  },
+  {
+    "name": "Stil De Grain Κίτρινο",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Stizza",
+    "hex": "#990000"
+  },
+  {
+    "name": "Stormcloud",
+    "hex": "#4F666A"
+  },
+  {
+    "name": "Straw",
+    "hex": "#E4D96F"
+  },
+  {
+    "name": "Strawberry",
+    "hex": "#FC5A8D"
+  },
+  {
+    "name": "Sugar Plum",
+    "hex": "#914E75"
+  },
+  {
+    "name": "Sunburnt Cyclops",
+    "hex": "#FF404C"
+  },
+  {
+    "name": "Sunglow",
+    "hex": "#FFCC33"
+  },
+  {
+    "name": "Sunny",
+    "hex": "#F2F27A"
+  },
+  {
+    "name": "Sunray",
+    "hex": "#E3AB57"
+  },
+  {
+    "name": "Sunset",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Sunset Πορτοκαλί",
+    "hex": "#FD5E53"
+  },
+  {
+    "name": "Super Ροζ",
+    "hex": "#CF6BA9"
+  },
+  {
+    "name": "Sweet Καφέ",
+    "hex": "#A83731"
+  },
+  {
+    "name": "Tan",
+    "hex": "#D2B48C"
+  },
+  {
+    "name": "Tangelo",
+    "hex": "#F94D00"
+  },
+  {
+    "name": "Tangerine",
+    "hex": "#F28500"
+  },
+  {
+    "name": "Tangerine Κίτρινο",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "Tango Ροζ",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Tart Πορτοκαλί",
+    "hex": "#FB4D46"
+  },
+  {
+    "name": "Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Taupe Γκρι",
+    "hex": "#8B8589"
+  },
+  {
+    "name": "Tea Πράσινο",
+    "hex": "#D0F0C0"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Πετρόλ",
+    "hex": "#008080"
+  },
+  {
+    "name": "Πετρόλ Μπλε",
+    "hex": "#367588"
+  },
+  {
+    "name": "Πετρόλ Deer",
+    "hex": "#99E6B3"
+  },
+  {
+    "name": "Πετρόλ Πράσινο",
+    "hex": "#00827F"
+  },
+  {
+    "name": "Telemagenta",
+    "hex": "#CF3476"
+  },
+  {
+    "name": "Tenne (Tawny)",
+    "hex": "#CD5700"
+  },
+  {
+    "name": "Terra Cotta",
+    "hex": "#E2725B"
+  },
+  {
+    "name": "Thistle",
+    "hex": "#D8BFD8"
+  },
+  {
+    "name": "Thulian Ροζ",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Tickle Me Ροζ",
+    "hex": "#FC89AC"
+  },
+  {
+    "name": "Tiffany Μπλε",
+    "hex": "#0ABAB5"
+  },
+  {
+    "name": "Tiger's Eye",
+    "hex": "#E08D3C"
+  },
+  {
+    "name": "Timberwolf",
+    "hex": "#DBD7D2"
+  },
+  {
+    "name": "Titanium Κίτρινο",
+    "hex": "#EEE600"
+  },
+  {
+    "name": "Tomato",
+    "hex": "#FF6347"
+  },
+  {
+    "name": "Toolbox",
+    "hex": "#746CC0"
+  },
+  {
+    "name": "Topaz",
+    "hex": "#FFC87C"
+  },
+  {
+    "name": "Tractor Κόκκινο",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Trolley Γκρι",
+    "hex": "#808080"
+  },
+  {
+    "name": "Tropical Rain Forest",
+    "hex": "#00755E"
+  },
+  {
+    "name": "Tropical Βιολετί",
+    "hex": "#CDA4DE"
+  },
+  {
+    "name": "True Μπλε",
+    "hex": "#0073CF"
+  },
+  {
+    "name": "Tufts Μπλε",
+    "hex": "#3E8EDE"
+  },
+  {
+    "name": "Tulip",
+    "hex": "#FF878D"
+  },
+  {
+    "name": "Tumbleweed",
+    "hex": "#DEAA88"
+  },
+  {
+    "name": "Turkish Rose",
+    "hex": "#B57281"
+  },
+  {
+    "name": "Τυρκουάζ",
+    "hex": "#40E0D0"
+  },
+  {
+    "name": "Τυρκουάζ Μπλε",
+    "hex": "#00FFEF"
+  },
+  {
+    "name": "Τυρκουάζ Πράσινο",
+    "hex": "#A0D6B4"
+  },
+  {
+    "name": "Τυρκουάζ Surf",
+    "hex": "#00C5CD"
+  },
+  {
+    "name": "Turtle Πράσινο",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Tuscan",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Tuscan Καφέ",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Tuscan Κόκκινο",
+    "hex": "#7C4848"
+  },
+  {
+    "name": "Tuscan Tan",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Tuscany",
+    "hex": "#C09999"
+  },
+  {
+    "name": "Twilight Λεβάντα",
+    "hex": "#8A496B"
+  },
+  {
+    "name": "Tyrian Μωβ",
+    "hex": "#66023C"
+  },
+  {
+    "name": "UA Μπλε",
+    "hex": "#0033AA"
+  },
+  {
+    "name": "UA Κόκκινο",
+    "hex": "#D9004C"
+  },
+  {
+    "name": "Ube",
+    "hex": "#8878C3"
+  },
+  {
+    "name": "UCLA Μπλε",
+    "hex": "#536895"
+  },
+  {
+    "name": "UCLA Χρυσό",
+    "hex": "#FFB300"
+  },
+  {
+    "name": "UFO Πράσινο",
+    "hex": "#3CD070"
+  },
+  {
+    "name": "Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Ultramarine Μπλε",
+    "hex": "#4166F5"
+  },
+  {
+    "name": "Ultra Ροζ",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Ultra Κόκκινο",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Umber",
+    "hex": "#635147"
+  },
+  {
+    "name": "Unbleached Silk",
+    "hex": "#FFDDCA"
+  },
+  {
+    "name": "United Nations Μπλε",
+    "hex": "#5B92E5"
+  },
+  {
+    "name": "University Of California Χρυσό",
+    "hex": "#B78727"
+  },
+  {
+    "name": "Unmellow Κίτρινο",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "UP Forest Πράσινο",
+    "hex": "#014421"
+  },
+  {
+    "name": "UP Μπορντό",
+    "hex": "#7B1113"
+  },
+  {
+    "name": "Upsdell Κόκκινο",
+    "hex": "#AE2029"
+  },
+  {
+    "name": "Urobilin",
+    "hex": "#E1AD21"
+  },
+  {
+    "name": "USAFA Μπλε",
+    "hex": "#004F98"
+  },
+  {
+    "name": "USC Cardinal",
+    "hex": "#990000"
+  },
+  {
+    "name": "USC Χρυσό",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "University Of Tennessee Πορτοκαλί",
+    "hex": "#F77F00"
+  },
+  {
+    "name": "Utah Πορφυρό",
+    "hex": "#D3003F"
+  },
+  {
+    "name": "Van Dyke Καφέ",
+    "hex": "#664228"
+  },
+  {
+    "name": "Vanilla",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Vanilla Ice",
+    "hex": "#F38FA9"
+  },
+  {
+    "name": "Vegas Χρυσό",
+    "hex": "#C5B358"
+  },
+  {
+    "name": "Venetian Κόκκινο",
+    "hex": "#C80815"
+  },
+  {
+    "name": "Verdigris",
+    "hex": "#43B3AE"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#D9381E"
+  },
+  {
+    "name": "Veronica",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Very Ανοιχτό Αζούρ",
+    "hex": "#74BBFB"
+  },
+  {
+    "name": "Very Ανοιχτό Μπλε",
+    "hex": "#6666FF"
+  },
+  {
+    "name": "Very Ανοιχτό Malachite Πράσινο",
+    "hex": "#64E986"
+  },
+  {
+    "name": "Very Ανοιχτό Tangelo",
+    "hex": "#FFB077"
+  },
+  {
+    "name": "Very Χλωμό Πορτοκαλί",
+    "hex": "#FFDFBF"
+  },
+  {
+    "name": "Very Χλωμό Κίτρινο",
+    "hex": "#FFFFBF"
+  },
+  {
+    "name": "Βιολετί",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Βιολετί (Color Wheel)",
+    "hex": "#7F00FF"
+  },
+  {
+    "name": "Βιολετί (RYB)",
+    "hex": "#8601AF"
+  },
+  {
+    "name": "Βιολετί (Web)",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "Βιολετί-Μπλε",
+    "hex": "#324AB2"
+  },
+  {
+    "name": "Βιολετί-Κόκκινο",
+    "hex": "#F75394"
+  },
+  {
+    "name": "Viridian",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Viridian Πράσινο",
+    "hex": "#009698"
+  },
+  {
+    "name": "Vista Μπλε",
+    "hex": "#7C9ED9"
+  },
+  {
+    "name": "Ζωηρό Amber",
+    "hex": "#CC9900"
+  },
+  {
+    "name": "Ζωηρό Auburn",
+    "hex": "#922724"
+  },
+  {
+    "name": "Ζωηρό Burgundy",
+    "hex": "#9F1D35"
+  },
+  {
+    "name": "Ζωηρό Cerise",
+    "hex": "#DA1D81"
+  },
+  {
+    "name": "Ζωηρό Cerulean",
+    "hex": "#00AAEE"
+  },
+  {
+    "name": "Ζωηρό Πορφυρό",
+    "hex": "#CC0033"
+  },
+  {
+    "name": "Ζωηρό Gamboge",
+    "hex": "#FF9900"
+  },
+  {
+    "name": "Ζωηρό Lime Πράσινο",
+    "hex": "#A6D608"
+  },
+  {
+    "name": "Ζωηρό Malachite",
+    "hex": "#00CC33"
+  },
+  {
+    "name": "Ζωηρό Mulberry",
+    "hex": "#B80CE3"
+  },
+  {
+    "name": "Ζωηρό Πορτοκαλί",
+    "hex": "#FF5F00"
+  },
+  {
+    "name": "Ζωηρό Πορτοκαλί Peel",
+    "hex": "#FFA000"
+  },
+  {
+    "name": "Ζωηρό Orchid",
+    "hex": "#CC00FF"
+  },
+  {
+    "name": "Ζωηρό Raspberry",
+    "hex": "#FF006C"
+  },
+  {
+    "name": "Ζωηρό Κόκκινο",
+    "hex": "#F70D1A"
+  },
+  {
+    "name": "Ζωηρό Κόκκινο-Tangelo",
+    "hex": "#DF6124"
+  },
+  {
+    "name": "Ζωηρό Sky Μπλε",
+    "hex": "#00CCFF"
+  },
+  {
+    "name": "Ζωηρό Tangelo",
+    "hex": "#F07427"
+  },
+  {
+    "name": "Ζωηρό Tangerine",
+    "hex": "#FFA089"
+  },
+  {
+    "name": "Ζωηρό Vermilion",
+    "hex": "#E56024"
+  },
+  {
+    "name": "Ζωηρό Βιολετί",
+    "hex": "#9F00FF"
+  },
+  {
+    "name": "Ζωηρό Κίτρινο",
+    "hex": "#FFE302"
+  },
+  {
+    "name": "Volt",
+    "hex": "#CEFF00"
+  },
+  {
+    "name": "Wageningen Πράσινο",
+    "hex": "#34B233"
+  },
+  {
+    "name": "Warm Μαύρο",
+    "hex": "#004242"
+  },
+  {
+    "name": "Waterspout",
+    "hex": "#A4F4F9"
+  },
+  {
+    "name": "Weldon Μπλε",
+    "hex": "#7C98AB"
+  },
+  {
+    "name": "Wenge",
+    "hex": "#645452"
+  },
+  {
+    "name": "Wheat",
+    "hex": "#F5DEB3"
+  },
+  {
+    "name": "Λευκό",
+    "hex": "#FFFFFF"
+  },
+  {
+    "name": "Λευκό Smoke",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Wild Μπλε Yonder",
+    "hex": "#A2ADD0"
+  },
+  {
+    "name": "Wild Orchid",
+    "hex": "#D470A2"
+  },
+  {
+    "name": "Wild Strawberry",
+    "hex": "#FF43A4"
+  },
+  {
+    "name": "Wild Watermelon",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Willpower Πορτοκαλί",
+    "hex": "#FD5800"
+  },
+  {
+    "name": "Windsor Tan",
+    "hex": "#A75502"
+  },
+  {
+    "name": "Wine",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Wine Dregs",
+    "hex": "#673147"
+  },
+  {
+    "name": "Winter Sky",
+    "hex": "#FF007C"
+  },
+  {
+    "name": "Winter Wizard",
+    "hex": "#A0E6FF"
+  },
+  {
+    "name": "Wintergreen Dream",
+    "hex": "#56887D"
+  },
+  {
+    "name": "Wisteria",
+    "hex": "#C9A0DC"
+  },
+  {
+    "name": "Wood Καφέ",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Xanadu",
+    "hex": "#738678"
+  },
+  {
+    "name": "Yale Μπλε",
+    "hex": "#0F4D92"
+  },
+  {
+    "name": "Yankees Μπλε",
+    "hex": "#1C2841"
+  },
+  {
+    "name": "Κίτρινο",
+    "hex": "#FFFF00"
+  },
+  {
+    "name": "Κίτρινο (Crayola)",
+    "hex": "#FCE883"
+  },
+  {
+    "name": "Κίτρινο (Munsell)",
+    "hex": "#EFCC00"
+  },
+  {
+    "name": "Κίτρινο (NCS)",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Κίτρινο (Pantone)",
+    "hex": "#FEDF00"
+  },
+  {
+    "name": "Κίτρινο (Process)",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Κίτρινο (RYB)",
+    "hex": "#FEFE33"
+  },
+  {
+    "name": "Κίτρινο-Πράσινο",
+    "hex": "#9ACD32"
+  },
+  {
+    "name": "Κίτρινο Πορτοκαλί",
+    "hex": "#FFAE42"
+  },
+  {
+    "name": "Κίτρινο Rose",
+    "hex": "#FFF000"
+  },
+  {
+    "name": "Κίτρινο Sunshine",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Zaffre",
+    "hex": "#0014A8"
+  },
+  {
+    "name": "Zinnwaldite Καφέ",
+    "hex": "#2C1608"
+  },
+  {
+    "name": "Zomp",
+    "hex": "#39A78E"
+  }
+]
