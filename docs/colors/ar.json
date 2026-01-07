@@ -1,0 +1,5210 @@
+[
+  {
+    "name": "Absolute Zero",
+    "hex": "#0048BA"
+  },
+  {
+    "name": "Acid أخضر",
+    "hex": "#B0BF1A"
+  },
+  {
+    "name": "Aero",
+    "hex": "#7CB9E8"
+  },
+  {
+    "name": "Aero أزرق",
+    "hex": "#C9FFE5"
+  },
+  {
+    "name": "African بنفسجي",
+    "hex": "#B284BE"
+  },
+  {
+    "name": "Air Force أزرق (RAF)",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Air Force أزرق (USAF)",
+    "hex": "#00308F"
+  },
+  {
+    "name": "Air Superiority أزرق",
+    "hex": "#72A0C1"
+  },
+  {
+    "name": "Alabama قرمزي",
+    "hex": "#AF002A"
+  },
+  {
+    "name": "Alabaster",
+    "hex": "#F2F0E6"
+  },
+  {
+    "name": "Alice أزرق",
+    "hex": "#F0F8FF"
+  },
+  {
+    "name": "Alien Armpit",
+    "hex": "#84DE02"
+  },
+  {
+    "name": "Alizarin قرمزي",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Alloy برتقالي",
+    "hex": "#C46210"
+  },
+  {
+    "name": "Almond",
+    "hex": "#EFDECD"
+  },
+  {
+    "name": "Amaranth",
+    "hex": "#E52B50"
+  },
+  {
+    "name": "Amaranth عميق أرجواني",
+    "hex": "#9F2B68"
+  },
+  {
+    "name": "Amaranth وردي",
+    "hex": "#F19CBB"
+  },
+  {
+    "name": "Amaranth أرجواني",
+    "hex": "#AB274F"
+  },
+  {
+    "name": "Amaranth أحمر",
+    "hex": "#D3212D"
+  },
+  {
+    "name": "Amazon Store",
+    "hex": "#3B7A57"
+  },
+  {
+    "name": "Amazonite",
+    "hex": "#00C4B0"
+  },
+  {
+    "name": "كهرماني",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "كهرماني (SAE/ECE)",
+    "hex": "#FF7E00"
+  },
+  {
+    "name": "American وردي",
+    "hex": "#FF033E"
+  },
+  {
+    "name": "Amethyst",
+    "hex": "#9966CC"
+  },
+  {
+    "name": "Android أخضر",
+    "hex": "#A4C639"
+  },
+  {
+    "name": "Anti-Flash أبيض",
+    "hex": "#F2F3F4"
+  },
+  {
+    "name": "Antique Brass",
+    "hex": "#CD9575"
+  },
+  {
+    "name": "Antique برونزي",
+    "hex": "#665D1E"
+  },
+  {
+    "name": "Antique فوشيا",
+    "hex": "#915C83"
+  },
+  {
+    "name": "Antique ياقوتي",
+    "hex": "#841B2D"
+  },
+  {
+    "name": "Antique أبيض",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Ao (English)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Apple أخضر",
+    "hex": "#8DB600"
+  },
+  {
+    "name": "Apricot",
+    "hex": "#FBCEB1"
+  },
+  {
+    "name": "أكوا",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "أكوامارين",
+    "hex": "#7FFFD4"
+  },
+  {
+    "name": "Arctic ليموني",
+    "hex": "#D0FF14"
+  },
+  {
+    "name": "Army أخضر",
+    "hex": "#4B5320"
+  },
+  {
+    "name": "Arsenic",
+    "hex": "#3B444B"
+  },
+  {
+    "name": "Artichoke",
+    "hex": "#8F9779"
+  },
+  {
+    "name": "Arylide أصفر",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Ash رمادي",
+    "hex": "#B2BEB5"
+  },
+  {
+    "name": "Asparagus",
+    "hex": "#87A96B"
+  },
+  {
+    "name": "Atomic Tangerine",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Auburn",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Aureolin",
+    "hex": "#FDEE00"
+  },
+  {
+    "name": "AuroMetalSaurus",
+    "hex": "#6E7F80"
+  },
+  {
+    "name": "Avocado",
+    "hex": "#568203"
+  },
+  {
+    "name": "Awesome",
+    "hex": "#FF2052"
+  },
+  {
+    "name": "Aztec ذهبي",
+    "hex": "#C39953"
+  },
+  {
+    "name": "أزرق سماوي",
+    "hex": "#007FFF"
+  },
+  {
+    "name": "أزرق سماوي (Web Color)",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "أزرق سماوي Mist",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Azureish أبيض",
+    "hex": "#DBE9F4"
+  },
+  {
+    "name": "Baby أزرق",
+    "hex": "#89CFF0"
+  },
+  {
+    "name": "Baby أزرق Eyes",
+    "hex": "#A1CAF1"
+  },
+  {
+    "name": "Baby وردي",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Baby Powder",
+    "hex": "#FEFEFA"
+  },
+  {
+    "name": "Baker-Miller وردي",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "Ball أزرق",
+    "hex": "#21ABCD"
+  },
+  {
+    "name": "Banana Mania",
+    "hex": "#FAE7B5"
+  },
+  {
+    "name": "Banana أصفر",
+    "hex": "#FFE135"
+  },
+  {
+    "name": "Bangladesh أخضر",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Barbie وردي",
+    "hex": "#E0218A"
+  },
+  {
+    "name": "Barn أحمر",
+    "hex": "#7C0A02"
+  },
+  {
+    "name": "Battery Charged أزرق",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Battleship رمادي",
+    "hex": "#848482"
+  },
+  {
+    "name": "Bazaar",
+    "hex": "#98777B"
+  },
+  {
+    "name": "Beau أزرق",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Beaver",
+    "hex": "#9F8170"
+  },
+  {
+    "name": "Begonia",
+    "hex": "#FA6E79"
+  },
+  {
+    "name": "بيج",
+    "hex": "#F5F5DC"
+  },
+  {
+    "name": "B'dazzled أزرق",
+    "hex": "#2E5894"
+  },
+  {
+    "name": "Big Dip O'ruby",
+    "hex": "#9C2542"
+  },
+  {
+    "name": "Big Foot Feet",
+    "hex": "#E88E5A"
+  },
+  {
+    "name": "Bisque",
+    "hex": "#FFE4C4"
+  },
+  {
+    "name": "Bistre",
+    "hex": "#3D2B1F"
+  },
+  {
+    "name": "Bistre بني",
+    "hex": "#967117"
+  },
+  {
+    "name": "Bitter Lemon",
+    "hex": "#CAE00D"
+  },
+  {
+    "name": "Bitter ليموني",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Bittersweet",
+    "hex": "#FE6F5E"
+  },
+  {
+    "name": "Bittersweet Shimmer",
+    "hex": "#BF4F51"
+  },
+  {
+    "name": "أسود",
+    "hex": "#000000"
+  },
+  {
+    "name": "أسود Bean",
+    "hex": "#3D0C02"
+  },
+  {
+    "name": "أسود مرجاني",
+    "hex": "#54626F"
+  },
+  {
+    "name": "أسود Leather Jacket",
+    "hex": "#253529"
+  },
+  {
+    "name": "أسود زيتوني",
+    "hex": "#3B3C36"
+  },
+  {
+    "name": "أسود Shadows",
+    "hex": "#BFAFB2"
+  },
+  {
+    "name": "Blanched Almond",
+    "hex": "#FFEBCD"
+  },
+  {
+    "name": "Blast-Off برونزي",
+    "hex": "#A57164"
+  },
+  {
+    "name": "Bleu De France",
+    "hex": "#318CE7"
+  },
+  {
+    "name": "Blizzard أزرق",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Blond",
+    "hex": "#FAF0BE"
+  },
+  {
+    "name": "أزرق",
+    "hex": "#0000FF"
+  },
+  {
+    "name": "أزرق (Crayola)",
+    "hex": "#1F75FE"
+  },
+  {
+    "name": "أزرق (Munsell)",
+    "hex": "#0093AF"
+  },
+  {
+    "name": "أزرق (NCS)",
+    "hex": "#0087BD"
+  },
+  {
+    "name": "أزرق (Pantone)",
+    "hex": "#0018A8"
+  },
+  {
+    "name": "أزرق (Pigment)",
+    "hex": "#333399"
+  },
+  {
+    "name": "أزرق (RYB)",
+    "hex": "#0247FE"
+  },
+  {
+    "name": "أزرق Bell",
+    "hex": "#A2A2D0"
+  },
+  {
+    "name": "أزرق Bolt",
+    "hex": "#00B9FB"
+  },
+  {
+    "name": "أزرق-رمادي",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "أزرق-أخضر",
+    "hex": "#0D98BA"
+  },
+  {
+    "name": "أزرق Jeans",
+    "hex": "#5DADEC"
+  },
+  {
+    "name": "أزرق Lagoon",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "أزرق-ماجنتا بنفسجي",
+    "hex": "#553592"
+  },
+  {
+    "name": "أزرق ياقوتي",
+    "hex": "#126180"
+  },
+  {
+    "name": "أزرق-بنفسجي",
+    "hex": "#8A2BE2"
+  },
+  {
+    "name": "أزرق Yonder",
+    "hex": "#5072A7"
+  },
+  {
+    "name": "Blueberry",
+    "hex": "#4F86F7"
+  },
+  {
+    "name": "Bluebonnet",
+    "hex": "#1C1CF0"
+  },
+  {
+    "name": "Blush",
+    "hex": "#DE5D83"
+  },
+  {
+    "name": "Bole",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Bondi أزرق",
+    "hex": "#0095B6"
+  },
+  {
+    "name": "Bone",
+    "hex": "#E3DAC9"
+  },
+  {
+    "name": "Booger Buster",
+    "hex": "#DDE26A"
+  },
+  {
+    "name": "Boston University أحمر",
+    "hex": "#CC0000"
+  },
+  {
+    "name": "Bottle أخضر",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Boysenberry",
+    "hex": "#873260"
+  },
+  {
+    "name": "Brandeis أزرق",
+    "hex": "#0070FF"
+  },
+  {
+    "name": "Brass",
+    "hex": "#B5A642"
+  },
+  {
+    "name": "Brick أحمر",
+    "hex": "#CB4154"
+  },
+  {
+    "name": "زاهي Cerulean",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "زاهي أخضر",
+    "hex": "#66FF00"
+  },
+  {
+    "name": "زاهي لافندر",
+    "hex": "#BF94E4"
+  },
+  {
+    "name": "زاهي ليلكي",
+    "hex": "#D891EF"
+  },
+  {
+    "name": "زاهي خمري",
+    "hex": "#C32148"
+  },
+  {
+    "name": "زاهي بحري أزرق",
+    "hex": "#1974D2"
+  },
+  {
+    "name": "زاهي وردي",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "زاهي فيروزي",
+    "hex": "#08E8DE"
+  },
+  {
+    "name": "زاهي Ube",
+    "hex": "#D19FE8"
+  },
+  {
+    "name": "زاهي أصفر (Crayola)",
+    "hex": "#FFAA1D"
+  },
+  {
+    "name": "Brilliant أزرق سماوي",
+    "hex": "#3399FF"
+  },
+  {
+    "name": "Brilliant لافندر",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Brilliant وردي",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Brink وردي",
+    "hex": "#FB607F"
+  },
+  {
+    "name": "British Racing أخضر",
+    "hex": "#004225"
+  },
+  {
+    "name": "برونزي",
+    "hex": "#CD7F32"
+  },
+  {
+    "name": "برونزي أصفر",
+    "hex": "#737000"
+  },
+  {
+    "name": "بني (Traditional)",
+    "hex": "#964B00"
+  },
+  {
+    "name": "بني (Web)",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "بني-Nose",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "بني Sugar",
+    "hex": "#AF6E4D"
+  },
+  {
+    "name": "بني أصفر",
+    "hex": "#cc9966"
+  },
+  {
+    "name": "Brunswick أخضر",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "Bubble Gum",
+    "hex": "#FFC1CC"
+  },
+  {
+    "name": "Bubbles",
+    "hex": "#E7FEFF"
+  },
+  {
+    "name": "Bud أخضر",
+    "hex": "#7BB661"
+  },
+  {
+    "name": "Buff",
+    "hex": "#F0DC82"
+  },
+  {
+    "name": "Bulgarian وردي",
+    "hex": "#480607"
+  },
+  {
+    "name": "Burgundy",
+    "hex": "#800020"
+  },
+  {
+    "name": "Burlywood",
+    "hex": "#DEB887"
+  },
+  {
+    "name": "Burnished بني",
+    "hex": "#A17A74"
+  },
+  {
+    "name": "Burnt برتقالي",
+    "hex": "#CC5500"
+  },
+  {
+    "name": "Burnt Sienna",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Burnt Umber",
+    "hex": "#8A3324"
+  },
+  {
+    "name": "Button أزرق",
+    "hex": "#24A0ED"
+  },
+  {
+    "name": "Byzantine",
+    "hex": "#BD33A4"
+  },
+  {
+    "name": "Byzantium",
+    "hex": "#702963"
+  },
+  {
+    "name": "Cadet",
+    "hex": "#536872"
+  },
+  {
+    "name": "Cadet أزرق",
+    "hex": "#5F9EA0"
+  },
+  {
+    "name": "Cadet رمادي",
+    "hex": "#91A3B0"
+  },
+  {
+    "name": "Cadmium أخضر",
+    "hex": "#006B3C"
+  },
+  {
+    "name": "Cadmium برتقالي",
+    "hex": "#ED872D"
+  },
+  {
+    "name": "Cadmium أحمر",
+    "hex": "#E30022"
+  },
+  {
+    "name": "Cadmium أصفر",
+    "hex": "#FFF600"
+  },
+  {
+    "name": "Cafe Au Lait",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Cafe Noir",
+    "hex": "#4B3621"
+  },
+  {
+    "name": "Cal Poly Pomona أخضر",
+    "hex": "#1E4D2B"
+  },
+  {
+    "name": "Cambridge أزرق",
+    "hex": "#A3C1AD"
+  },
+  {
+    "name": "Camel",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Cameo وردي",
+    "hex": "#EFBBCC"
+  },
+  {
+    "name": "Camouflage أخضر",
+    "hex": "#78866B"
+  },
+  {
+    "name": "Canary",
+    "hex": "#FFFF99"
+  },
+  {
+    "name": "Canary أصفر",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Candy Apple أحمر",
+    "hex": "#FF0800"
+  },
+  {
+    "name": "Candy وردي",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Capri",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Caput Mortuum",
+    "hex": "#592720"
+  },
+  {
+    "name": "Cardinal",
+    "hex": "#C41E3A"
+  },
+  {
+    "name": "Caribbean أخضر",
+    "hex": "#00CC99"
+  },
+  {
+    "name": "Carmine",
+    "hex": "#960018"
+  },
+  {
+    "name": "Carmine (M&P)",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Carmine وردي",
+    "hex": "#EB4C42"
+  },
+  {
+    "name": "Carmine أحمر",
+    "hex": "#FF0038"
+  },
+  {
+    "name": "Carnation وردي",
+    "hex": "#FFA6C9"
+  },
+  {
+    "name": "Carnelian",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Carolina أزرق",
+    "hex": "#56A0D3"
+  },
+  {
+    "name": "Carrot برتقالي",
+    "hex": "#ED9121"
+  },
+  {
+    "name": "Castleton أخضر",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Catalina أزرق",
+    "hex": "#062A78"
+  },
+  {
+    "name": "Catawba",
+    "hex": "#703642"
+  },
+  {
+    "name": "Cedar Chest",
+    "hex": "#C95A49"
+  },
+  {
+    "name": "Ceil",
+    "hex": "#92A1CF"
+  },
+  {
+    "name": "Celadon",
+    "hex": "#ACE1AF"
+  },
+  {
+    "name": "Celadon أزرق",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Celadon أخضر",
+    "hex": "#2F847C"
+  },
+  {
+    "name": "Celeste",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Celestial أزرق",
+    "hex": "#4997D0"
+  },
+  {
+    "name": "Cerise",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cerise وردي",
+    "hex": "#EC3B83"
+  },
+  {
+    "name": "Cerulean",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Cerulean أزرق",
+    "hex": "#2A52BE"
+  },
+  {
+    "name": "Cerulean Frost",
+    "hex": "#6D9BC3"
+  },
+  {
+    "name": "CG أزرق",
+    "hex": "#007AA5"
+  },
+  {
+    "name": "CG أحمر",
+    "hex": "#E03C31"
+  },
+  {
+    "name": "Chamoisee",
+    "hex": "#A0785A"
+  },
+  {
+    "name": "Champagne",
+    "hex": "#F7E7CE"
+  },
+  {
+    "name": "Champagne وردي",
+    "hex": "#F1DDCF"
+  },
+  {
+    "name": "Charcoal",
+    "hex": "#36454F"
+  },
+  {
+    "name": "Charleston أخضر",
+    "hex": "#232B2B"
+  },
+  {
+    "name": "Charm وردي",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Chartreuse (Traditional)",
+    "hex": "#DFFF00"
+  },
+  {
+    "name": "Chartreuse (Web)",
+    "hex": "#7FFF00"
+  },
+  {
+    "name": "Cherry",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cherry Blossom وردي",
+    "hex": "#FFB7C5"
+  },
+  {
+    "name": "Chestnut",
+    "hex": "#954535"
+  },
+  {
+    "name": "China وردي",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "China وردي",
+    "hex": "#A8516E"
+  },
+  {
+    "name": "Chinese أحمر",
+    "hex": "#AA381E"
+  },
+  {
+    "name": "Chinese بنفسجي",
+    "hex": "#856088"
+  },
+  {
+    "name": "Chlorophyll أخضر",
+    "hex": "#4AFF00"
+  },
+  {
+    "name": "Chocolate (Traditional)",
+    "hex": "#7B3F00"
+  },
+  {
+    "name": "Chocolate (Web)",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Chrome أصفر",
+    "hex": "#FFA700"
+  },
+  {
+    "name": "Cinereous",
+    "hex": "#98817B"
+  },
+  {
+    "name": "Cinnabar",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Cinnamon",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Cinnamon Satin",
+    "hex": "#CD607E"
+  },
+  {
+    "name": "Citrine",
+    "hex": "#E4D00A"
+  },
+  {
+    "name": "Citron",
+    "hex": "#9FA91F"
+  },
+  {
+    "name": "Claret",
+    "hex": "#7F1734"
+  },
+  {
+    "name": "Classic وردي",
+    "hex": "#FBCCE7"
+  },
+  {
+    "name": "Cobalt أزرق",
+    "hex": "#0047AB"
+  },
+  {
+    "name": "Cocoa بني",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Coconut",
+    "hex": "#965A3E"
+  },
+  {
+    "name": "Coffee",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Columbia أزرق",
+    "hex": "#C4D8E2"
+  },
+  {
+    "name": "Congo وردي",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Cool أسود",
+    "hex": "#002E63"
+  },
+  {
+    "name": "Cool رمادي",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "نحاسي",
+    "hex": "#B87333"
+  },
+  {
+    "name": "نحاسي (Crayola)",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "نحاسي Penny",
+    "hex": "#AD6F69"
+  },
+  {
+    "name": "نحاسي أحمر",
+    "hex": "#CB6D51"
+  },
+  {
+    "name": "نحاسي وردي",
+    "hex": "#996666"
+  },
+  {
+    "name": "Coquelicot",
+    "hex": "#FF3800"
+  },
+  {
+    "name": "مرجاني",
+    "hex": "#FF7F50"
+  },
+  {
+    "name": "مرجاني وردي",
+    "hex": "#F88379"
+  },
+  {
+    "name": "مرجاني أحمر",
+    "hex": "#FF4040"
+  },
+  {
+    "name": "مرجاني Reef",
+    "hex": "#FD7C6E"
+  },
+  {
+    "name": "Cordovan",
+    "hex": "#893F45"
+  },
+  {
+    "name": "Corn",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Cornell أحمر",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Cornflower أزرق",
+    "hex": "#6495ED"
+  },
+  {
+    "name": "Cornsilk",
+    "hex": "#FFF8DC"
+  },
+  {
+    "name": "Cosmic Cobalt",
+    "hex": "#2E2D88"
+  },
+  {
+    "name": "Cosmic Latte",
+    "hex": "#FFF8E7"
+  },
+  {
+    "name": "Coyote بني",
+    "hex": "#81613C"
+  },
+  {
+    "name": "Cotton Candy",
+    "hex": "#FFBCD9"
+  },
+  {
+    "name": "كريمي",
+    "hex": "#FFFDD0"
+  },
+  {
+    "name": "قرمزي",
+    "hex": "#DC143C"
+  },
+  {
+    "name": "قرمزي Glory",
+    "hex": "#BE0032"
+  },
+  {
+    "name": "قرمزي أحمر",
+    "hex": "#990000"
+  },
+  {
+    "name": "Cultured",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "سماوي",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "سماوي أزرق سماوي",
+    "hex": "#4E82B4"
+  },
+  {
+    "name": "سماوي-أزرق أزرق سماوي",
+    "hex": "#4682BF"
+  },
+  {
+    "name": "سماوي Cobalt أزرق",
+    "hex": "#28589C"
+  },
+  {
+    "name": "سماوي Cornflower أزرق",
+    "hex": "#188BC2"
+  },
+  {
+    "name": "سماوي (Process)",
+    "hex": "#00B7EB"
+  },
+  {
+    "name": "Cyber Grape",
+    "hex": "#58427C"
+  },
+  {
+    "name": "Cyber أصفر",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Cyclamen",
+    "hex": "#F56FA1"
+  },
+  {
+    "name": "Daffodil",
+    "hex": "#FFFF31"
+  },
+  {
+    "name": "Dandelion",
+    "hex": "#F0E130"
+  },
+  {
+    "name": "داكن أزرق",
+    "hex": "#00008B"
+  },
+  {
+    "name": "داكن أزرق-رمادي",
+    "hex": "#666699"
+  },
+  {
+    "name": "داكن بني",
+    "hex": "#654321"
+  },
+  {
+    "name": "داكن بني-Tangelo",
+    "hex": "#88654E"
+  },
+  {
+    "name": "داكن Byzantium",
+    "hex": "#5D3954"
+  },
+  {
+    "name": "داكن Candy Apple أحمر",
+    "hex": "#A40000"
+  },
+  {
+    "name": "داكن Cerulean",
+    "hex": "#08457E"
+  },
+  {
+    "name": "داكن Chestnut",
+    "hex": "#986960"
+  },
+  {
+    "name": "داكن مرجاني",
+    "hex": "#CD5B45"
+  },
+  {
+    "name": "داكن سماوي",
+    "hex": "#008B8B"
+  },
+  {
+    "name": "داكن Electric أزرق",
+    "hex": "#536878"
+  },
+  {
+    "name": "داكن Goldenrod",
+    "hex": "#B8860B"
+  },
+  {
+    "name": "داكن رمادي (X11)",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "داكن أخضر",
+    "hex": "#013220"
+  },
+  {
+    "name": "داكن أخضر (X11)",
+    "hex": "#006400"
+  },
+  {
+    "name": "داكن Gunmetal",
+    "hex": "#1F262A"
+  },
+  {
+    "name": "داكن Imperial أزرق",
+    "hex": "#00416A"
+  },
+  {
+    "name": "داكن Imperial أزرق",
+    "hex": "#00147E"
+  },
+  {
+    "name": "داكن Jungle أخضر",
+    "hex": "#1A2421"
+  },
+  {
+    "name": "داكن Khaki",
+    "hex": "#BDB76B"
+  },
+  {
+    "name": "داكن Lava",
+    "hex": "#483C32"
+  },
+  {
+    "name": "داكن لافندر",
+    "hex": "#734F96"
+  },
+  {
+    "name": "داكن Liver",
+    "hex": "#534B4F"
+  },
+  {
+    "name": "داكن Liver (Horses)",
+    "hex": "#543D37"
+  },
+  {
+    "name": "داكن ماجنتا",
+    "hex": "#8B008B"
+  },
+  {
+    "name": "داكن متوسط رمادي",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "داكن Midnight أزرق",
+    "hex": "#003366"
+  },
+  {
+    "name": "داكن Moss أخضر",
+    "hex": "#4A5D23"
+  },
+  {
+    "name": "داكن زيتوني أخضر",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "داكن برتقالي",
+    "hex": "#FF8C00"
+  },
+  {
+    "name": "داكن Orchid",
+    "hex": "#9932CC"
+  },
+  {
+    "name": "داكن Pastel أزرق",
+    "hex": "#779ECB"
+  },
+  {
+    "name": "داكن Pastel أخضر",
+    "hex": "#03C03C"
+  },
+  {
+    "name": "داكن Pastel أرجواني",
+    "hex": "#966FD6"
+  },
+  {
+    "name": "داكن Pastel أحمر",
+    "hex": "#C23B22"
+  },
+  {
+    "name": "داكن وردي",
+    "hex": "#E75480"
+  },
+  {
+    "name": "داكن Powder أزرق",
+    "hex": "#003399"
+  },
+  {
+    "name": "داكن Puce",
+    "hex": "#4F3A3C"
+  },
+  {
+    "name": "داكن أرجواني",
+    "hex": "#301934"
+  },
+  {
+    "name": "داكن Raspberry",
+    "hex": "#872657"
+  },
+  {
+    "name": "داكن أحمر",
+    "hex": "#8B0000"
+  },
+  {
+    "name": "داكن Salmon",
+    "hex": "#E9967A"
+  },
+  {
+    "name": "داكن قرمزي",
+    "hex": "#560319"
+  },
+  {
+    "name": "داكن بحري أخضر",
+    "hex": "#8FBC8F"
+  },
+  {
+    "name": "داكن Sienna",
+    "hex": "#3C1414"
+  },
+  {
+    "name": "داكن سماوي أزرق",
+    "hex": "#8CBED6"
+  },
+  {
+    "name": "داكن Slate أزرق",
+    "hex": "#483D8B"
+  },
+  {
+    "name": "داكن Slate رمادي",
+    "hex": "#2F4F4F"
+  },
+  {
+    "name": "داكن Spring أخضر",
+    "hex": "#177245"
+  },
+  {
+    "name": "داكن أسمر فاتح",
+    "hex": "#918151"
+  },
+  {
+    "name": "داكن Tangerine",
+    "hex": "#FFA812"
+  },
+  {
+    "name": "داكن Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "داكن Terra Cotta",
+    "hex": "#CC4E5C"
+  },
+  {
+    "name": "داكن فيروزي",
+    "hex": "#00CED1"
+  },
+  {
+    "name": "داكن Vanilla",
+    "hex": "#D1BEA8"
+  },
+  {
+    "name": "داكن بنفسجي",
+    "hex": "#9400D3"
+  },
+  {
+    "name": "داكن أصفر",
+    "hex": "#9B870C"
+  },
+  {
+    "name": "Dartmouth أخضر",
+    "hex": "#00703C"
+  },
+  {
+    "name": "Davy's رمادي",
+    "hex": "#555555"
+  },
+  {
+    "name": "Debian أحمر",
+    "hex": "#D70A53"
+  },
+  {
+    "name": "عميق أكوامارين",
+    "hex": "#40826D"
+  },
+  {
+    "name": "عميق Carmine",
+    "hex": "#A9203E"
+  },
+  {
+    "name": "عميق Carmine وردي",
+    "hex": "#EF3038"
+  },
+  {
+    "name": "عميق Carrot برتقالي",
+    "hex": "#E9692C"
+  },
+  {
+    "name": "عميق Cerise",
+    "hex": "#DA3287"
+  },
+  {
+    "name": "عميق Champagne",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "عميق Chestnut",
+    "hex": "#B94E48"
+  },
+  {
+    "name": "عميق Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "عميق فوشيا",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "عميق أخضر",
+    "hex": "#056608"
+  },
+  {
+    "name": "عميق أخضر-سماوي فيروزي",
+    "hex": "#0E7C61"
+  },
+  {
+    "name": "عميق Jungle أخضر",
+    "hex": "#004B49"
+  },
+  {
+    "name": "عميق Koamaru",
+    "hex": "#333366"
+  },
+  {
+    "name": "عميق Lemon",
+    "hex": "#F5C71A"
+  },
+  {
+    "name": "عميق ليلكي",
+    "hex": "#9955BB"
+  },
+  {
+    "name": "عميق ماجنتا",
+    "hex": "#CC00CC"
+  },
+  {
+    "name": "عميق خمري",
+    "hex": "#820000"
+  },
+  {
+    "name": "عميق Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "عميق Moss أخضر",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "عميق خوخي",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "عميق وردي",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "عميق Puce",
+    "hex": "#A95C68"
+  },
+  {
+    "name": "عميق أحمر",
+    "hex": "#850101"
+  },
+  {
+    "name": "عميق ياقوتي",
+    "hex": "#843F5B"
+  },
+  {
+    "name": "عميق Saffron",
+    "hex": "#FF9933"
+  },
+  {
+    "name": "عميق سماوي أزرق",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "عميق Space Sparkle",
+    "hex": "#4A646C"
+  },
+  {
+    "name": "عميق Spring Bud",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "عميق Taupe",
+    "hex": "#7E5E60"
+  },
+  {
+    "name": "عميق Tuscan أحمر",
+    "hex": "#66424D"
+  },
+  {
+    "name": "عميق بنفسجي",
+    "hex": "#330066"
+  },
+  {
+    "name": "Deer",
+    "hex": "#BA8759"
+  },
+  {
+    "name": "Denim",
+    "hex": "#1560BD"
+  },
+  {
+    "name": "Denim أزرق",
+    "hex": "#2243B6"
+  },
+  {
+    "name": "Desaturated سماوي",
+    "hex": "#669999"
+  },
+  {
+    "name": "Desert",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Desert Sand",
+    "hex": "#EDC9AF"
+  },
+  {
+    "name": "Desire",
+    "hex": "#EA3C53"
+  },
+  {
+    "name": "Diamond",
+    "hex": "#B9F2FF"
+  },
+  {
+    "name": "Dim رمادي",
+    "hex": "#696969"
+  },
+  {
+    "name": "Dingy Dungeon",
+    "hex": "#C53151"
+  },
+  {
+    "name": "Dirt",
+    "hex": "#9B7653"
+  },
+  {
+    "name": "Dodger أزرق",
+    "hex": "#1E90FF"
+  },
+  {
+    "name": "Dodie أصفر",
+    "hex": "#FEF65B"
+  },
+  {
+    "name": "Dogwood وردي",
+    "hex": "#D71868"
+  },
+  {
+    "name": "Dollar Bill",
+    "hex": "#85BB65"
+  },
+  {
+    "name": "Dolphin رمادي",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Donkey بني",
+    "hex": "#664C28"
+  },
+  {
+    "name": "Drab",
+    "hex": "#967117"
+  },
+  {
+    "name": "Duke أزرق",
+    "hex": "#00009C"
+  },
+  {
+    "name": "Dust Storm",
+    "hex": "#E5CCC9"
+  },
+  {
+    "name": "Dutch أبيض",
+    "hex": "#EFDFBB"
+  },
+  {
+    "name": "Earth أصفر",
+    "hex": "#E1A95F"
+  },
+  {
+    "name": "Ebony",
+    "hex": "#555D50"
+  },
+  {
+    "name": "Ecru",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Eerie أسود",
+    "hex": "#1B1B1B"
+  },
+  {
+    "name": "Eggplant",
+    "hex": "#614051"
+  },
+  {
+    "name": "Eggshell",
+    "hex": "#F0EAD6"
+  },
+  {
+    "name": "Egyptian أزرق",
+    "hex": "#1034A6"
+  },
+  {
+    "name": "Electric أزرق",
+    "hex": "#7DF9FF"
+  },
+  {
+    "name": "Electric قرمزي",
+    "hex": "#FF003F"
+  },
+  {
+    "name": "Electric سماوي",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Electric أخضر",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Electric نيلي",
+    "hex": "#6F00FF"
+  },
+  {
+    "name": "Electric لافندر",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Electric ليموني",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Electric أرجواني",
+    "hex": "#BF00FF"
+  },
+  {
+    "name": "Electric Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Electric بنفسجي",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Electric أصفر",
+    "hex": "#FFFF33"
+  },
+  {
+    "name": "زمردي",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Eminence",
+    "hex": "#6C3082"
+  },
+  {
+    "name": "English أخضر",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "English لافندر",
+    "hex": "#B48395"
+  },
+  {
+    "name": "English أحمر",
+    "hex": "#AB4B52"
+  },
+  {
+    "name": "English Vermillion",
+    "hex": "#CC474B"
+  },
+  {
+    "name": "English بنفسجي",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Eton أزرق",
+    "hex": "#96C8A2"
+  },
+  {
+    "name": "Eucalyptus",
+    "hex": "#44D7A8"
+  },
+  {
+    "name": "Fallow",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Falu أحمر",
+    "hex": "#801818"
+  },
+  {
+    "name": "Fandango",
+    "hex": "#B53389"
+  },
+  {
+    "name": "Fandango وردي",
+    "hex": "#DE5285"
+  },
+  {
+    "name": "Fashion فوشيا",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Fawn",
+    "hex": "#E5AA70"
+  },
+  {
+    "name": "Feldgrau",
+    "hex": "#4D5D53"
+  },
+  {
+    "name": "Feldspar",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Fern أخضر",
+    "hex": "#4F7942"
+  },
+  {
+    "name": "Ferrari أحمر",
+    "hex": "#FF2800"
+  },
+  {
+    "name": "Field Drab",
+    "hex": "#6C541E"
+  },
+  {
+    "name": "Fiery وردي",
+    "hex": "#FF5470"
+  },
+  {
+    "name": "Firebrick",
+    "hex": "#B22222"
+  },
+  {
+    "name": "Fire Engine أحمر",
+    "hex": "#CE2029"
+  },
+  {
+    "name": "Flame",
+    "hex": "#E25822"
+  },
+  {
+    "name": "Flamingo وردي",
+    "hex": "#FC8EAC"
+  },
+  {
+    "name": "Flattery",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Flavescent",
+    "hex": "#F7E98E"
+  },
+  {
+    "name": "Flax",
+    "hex": "#EEDC82"
+  },
+  {
+    "name": "Flirt",
+    "hex": "#A2006D"
+  },
+  {
+    "name": "Floral أبيض",
+    "hex": "#FFFAF0"
+  },
+  {
+    "name": "Fluorescent برتقالي",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Fluorescent وردي",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Fluorescent أصفر",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Folly",
+    "hex": "#FF004F"
+  },
+  {
+    "name": "غابة أخضر (Traditional)",
+    "hex": "#014421"
+  },
+  {
+    "name": "غابة أخضر (Web)",
+    "hex": "#228B22"
+  },
+  {
+    "name": "French بيج",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "French Bistre",
+    "hex": "#856D4D"
+  },
+  {
+    "name": "French أزرق",
+    "hex": "#0072BB"
+  },
+  {
+    "name": "French فوشيا",
+    "hex": "#FD3F92"
+  },
+  {
+    "name": "French ليلكي",
+    "hex": "#86608E"
+  },
+  {
+    "name": "French ليموني",
+    "hex": "#9EFD38"
+  },
+  {
+    "name": "French Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "French وردي",
+    "hex": "#FD6C9E"
+  },
+  {
+    "name": "French Plum",
+    "hex": "#811453"
+  },
+  {
+    "name": "French Puce",
+    "hex": "#4E1609"
+  },
+  {
+    "name": "French Raspberry",
+    "hex": "#C72C48"
+  },
+  {
+    "name": "French وردي",
+    "hex": "#F64A8A"
+  },
+  {
+    "name": "French سماوي أزرق",
+    "hex": "#77B5FE"
+  },
+  {
+    "name": "French بنفسجي",
+    "hex": "#8806CE"
+  },
+  {
+    "name": "French نبيذي",
+    "hex": "#AC1E44"
+  },
+  {
+    "name": "Fresh Air",
+    "hex": "#A6E7FF"
+  },
+  {
+    "name": "Frogert",
+    "hex": "#E936A7"
+  },
+  {
+    "name": "فوشيا",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "فوشيا (Crayola)",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "فوشيا وردي",
+    "hex": "#FF77FF"
+  },
+  {
+    "name": "فوشيا أرجواني",
+    "hex": "#CC397B"
+  },
+  {
+    "name": "فوشيا وردي",
+    "hex": "#C74375"
+  },
+  {
+    "name": "Fulvous",
+    "hex": "#E48400"
+  },
+  {
+    "name": "Fuzzy Wuzzy",
+    "hex": "#CC6666"
+  },
+  {
+    "name": "Gainsboro",
+    "hex": "#DCDCDC"
+  },
+  {
+    "name": "Gamboge",
+    "hex": "#E49B0F"
+  },
+  {
+    "name": "Gamboge برتقالي (بني)",
+    "hex": "#996600"
+  },
+  {
+    "name": "Gargoyle Gas",
+    "hex": "#FFDF46"
+  },
+  {
+    "name": "Generic Viridian",
+    "hex": "#007F66"
+  },
+  {
+    "name": "Ghost أبيض",
+    "hex": "#F8F8FF"
+  },
+  {
+    "name": "Giant's Club",
+    "hex": "#B05C52"
+  },
+  {
+    "name": "Giants برتقالي",
+    "hex": "#FE5A1D"
+  },
+  {
+    "name": "Ginger",
+    "hex": "#B06500"
+  },
+  {
+    "name": "Glaucous",
+    "hex": "#6082B6"
+  },
+  {
+    "name": "Glitter",
+    "hex": "#E6E8FA"
+  },
+  {
+    "name": "Glossy Grape",
+    "hex": "#AB92B3"
+  },
+  {
+    "name": "GO أخضر",
+    "hex": "#00AB66"
+  },
+  {
+    "name": "ذهبي (Metallic)",
+    "hex": "#D4AF37"
+  },
+  {
+    "name": "ذهبي (Web) (ذهبي)",
+    "hex": "#FFD700"
+  },
+  {
+    "name": "ذهبي Fusion",
+    "hex": "#85754E"
+  },
+  {
+    "name": "ذهبي بني",
+    "hex": "#996515"
+  },
+  {
+    "name": "ذهبي Poppy",
+    "hex": "#FCC200"
+  },
+  {
+    "name": "ذهبي أصفر",
+    "hex": "#FFDF00"
+  },
+  {
+    "name": "Goldenrod",
+    "hex": "#DAA520"
+  },
+  {
+    "name": "Granite رمادي",
+    "hex": "#676767"
+  },
+  {
+    "name": "Granny Smith Apple",
+    "hex": "#A8E4A0"
+  },
+  {
+    "name": "Grape",
+    "hex": "#6F2DA8"
+  },
+  {
+    "name": "رمادي",
+    "hex": "#808080"
+  },
+  {
+    "name": "رمادي (HTML/CSS رمادي)",
+    "hex": "#808080"
+  },
+  {
+    "name": "رمادي (X11 رمادي)",
+    "hex": "#BEBEBE"
+  },
+  {
+    "name": "رمادي-Asparagus",
+    "hex": "#465945"
+  },
+  {
+    "name": "رمادي-أزرق",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "أخضر (Color Wheel) (X11 أخضر)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "أخضر (Crayola)",
+    "hex": "#1CAC78"
+  },
+  {
+    "name": "أخضر (HTML/CSS Color)",
+    "hex": "#008000"
+  },
+  {
+    "name": "أخضر (Munsell)",
+    "hex": "#00A877"
+  },
+  {
+    "name": "أخضر (NCS)",
+    "hex": "#009F6B"
+  },
+  {
+    "name": "أخضر (Pantone)",
+    "hex": "#00AD43"
+  },
+  {
+    "name": "أخضر (Pigment)",
+    "hex": "#00A550"
+  },
+  {
+    "name": "أخضر (RYB)",
+    "hex": "#66B032"
+  },
+  {
+    "name": "أخضر-أزرق",
+    "hex": "#1164B4"
+  },
+  {
+    "name": "أخضر-سماوي",
+    "hex": "#009966"
+  },
+  {
+    "name": "أخضر Lizard",
+    "hex": "#A7F432"
+  },
+  {
+    "name": "أخضر Sheen",
+    "hex": "#6EAEA1"
+  },
+  {
+    "name": "أخضر-أصفر",
+    "hex": "#ADFF2F"
+  },
+  {
+    "name": "Grizzly",
+    "hex": "#885818"
+  },
+  {
+    "name": "Grullo",
+    "hex": "#A99A86"
+  },
+  {
+    "name": "Guppie أخضر",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Gunmetal",
+    "hex": "#2a3439"
+  },
+  {
+    "name": "Halaya Ube",
+    "hex": "#663854"
+  },
+  {
+    "name": "Han أزرق",
+    "hex": "#446CCF"
+  },
+  {
+    "name": "Han أرجواني",
+    "hex": "#5218FA"
+  },
+  {
+    "name": "Hansa أصفر",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Harlequin",
+    "hex": "#3FFF00"
+  },
+  {
+    "name": "Harlequin أخضر",
+    "hex": "#46CB18"
+  },
+  {
+    "name": "Harvard قرمزي",
+    "hex": "#C90016"
+  },
+  {
+    "name": "Harvest ذهبي",
+    "hex": "#DA9100"
+  },
+  {
+    "name": "Heart ذهبي",
+    "hex": "#808000"
+  },
+  {
+    "name": "Heat Wave",
+    "hex": "#FF7A00"
+  },
+  {
+    "name": "Heidelberg أحمر",
+    "hex": "#960018"
+  },
+  {
+    "name": "Heliotrope",
+    "hex": "#DF73FF"
+  },
+  {
+    "name": "Heliotrope رمادي",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Heliotrope ماجنتا",
+    "hex": "#AA00BB"
+  },
+  {
+    "name": "Hollywood Cerise",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Honeydew",
+    "hex": "#F0FFF0"
+  },
+  {
+    "name": "Honolulu أزرق",
+    "hex": "#006DB0"
+  },
+  {
+    "name": "Hooker's أخضر",
+    "hex": "#49796B"
+  },
+  {
+    "name": "Hot ماجنتا",
+    "hex": "#FF1DCE"
+  },
+  {
+    "name": "Hot وردي",
+    "hex": "#FF69B4"
+  },
+  {
+    "name": "Hunter أخضر",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Iceberg",
+    "hex": "#71A6D2"
+  },
+  {
+    "name": "Icterine",
+    "hex": "#FCF75E"
+  },
+  {
+    "name": "Iguana أخضر",
+    "hex": "#71BC78"
+  },
+  {
+    "name": "Illuminating زمردي",
+    "hex": "#319177"
+  },
+  {
+    "name": "Imperial",
+    "hex": "#602F6B"
+  },
+  {
+    "name": "Imperial أزرق",
+    "hex": "#002395"
+  },
+  {
+    "name": "Imperial أرجواني",
+    "hex": "#66023C"
+  },
+  {
+    "name": "Imperial أحمر",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Inchworm",
+    "hex": "#B2EC5D"
+  },
+  {
+    "name": "Independence",
+    "hex": "#4C516D"
+  },
+  {
+    "name": "India أخضر",
+    "hex": "#138808"
+  },
+  {
+    "name": "Indian أحمر",
+    "hex": "#CD5C5C"
+  },
+  {
+    "name": "Indian أصفر",
+    "hex": "#E3A857"
+  },
+  {
+    "name": "نيلي",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "نيلي Dye",
+    "hex": "#091F92"
+  },
+  {
+    "name": "نيلي (Web)",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Infra أحمر",
+    "hex": "#FF496C"
+  },
+  {
+    "name": "Interdimensional أزرق",
+    "hex": "#360CCC"
+  },
+  {
+    "name": "International Klein أزرق",
+    "hex": "#002FA7"
+  },
+  {
+    "name": "International برتقالي (Aerospace)",
+    "hex": "#FF4F00"
+  },
+  {
+    "name": "International برتقالي (Engineering)",
+    "hex": "#BA160C"
+  },
+  {
+    "name": "International برتقالي (ذهبي Gate Bridge)",
+    "hex": "#C0362C"
+  },
+  {
+    "name": "Iris",
+    "hex": "#5A4FCF"
+  },
+  {
+    "name": "Irresistible",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Isabelline",
+    "hex": "#F4F0EC"
+  },
+  {
+    "name": "Islamic أخضر",
+    "hex": "#009000"
+  },
+  {
+    "name": "Italian سماوي أزرق",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "عاجي",
+    "hex": "#FFFFF0"
+  },
+  {
+    "name": "Jade",
+    "hex": "#00A86B"
+  },
+  {
+    "name": "Japanese Carmine",
+    "hex": "#9D2933"
+  },
+  {
+    "name": "Japanese نيلي",
+    "hex": "#264348"
+  },
+  {
+    "name": "Japanese بنفسجي",
+    "hex": "#5B3256"
+  },
+  {
+    "name": "Jasmine",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Jasper",
+    "hex": "#D73B3E"
+  },
+  {
+    "name": "Jazzberry Jam",
+    "hex": "#A50B5E"
+  },
+  {
+    "name": "Jelly Bean",
+    "hex": "#DA614E"
+  },
+  {
+    "name": "Jet",
+    "hex": "#343434"
+  },
+  {
+    "name": "Jonquil",
+    "hex": "#F4CA16"
+  },
+  {
+    "name": "Jordy أزرق",
+    "hex": "#8AB9F1"
+  },
+  {
+    "name": "June Bud",
+    "hex": "#BDDA57"
+  },
+  {
+    "name": "Jungle أخضر",
+    "hex": "#29AB87"
+  },
+  {
+    "name": "Kelly أخضر",
+    "hex": "#4CBB17"
+  },
+  {
+    "name": "Kenyan نحاسي",
+    "hex": "#7C1C05"
+  },
+  {
+    "name": "Keppel",
+    "hex": "#3AB09E"
+  },
+  {
+    "name": "Key ليموني",
+    "hex": "#E8F48C"
+  },
+  {
+    "name": "Khaki (HTML/CSS) (Khaki)",
+    "hex": "#C3B091"
+  },
+  {
+    "name": "Khaki (X11) (فاتح Khaki)",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Kiwi",
+    "hex": "#8EE53F"
+  },
+  {
+    "name": "Kobe",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Kobi",
+    "hex": "#E79FC4"
+  },
+  {
+    "name": "Kobicha",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Kombu أخضر",
+    "hex": "#354230"
+  },
+  {
+    "name": "KSU أرجواني",
+    "hex": "#512888"
+  },
+  {
+    "name": "KU قرمزي",
+    "hex": "#E8000D"
+  },
+  {
+    "name": "La Salle أخضر",
+    "hex": "#087830"
+  },
+  {
+    "name": "Languid لافندر",
+    "hex": "#D6CADD"
+  },
+  {
+    "name": "Lapis Lazuli",
+    "hex": "#26619C"
+  },
+  {
+    "name": "Laser Lemon",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "Laurel أخضر",
+    "hex": "#A9BA9D"
+  },
+  {
+    "name": "Lava",
+    "hex": "#CF1020"
+  },
+  {
+    "name": "لافندر (Floral)",
+    "hex": "#B57EDC"
+  },
+  {
+    "name": "لافندر (Web)",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "لافندر أزرق",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "لافندر Blush",
+    "hex": "#FFF0F5"
+  },
+  {
+    "name": "لافندر رمادي",
+    "hex": "#C4C3D0"
+  },
+  {
+    "name": "لافندر نيلي",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "لافندر ماجنتا",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "لافندر Mist",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "لافندر وردي",
+    "hex": "#FBAED2"
+  },
+  {
+    "name": "لافندر أرجواني",
+    "hex": "#967BB6"
+  },
+  {
+    "name": "لافندر وردي",
+    "hex": "#FBA0E3"
+  },
+  {
+    "name": "Lawn أخضر",
+    "hex": "#7CFC00"
+  },
+  {
+    "name": "Lemon",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Lemon Chiffon",
+    "hex": "#FFFACD"
+  },
+  {
+    "name": "Lemon Curry",
+    "hex": "#CCA01D"
+  },
+  {
+    "name": "Lemon Glacier",
+    "hex": "#FDFF00"
+  },
+  {
+    "name": "Lemon ليموني",
+    "hex": "#E3FF00"
+  },
+  {
+    "name": "Lemon Meringue",
+    "hex": "#F6EABE"
+  },
+  {
+    "name": "Lemon أصفر",
+    "hex": "#FFF44F"
+  },
+  {
+    "name": "Licorice",
+    "hex": "#1A1110"
+  },
+  {
+    "name": "Liberty",
+    "hex": "#545AA7"
+  },
+  {
+    "name": "فاتح Apricot",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "فاتح أزرق",
+    "hex": "#ADD8E6"
+  },
+  {
+    "name": "فاتح بني",
+    "hex": "#B5651D"
+  },
+  {
+    "name": "فاتح Carmine وردي",
+    "hex": "#E66771"
+  },
+  {
+    "name": "فاتح Cobalt أزرق",
+    "hex": "#88ACE0"
+  },
+  {
+    "name": "فاتح مرجاني",
+    "hex": "#F08080"
+  },
+  {
+    "name": "فاتح Cornflower أزرق",
+    "hex": "#93CCEA"
+  },
+  {
+    "name": "فاتح قرمزي",
+    "hex": "#F56991"
+  },
+  {
+    "name": "فاتح سماوي",
+    "hex": "#E0FFFF"
+  },
+  {
+    "name": "فاتح عميق وردي",
+    "hex": "#FF5CCD"
+  },
+  {
+    "name": "فاتح French بيج",
+    "hex": "#C8AD7F"
+  },
+  {
+    "name": "فاتح فوشيا وردي",
+    "hex": "#F984EF"
+  },
+  {
+    "name": "فاتح Goldenrod أصفر",
+    "hex": "#FAFAD2"
+  },
+  {
+    "name": "فاتح رمادي",
+    "hex": "#D3D3D3"
+  },
+  {
+    "name": "فاتح Grayish ماجنتا",
+    "hex": "#CC99CC"
+  },
+  {
+    "name": "فاتح أخضر",
+    "hex": "#90EE90"
+  },
+  {
+    "name": "فاتح Hot وردي",
+    "hex": "#FFB3DE"
+  },
+  {
+    "name": "فاتح Khaki",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "فاتح متوسط Orchid",
+    "hex": "#D39BCB"
+  },
+  {
+    "name": "فاتح Moss أخضر",
+    "hex": "#ADDFAD"
+  },
+  {
+    "name": "فاتح برتقالي",
+    "hex": "#FED8B1"
+  },
+  {
+    "name": "فاتح Orchid",
+    "hex": "#E6A8D7"
+  },
+  {
+    "name": "فاتح Pastel أرجواني",
+    "hex": "#B19CD9"
+  },
+  {
+    "name": "فاتح وردي",
+    "hex": "#FFB6C1"
+  },
+  {
+    "name": "فاتح أحمر Ochre",
+    "hex": "#E97451"
+  },
+  {
+    "name": "فاتح Salmon",
+    "hex": "#FFA07A"
+  },
+  {
+    "name": "فاتح Salmon وردي",
+    "hex": "#FF9999"
+  },
+  {
+    "name": "فاتح بحري أخضر",
+    "hex": "#20B2AA"
+  },
+  {
+    "name": "فاتح سماوي أزرق",
+    "hex": "#87CEFA"
+  },
+  {
+    "name": "فاتح Slate رمادي",
+    "hex": "#778899"
+  },
+  {
+    "name": "فاتح Steel أزرق",
+    "hex": "#B0C4DE"
+  },
+  {
+    "name": "فاتح Taupe",
+    "hex": "#B38B6D"
+  },
+  {
+    "name": "فاتح Thulian وردي",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "فاتح أصفر",
+    "hex": "#FFFFE0"
+  },
+  {
+    "name": "ليلكي",
+    "hex": "#C8A2C8"
+  },
+  {
+    "name": "ليلكي Luster",
+    "hex": "#AE98AA"
+  },
+  {
+    "name": "ليموني (Color Wheel)",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "ليموني (Web) (X11 أخضر)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "ليموني أخضر",
+    "hex": "#32CD32"
+  },
+  {
+    "name": "Limerick",
+    "hex": "#9DC209"
+  },
+  {
+    "name": "Lincoln أخضر",
+    "hex": "#195905"
+  },
+  {
+    "name": "Linen",
+    "hex": "#FAF0E6"
+  },
+  {
+    "name": "Loeen (Lopen) Look",
+    "hex": "#15F2FD"
+  },
+  {
+    "name": "Liseran أرجواني",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Little Boy أزرق",
+    "hex": "#6CA0DC"
+  },
+  {
+    "name": "Liver",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Liver (Dogs)",
+    "hex": "#B86D29"
+  },
+  {
+    "name": "Liver (Organ)",
+    "hex": "#6C2E1F"
+  },
+  {
+    "name": "Liver Chestnut",
+    "hex": "#987456"
+  },
+  {
+    "name": "Livid",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Lumber",
+    "hex": "#FFE4CD"
+  },
+  {
+    "name": "Lust",
+    "hex": "#E62020"
+  },
+  {
+    "name": "Maastricht أزرق",
+    "hex": "#001C3D"
+  },
+  {
+    "name": "Macaroni And Cheese",
+    "hex": "#FFBD88"
+  },
+  {
+    "name": "Madder Lake",
+    "hex": "#CC3336"
+  },
+  {
+    "name": "ماجنتا",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "ماجنتا (Crayola)",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "ماجنتا (Dye)",
+    "hex": "#CA1F7B"
+  },
+  {
+    "name": "ماجنتا (Pantone)",
+    "hex": "#D0417E"
+  },
+  {
+    "name": "ماجنتا (Process)",
+    "hex": "#FF0090"
+  },
+  {
+    "name": "ماجنتا Haze",
+    "hex": "#9F4576"
+  },
+  {
+    "name": "ماجنتا-وردي",
+    "hex": "#CC338B"
+  },
+  {
+    "name": "Magic نعناعي",
+    "hex": "#AAF0D1"
+  },
+  {
+    "name": "Magic Potion",
+    "hex": "#FF4466"
+  },
+  {
+    "name": "Magnolia",
+    "hex": "#F8F4FF"
+  },
+  {
+    "name": "Mahogany",
+    "hex": "#C04000"
+  },
+  {
+    "name": "Maize",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Majorelle أزرق",
+    "hex": "#6050DC"
+  },
+  {
+    "name": "Malachite",
+    "hex": "#0BDA51"
+  },
+  {
+    "name": "Manatee",
+    "hex": "#979AAA"
+  },
+  {
+    "name": "Mandarin",
+    "hex": "#F37A48"
+  },
+  {
+    "name": "Mango Tango",
+    "hex": "#FF8243"
+  },
+  {
+    "name": "Mantis",
+    "hex": "#74C365"
+  },
+  {
+    "name": "Mardi Gras",
+    "hex": "#880085"
+  },
+  {
+    "name": "Marigold",
+    "hex": "#EAA221"
+  },
+  {
+    "name": "خمري (Crayola)",
+    "hex": "#C32148"
+  },
+  {
+    "name": "خمري (HTML/CSS)",
+    "hex": "#800000"
+  },
+  {
+    "name": "خمري (X11)",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Mauve",
+    "hex": "#E0B0FF"
+  },
+  {
+    "name": "Mauve Taupe",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Mauvelous",
+    "hex": "#EF98AA"
+  },
+  {
+    "name": "Maximum أزرق",
+    "hex": "#47ABCC"
+  },
+  {
+    "name": "Maximum أزرق أخضر",
+    "hex": "#30BFBF"
+  },
+  {
+    "name": "Maximum أزرق أرجواني",
+    "hex": "#ACACE6"
+  },
+  {
+    "name": "Maximum أخضر",
+    "hex": "#5E8C31"
+  },
+  {
+    "name": "Maximum أخضر أصفر",
+    "hex": "#D9E650"
+  },
+  {
+    "name": "Maximum أرجواني",
+    "hex": "#733380"
+  },
+  {
+    "name": "Maximum أحمر",
+    "hex": "#D92121"
+  },
+  {
+    "name": "Maximum أحمر أرجواني",
+    "hex": "#A63A79"
+  },
+  {
+    "name": "Maximum أصفر",
+    "hex": "#FAFA37"
+  },
+  {
+    "name": "Maximum أصفر أحمر",
+    "hex": "#F2BA49"
+  },
+  {
+    "name": "May أخضر",
+    "hex": "#4C9141"
+  },
+  {
+    "name": "Maya أزرق",
+    "hex": "#73C2FB"
+  },
+  {
+    "name": "Meat بني",
+    "hex": "#E5B73B"
+  },
+  {
+    "name": "متوسط أكوامارين",
+    "hex": "#66DDAA"
+  },
+  {
+    "name": "متوسط أزرق",
+    "hex": "#0000CD"
+  },
+  {
+    "name": "متوسط Candy Apple أحمر",
+    "hex": "#E2062C"
+  },
+  {
+    "name": "متوسط Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "متوسط Champagne",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "متوسط Electric أزرق",
+    "hex": "#035096"
+  },
+  {
+    "name": "متوسط Jungle أخضر",
+    "hex": "#1C352D"
+  },
+  {
+    "name": "متوسط لافندر ماجنتا",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "متوسط Orchid",
+    "hex": "#BA55D3"
+  },
+  {
+    "name": "متوسط Persian أزرق",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "متوسط أرجواني",
+    "hex": "#9370DB"
+  },
+  {
+    "name": "متوسط أحمر-بنفسجي",
+    "hex": "#BB3385"
+  },
+  {
+    "name": "متوسط ياقوتي",
+    "hex": "#AA4069"
+  },
+  {
+    "name": "متوسط بحري أخضر",
+    "hex": "#3CB371"
+  },
+  {
+    "name": "متوسط سماوي أزرق",
+    "hex": "#80DAEB"
+  },
+  {
+    "name": "متوسط Slate أزرق",
+    "hex": "#7B68EE"
+  },
+  {
+    "name": "متوسط Spring Bud",
+    "hex": "#C9DC87"
+  },
+  {
+    "name": "متوسط Spring أخضر",
+    "hex": "#00FA9A"
+  },
+  {
+    "name": "متوسط Taupe",
+    "hex": "#674C47"
+  },
+  {
+    "name": "متوسط فيروزي",
+    "hex": "#48D1CC"
+  },
+  {
+    "name": "متوسط Tuscan أحمر",
+    "hex": "#79443B"
+  },
+  {
+    "name": "متوسط Vermilion",
+    "hex": "#D9603B"
+  },
+  {
+    "name": "متوسط بنفسجي-أحمر",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Mellow Apricot",
+    "hex": "#F8B878"
+  },
+  {
+    "name": "Mellow أصفر",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Melon",
+    "hex": "#FDBCB4"
+  },
+  {
+    "name": "Metallic Seaweed",
+    "hex": "#0A7E8C"
+  },
+  {
+    "name": "Metallic Sunburst",
+    "hex": "#9C7C38"
+  },
+  {
+    "name": "Mexican وردي",
+    "hex": "#E4007C"
+  },
+  {
+    "name": "Middle أزرق",
+    "hex": "#7ED4E6"
+  },
+  {
+    "name": "Middle أزرق أخضر",
+    "hex": "#8DD9CC"
+  },
+  {
+    "name": "Middle أزرق أرجواني",
+    "hex": "#8B72BE"
+  },
+  {
+    "name": "Middle أحمر أرجواني",
+    "hex": "#210837"
+  },
+  {
+    "name": "Middle أخضر",
+    "hex": "#4D8C57"
+  },
+  {
+    "name": "Middle أخضر أصفر",
+    "hex": "#ACBF60"
+  },
+  {
+    "name": "Middle أرجواني",
+    "hex": "#D982B5"
+  },
+  {
+    "name": "Middle أحمر",
+    "hex": "#E58E73"
+  },
+  {
+    "name": "Middle أحمر أرجواني",
+    "hex": "#A55353"
+  },
+  {
+    "name": "Middle أصفر",
+    "hex": "#FFEB00"
+  },
+  {
+    "name": "Middle أصفر أحمر",
+    "hex": "#ECB176"
+  },
+  {
+    "name": "Midnight",
+    "hex": "#702670"
+  },
+  {
+    "name": "Midnight أزرق",
+    "hex": "#191970"
+  },
+  {
+    "name": "Midnight أخضر (Eagle أخضر)",
+    "hex": "#004953"
+  },
+  {
+    "name": "Mikado أصفر",
+    "hex": "#FFC40C"
+  },
+  {
+    "name": "Milk",
+    "hex": "#FDFFF5"
+  },
+  {
+    "name": "Mimi وردي",
+    "hex": "#FFDAE9"
+  },
+  {
+    "name": "Mindaro",
+    "hex": "#E3F988"
+  },
+  {
+    "name": "Ming",
+    "hex": "#36747D"
+  },
+  {
+    "name": "Minion أصفر",
+    "hex": "#F5E050"
+  },
+  {
+    "name": "نعناعي",
+    "hex": "#3EB489"
+  },
+  {
+    "name": "نعناعي كريمي",
+    "hex": "#F5FFFA"
+  },
+  {
+    "name": "نعناعي أخضر",
+    "hex": "#98FF98"
+  },
+  {
+    "name": "Misty Moss",
+    "hex": "#BBB477"
+  },
+  {
+    "name": "Misty وردي",
+    "hex": "#FFE4E1"
+  },
+  {
+    "name": "Moccasin",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Mode بيج",
+    "hex": "#967117"
+  },
+  {
+    "name": "Moonstone أزرق",
+    "hex": "#73A9C2"
+  },
+  {
+    "name": "Mordant أحمر 19",
+    "hex": "#AE0C00"
+  },
+  {
+    "name": "Morning أزرق",
+    "hex": "#8DA399"
+  },
+  {
+    "name": "Moss أخضر",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Mountain Meadow",
+    "hex": "#30BA8F"
+  },
+  {
+    "name": "Mountbatten وردي",
+    "hex": "#997A8D"
+  },
+  {
+    "name": "MSU أخضر",
+    "hex": "#18453B"
+  },
+  {
+    "name": "Mughal أخضر",
+    "hex": "#306030"
+  },
+  {
+    "name": "Mulberry",
+    "hex": "#C54B8C"
+  },
+  {
+    "name": "Mummy's Tomb",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Mustard",
+    "hex": "#FFDB58"
+  },
+  {
+    "name": "Myrtle أخضر",
+    "hex": "#317873"
+  },
+  {
+    "name": "Mystic",
+    "hex": "#D65282"
+  },
+  {
+    "name": "Mystic خمري",
+    "hex": "#AD4379"
+  },
+  {
+    "name": "Nadeshiko وردي",
+    "hex": "#F6ADC6"
+  },
+  {
+    "name": "Napier أخضر",
+    "hex": "#2A8000"
+  },
+  {
+    "name": "Naples أصفر",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Navajo أبيض",
+    "hex": "#FFDEAD"
+  },
+  {
+    "name": "بحري",
+    "hex": "#000080"
+  },
+  {
+    "name": "بحري أرجواني",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Neon Carrot",
+    "hex": "#FFA343"
+  },
+  {
+    "name": "Neon فوشيا",
+    "hex": "#FE4164"
+  },
+  {
+    "name": "Neon أخضر",
+    "hex": "#39FF14"
+  },
+  {
+    "name": "New Car",
+    "hex": "#214FC6"
+  },
+  {
+    "name": "New York وردي",
+    "hex": "#D7837F"
+  },
+  {
+    "name": "Nickel",
+    "hex": "#727472"
+  },
+  {
+    "name": "Non-Photo أزرق",
+    "hex": "#A4DDED"
+  },
+  {
+    "name": "North Texas أخضر",
+    "hex": "#059033"
+  },
+  {
+    "name": "Nyanza",
+    "hex": "#E9FFDB"
+  },
+  {
+    "name": "Ocean أزرق",
+    "hex": "#4F42B5"
+  },
+  {
+    "name": "Ocean Boat أزرق",
+    "hex": "#0077BE"
+  },
+  {
+    "name": "Ocean أخضر",
+    "hex": "#48BF91"
+  },
+  {
+    "name": "Ochre",
+    "hex": "#CC7722"
+  },
+  {
+    "name": "Office أخضر",
+    "hex": "#008000"
+  },
+  {
+    "name": "Ogre Odor",
+    "hex": "#FD5240"
+  },
+  {
+    "name": "Old Burgundy",
+    "hex": "#43302E"
+  },
+  {
+    "name": "Old ذهبي",
+    "hex": "#CFB53B"
+  },
+  {
+    "name": "Old Heliotrope",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Old Lace",
+    "hex": "#FDF5E6"
+  },
+  {
+    "name": "Old لافندر",
+    "hex": "#796878"
+  },
+  {
+    "name": "Old Mauve",
+    "hex": "#673147"
+  },
+  {
+    "name": "Old Moss أخضر",
+    "hex": "#867E36"
+  },
+  {
+    "name": "Old وردي",
+    "hex": "#C08081"
+  },
+  {
+    "name": "Old فضي",
+    "hex": "#848482"
+  },
+  {
+    "name": "زيتوني",
+    "hex": "#808000"
+  },
+  {
+    "name": "زيتوني Drab (#3)",
+    "hex": "#6B8E23"
+  },
+  {
+    "name": "زيتوني Drab #7",
+    "hex": "#3C341F"
+  },
+  {
+    "name": "Olivine",
+    "hex": "#9AB973"
+  },
+  {
+    "name": "Onyx",
+    "hex": "#353839"
+  },
+  {
+    "name": "Opera Mauve",
+    "hex": "#B784A7"
+  },
+  {
+    "name": "برتقالي (Color Wheel)",
+    "hex": "#FF7F00"
+  },
+  {
+    "name": "برتقالي (Crayola)",
+    "hex": "#FF7538"
+  },
+  {
+    "name": "برتقالي (Pantone)",
+    "hex": "#FF5800"
+  },
+  {
+    "name": "برتقالي (RYB)",
+    "hex": "#FB9902"
+  },
+  {
+    "name": "برتقالي (Web)",
+    "hex": "#FFA500"
+  },
+  {
+    "name": "برتقالي Peel",
+    "hex": "#FF9F00"
+  },
+  {
+    "name": "برتقالي-أحمر",
+    "hex": "#FF4500"
+  },
+  {
+    "name": "برتقالي Soda",
+    "hex": "#FA5B3D"
+  },
+  {
+    "name": "برتقالي-أصفر",
+    "hex": "#F8D568"
+  },
+  {
+    "name": "Orchid",
+    "hex": "#DA70D6"
+  },
+  {
+    "name": "Orchid وردي",
+    "hex": "#F2BDCD"
+  },
+  {
+    "name": "Orioles برتقالي",
+    "hex": "#FB4F14"
+  },
+  {
+    "name": "Otter بني",
+    "hex": "#654321"
+  },
+  {
+    "name": "Outer Space",
+    "hex": "#414A4C"
+  },
+  {
+    "name": "Outrageous برتقالي",
+    "hex": "#FF6E4A"
+  },
+  {
+    "name": "Oxford أزرق",
+    "hex": "#002147"
+  },
+  {
+    "name": "OU قرمزي أحمر",
+    "hex": "#990000"
+  },
+  {
+    "name": "Pacific أزرق",
+    "hex": "#1CA9C9"
+  },
+  {
+    "name": "Pakistan أخضر",
+    "hex": "#006600"
+  },
+  {
+    "name": "Palatinate أزرق",
+    "hex": "#273BE2"
+  },
+  {
+    "name": "Palatinate أرجواني",
+    "hex": "#682860"
+  },
+  {
+    "name": "باهت أكوا",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "باهت أزرق",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "باهت بني",
+    "hex": "#987654"
+  },
+  {
+    "name": "باهت Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "باهت Cerulean",
+    "hex": "#9BC4E2"
+  },
+  {
+    "name": "باهت Chestnut",
+    "hex": "#DDADAF"
+  },
+  {
+    "name": "باهت نحاسي",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "باهت Cornflower أزرق",
+    "hex": "#ABCDEF"
+  },
+  {
+    "name": "باهت سماوي",
+    "hex": "#87D3F8"
+  },
+  {
+    "name": "باهت ذهبي",
+    "hex": "#E6BE8A"
+  },
+  {
+    "name": "باهت Goldenrod",
+    "hex": "#EEE8AA"
+  },
+  {
+    "name": "باهت أخضر",
+    "hex": "#98FB98"
+  },
+  {
+    "name": "باهت لافندر",
+    "hex": "#DCD0FF"
+  },
+  {
+    "name": "باهت ماجنتا",
+    "hex": "#F984E5"
+  },
+  {
+    "name": "باهت ماجنتا-وردي",
+    "hex": "#FF99CC"
+  },
+  {
+    "name": "باهت وردي",
+    "hex": "#FADADD"
+  },
+  {
+    "name": "باهت Plum",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "باهت أحمر-بنفسجي",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "باهت Robin Egg أزرق",
+    "hex": "#96DED1"
+  },
+  {
+    "name": "باهت فضي",
+    "hex": "#C9C0BB"
+  },
+  {
+    "name": "باهت Spring Bud",
+    "hex": "#ECEBBD"
+  },
+  {
+    "name": "باهت Taupe",
+    "hex": "#BC987E"
+  },
+  {
+    "name": "باهت فيروزي",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "باهت بنفسجي",
+    "hex": "#CC99FF"
+  },
+  {
+    "name": "باهت بنفسجي-أحمر",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Palm Leaf",
+    "hex": "#6F9940"
+  },
+  {
+    "name": "Pansy أرجواني",
+    "hex": "#78184A"
+  },
+  {
+    "name": "Paolo Veronese أخضر",
+    "hex": "#009B7D"
+  },
+  {
+    "name": "Papaya Whip",
+    "hex": "#FFEFD5"
+  },
+  {
+    "name": "Paradise وردي",
+    "hex": "#E63E62"
+  },
+  {
+    "name": "Paris أخضر",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Parrot وردي",
+    "hex": "#D998A0"
+  },
+  {
+    "name": "Pastel أزرق",
+    "hex": "#AEC6CF"
+  },
+  {
+    "name": "Pastel بني",
+    "hex": "#836953"
+  },
+  {
+    "name": "Pastel رمادي",
+    "hex": "#CFCFC4"
+  },
+  {
+    "name": "Pastel أخضر",
+    "hex": "#77DD77"
+  },
+  {
+    "name": "Pastel ماجنتا",
+    "hex": "#F49AC2"
+  },
+  {
+    "name": "Pastel برتقالي",
+    "hex": "#FFB347"
+  },
+  {
+    "name": "Pastel وردي",
+    "hex": "#DEA5A4"
+  },
+  {
+    "name": "Pastel أرجواني",
+    "hex": "#B39EB5"
+  },
+  {
+    "name": "Pastel أحمر",
+    "hex": "#FF6961"
+  },
+  {
+    "name": "Pastel بنفسجي",
+    "hex": "#CB99C9"
+  },
+  {
+    "name": "Pastel أصفر",
+    "hex": "#FDFD96"
+  },
+  {
+    "name": "Patriarch",
+    "hex": "#800080"
+  },
+  {
+    "name": "Payne's رمادي",
+    "hex": "#536878"
+  },
+  {
+    "name": "خوخي",
+    "hex": "#FFE5B4"
+  },
+  {
+    "name": "خوخي",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "خوخي-برتقالي",
+    "hex": "#FFCC99"
+  },
+  {
+    "name": "خوخي Puff",
+    "hex": "#FFDAB9"
+  },
+  {
+    "name": "خوخي-أصفر",
+    "hex": "#FADFAD"
+  },
+  {
+    "name": "Pear",
+    "hex": "#D1E231"
+  },
+  {
+    "name": "Pearl",
+    "hex": "#EAE0C8"
+  },
+  {
+    "name": "Pearl أكوا",
+    "hex": "#88D8C0"
+  },
+  {
+    "name": "Pearly أرجواني",
+    "hex": "#B768A2"
+  },
+  {
+    "name": "Peridot",
+    "hex": "#E6E200"
+  },
+  {
+    "name": "Periwinkle",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Permanent Geranium Lake",
+    "hex": "#E12C2C"
+  },
+  {
+    "name": "Persian أزرق",
+    "hex": "#1C39BB"
+  },
+  {
+    "name": "Persian أخضر",
+    "hex": "#00A693"
+  },
+  {
+    "name": "Persian نيلي",
+    "hex": "#32127A"
+  },
+  {
+    "name": "Persian برتقالي",
+    "hex": "#D99058"
+  },
+  {
+    "name": "Persian وردي",
+    "hex": "#F77FBE"
+  },
+  {
+    "name": "Persian Plum",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Persian أحمر",
+    "hex": "#CC3333"
+  },
+  {
+    "name": "Persian وردي",
+    "hex": "#FE28A2"
+  },
+  {
+    "name": "Persimmon",
+    "hex": "#EC5800"
+  },
+  {
+    "name": "Peru",
+    "hex": "#CD853F"
+  },
+  {
+    "name": "Pewter أزرق",
+    "hex": "#8BA8B7"
+  },
+  {
+    "name": "Phlox",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Phthalo أزرق",
+    "hex": "#000F89"
+  },
+  {
+    "name": "Phthalo أخضر",
+    "hex": "#123524"
+  },
+  {
+    "name": "Picton أزرق",
+    "hex": "#45B1E8"
+  },
+  {
+    "name": "Pictorial Carmine",
+    "hex": "#C30B4E"
+  },
+  {
+    "name": "Piggy وردي",
+    "hex": "#FDDDE6"
+  },
+  {
+    "name": "Pine أخضر",
+    "hex": "#01796F"
+  },
+  {
+    "name": "Pineapple",
+    "hex": "#563C0D"
+  },
+  {
+    "name": "وردي",
+    "hex": "#FFC0CB"
+  },
+  {
+    "name": "وردي (Pantone)",
+    "hex": "#D74894"
+  },
+  {
+    "name": "وردي Flamingo",
+    "hex": "#FC74FD"
+  },
+  {
+    "name": "وردي Lace",
+    "hex": "#FFDDF4"
+  },
+  {
+    "name": "وردي لافندر",
+    "hex": "#D8B2D1"
+  },
+  {
+    "name": "وردي-برتقالي",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "وردي Pearl",
+    "hex": "#E7ACCF"
+  },
+  {
+    "name": "وردي Raspberry",
+    "hex": "#980036"
+  },
+  {
+    "name": "وردي Sherbet",
+    "hex": "#F78FA7"
+  },
+  {
+    "name": "Pistachio",
+    "hex": "#93C572"
+  },
+  {
+    "name": "Pixie Powder",
+    "hex": "#391285"
+  },
+  {
+    "name": "Platinum",
+    "hex": "#E5E4E2"
+  },
+  {
+    "name": "Plum",
+    "hex": "#8E4585"
+  },
+  {
+    "name": "Plum (Web)",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Plump أرجواني",
+    "hex": "#5946B2"
+  },
+  {
+    "name": "Polished Pine",
+    "hex": "#5DA493"
+  },
+  {
+    "name": "Pomp And Power",
+    "hex": "#86608E"
+  },
+  {
+    "name": "Popstar",
+    "hex": "#BE4F62"
+  },
+  {
+    "name": "Portland برتقالي",
+    "hex": "#FF5A36"
+  },
+  {
+    "name": "Powder أزرق",
+    "hex": "#B0E0E6"
+  },
+  {
+    "name": "Princess Perfume",
+    "hex": "#FF85CF"
+  },
+  {
+    "name": "Princeton برتقالي",
+    "hex": "#F58025"
+  },
+  {
+    "name": "Prune",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Prussian أزرق",
+    "hex": "#003153"
+  },
+  {
+    "name": "Psychedelic أرجواني",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Puce",
+    "hex": "#CC8899"
+  },
+  {
+    "name": "Puce أحمر",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Pullman بني (UPS بني)",
+    "hex": "#644117"
+  },
+  {
+    "name": "Pullman أخضر",
+    "hex": "#3B331C"
+  },
+  {
+    "name": "Pumpkin",
+    "hex": "#FF7518"
+  },
+  {
+    "name": "أرجواني (HTML)",
+    "hex": "#800080"
+  },
+  {
+    "name": "أرجواني (Munsell)",
+    "hex": "#9F00C5"
+  },
+  {
+    "name": "أرجواني (X11)",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "أرجواني Heart",
+    "hex": "#69359C"
+  },
+  {
+    "name": "أرجواني Mountain Majesty",
+    "hex": "#9678B6"
+  },
+  {
+    "name": "أرجواني بحري",
+    "hex": "#4E5180"
+  },
+  {
+    "name": "أرجواني Pizzazz",
+    "hex": "#FE4EDA"
+  },
+  {
+    "name": "أرجواني Plum",
+    "hex": "#9C51B6"
+  },
+  {
+    "name": "أرجواني Taupe",
+    "hex": "#50404D"
+  },
+  {
+    "name": "Purpureus",
+    "hex": "#9A4EAE"
+  },
+  {
+    "name": "Quartz",
+    "hex": "#51484F"
+  },
+  {
+    "name": "Queen أزرق",
+    "hex": "#436B95"
+  },
+  {
+    "name": "Queen وردي",
+    "hex": "#E8CCD7"
+  },
+  {
+    "name": "Quick فضي",
+    "hex": "#A6A6A6"
+  },
+  {
+    "name": "Quinacridone ماجنتا",
+    "hex": "#8E3A59"
+  },
+  {
+    "name": "Rackley",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Radical أحمر",
+    "hex": "#FF355E"
+  },
+  {
+    "name": "Raisin أسود",
+    "hex": "#242124"
+  },
+  {
+    "name": "Rajah",
+    "hex": "#FBAB60"
+  },
+  {
+    "name": "Raspberry",
+    "hex": "#E30B5D"
+  },
+  {
+    "name": "Raspberry Glace",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Raspberry وردي",
+    "hex": "#E25098"
+  },
+  {
+    "name": "Raspberry وردي",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Raw Sienna",
+    "hex": "#D68A59"
+  },
+  {
+    "name": "Raw Umber",
+    "hex": "#826644"
+  },
+  {
+    "name": "Razzle Dazzle وردي",
+    "hex": "#FF33CC"
+  },
+  {
+    "name": "Razzmatazz",
+    "hex": "#E3256B"
+  },
+  {
+    "name": "Razzmic Berry",
+    "hex": "#8D4E85"
+  },
+  {
+    "name": "Rebecca أرجواني",
+    "hex": "#663399"
+  },
+  {
+    "name": "أحمر",
+    "hex": "#FF0000"
+  },
+  {
+    "name": "أحمر (Crayola)",
+    "hex": "#EE204D"
+  },
+  {
+    "name": "أحمر (Munsell)",
+    "hex": "#F2003C"
+  },
+  {
+    "name": "أحمر (NCS)",
+    "hex": "#C40233"
+  },
+  {
+    "name": "أحمر (Pantone)",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "أحمر (Pigment)",
+    "hex": "#ED1C24"
+  },
+  {
+    "name": "أحمر (RYB)",
+    "hex": "#FE2712"
+  },
+  {
+    "name": "أحمر-بني",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "أحمر Devil",
+    "hex": "#860111"
+  },
+  {
+    "name": "أحمر-برتقالي",
+    "hex": "#FF5349"
+  },
+  {
+    "name": "أحمر-أرجواني",
+    "hex": "#E40078"
+  },
+  {
+    "name": "أحمر Salsa",
+    "hex": "#FD3A4A"
+  },
+  {
+    "name": "أحمر-بنفسجي",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Redwood",
+    "hex": "#A45A52"
+  },
+  {
+    "name": "Regalia",
+    "hex": "#522D80"
+  },
+  {
+    "name": "Registration أسود",
+    "hex": "#000000"
+  },
+  {
+    "name": "Resolution أزرق",
+    "hex": "#002387"
+  },
+  {
+    "name": "Rhythm",
+    "hex": "#777696"
+  },
+  {
+    "name": "غني أسود",
+    "hex": "#004040"
+  },
+  {
+    "name": "غني أسود (FOGRA29)",
+    "hex": "#010B13"
+  },
+  {
+    "name": "غني أسود (FOGRA39)",
+    "hex": "#010203"
+  },
+  {
+    "name": "غني Brilliant لافندر",
+    "hex": "#F1A7FE"
+  },
+  {
+    "name": "غني Carmine",
+    "hex": "#D70040"
+  },
+  {
+    "name": "غني Electric أزرق",
+    "hex": "#0892D0"
+  },
+  {
+    "name": "غني لافندر",
+    "hex": "#A76BCF"
+  },
+  {
+    "name": "غني ليلكي",
+    "hex": "#B666D2"
+  },
+  {
+    "name": "غني خمري",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Rifle أخضر",
+    "hex": "#444C38"
+  },
+  {
+    "name": "Roast Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Robin Egg أزرق",
+    "hex": "#00CCCC"
+  },
+  {
+    "name": "Rocket Metallic",
+    "hex": "#8A7F80"
+  },
+  {
+    "name": "Roman فضي",
+    "hex": "#838996"
+  },
+  {
+    "name": "وردي",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "وردي Bonbon",
+    "hex": "#F9429E"
+  },
+  {
+    "name": "وردي Dust",
+    "hex": "#9E5E6F"
+  },
+  {
+    "name": "وردي Ebony",
+    "hex": "#674846"
+  },
+  {
+    "name": "وردي ذهبي",
+    "hex": "#B76E79"
+  },
+  {
+    "name": "وردي Madder",
+    "hex": "#E32636"
+  },
+  {
+    "name": "وردي وردي",
+    "hex": "#FF66CC"
+  },
+  {
+    "name": "وردي Quartz",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "وردي أحمر",
+    "hex": "#C21E56"
+  },
+  {
+    "name": "وردي Taupe",
+    "hex": "#905D5D"
+  },
+  {
+    "name": "وردي Vale",
+    "hex": "#AB4E52"
+  },
+  {
+    "name": "Rosewood",
+    "hex": "#65000B"
+  },
+  {
+    "name": "Rosso Corsa",
+    "hex": "#D40000"
+  },
+  {
+    "name": "Rosy بني",
+    "hex": "#BC8F8F"
+  },
+  {
+    "name": "Royal أزرق سماوي",
+    "hex": "#0038A8"
+  },
+  {
+    "name": "Royal أزرق",
+    "hex": "#002366"
+  },
+  {
+    "name": "Royal أزرق",
+    "hex": "#4169E1"
+  },
+  {
+    "name": "Royal فوشيا",
+    "hex": "#CA2C92"
+  },
+  {
+    "name": "Royal أرجواني",
+    "hex": "#7851A9"
+  },
+  {
+    "name": "Royal أصفر",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Ruber",
+    "hex": "#CE4676"
+  },
+  {
+    "name": "Rubine أحمر",
+    "hex": "#D10056"
+  },
+  {
+    "name": "ياقوتي",
+    "hex": "#E0115F"
+  },
+  {
+    "name": "ياقوتي أحمر",
+    "hex": "#9B111E"
+  },
+  {
+    "name": "Ruddy",
+    "hex": "#FF0028"
+  },
+  {
+    "name": "Ruddy بني",
+    "hex": "#BB6528"
+  },
+  {
+    "name": "Ruddy وردي",
+    "hex": "#E18E96"
+  },
+  {
+    "name": "Rufous",
+    "hex": "#A81C07"
+  },
+  {
+    "name": "Russet",
+    "hex": "#80461B"
+  },
+  {
+    "name": "Russian أخضر",
+    "hex": "#679267"
+  },
+  {
+    "name": "Russian بنفسجي",
+    "hex": "#32174D"
+  },
+  {
+    "name": "Rust",
+    "hex": "#B7410E"
+  },
+  {
+    "name": "Rusty أحمر",
+    "hex": "#DA2C43"
+  },
+  {
+    "name": "Sacramento State أخضر",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Saddle بني",
+    "hex": "#8B4513"
+  },
+  {
+    "name": "Safety برتقالي",
+    "hex": "#FF7800"
+  },
+  {
+    "name": "Safety برتقالي (Blaze برتقالي)",
+    "hex": "#FF6700"
+  },
+  {
+    "name": "Safety أصفر",
+    "hex": "#EED202"
+  },
+  {
+    "name": "Saffron",
+    "hex": "#F4C430"
+  },
+  {
+    "name": "Sage",
+    "hex": "#BCB88A"
+  },
+  {
+    "name": "St. Patrick's أزرق",
+    "hex": "#23297A"
+  },
+  {
+    "name": "Salmon",
+    "hex": "#FA8072"
+  },
+  {
+    "name": "Salmon وردي",
+    "hex": "#FF91A4"
+  },
+  {
+    "name": "Sand",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Sand Dune",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sandstorm",
+    "hex": "#ECD540"
+  },
+  {
+    "name": "Sandy بني",
+    "hex": "#F4A460"
+  },
+  {
+    "name": "Sandy أسمر فاتح",
+    "hex": "#FDD9B5"
+  },
+  {
+    "name": "Sandy Taupe",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sangria",
+    "hex": "#92000A"
+  },
+  {
+    "name": "Sap أخضر",
+    "hex": "#507D2A"
+  },
+  {
+    "name": "ياقوتي",
+    "hex": "#0F52BA"
+  },
+  {
+    "name": "ياقوتي أزرق",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Sasquatch Socks",
+    "hex": "#FF4681"
+  },
+  {
+    "name": "Satin Sheen ذهبي",
+    "hex": "#CBA135"
+  },
+  {
+    "name": "قرمزي",
+    "hex": "#FF2400"
+  },
+  {
+    "name": "قرمزي",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Schauss وردي",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "School Bus أصفر",
+    "hex": "#FFD800"
+  },
+  {
+    "name": "Screamin' أخضر",
+    "hex": "#66FF66"
+  },
+  {
+    "name": "بحري أزرق",
+    "hex": "#006994"
+  },
+  {
+    "name": "بحري Foam أخضر",
+    "hex": "#9FE2BF"
+  },
+  {
+    "name": "بحري أخضر",
+    "hex": "#2E8B57"
+  },
+  {
+    "name": "بحري Serpent",
+    "hex": "#4BC7CF"
+  },
+  {
+    "name": "Seal بني",
+    "hex": "#59260B"
+  },
+  {
+    "name": "Seashell",
+    "hex": "#FFF5EE"
+  },
+  {
+    "name": "Selective أصفر",
+    "hex": "#FFBA00"
+  },
+  {
+    "name": "Sepia",
+    "hex": "#704214"
+  },
+  {
+    "name": "Shadow",
+    "hex": "#8A795D"
+  },
+  {
+    "name": "Shadow أزرق",
+    "hex": "#778BA5"
+  },
+  {
+    "name": "Shampoo",
+    "hex": "#FFCFF1"
+  },
+  {
+    "name": "Shamrock أخضر",
+    "hex": "#009E60"
+  },
+  {
+    "name": "Sheen أخضر",
+    "hex": "#8FD400"
+  },
+  {
+    "name": "Shimmering Blush",
+    "hex": "#D98695"
+  },
+  {
+    "name": "Shiny Shamrock",
+    "hex": "#5FA778"
+  },
+  {
+    "name": "Shocking وردي",
+    "hex": "#FC0FC0"
+  },
+  {
+    "name": "Shocking وردي (Crayola)",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Sienna",
+    "hex": "#882D17"
+  },
+  {
+    "name": "فضي",
+    "hex": "#C0C0C0"
+  },
+  {
+    "name": "فضي Chalice",
+    "hex": "#ACACAC"
+  },
+  {
+    "name": "فضي Lake أزرق",
+    "hex": "#5D89BA"
+  },
+  {
+    "name": "فضي وردي",
+    "hex": "#C4AEAD"
+  },
+  {
+    "name": "فضي Sand",
+    "hex": "#BFC1C2"
+  },
+  {
+    "name": "Sinopia",
+    "hex": "#CB410B"
+  },
+  {
+    "name": "Sizzling أحمر",
+    "hex": "#FF3855"
+  },
+  {
+    "name": "Sizzling شروق",
+    "hex": "#FFDB00"
+  },
+  {
+    "name": "Skobeloff",
+    "hex": "#007474"
+  },
+  {
+    "name": "سماوي أزرق",
+    "hex": "#87CEEB"
+  },
+  {
+    "name": "سماوي ماجنتا",
+    "hex": "#CF71AF"
+  },
+  {
+    "name": "Slate أزرق",
+    "hex": "#6A5ACD"
+  },
+  {
+    "name": "Slate رمادي",
+    "hex": "#708090"
+  },
+  {
+    "name": "Smalt (داكن Powder أزرق)",
+    "hex": "#003399"
+  },
+  {
+    "name": "Slimy أخضر",
+    "hex": "#299617"
+  },
+  {
+    "name": "Smashed Pumpkin",
+    "hex": "#FF6D3A"
+  },
+  {
+    "name": "Smitten",
+    "hex": "#C84186"
+  },
+  {
+    "name": "Smoke",
+    "hex": "#738276"
+  },
+  {
+    "name": "Smokey Topaz",
+    "hex": "#832A0D"
+  },
+  {
+    "name": "Smoky أسود",
+    "hex": "#100C08"
+  },
+  {
+    "name": "Smoky Topaz",
+    "hex": "#933D41"
+  },
+  {
+    "name": "Snow",
+    "hex": "#FFFAFA"
+  },
+  {
+    "name": "Soap",
+    "hex": "#CEC8EF"
+  },
+  {
+    "name": "Solid وردي",
+    "hex": "#893843"
+  },
+  {
+    "name": "Sonic فضي",
+    "hex": "#757575"
+  },
+  {
+    "name": "Spartan قرمزي",
+    "hex": "#9E1316"
+  },
+  {
+    "name": "Space Cadet",
+    "hex": "#1D2951"
+  },
+  {
+    "name": "Spanish Bistre",
+    "hex": "#807532"
+  },
+  {
+    "name": "Spanish أزرق",
+    "hex": "#0070B8"
+  },
+  {
+    "name": "Spanish Carmine",
+    "hex": "#D10047"
+  },
+  {
+    "name": "Spanish قرمزي",
+    "hex": "#E51A4C"
+  },
+  {
+    "name": "Spanish رمادي",
+    "hex": "#989898"
+  },
+  {
+    "name": "Spanish أخضر",
+    "hex": "#009150"
+  },
+  {
+    "name": "Spanish برتقالي",
+    "hex": "#E86100"
+  },
+  {
+    "name": "Spanish وردي",
+    "hex": "#F7BFBE"
+  },
+  {
+    "name": "Spanish أحمر",
+    "hex": "#E60026"
+  },
+  {
+    "name": "Spanish سماوي أزرق",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Spanish بنفسجي",
+    "hex": "#4C2882"
+  },
+  {
+    "name": "Spanish Viridian",
+    "hex": "#007F5C"
+  },
+  {
+    "name": "Spicy Mix",
+    "hex": "#8B5f4D"
+  },
+  {
+    "name": "Spiro Disco Ball",
+    "hex": "#0FC0FC"
+  },
+  {
+    "name": "Spring Bud",
+    "hex": "#A7FC00"
+  },
+  {
+    "name": "Spring Frost",
+    "hex": "#87FF2A"
+  },
+  {
+    "name": "Spring أخضر",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Star Command أزرق",
+    "hex": "#007BB8"
+  },
+  {
+    "name": "Steel أزرق",
+    "hex": "#4682B4"
+  },
+  {
+    "name": "Steel وردي",
+    "hex": "#CC33CC"
+  },
+  {
+    "name": "Steel أزرق مخضر",
+    "hex": "#5F8A8B"
+  },
+  {
+    "name": "Stil De Grain أصفر",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Stizza",
+    "hex": "#990000"
+  },
+  {
+    "name": "Stormcloud",
+    "hex": "#4F666A"
+  },
+  {
+    "name": "Straw",
+    "hex": "#E4D96F"
+  },
+  {
+    "name": "Strawberry",
+    "hex": "#FC5A8D"
+  },
+  {
+    "name": "Sugar Plum",
+    "hex": "#914E75"
+  },
+  {
+    "name": "Sunburnt Cyclops",
+    "hex": "#FF404C"
+  },
+  {
+    "name": "Sunglow",
+    "hex": "#FFCC33"
+  },
+  {
+    "name": "Sunny",
+    "hex": "#F2F27A"
+  },
+  {
+    "name": "Sunray",
+    "hex": "#E3AB57"
+  },
+  {
+    "name": "غروب",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "غروب برتقالي",
+    "hex": "#FD5E53"
+  },
+  {
+    "name": "Super وردي",
+    "hex": "#CF6BA9"
+  },
+  {
+    "name": "Sweet بني",
+    "hex": "#A83731"
+  },
+  {
+    "name": "أسمر فاتح",
+    "hex": "#D2B48C"
+  },
+  {
+    "name": "Tangelo",
+    "hex": "#F94D00"
+  },
+  {
+    "name": "Tangerine",
+    "hex": "#F28500"
+  },
+  {
+    "name": "Tangerine أصفر",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "Tango وردي",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Tart برتقالي",
+    "hex": "#FB4D46"
+  },
+  {
+    "name": "Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Taupe رمادي",
+    "hex": "#8B8589"
+  },
+  {
+    "name": "Tea أخضر",
+    "hex": "#D0F0C0"
+  },
+  {
+    "name": "Tea وردي",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Tea وردي",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "أزرق مخضر",
+    "hex": "#008080"
+  },
+  {
+    "name": "أزرق مخضر أزرق",
+    "hex": "#367588"
+  },
+  {
+    "name": "أزرق مخضر Deer",
+    "hex": "#99E6B3"
+  },
+  {
+    "name": "أزرق مخضر أخضر",
+    "hex": "#00827F"
+  },
+  {
+    "name": "Telemagenta",
+    "hex": "#CF3476"
+  },
+  {
+    "name": "Tenne (Tawny)",
+    "hex": "#CD5700"
+  },
+  {
+    "name": "Terra Cotta",
+    "hex": "#E2725B"
+  },
+  {
+    "name": "Thistle",
+    "hex": "#D8BFD8"
+  },
+  {
+    "name": "Thulian وردي",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Tickle Me وردي",
+    "hex": "#FC89AC"
+  },
+  {
+    "name": "Tiffany أزرق",
+    "hex": "#0ABAB5"
+  },
+  {
+    "name": "Tiger's Eye",
+    "hex": "#E08D3C"
+  },
+  {
+    "name": "Timberwolf",
+    "hex": "#DBD7D2"
+  },
+  {
+    "name": "Titanium أصفر",
+    "hex": "#EEE600"
+  },
+  {
+    "name": "Tomato",
+    "hex": "#FF6347"
+  },
+  {
+    "name": "Toolbox",
+    "hex": "#746CC0"
+  },
+  {
+    "name": "Topaz",
+    "hex": "#FFC87C"
+  },
+  {
+    "name": "Tractor أحمر",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Trolley رمادي",
+    "hex": "#808080"
+  },
+  {
+    "name": "Tropical Rain غابة",
+    "hex": "#00755E"
+  },
+  {
+    "name": "Tropical بنفسجي",
+    "hex": "#CDA4DE"
+  },
+  {
+    "name": "True أزرق",
+    "hex": "#0073CF"
+  },
+  {
+    "name": "Tufts أزرق",
+    "hex": "#3E8EDE"
+  },
+  {
+    "name": "Tulip",
+    "hex": "#FF878D"
+  },
+  {
+    "name": "Tumbleweed",
+    "hex": "#DEAA88"
+  },
+  {
+    "name": "Turkish وردي",
+    "hex": "#B57281"
+  },
+  {
+    "name": "فيروزي",
+    "hex": "#40E0D0"
+  },
+  {
+    "name": "فيروزي أزرق",
+    "hex": "#00FFEF"
+  },
+  {
+    "name": "فيروزي أخضر",
+    "hex": "#A0D6B4"
+  },
+  {
+    "name": "فيروزي Surf",
+    "hex": "#00C5CD"
+  },
+  {
+    "name": "Turtle أخضر",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Tuscan",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Tuscan بني",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Tuscan أحمر",
+    "hex": "#7C4848"
+  },
+  {
+    "name": "Tuscan أسمر فاتح",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Tuscany",
+    "hex": "#C09999"
+  },
+  {
+    "name": "Twilight لافندر",
+    "hex": "#8A496B"
+  },
+  {
+    "name": "Tyrian أرجواني",
+    "hex": "#66023C"
+  },
+  {
+    "name": "UA أزرق",
+    "hex": "#0033AA"
+  },
+  {
+    "name": "UA أحمر",
+    "hex": "#D9004C"
+  },
+  {
+    "name": "Ube",
+    "hex": "#8878C3"
+  },
+  {
+    "name": "UCLA أزرق",
+    "hex": "#536895"
+  },
+  {
+    "name": "UCLA ذهبي",
+    "hex": "#FFB300"
+  },
+  {
+    "name": "UFO أخضر",
+    "hex": "#3CD070"
+  },
+  {
+    "name": "Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Ultramarine أزرق",
+    "hex": "#4166F5"
+  },
+  {
+    "name": "Ultra وردي",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Ultra أحمر",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Umber",
+    "hex": "#635147"
+  },
+  {
+    "name": "Unbleached Silk",
+    "hex": "#FFDDCA"
+  },
+  {
+    "name": "United Nations أزرق",
+    "hex": "#5B92E5"
+  },
+  {
+    "name": "University Of California ذهبي",
+    "hex": "#B78727"
+  },
+  {
+    "name": "Unmellow أصفر",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "UP غابة أخضر",
+    "hex": "#014421"
+  },
+  {
+    "name": "UP خمري",
+    "hex": "#7B1113"
+  },
+  {
+    "name": "Upsdell أحمر",
+    "hex": "#AE2029"
+  },
+  {
+    "name": "Urobilin",
+    "hex": "#E1AD21"
+  },
+  {
+    "name": "USAFA أزرق",
+    "hex": "#004F98"
+  },
+  {
+    "name": "USC Cardinal",
+    "hex": "#990000"
+  },
+  {
+    "name": "USC ذهبي",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "University Of Tennessee برتقالي",
+    "hex": "#F77F00"
+  },
+  {
+    "name": "Utah قرمزي",
+    "hex": "#D3003F"
+  },
+  {
+    "name": "Van Dyke بني",
+    "hex": "#664228"
+  },
+  {
+    "name": "Vanilla",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Vanilla Ice",
+    "hex": "#F38FA9"
+  },
+  {
+    "name": "Vegas ذهبي",
+    "hex": "#C5B358"
+  },
+  {
+    "name": "Venetian أحمر",
+    "hex": "#C80815"
+  },
+  {
+    "name": "Verdigris",
+    "hex": "#43B3AE"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#D9381E"
+  },
+  {
+    "name": "Veronica",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "فاتح جدًا أزرق سماوي",
+    "hex": "#74BBFB"
+  },
+  {
+    "name": "فاتح جدًا أزرق",
+    "hex": "#6666FF"
+  },
+  {
+    "name": "فاتح جدًا Malachite أخضر",
+    "hex": "#64E986"
+  },
+  {
+    "name": "فاتح جدًا Tangelo",
+    "hex": "#FFB077"
+  },
+  {
+    "name": "باهت جدًا برتقالي",
+    "hex": "#FFDFBF"
+  },
+  {
+    "name": "باهت جدًا أصفر",
+    "hex": "#FFFFBF"
+  },
+  {
+    "name": "بنفسجي",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "بنفسجي (Color Wheel)",
+    "hex": "#7F00FF"
+  },
+  {
+    "name": "بنفسجي (RYB)",
+    "hex": "#8601AF"
+  },
+  {
+    "name": "بنفسجي (Web)",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "بنفسجي-أزرق",
+    "hex": "#324AB2"
+  },
+  {
+    "name": "بنفسجي-أحمر",
+    "hex": "#F75394"
+  },
+  {
+    "name": "Viridian",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Viridian أخضر",
+    "hex": "#009698"
+  },
+  {
+    "name": "Vista أزرق",
+    "hex": "#7C9ED9"
+  },
+  {
+    "name": "زاهي كهرماني",
+    "hex": "#CC9900"
+  },
+  {
+    "name": "زاهي Auburn",
+    "hex": "#922724"
+  },
+  {
+    "name": "زاهي Burgundy",
+    "hex": "#9F1D35"
+  },
+  {
+    "name": "زاهي Cerise",
+    "hex": "#DA1D81"
+  },
+  {
+    "name": "زاهي Cerulean",
+    "hex": "#00AAEE"
+  },
+  {
+    "name": "زاهي قرمزي",
+    "hex": "#CC0033"
+  },
+  {
+    "name": "زاهي Gamboge",
+    "hex": "#FF9900"
+  },
+  {
+    "name": "زاهي ليموني أخضر",
+    "hex": "#A6D608"
+  },
+  {
+    "name": "زاهي Malachite",
+    "hex": "#00CC33"
+  },
+  {
+    "name": "زاهي Mulberry",
+    "hex": "#B80CE3"
+  },
+  {
+    "name": "زاهي برتقالي",
+    "hex": "#FF5F00"
+  },
+  {
+    "name": "زاهي برتقالي Peel",
+    "hex": "#FFA000"
+  },
+  {
+    "name": "زاهي Orchid",
+    "hex": "#CC00FF"
+  },
+  {
+    "name": "زاهي Raspberry",
+    "hex": "#FF006C"
+  },
+  {
+    "name": "زاهي أحمر",
+    "hex": "#F70D1A"
+  },
+  {
+    "name": "زاهي أحمر-Tangelo",
+    "hex": "#DF6124"
+  },
+  {
+    "name": "زاهي سماوي أزرق",
+    "hex": "#00CCFF"
+  },
+  {
+    "name": "زاهي Tangelo",
+    "hex": "#F07427"
+  },
+  {
+    "name": "زاهي Tangerine",
+    "hex": "#FFA089"
+  },
+  {
+    "name": "زاهي Vermilion",
+    "hex": "#E56024"
+  },
+  {
+    "name": "زاهي بنفسجي",
+    "hex": "#9F00FF"
+  },
+  {
+    "name": "زاهي أصفر",
+    "hex": "#FFE302"
+  },
+  {
+    "name": "Volt",
+    "hex": "#CEFF00"
+  },
+  {
+    "name": "Wageningen أخضر",
+    "hex": "#34B233"
+  },
+  {
+    "name": "Warm أسود",
+    "hex": "#004242"
+  },
+  {
+    "name": "Waterspout",
+    "hex": "#A4F4F9"
+  },
+  {
+    "name": "Weldon أزرق",
+    "hex": "#7C98AB"
+  },
+  {
+    "name": "Wenge",
+    "hex": "#645452"
+  },
+  {
+    "name": "Wheat",
+    "hex": "#F5DEB3"
+  },
+  {
+    "name": "أبيض",
+    "hex": "#FFFFFF"
+  },
+  {
+    "name": "أبيض Smoke",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Wild أزرق Yonder",
+    "hex": "#A2ADD0"
+  },
+  {
+    "name": "Wild Orchid",
+    "hex": "#D470A2"
+  },
+  {
+    "name": "Wild Strawberry",
+    "hex": "#FF43A4"
+  },
+  {
+    "name": "Wild Watermelon",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Willpower برتقالي",
+    "hex": "#FD5800"
+  },
+  {
+    "name": "Windsor أسمر فاتح",
+    "hex": "#A75502"
+  },
+  {
+    "name": "نبيذي",
+    "hex": "#722F37"
+  },
+  {
+    "name": "نبيذي Dregs",
+    "hex": "#673147"
+  },
+  {
+    "name": "Winter سماوي",
+    "hex": "#FF007C"
+  },
+  {
+    "name": "Winter Wizard",
+    "hex": "#A0E6FF"
+  },
+  {
+    "name": "Wintergreen Dream",
+    "hex": "#56887D"
+  },
+  {
+    "name": "Wisteria",
+    "hex": "#C9A0DC"
+  },
+  {
+    "name": "Wood بني",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Xanadu",
+    "hex": "#738678"
+  },
+  {
+    "name": "Yale أزرق",
+    "hex": "#0F4D92"
+  },
+  {
+    "name": "Yankees أزرق",
+    "hex": "#1C2841"
+  },
+  {
+    "name": "أصفر",
+    "hex": "#FFFF00"
+  },
+  {
+    "name": "أصفر (Crayola)",
+    "hex": "#FCE883"
+  },
+  {
+    "name": "أصفر (Munsell)",
+    "hex": "#EFCC00"
+  },
+  {
+    "name": "أصفر (NCS)",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "أصفر (Pantone)",
+    "hex": "#FEDF00"
+  },
+  {
+    "name": "أصفر (Process)",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "أصفر (RYB)",
+    "hex": "#FEFE33"
+  },
+  {
+    "name": "أصفر-أخضر",
+    "hex": "#9ACD32"
+  },
+  {
+    "name": "أصفر برتقالي",
+    "hex": "#FFAE42"
+  },
+  {
+    "name": "أصفر وردي",
+    "hex": "#FFF000"
+  },
+  {
+    "name": "أصفر Sunshine",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Zaffre",
+    "hex": "#0014A8"
+  },
+  {
+    "name": "Zinnwaldite بني",
+    "hex": "#2C1608"
+  },
+  {
+    "name": "Zomp",
+    "hex": "#39A78E"
+  }
+]
