@@ -1,0 +1,5210 @@
+[
+  {
+    "name": "Absolute Zero",
+    "hex": "#0048BA"
+  },
+  {
+    "name": "Acid हरा",
+    "hex": "#B0BF1A"
+  },
+  {
+    "name": "Aero",
+    "hex": "#7CB9E8"
+  },
+  {
+    "name": "Aero नीला",
+    "hex": "#C9FFE5"
+  },
+  {
+    "name": "African बैंगनी",
+    "hex": "#B284BE"
+  },
+  {
+    "name": "Air Force नीला (RAF)",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Air Force नीला (USAF)",
+    "hex": "#00308F"
+  },
+  {
+    "name": "Air Superiority नीला",
+    "hex": "#72A0C1"
+  },
+  {
+    "name": "Alabama क्रिमसन",
+    "hex": "#AF002A"
+  },
+  {
+    "name": "Alabaster",
+    "hex": "#F2F0E6"
+  },
+  {
+    "name": "Alice नीला",
+    "hex": "#F0F8FF"
+  },
+  {
+    "name": "Alien Armpit",
+    "hex": "#84DE02"
+  },
+  {
+    "name": "Alizarin क्रिमसन",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Alloy नारंगी",
+    "hex": "#C46210"
+  },
+  {
+    "name": "Almond",
+    "hex": "#EFDECD"
+  },
+  {
+    "name": "Amaranth",
+    "hex": "#E52B50"
+  },
+  {
+    "name": "Amaranth गहरा बैंगनी",
+    "hex": "#9F2B68"
+  },
+  {
+    "name": "Amaranth गुलाबी",
+    "hex": "#F19CBB"
+  },
+  {
+    "name": "Amaranth बैंगनी",
+    "hex": "#AB274F"
+  },
+  {
+    "name": "Amaranth लाल",
+    "hex": "#D3212D"
+  },
+  {
+    "name": "Amazon Store",
+    "hex": "#3B7A57"
+  },
+  {
+    "name": "Amazonite",
+    "hex": "#00C4B0"
+  },
+  {
+    "name": "Amber",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Amber (SAE/ECE)",
+    "hex": "#FF7E00"
+  },
+  {
+    "name": "American Rose",
+    "hex": "#FF033E"
+  },
+  {
+    "name": "Amethyst",
+    "hex": "#9966CC"
+  },
+  {
+    "name": "Android हरा",
+    "hex": "#A4C639"
+  },
+  {
+    "name": "Anti-Flash सफेद",
+    "hex": "#F2F3F4"
+  },
+  {
+    "name": "Antique Brass",
+    "hex": "#CD9575"
+  },
+  {
+    "name": "Antique कांस्य",
+    "hex": "#665D1E"
+  },
+  {
+    "name": "Antique Fuchsia",
+    "hex": "#915C83"
+  },
+  {
+    "name": "Antique माणिक",
+    "hex": "#841B2D"
+  },
+  {
+    "name": "Antique सफेद",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Ao (English)",
+    "hex": "#008000"
+  },
+  {
+    "name": "Apple हरा",
+    "hex": "#8DB600"
+  },
+  {
+    "name": "Apricot",
+    "hex": "#FBCEB1"
+  },
+  {
+    "name": "Aqua",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Aquamarine",
+    "hex": "#7FFFD4"
+  },
+  {
+    "name": "Arctic Lime",
+    "hex": "#D0FF14"
+  },
+  {
+    "name": "Army हरा",
+    "hex": "#4B5320"
+  },
+  {
+    "name": "Arsenic",
+    "hex": "#3B444B"
+  },
+  {
+    "name": "Artichoke",
+    "hex": "#8F9779"
+  },
+  {
+    "name": "Arylide पीला",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Ash धूसर",
+    "hex": "#B2BEB5"
+  },
+  {
+    "name": "Asparagus",
+    "hex": "#87A96B"
+  },
+  {
+    "name": "Atomic Tangerine",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "Auburn",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "Aureolin",
+    "hex": "#FDEE00"
+  },
+  {
+    "name": "AuroMetalSaurus",
+    "hex": "#6E7F80"
+  },
+  {
+    "name": "Avocado",
+    "hex": "#568203"
+  },
+  {
+    "name": "Awesome",
+    "hex": "#FF2052"
+  },
+  {
+    "name": "Aztec सुनहरा",
+    "hex": "#C39953"
+  },
+  {
+    "name": "अज़ूर",
+    "hex": "#007FFF"
+  },
+  {
+    "name": "अज़ूर (Web Color)",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "अज़ूर Mist",
+    "hex": "#F0FFFF"
+  },
+  {
+    "name": "Azureish सफेद",
+    "hex": "#DBE9F4"
+  },
+  {
+    "name": "Baby नीला",
+    "hex": "#89CFF0"
+  },
+  {
+    "name": "Baby नीला Eyes",
+    "hex": "#A1CAF1"
+  },
+  {
+    "name": "Baby गुलाबी",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "Baby Powder",
+    "hex": "#FEFEFA"
+  },
+  {
+    "name": "Baker-Miller गुलाबी",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "Ball नीला",
+    "hex": "#21ABCD"
+  },
+  {
+    "name": "Banana Mania",
+    "hex": "#FAE7B5"
+  },
+  {
+    "name": "Banana पीला",
+    "hex": "#FFE135"
+  },
+  {
+    "name": "Bangladesh हरा",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Barbie गुलाबी",
+    "hex": "#E0218A"
+  },
+  {
+    "name": "Barn लाल",
+    "hex": "#7C0A02"
+  },
+  {
+    "name": "Battery Charged नीला",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "Battleship धूसर",
+    "hex": "#848482"
+  },
+  {
+    "name": "Bazaar",
+    "hex": "#98777B"
+  },
+  {
+    "name": "Beau नीला",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "Beaver",
+    "hex": "#9F8170"
+  },
+  {
+    "name": "Begonia",
+    "hex": "#FA6E79"
+  },
+  {
+    "name": "Beige",
+    "hex": "#F5F5DC"
+  },
+  {
+    "name": "B'dazzled नीला",
+    "hex": "#2E5894"
+  },
+  {
+    "name": "Big Dip O'ruby",
+    "hex": "#9C2542"
+  },
+  {
+    "name": "Big Foot Feet",
+    "hex": "#E88E5A"
+  },
+  {
+    "name": "Bisque",
+    "hex": "#FFE4C4"
+  },
+  {
+    "name": "Bistre",
+    "hex": "#3D2B1F"
+  },
+  {
+    "name": "Bistre भूरा",
+    "hex": "#967117"
+  },
+  {
+    "name": "Bitter Lemon",
+    "hex": "#CAE00D"
+  },
+  {
+    "name": "Bitter Lime",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Bittersweet",
+    "hex": "#FE6F5E"
+  },
+  {
+    "name": "Bittersweet Shimmer",
+    "hex": "#BF4F51"
+  },
+  {
+    "name": "काला",
+    "hex": "#000000"
+  },
+  {
+    "name": "काला Bean",
+    "hex": "#3D0C02"
+  },
+  {
+    "name": "काला Coral",
+    "hex": "#54626F"
+  },
+  {
+    "name": "काला Leather Jacket",
+    "hex": "#253529"
+  },
+  {
+    "name": "काला जैतूनी",
+    "hex": "#3B3C36"
+  },
+  {
+    "name": "काला Shadows",
+    "hex": "#BFAFB2"
+  },
+  {
+    "name": "Blanched Almond",
+    "hex": "#FFEBCD"
+  },
+  {
+    "name": "Blast-Off कांस्य",
+    "hex": "#A57164"
+  },
+  {
+    "name": "Bleu De France",
+    "hex": "#318CE7"
+  },
+  {
+    "name": "Blizzard नीला",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "Blond",
+    "hex": "#FAF0BE"
+  },
+  {
+    "name": "नीला",
+    "hex": "#0000FF"
+  },
+  {
+    "name": "नीला (Crayola)",
+    "hex": "#1F75FE"
+  },
+  {
+    "name": "नीला (Munsell)",
+    "hex": "#0093AF"
+  },
+  {
+    "name": "नीला (NCS)",
+    "hex": "#0087BD"
+  },
+  {
+    "name": "नीला (Pantone)",
+    "hex": "#0018A8"
+  },
+  {
+    "name": "नीला (Pigment)",
+    "hex": "#333399"
+  },
+  {
+    "name": "नीला (RYB)",
+    "hex": "#0247FE"
+  },
+  {
+    "name": "नीला Bell",
+    "hex": "#A2A2D0"
+  },
+  {
+    "name": "नीला Bolt",
+    "hex": "#00B9FB"
+  },
+  {
+    "name": "नीला-धूसर",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "नीला-हरा",
+    "hex": "#0D98BA"
+  },
+  {
+    "name": "नीला Jeans",
+    "hex": "#5DADEC"
+  },
+  {
+    "name": "नीला Lagoon",
+    "hex": "#ACE5EE"
+  },
+  {
+    "name": "नीला-मैजेंटा बैंगनी",
+    "hex": "#553592"
+  },
+  {
+    "name": "नीला नीलम",
+    "hex": "#126180"
+  },
+  {
+    "name": "नीला-बैंगनी",
+    "hex": "#8A2BE2"
+  },
+  {
+    "name": "नीला Yonder",
+    "hex": "#5072A7"
+  },
+  {
+    "name": "Blueberry",
+    "hex": "#4F86F7"
+  },
+  {
+    "name": "Bluebonnet",
+    "hex": "#1C1CF0"
+  },
+  {
+    "name": "Blush",
+    "hex": "#DE5D83"
+  },
+  {
+    "name": "Bole",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Bondi नीला",
+    "hex": "#0095B6"
+  },
+  {
+    "name": "Bone",
+    "hex": "#E3DAC9"
+  },
+  {
+    "name": "Booger Buster",
+    "hex": "#DDE26A"
+  },
+  {
+    "name": "Boston University लाल",
+    "hex": "#CC0000"
+  },
+  {
+    "name": "Bottle हरा",
+    "hex": "#006A4E"
+  },
+  {
+    "name": "Boysenberry",
+    "hex": "#873260"
+  },
+  {
+    "name": "Brandeis नीला",
+    "hex": "#0070FF"
+  },
+  {
+    "name": "Brass",
+    "hex": "#B5A642"
+  },
+  {
+    "name": "Brick लाल",
+    "hex": "#CB4154"
+  },
+  {
+    "name": "चमकीला Cerulean",
+    "hex": "#1DACD6"
+  },
+  {
+    "name": "चमकीला हरा",
+    "hex": "#66FF00"
+  },
+  {
+    "name": "चमकीला लैवेंडर",
+    "hex": "#BF94E4"
+  },
+  {
+    "name": "चमकीला Lilac",
+    "hex": "#D891EF"
+  },
+  {
+    "name": "चमकीला मरून",
+    "hex": "#C32148"
+  },
+  {
+    "name": "चमकीला Navy नीला",
+    "hex": "#1974D2"
+  },
+  {
+    "name": "चमकीला गुलाबी",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "चमकीला फ़िरोज़ा",
+    "hex": "#08E8DE"
+  },
+  {
+    "name": "चमकीला Ube",
+    "hex": "#D19FE8"
+  },
+  {
+    "name": "चमकीला पीला (Crayola)",
+    "hex": "#FFAA1D"
+  },
+  {
+    "name": "Brilliant अज़ूर",
+    "hex": "#3399FF"
+  },
+  {
+    "name": "Brilliant लैवेंडर",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Brilliant Rose",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "Brink गुलाबी",
+    "hex": "#FB607F"
+  },
+  {
+    "name": "British Racing हरा",
+    "hex": "#004225"
+  },
+  {
+    "name": "कांस्य",
+    "hex": "#CD7F32"
+  },
+  {
+    "name": "कांस्य पीला",
+    "hex": "#737000"
+  },
+  {
+    "name": "भूरा (Traditional)",
+    "hex": "#964B00"
+  },
+  {
+    "name": "भूरा (Web)",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "भूरा-Nose",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "भूरा Sugar",
+    "hex": "#AF6E4D"
+  },
+  {
+    "name": "भूरा पीला",
+    "hex": "#cc9966"
+  },
+  {
+    "name": "Brunswick हरा",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "Bubble Gum",
+    "hex": "#FFC1CC"
+  },
+  {
+    "name": "Bubbles",
+    "hex": "#E7FEFF"
+  },
+  {
+    "name": "Bud हरा",
+    "hex": "#7BB661"
+  },
+  {
+    "name": "Buff",
+    "hex": "#F0DC82"
+  },
+  {
+    "name": "Bulgarian Rose",
+    "hex": "#480607"
+  },
+  {
+    "name": "Burgundy",
+    "hex": "#800020"
+  },
+  {
+    "name": "Burlywood",
+    "hex": "#DEB887"
+  },
+  {
+    "name": "Burnished भूरा",
+    "hex": "#A17A74"
+  },
+  {
+    "name": "Burnt नारंगी",
+    "hex": "#CC5500"
+  },
+  {
+    "name": "Burnt Sienna",
+    "hex": "#E97451"
+  },
+  {
+    "name": "Burnt Umber",
+    "hex": "#8A3324"
+  },
+  {
+    "name": "Button नीला",
+    "hex": "#24A0ED"
+  },
+  {
+    "name": "Byzantine",
+    "hex": "#BD33A4"
+  },
+  {
+    "name": "Byzantium",
+    "hex": "#702963"
+  },
+  {
+    "name": "Cadet",
+    "hex": "#536872"
+  },
+  {
+    "name": "Cadet नीला",
+    "hex": "#5F9EA0"
+  },
+  {
+    "name": "Cadet धूसर",
+    "hex": "#91A3B0"
+  },
+  {
+    "name": "Cadmium हरा",
+    "hex": "#006B3C"
+  },
+  {
+    "name": "Cadmium नारंगी",
+    "hex": "#ED872D"
+  },
+  {
+    "name": "Cadmium लाल",
+    "hex": "#E30022"
+  },
+  {
+    "name": "Cadmium पीला",
+    "hex": "#FFF600"
+  },
+  {
+    "name": "Cafe Au Lait",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Cafe Noir",
+    "hex": "#4B3621"
+  },
+  {
+    "name": "Cal Poly Pomona हरा",
+    "hex": "#1E4D2B"
+  },
+  {
+    "name": "Cambridge नीला",
+    "hex": "#A3C1AD"
+  },
+  {
+    "name": "Camel",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Cameo गुलाबी",
+    "hex": "#EFBBCC"
+  },
+  {
+    "name": "Camouflage हरा",
+    "hex": "#78866B"
+  },
+  {
+    "name": "Canary",
+    "hex": "#FFFF99"
+  },
+  {
+    "name": "Canary पीला",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "Candy Apple लाल",
+    "hex": "#FF0800"
+  },
+  {
+    "name": "Candy गुलाबी",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Capri",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "Caput Mortuum",
+    "hex": "#592720"
+  },
+  {
+    "name": "Cardinal",
+    "hex": "#C41E3A"
+  },
+  {
+    "name": "Caribbean हरा",
+    "hex": "#00CC99"
+  },
+  {
+    "name": "Carmine",
+    "hex": "#960018"
+  },
+  {
+    "name": "Carmine (M&P)",
+    "hex": "#D70040"
+  },
+  {
+    "name": "Carmine गुलाबी",
+    "hex": "#EB4C42"
+  },
+  {
+    "name": "Carmine लाल",
+    "hex": "#FF0038"
+  },
+  {
+    "name": "Carnation गुलाबी",
+    "hex": "#FFA6C9"
+  },
+  {
+    "name": "Carnelian",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Carolina नीला",
+    "hex": "#56A0D3"
+  },
+  {
+    "name": "Carrot नारंगी",
+    "hex": "#ED9121"
+  },
+  {
+    "name": "Castleton हरा",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Catalina नीला",
+    "hex": "#062A78"
+  },
+  {
+    "name": "Catawba",
+    "hex": "#703642"
+  },
+  {
+    "name": "Cedar Chest",
+    "hex": "#C95A49"
+  },
+  {
+    "name": "Ceil",
+    "hex": "#92A1CF"
+  },
+  {
+    "name": "Celadon",
+    "hex": "#ACE1AF"
+  },
+  {
+    "name": "Celadon नीला",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Celadon हरा",
+    "hex": "#2F847C"
+  },
+  {
+    "name": "Celeste",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Celestial नीला",
+    "hex": "#4997D0"
+  },
+  {
+    "name": "Cerise",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cerise गुलाबी",
+    "hex": "#EC3B83"
+  },
+  {
+    "name": "Cerulean",
+    "hex": "#007BA7"
+  },
+  {
+    "name": "Cerulean नीला",
+    "hex": "#2A52BE"
+  },
+  {
+    "name": "Cerulean Frost",
+    "hex": "#6D9BC3"
+  },
+  {
+    "name": "CG नीला",
+    "hex": "#007AA5"
+  },
+  {
+    "name": "CG लाल",
+    "hex": "#E03C31"
+  },
+  {
+    "name": "Chamoisee",
+    "hex": "#A0785A"
+  },
+  {
+    "name": "Champagne",
+    "hex": "#F7E7CE"
+  },
+  {
+    "name": "Champagne गुलाबी",
+    "hex": "#F1DDCF"
+  },
+  {
+    "name": "Charcoal",
+    "hex": "#36454F"
+  },
+  {
+    "name": "Charleston हरा",
+    "hex": "#232B2B"
+  },
+  {
+    "name": "Charm गुलाबी",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "Chartreuse (Traditional)",
+    "hex": "#DFFF00"
+  },
+  {
+    "name": "Chartreuse (Web)",
+    "hex": "#7FFF00"
+  },
+  {
+    "name": "Cherry",
+    "hex": "#DE3163"
+  },
+  {
+    "name": "Cherry Blossom गुलाबी",
+    "hex": "#FFB7C5"
+  },
+  {
+    "name": "Chestnut",
+    "hex": "#954535"
+  },
+  {
+    "name": "China गुलाबी",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "China Rose",
+    "hex": "#A8516E"
+  },
+  {
+    "name": "Chinese लाल",
+    "hex": "#AA381E"
+  },
+  {
+    "name": "Chinese बैंगनी",
+    "hex": "#856088"
+  },
+  {
+    "name": "Chlorophyll हरा",
+    "hex": "#4AFF00"
+  },
+  {
+    "name": "Chocolate (Traditional)",
+    "hex": "#7B3F00"
+  },
+  {
+    "name": "Chocolate (Web)",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Chrome पीला",
+    "hex": "#FFA700"
+  },
+  {
+    "name": "Cinereous",
+    "hex": "#98817B"
+  },
+  {
+    "name": "Cinnabar",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Cinnamon",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Cinnamon Satin",
+    "hex": "#CD607E"
+  },
+  {
+    "name": "Citrine",
+    "hex": "#E4D00A"
+  },
+  {
+    "name": "Citron",
+    "hex": "#9FA91F"
+  },
+  {
+    "name": "Claret",
+    "hex": "#7F1734"
+  },
+  {
+    "name": "Classic Rose",
+    "hex": "#FBCCE7"
+  },
+  {
+    "name": "Cobalt नीला",
+    "hex": "#0047AB"
+  },
+  {
+    "name": "Cocoa भूरा",
+    "hex": "#D2691E"
+  },
+  {
+    "name": "Coconut",
+    "hex": "#965A3E"
+  },
+  {
+    "name": "Coffee",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Columbia नीला",
+    "hex": "#C4D8E2"
+  },
+  {
+    "name": "Congo गुलाबी",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Cool काला",
+    "hex": "#002E63"
+  },
+  {
+    "name": "Cool धूसर",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "तांबा",
+    "hex": "#B87333"
+  },
+  {
+    "name": "तांबा (Crayola)",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "तांबा Penny",
+    "hex": "#AD6F69"
+  },
+  {
+    "name": "तांबा लाल",
+    "hex": "#CB6D51"
+  },
+  {
+    "name": "तांबा Rose",
+    "hex": "#996666"
+  },
+  {
+    "name": "Coquelicot",
+    "hex": "#FF3800"
+  },
+  {
+    "name": "Coral",
+    "hex": "#FF7F50"
+  },
+  {
+    "name": "Coral गुलाबी",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Coral लाल",
+    "hex": "#FF4040"
+  },
+  {
+    "name": "Coral Reef",
+    "hex": "#FD7C6E"
+  },
+  {
+    "name": "Cordovan",
+    "hex": "#893F45"
+  },
+  {
+    "name": "Corn",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Cornell लाल",
+    "hex": "#B31B1B"
+  },
+  {
+    "name": "Cornflower नीला",
+    "hex": "#6495ED"
+  },
+  {
+    "name": "Cornsilk",
+    "hex": "#FFF8DC"
+  },
+  {
+    "name": "Cosmic Cobalt",
+    "hex": "#2E2D88"
+  },
+  {
+    "name": "Cosmic Latte",
+    "hex": "#FFF8E7"
+  },
+  {
+    "name": "Coyote भूरा",
+    "hex": "#81613C"
+  },
+  {
+    "name": "Cotton Candy",
+    "hex": "#FFBCD9"
+  },
+  {
+    "name": "Cream",
+    "hex": "#FFFDD0"
+  },
+  {
+    "name": "क्रिमसन",
+    "hex": "#DC143C"
+  },
+  {
+    "name": "क्रिमसन Glory",
+    "hex": "#BE0032"
+  },
+  {
+    "name": "क्रिमसन लाल",
+    "hex": "#990000"
+  },
+  {
+    "name": "Cultured",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "सियान",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "सियान अज़ूर",
+    "hex": "#4E82B4"
+  },
+  {
+    "name": "सियान-नीला अज़ूर",
+    "hex": "#4682BF"
+  },
+  {
+    "name": "सियान Cobalt नीला",
+    "hex": "#28589C"
+  },
+  {
+    "name": "सियान Cornflower नीला",
+    "hex": "#188BC2"
+  },
+  {
+    "name": "सियान (Process)",
+    "hex": "#00B7EB"
+  },
+  {
+    "name": "Cyber Grape",
+    "hex": "#58427C"
+  },
+  {
+    "name": "Cyber पीला",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "Cyclamen",
+    "hex": "#F56FA1"
+  },
+  {
+    "name": "Daffodil",
+    "hex": "#FFFF31"
+  },
+  {
+    "name": "Dandelion",
+    "hex": "#F0E130"
+  },
+  {
+    "name": "गहरा नीला",
+    "hex": "#00008B"
+  },
+  {
+    "name": "गहरा नीला-धूसर",
+    "hex": "#666699"
+  },
+  {
+    "name": "गहरा भूरा",
+    "hex": "#654321"
+  },
+  {
+    "name": "गहरा भूरा-Tangelo",
+    "hex": "#88654E"
+  },
+  {
+    "name": "गहरा Byzantium",
+    "hex": "#5D3954"
+  },
+  {
+    "name": "गहरा Candy Apple लाल",
+    "hex": "#A40000"
+  },
+  {
+    "name": "गहरा Cerulean",
+    "hex": "#08457E"
+  },
+  {
+    "name": "गहरा Chestnut",
+    "hex": "#986960"
+  },
+  {
+    "name": "गहरा Coral",
+    "hex": "#CD5B45"
+  },
+  {
+    "name": "गहरा सियान",
+    "hex": "#008B8B"
+  },
+  {
+    "name": "गहरा Electric नीला",
+    "hex": "#536878"
+  },
+  {
+    "name": "गहरा Goldenrod",
+    "hex": "#B8860B"
+  },
+  {
+    "name": "गहरा धूसर (X11)",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "गहरा हरा",
+    "hex": "#013220"
+  },
+  {
+    "name": "गहरा हरा (X11)",
+    "hex": "#006400"
+  },
+  {
+    "name": "गहरा Gunmetal",
+    "hex": "#1F262A"
+  },
+  {
+    "name": "गहरा Imperial नीला",
+    "hex": "#00416A"
+  },
+  {
+    "name": "गहरा Imperial नीला",
+    "hex": "#00147E"
+  },
+  {
+    "name": "गहरा Jungle हरा",
+    "hex": "#1A2421"
+  },
+  {
+    "name": "गहरा Khaki",
+    "hex": "#BDB76B"
+  },
+  {
+    "name": "गहरा Lava",
+    "hex": "#483C32"
+  },
+  {
+    "name": "गहरा लैवेंडर",
+    "hex": "#734F96"
+  },
+  {
+    "name": "गहरा Liver",
+    "hex": "#534B4F"
+  },
+  {
+    "name": "गहरा Liver (Horses)",
+    "hex": "#543D37"
+  },
+  {
+    "name": "गहरा मैजेंटा",
+    "hex": "#8B008B"
+  },
+  {
+    "name": "गहरा Medium धूसर",
+    "hex": "#A9A9A9"
+  },
+  {
+    "name": "गहरा Midnight नीला",
+    "hex": "#003366"
+  },
+  {
+    "name": "गहरा Moss हरा",
+    "hex": "#4A5D23"
+  },
+  {
+    "name": "गहरा जैतूनी हरा",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "गहरा नारंगी",
+    "hex": "#FF8C00"
+  },
+  {
+    "name": "गहरा Orchid",
+    "hex": "#9932CC"
+  },
+  {
+    "name": "गहरा Pastel नीला",
+    "hex": "#779ECB"
+  },
+  {
+    "name": "गहरा Pastel हरा",
+    "hex": "#03C03C"
+  },
+  {
+    "name": "गहरा Pastel बैंगनी",
+    "hex": "#966FD6"
+  },
+  {
+    "name": "गहरा Pastel लाल",
+    "hex": "#C23B22"
+  },
+  {
+    "name": "गहरा गुलाबी",
+    "hex": "#E75480"
+  },
+  {
+    "name": "गहरा Powder नीला",
+    "hex": "#003399"
+  },
+  {
+    "name": "गहरा Puce",
+    "hex": "#4F3A3C"
+  },
+  {
+    "name": "गहरा बैंगनी",
+    "hex": "#301934"
+  },
+  {
+    "name": "गहरा Raspberry",
+    "hex": "#872657"
+  },
+  {
+    "name": "गहरा लाल",
+    "hex": "#8B0000"
+  },
+  {
+    "name": "गहरा Salmon",
+    "hex": "#E9967A"
+  },
+  {
+    "name": "गहरा स्कार्लेट",
+    "hex": "#560319"
+  },
+  {
+    "name": "गहरा Sea हरा",
+    "hex": "#8FBC8F"
+  },
+  {
+    "name": "गहरा Sienna",
+    "hex": "#3C1414"
+  },
+  {
+    "name": "गहरा Sky नीला",
+    "hex": "#8CBED6"
+  },
+  {
+    "name": "गहरा Slate नीला",
+    "hex": "#483D8B"
+  },
+  {
+    "name": "गहरा Slate धूसर",
+    "hex": "#2F4F4F"
+  },
+  {
+    "name": "गहरा Spring हरा",
+    "hex": "#177245"
+  },
+  {
+    "name": "गहरा Tan",
+    "hex": "#918151"
+  },
+  {
+    "name": "गहरा Tangerine",
+    "hex": "#FFA812"
+  },
+  {
+    "name": "गहरा Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "गहरा Terra Cotta",
+    "hex": "#CC4E5C"
+  },
+  {
+    "name": "गहरा फ़िरोज़ा",
+    "hex": "#00CED1"
+  },
+  {
+    "name": "गहरा Vanilla",
+    "hex": "#D1BEA8"
+  },
+  {
+    "name": "गहरा बैंगनी",
+    "hex": "#9400D3"
+  },
+  {
+    "name": "गहरा पीला",
+    "hex": "#9B870C"
+  },
+  {
+    "name": "Dartmouth हरा",
+    "hex": "#00703C"
+  },
+  {
+    "name": "Davy's धूसर",
+    "hex": "#555555"
+  },
+  {
+    "name": "Debian लाल",
+    "hex": "#D70A53"
+  },
+  {
+    "name": "गहरा Aquamarine",
+    "hex": "#40826D"
+  },
+  {
+    "name": "गहरा Carmine",
+    "hex": "#A9203E"
+  },
+  {
+    "name": "गहरा Carmine गुलाबी",
+    "hex": "#EF3038"
+  },
+  {
+    "name": "गहरा Carrot नारंगी",
+    "hex": "#E9692C"
+  },
+  {
+    "name": "गहरा Cerise",
+    "hex": "#DA3287"
+  },
+  {
+    "name": "गहरा Champagne",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "गहरा Chestnut",
+    "hex": "#B94E48"
+  },
+  {
+    "name": "गहरा Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "गहरा Fuchsia",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "गहरा हरा",
+    "hex": "#056608"
+  },
+  {
+    "name": "गहरा हरा-सियान फ़िरोज़ा",
+    "hex": "#0E7C61"
+  },
+  {
+    "name": "गहरा Jungle हरा",
+    "hex": "#004B49"
+  },
+  {
+    "name": "गहरा Koamaru",
+    "hex": "#333366"
+  },
+  {
+    "name": "गहरा Lemon",
+    "hex": "#F5C71A"
+  },
+  {
+    "name": "गहरा Lilac",
+    "hex": "#9955BB"
+  },
+  {
+    "name": "गहरा मैजेंटा",
+    "hex": "#CC00CC"
+  },
+  {
+    "name": "गहरा मरून",
+    "hex": "#820000"
+  },
+  {
+    "name": "गहरा Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "गहरा Moss हरा",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "गहरा Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "गहरा गुलाबी",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "गहरा Puce",
+    "hex": "#A95C68"
+  },
+  {
+    "name": "गहरा लाल",
+    "hex": "#850101"
+  },
+  {
+    "name": "गहरा माणिक",
+    "hex": "#843F5B"
+  },
+  {
+    "name": "गहरा Saffron",
+    "hex": "#FF9933"
+  },
+  {
+    "name": "गहरा Sky नीला",
+    "hex": "#00BFFF"
+  },
+  {
+    "name": "गहरा Space Sparkle",
+    "hex": "#4A646C"
+  },
+  {
+    "name": "गहरा Spring Bud",
+    "hex": "#556B2F"
+  },
+  {
+    "name": "गहरा Taupe",
+    "hex": "#7E5E60"
+  },
+  {
+    "name": "गहरा Tuscan लाल",
+    "hex": "#66424D"
+  },
+  {
+    "name": "गहरा बैंगनी",
+    "hex": "#330066"
+  },
+  {
+    "name": "Deer",
+    "hex": "#BA8759"
+  },
+  {
+    "name": "Denim",
+    "hex": "#1560BD"
+  },
+  {
+    "name": "Denim नीला",
+    "hex": "#2243B6"
+  },
+  {
+    "name": "Desaturated सियान",
+    "hex": "#669999"
+  },
+  {
+    "name": "Desert",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Desert Sand",
+    "hex": "#EDC9AF"
+  },
+  {
+    "name": "Desire",
+    "hex": "#EA3C53"
+  },
+  {
+    "name": "Diamond",
+    "hex": "#B9F2FF"
+  },
+  {
+    "name": "Dim धूसर",
+    "hex": "#696969"
+  },
+  {
+    "name": "Dingy Dungeon",
+    "hex": "#C53151"
+  },
+  {
+    "name": "Dirt",
+    "hex": "#9B7653"
+  },
+  {
+    "name": "Dodger नीला",
+    "hex": "#1E90FF"
+  },
+  {
+    "name": "Dodie पीला",
+    "hex": "#FEF65B"
+  },
+  {
+    "name": "Dogwood Rose",
+    "hex": "#D71868"
+  },
+  {
+    "name": "Dollar Bill",
+    "hex": "#85BB65"
+  },
+  {
+    "name": "Dolphin धूसर",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Donkey भूरा",
+    "hex": "#664C28"
+  },
+  {
+    "name": "Drab",
+    "hex": "#967117"
+  },
+  {
+    "name": "Duke नीला",
+    "hex": "#00009C"
+  },
+  {
+    "name": "Dust Storm",
+    "hex": "#E5CCC9"
+  },
+  {
+    "name": "Dutch सफेद",
+    "hex": "#EFDFBB"
+  },
+  {
+    "name": "Earth पीला",
+    "hex": "#E1A95F"
+  },
+  {
+    "name": "Ebony",
+    "hex": "#555D50"
+  },
+  {
+    "name": "Ecru",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Eerie काला",
+    "hex": "#1B1B1B"
+  },
+  {
+    "name": "Eggplant",
+    "hex": "#614051"
+  },
+  {
+    "name": "Eggshell",
+    "hex": "#F0EAD6"
+  },
+  {
+    "name": "Egyptian नीला",
+    "hex": "#1034A6"
+  },
+  {
+    "name": "Electric नीला",
+    "hex": "#7DF9FF"
+  },
+  {
+    "name": "Electric क्रिमसन",
+    "hex": "#FF003F"
+  },
+  {
+    "name": "Electric सियान",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Electric हरा",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Electric इंडिगो",
+    "hex": "#6F00FF"
+  },
+  {
+    "name": "Electric लैवेंडर",
+    "hex": "#F4BBFF"
+  },
+  {
+    "name": "Electric Lime",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Electric बैंगनी",
+    "hex": "#BF00FF"
+  },
+  {
+    "name": "Electric Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Electric बैंगनी",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "Electric पीला",
+    "hex": "#FFFF33"
+  },
+  {
+    "name": "पन्ना",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Eminence",
+    "hex": "#6C3082"
+  },
+  {
+    "name": "English हरा",
+    "hex": "#1B4D3E"
+  },
+  {
+    "name": "English लैवेंडर",
+    "hex": "#B48395"
+  },
+  {
+    "name": "English लाल",
+    "hex": "#AB4B52"
+  },
+  {
+    "name": "English Vermillion",
+    "hex": "#CC474B"
+  },
+  {
+    "name": "English बैंगनी",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Eton नीला",
+    "hex": "#96C8A2"
+  },
+  {
+    "name": "Eucalyptus",
+    "hex": "#44D7A8"
+  },
+  {
+    "name": "Fallow",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Falu लाल",
+    "hex": "#801818"
+  },
+  {
+    "name": "Fandango",
+    "hex": "#B53389"
+  },
+  {
+    "name": "Fandango गुलाबी",
+    "hex": "#DE5285"
+  },
+  {
+    "name": "Fashion Fuchsia",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Fawn",
+    "hex": "#E5AA70"
+  },
+  {
+    "name": "Feldgrau",
+    "hex": "#4D5D53"
+  },
+  {
+    "name": "Feldspar",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "Fern हरा",
+    "hex": "#4F7942"
+  },
+  {
+    "name": "Ferrari लाल",
+    "hex": "#FF2800"
+  },
+  {
+    "name": "Field Drab",
+    "hex": "#6C541E"
+  },
+  {
+    "name": "Fiery Rose",
+    "hex": "#FF5470"
+  },
+  {
+    "name": "Firebrick",
+    "hex": "#B22222"
+  },
+  {
+    "name": "Fire Engine लाल",
+    "hex": "#CE2029"
+  },
+  {
+    "name": "Flame",
+    "hex": "#E25822"
+  },
+  {
+    "name": "Flamingo गुलाबी",
+    "hex": "#FC8EAC"
+  },
+  {
+    "name": "Flattery",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Flavescent",
+    "hex": "#F7E98E"
+  },
+  {
+    "name": "Flax",
+    "hex": "#EEDC82"
+  },
+  {
+    "name": "Flirt",
+    "hex": "#A2006D"
+  },
+  {
+    "name": "Floral सफेद",
+    "hex": "#FFFAF0"
+  },
+  {
+    "name": "Fluorescent नारंगी",
+    "hex": "#FFBF00"
+  },
+  {
+    "name": "Fluorescent गुलाबी",
+    "hex": "#FF1493"
+  },
+  {
+    "name": "Fluorescent पीला",
+    "hex": "#CCFF00"
+  },
+  {
+    "name": "Folly",
+    "hex": "#FF004F"
+  },
+  {
+    "name": "Forest हरा (Traditional)",
+    "hex": "#014421"
+  },
+  {
+    "name": "Forest हरा (Web)",
+    "hex": "#228B22"
+  },
+  {
+    "name": "French Beige",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "French Bistre",
+    "hex": "#856D4D"
+  },
+  {
+    "name": "French नीला",
+    "hex": "#0072BB"
+  },
+  {
+    "name": "French Fuchsia",
+    "hex": "#FD3F92"
+  },
+  {
+    "name": "French Lilac",
+    "hex": "#86608E"
+  },
+  {
+    "name": "French Lime",
+    "hex": "#9EFD38"
+  },
+  {
+    "name": "French Mauve",
+    "hex": "#D473D4"
+  },
+  {
+    "name": "French गुलाबी",
+    "hex": "#FD6C9E"
+  },
+  {
+    "name": "French Plum",
+    "hex": "#811453"
+  },
+  {
+    "name": "French Puce",
+    "hex": "#4E1609"
+  },
+  {
+    "name": "French Raspberry",
+    "hex": "#C72C48"
+  },
+  {
+    "name": "French Rose",
+    "hex": "#F64A8A"
+  },
+  {
+    "name": "French Sky नीला",
+    "hex": "#77B5FE"
+  },
+  {
+    "name": "French बैंगनी",
+    "hex": "#8806CE"
+  },
+  {
+    "name": "French Wine",
+    "hex": "#AC1E44"
+  },
+  {
+    "name": "Fresh Air",
+    "hex": "#A6E7FF"
+  },
+  {
+    "name": "Frogert",
+    "hex": "#E936A7"
+  },
+  {
+    "name": "Fuchsia",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "Fuchsia (Crayola)",
+    "hex": "#C154C1"
+  },
+  {
+    "name": "Fuchsia गुलाबी",
+    "hex": "#FF77FF"
+  },
+  {
+    "name": "Fuchsia बैंगनी",
+    "hex": "#CC397B"
+  },
+  {
+    "name": "Fuchsia Rose",
+    "hex": "#C74375"
+  },
+  {
+    "name": "Fulvous",
+    "hex": "#E48400"
+  },
+  {
+    "name": "Fuzzy Wuzzy",
+    "hex": "#CC6666"
+  },
+  {
+    "name": "Gainsboro",
+    "hex": "#DCDCDC"
+  },
+  {
+    "name": "Gamboge",
+    "hex": "#E49B0F"
+  },
+  {
+    "name": "Gamboge नारंगी (भूरा)",
+    "hex": "#996600"
+  },
+  {
+    "name": "Gargoyle Gas",
+    "hex": "#FFDF46"
+  },
+  {
+    "name": "Generic Viridian",
+    "hex": "#007F66"
+  },
+  {
+    "name": "Ghost सफेद",
+    "hex": "#F8F8FF"
+  },
+  {
+    "name": "Giant's Club",
+    "hex": "#B05C52"
+  },
+  {
+    "name": "Giants नारंगी",
+    "hex": "#FE5A1D"
+  },
+  {
+    "name": "Ginger",
+    "hex": "#B06500"
+  },
+  {
+    "name": "Glaucous",
+    "hex": "#6082B6"
+  },
+  {
+    "name": "Glitter",
+    "hex": "#E6E8FA"
+  },
+  {
+    "name": "Glossy Grape",
+    "hex": "#AB92B3"
+  },
+  {
+    "name": "GO हरा",
+    "hex": "#00AB66"
+  },
+  {
+    "name": "सुनहरा (Metallic)",
+    "hex": "#D4AF37"
+  },
+  {
+    "name": "सुनहरा (Web) (Golden)",
+    "hex": "#FFD700"
+  },
+  {
+    "name": "सुनहरा Fusion",
+    "hex": "#85754E"
+  },
+  {
+    "name": "Golden भूरा",
+    "hex": "#996515"
+  },
+  {
+    "name": "Golden Poppy",
+    "hex": "#FCC200"
+  },
+  {
+    "name": "Golden पीला",
+    "hex": "#FFDF00"
+  },
+  {
+    "name": "Goldenrod",
+    "hex": "#DAA520"
+  },
+  {
+    "name": "Granite धूसर",
+    "hex": "#676767"
+  },
+  {
+    "name": "Granny Smith Apple",
+    "hex": "#A8E4A0"
+  },
+  {
+    "name": "Grape",
+    "hex": "#6F2DA8"
+  },
+  {
+    "name": "धूसर",
+    "hex": "#808080"
+  },
+  {
+    "name": "धूसर (HTML/CSS धूसर)",
+    "hex": "#808080"
+  },
+  {
+    "name": "धूसर (X11 धूसर)",
+    "hex": "#BEBEBE"
+  },
+  {
+    "name": "धूसर-Asparagus",
+    "hex": "#465945"
+  },
+  {
+    "name": "धूसर-नीला",
+    "hex": "#8C92AC"
+  },
+  {
+    "name": "हरा (Color Wheel) (X11 हरा)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "हरा (Crayola)",
+    "hex": "#1CAC78"
+  },
+  {
+    "name": "हरा (HTML/CSS Color)",
+    "hex": "#008000"
+  },
+  {
+    "name": "हरा (Munsell)",
+    "hex": "#00A877"
+  },
+  {
+    "name": "हरा (NCS)",
+    "hex": "#009F6B"
+  },
+  {
+    "name": "हरा (Pantone)",
+    "hex": "#00AD43"
+  },
+  {
+    "name": "हरा (Pigment)",
+    "hex": "#00A550"
+  },
+  {
+    "name": "हरा (RYB)",
+    "hex": "#66B032"
+  },
+  {
+    "name": "हरा-नीला",
+    "hex": "#1164B4"
+  },
+  {
+    "name": "हरा-सियान",
+    "hex": "#009966"
+  },
+  {
+    "name": "हरा Lizard",
+    "hex": "#A7F432"
+  },
+  {
+    "name": "हरा Sheen",
+    "hex": "#6EAEA1"
+  },
+  {
+    "name": "हरा-पीला",
+    "hex": "#ADFF2F"
+  },
+  {
+    "name": "Grizzly",
+    "hex": "#885818"
+  },
+  {
+    "name": "Grullo",
+    "hex": "#A99A86"
+  },
+  {
+    "name": "Guppie हरा",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Gunmetal",
+    "hex": "#2a3439"
+  },
+  {
+    "name": "Halaya Ube",
+    "hex": "#663854"
+  },
+  {
+    "name": "Han नीला",
+    "hex": "#446CCF"
+  },
+  {
+    "name": "Han बैंगनी",
+    "hex": "#5218FA"
+  },
+  {
+    "name": "Hansa पीला",
+    "hex": "#E9D66B"
+  },
+  {
+    "name": "Harlequin",
+    "hex": "#3FFF00"
+  },
+  {
+    "name": "Harlequin हरा",
+    "hex": "#46CB18"
+  },
+  {
+    "name": "Harvard क्रिमसन",
+    "hex": "#C90016"
+  },
+  {
+    "name": "Harvest सुनहरा",
+    "hex": "#DA9100"
+  },
+  {
+    "name": "Heart सुनहरा",
+    "hex": "#808000"
+  },
+  {
+    "name": "Heat Wave",
+    "hex": "#FF7A00"
+  },
+  {
+    "name": "Heidelberg लाल",
+    "hex": "#960018"
+  },
+  {
+    "name": "Heliotrope",
+    "hex": "#DF73FF"
+  },
+  {
+    "name": "Heliotrope धूसर",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Heliotrope मैजेंटा",
+    "hex": "#AA00BB"
+  },
+  {
+    "name": "Hollywood Cerise",
+    "hex": "#F400A1"
+  },
+  {
+    "name": "Honeydew",
+    "hex": "#F0FFF0"
+  },
+  {
+    "name": "Honolulu नीला",
+    "hex": "#006DB0"
+  },
+  {
+    "name": "Hooker's हरा",
+    "hex": "#49796B"
+  },
+  {
+    "name": "Hot मैजेंटा",
+    "hex": "#FF1DCE"
+  },
+  {
+    "name": "Hot गुलाबी",
+    "hex": "#FF69B4"
+  },
+  {
+    "name": "Hunter हरा",
+    "hex": "#355E3B"
+  },
+  {
+    "name": "Iceberg",
+    "hex": "#71A6D2"
+  },
+  {
+    "name": "Icterine",
+    "hex": "#FCF75E"
+  },
+  {
+    "name": "Iguana हरा",
+    "hex": "#71BC78"
+  },
+  {
+    "name": "Illuminating पन्ना",
+    "hex": "#319177"
+  },
+  {
+    "name": "Imperial",
+    "hex": "#602F6B"
+  },
+  {
+    "name": "Imperial नीला",
+    "hex": "#002395"
+  },
+  {
+    "name": "Imperial बैंगनी",
+    "hex": "#66023C"
+  },
+  {
+    "name": "Imperial लाल",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "Inchworm",
+    "hex": "#B2EC5D"
+  },
+  {
+    "name": "Independence",
+    "hex": "#4C516D"
+  },
+  {
+    "name": "India हरा",
+    "hex": "#138808"
+  },
+  {
+    "name": "Indian लाल",
+    "hex": "#CD5C5C"
+  },
+  {
+    "name": "Indian पीला",
+    "hex": "#E3A857"
+  },
+  {
+    "name": "इंडिगो",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "इंडिगो Dye",
+    "hex": "#091F92"
+  },
+  {
+    "name": "इंडिगो (Web)",
+    "hex": "#4B0082"
+  },
+  {
+    "name": "Infra लाल",
+    "hex": "#FF496C"
+  },
+  {
+    "name": "Interdimensional नीला",
+    "hex": "#360CCC"
+  },
+  {
+    "name": "International Klein नीला",
+    "hex": "#002FA7"
+  },
+  {
+    "name": "International नारंगी (Aerospace)",
+    "hex": "#FF4F00"
+  },
+  {
+    "name": "International नारंगी (Engineering)",
+    "hex": "#BA160C"
+  },
+  {
+    "name": "International नारंगी (Golden Gate Bridge)",
+    "hex": "#C0362C"
+  },
+  {
+    "name": "Iris",
+    "hex": "#5A4FCF"
+  },
+  {
+    "name": "Irresistible",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Isabelline",
+    "hex": "#F4F0EC"
+  },
+  {
+    "name": "Islamic हरा",
+    "hex": "#009000"
+  },
+  {
+    "name": "Italian Sky नीला",
+    "hex": "#B2FFFF"
+  },
+  {
+    "name": "Ivory",
+    "hex": "#FFFFF0"
+  },
+  {
+    "name": "Jade",
+    "hex": "#00A86B"
+  },
+  {
+    "name": "Japanese Carmine",
+    "hex": "#9D2933"
+  },
+  {
+    "name": "Japanese इंडिगो",
+    "hex": "#264348"
+  },
+  {
+    "name": "Japanese बैंगनी",
+    "hex": "#5B3256"
+  },
+  {
+    "name": "Jasmine",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Jasper",
+    "hex": "#D73B3E"
+  },
+  {
+    "name": "Jazzberry Jam",
+    "hex": "#A50B5E"
+  },
+  {
+    "name": "Jelly Bean",
+    "hex": "#DA614E"
+  },
+  {
+    "name": "Jet",
+    "hex": "#343434"
+  },
+  {
+    "name": "Jonquil",
+    "hex": "#F4CA16"
+  },
+  {
+    "name": "Jordy नीला",
+    "hex": "#8AB9F1"
+  },
+  {
+    "name": "June Bud",
+    "hex": "#BDDA57"
+  },
+  {
+    "name": "Jungle हरा",
+    "hex": "#29AB87"
+  },
+  {
+    "name": "Kelly हरा",
+    "hex": "#4CBB17"
+  },
+  {
+    "name": "Kenyan तांबा",
+    "hex": "#7C1C05"
+  },
+  {
+    "name": "Keppel",
+    "hex": "#3AB09E"
+  },
+  {
+    "name": "Key Lime",
+    "hex": "#E8F48C"
+  },
+  {
+    "name": "Khaki (HTML/CSS) (Khaki)",
+    "hex": "#C3B091"
+  },
+  {
+    "name": "Khaki (X11) (हल्का Khaki)",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "Kiwi",
+    "hex": "#8EE53F"
+  },
+  {
+    "name": "Kobe",
+    "hex": "#882D17"
+  },
+  {
+    "name": "Kobi",
+    "hex": "#E79FC4"
+  },
+  {
+    "name": "Kobicha",
+    "hex": "#6B4423"
+  },
+  {
+    "name": "Kombu हरा",
+    "hex": "#354230"
+  },
+  {
+    "name": "KSU बैंगनी",
+    "hex": "#512888"
+  },
+  {
+    "name": "KU क्रिमसन",
+    "hex": "#E8000D"
+  },
+  {
+    "name": "La Salle हरा",
+    "hex": "#087830"
+  },
+  {
+    "name": "Languid लैवेंडर",
+    "hex": "#D6CADD"
+  },
+  {
+    "name": "Lapis Lazuli",
+    "hex": "#26619C"
+  },
+  {
+    "name": "Laser Lemon",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "Laurel हरा",
+    "hex": "#A9BA9D"
+  },
+  {
+    "name": "Lava",
+    "hex": "#CF1020"
+  },
+  {
+    "name": "लैवेंडर (Floral)",
+    "hex": "#B57EDC"
+  },
+  {
+    "name": "लैवेंडर (Web)",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "लैवेंडर नीला",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "लैवेंडर Blush",
+    "hex": "#FFF0F5"
+  },
+  {
+    "name": "लैवेंडर धूसर",
+    "hex": "#C4C3D0"
+  },
+  {
+    "name": "लैवेंडर इंडिगो",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "लैवेंडर मैजेंटा",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "लैवेंडर Mist",
+    "hex": "#E6E6FA"
+  },
+  {
+    "name": "लैवेंडर गुलाबी",
+    "hex": "#FBAED2"
+  },
+  {
+    "name": "लैवेंडर बैंगनी",
+    "hex": "#967BB6"
+  },
+  {
+    "name": "लैवेंडर Rose",
+    "hex": "#FBA0E3"
+  },
+  {
+    "name": "Lawn हरा",
+    "hex": "#7CFC00"
+  },
+  {
+    "name": "Lemon",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Lemon Chiffon",
+    "hex": "#FFFACD"
+  },
+  {
+    "name": "Lemon Curry",
+    "hex": "#CCA01D"
+  },
+  {
+    "name": "Lemon Glacier",
+    "hex": "#FDFF00"
+  },
+  {
+    "name": "Lemon Lime",
+    "hex": "#E3FF00"
+  },
+  {
+    "name": "Lemon Meringue",
+    "hex": "#F6EABE"
+  },
+  {
+    "name": "Lemon पीला",
+    "hex": "#FFF44F"
+  },
+  {
+    "name": "Licorice",
+    "hex": "#1A1110"
+  },
+  {
+    "name": "Liberty",
+    "hex": "#545AA7"
+  },
+  {
+    "name": "हल्का Apricot",
+    "hex": "#FDD5B1"
+  },
+  {
+    "name": "हल्का नीला",
+    "hex": "#ADD8E6"
+  },
+  {
+    "name": "हल्का भूरा",
+    "hex": "#B5651D"
+  },
+  {
+    "name": "हल्का Carmine गुलाबी",
+    "hex": "#E66771"
+  },
+  {
+    "name": "हल्का Cobalt नीला",
+    "hex": "#88ACE0"
+  },
+  {
+    "name": "हल्का Coral",
+    "hex": "#F08080"
+  },
+  {
+    "name": "हल्का Cornflower नीला",
+    "hex": "#93CCEA"
+  },
+  {
+    "name": "हल्का क्रिमसन",
+    "hex": "#F56991"
+  },
+  {
+    "name": "हल्का सियान",
+    "hex": "#E0FFFF"
+  },
+  {
+    "name": "हल्का गहरा गुलाबी",
+    "hex": "#FF5CCD"
+  },
+  {
+    "name": "हल्का French Beige",
+    "hex": "#C8AD7F"
+  },
+  {
+    "name": "हल्का Fuchsia गुलाबी",
+    "hex": "#F984EF"
+  },
+  {
+    "name": "हल्का Goldenrod पीला",
+    "hex": "#FAFAD2"
+  },
+  {
+    "name": "हल्का धूसर",
+    "hex": "#D3D3D3"
+  },
+  {
+    "name": "हल्का Grayish मैजेंटा",
+    "hex": "#CC99CC"
+  },
+  {
+    "name": "हल्का हरा",
+    "hex": "#90EE90"
+  },
+  {
+    "name": "हल्का Hot गुलाबी",
+    "hex": "#FFB3DE"
+  },
+  {
+    "name": "हल्का Khaki",
+    "hex": "#F0E68C"
+  },
+  {
+    "name": "हल्का Medium Orchid",
+    "hex": "#D39BCB"
+  },
+  {
+    "name": "हल्का Moss हरा",
+    "hex": "#ADDFAD"
+  },
+  {
+    "name": "हल्का नारंगी",
+    "hex": "#FED8B1"
+  },
+  {
+    "name": "हल्का Orchid",
+    "hex": "#E6A8D7"
+  },
+  {
+    "name": "हल्का Pastel बैंगनी",
+    "hex": "#B19CD9"
+  },
+  {
+    "name": "हल्का गुलाबी",
+    "hex": "#FFB6C1"
+  },
+  {
+    "name": "हल्का लाल Ochre",
+    "hex": "#E97451"
+  },
+  {
+    "name": "हल्का Salmon",
+    "hex": "#FFA07A"
+  },
+  {
+    "name": "हल्का Salmon गुलाबी",
+    "hex": "#FF9999"
+  },
+  {
+    "name": "हल्का Sea हरा",
+    "hex": "#20B2AA"
+  },
+  {
+    "name": "हल्का Sky नीला",
+    "hex": "#87CEFA"
+  },
+  {
+    "name": "हल्का Slate धूसर",
+    "hex": "#778899"
+  },
+  {
+    "name": "हल्का Steel नीला",
+    "hex": "#B0C4DE"
+  },
+  {
+    "name": "हल्का Taupe",
+    "hex": "#B38B6D"
+  },
+  {
+    "name": "हल्का Thulian गुलाबी",
+    "hex": "#E68FAC"
+  },
+  {
+    "name": "हल्का पीला",
+    "hex": "#FFFFE0"
+  },
+  {
+    "name": "Lilac",
+    "hex": "#C8A2C8"
+  },
+  {
+    "name": "Lilac Luster",
+    "hex": "#AE98AA"
+  },
+  {
+    "name": "Lime (Color Wheel)",
+    "hex": "#BFFF00"
+  },
+  {
+    "name": "Lime (Web) (X11 हरा)",
+    "hex": "#00FF00"
+  },
+  {
+    "name": "Lime हरा",
+    "hex": "#32CD32"
+  },
+  {
+    "name": "Limerick",
+    "hex": "#9DC209"
+  },
+  {
+    "name": "Lincoln हरा",
+    "hex": "#195905"
+  },
+  {
+    "name": "Linen",
+    "hex": "#FAF0E6"
+  },
+  {
+    "name": "Loeen (Lopen) Look",
+    "hex": "#15F2FD"
+  },
+  {
+    "name": "Liseran बैंगनी",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Little Boy नीला",
+    "hex": "#6CA0DC"
+  },
+  {
+    "name": "Liver",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Liver (Dogs)",
+    "hex": "#B86D29"
+  },
+  {
+    "name": "Liver (Organ)",
+    "hex": "#6C2E1F"
+  },
+  {
+    "name": "Liver Chestnut",
+    "hex": "#987456"
+  },
+  {
+    "name": "Livid",
+    "hex": "#6699CC"
+  },
+  {
+    "name": "Lumber",
+    "hex": "#FFE4CD"
+  },
+  {
+    "name": "Lust",
+    "hex": "#E62020"
+  },
+  {
+    "name": "Maastricht नीला",
+    "hex": "#001C3D"
+  },
+  {
+    "name": "Macaroni And Cheese",
+    "hex": "#FFBD88"
+  },
+  {
+    "name": "Madder Lake",
+    "hex": "#CC3336"
+  },
+  {
+    "name": "मैजेंटा",
+    "hex": "#FF00FF"
+  },
+  {
+    "name": "मैजेंटा (Crayola)",
+    "hex": "#FF55A3"
+  },
+  {
+    "name": "मैजेंटा (Dye)",
+    "hex": "#CA1F7B"
+  },
+  {
+    "name": "मैजेंटा (Pantone)",
+    "hex": "#D0417E"
+  },
+  {
+    "name": "मैजेंटा (Process)",
+    "hex": "#FF0090"
+  },
+  {
+    "name": "मैजेंटा Haze",
+    "hex": "#9F4576"
+  },
+  {
+    "name": "मैजेंटा-गुलाबी",
+    "hex": "#CC338B"
+  },
+  {
+    "name": "Magic Mint",
+    "hex": "#AAF0D1"
+  },
+  {
+    "name": "Magic Potion",
+    "hex": "#FF4466"
+  },
+  {
+    "name": "Magnolia",
+    "hex": "#F8F4FF"
+  },
+  {
+    "name": "Mahogany",
+    "hex": "#C04000"
+  },
+  {
+    "name": "Maize",
+    "hex": "#FBEC5D"
+  },
+  {
+    "name": "Majorelle नीला",
+    "hex": "#6050DC"
+  },
+  {
+    "name": "Malachite",
+    "hex": "#0BDA51"
+  },
+  {
+    "name": "Manatee",
+    "hex": "#979AAA"
+  },
+  {
+    "name": "Mandarin",
+    "hex": "#F37A48"
+  },
+  {
+    "name": "Mango Tango",
+    "hex": "#FF8243"
+  },
+  {
+    "name": "Mantis",
+    "hex": "#74C365"
+  },
+  {
+    "name": "Mardi Gras",
+    "hex": "#880085"
+  },
+  {
+    "name": "Marigold",
+    "hex": "#EAA221"
+  },
+  {
+    "name": "मरून (Crayola)",
+    "hex": "#C32148"
+  },
+  {
+    "name": "मरून (HTML/CSS)",
+    "hex": "#800000"
+  },
+  {
+    "name": "मरून (X11)",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Mauve",
+    "hex": "#E0B0FF"
+  },
+  {
+    "name": "Mauve Taupe",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Mauvelous",
+    "hex": "#EF98AA"
+  },
+  {
+    "name": "Maximum नीला",
+    "hex": "#47ABCC"
+  },
+  {
+    "name": "Maximum नीला हरा",
+    "hex": "#30BFBF"
+  },
+  {
+    "name": "Maximum नीला बैंगनी",
+    "hex": "#ACACE6"
+  },
+  {
+    "name": "Maximum हरा",
+    "hex": "#5E8C31"
+  },
+  {
+    "name": "Maximum हरा पीला",
+    "hex": "#D9E650"
+  },
+  {
+    "name": "Maximum बैंगनी",
+    "hex": "#733380"
+  },
+  {
+    "name": "Maximum लाल",
+    "hex": "#D92121"
+  },
+  {
+    "name": "Maximum लाल बैंगनी",
+    "hex": "#A63A79"
+  },
+  {
+    "name": "Maximum पीला",
+    "hex": "#FAFA37"
+  },
+  {
+    "name": "Maximum पीला लाल",
+    "hex": "#F2BA49"
+  },
+  {
+    "name": "May हरा",
+    "hex": "#4C9141"
+  },
+  {
+    "name": "Maya नीला",
+    "hex": "#73C2FB"
+  },
+  {
+    "name": "Meat भूरा",
+    "hex": "#E5B73B"
+  },
+  {
+    "name": "Medium Aquamarine",
+    "hex": "#66DDAA"
+  },
+  {
+    "name": "Medium नीला",
+    "hex": "#0000CD"
+  },
+  {
+    "name": "Medium Candy Apple लाल",
+    "hex": "#E2062C"
+  },
+  {
+    "name": "Medium Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "Medium Champagne",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Medium Electric नीला",
+    "hex": "#035096"
+  },
+  {
+    "name": "Medium Jungle हरा",
+    "hex": "#1C352D"
+  },
+  {
+    "name": "Medium लैवेंडर मैजेंटा",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Medium Orchid",
+    "hex": "#BA55D3"
+  },
+  {
+    "name": "Medium Persian नीला",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Medium बैंगनी",
+    "hex": "#9370DB"
+  },
+  {
+    "name": "Medium लाल-बैंगनी",
+    "hex": "#BB3385"
+  },
+  {
+    "name": "Medium माणिक",
+    "hex": "#AA4069"
+  },
+  {
+    "name": "Medium Sea हरा",
+    "hex": "#3CB371"
+  },
+  {
+    "name": "Medium Sky नीला",
+    "hex": "#80DAEB"
+  },
+  {
+    "name": "Medium Slate नीला",
+    "hex": "#7B68EE"
+  },
+  {
+    "name": "Medium Spring Bud",
+    "hex": "#C9DC87"
+  },
+  {
+    "name": "Medium Spring हरा",
+    "hex": "#00FA9A"
+  },
+  {
+    "name": "Medium Taupe",
+    "hex": "#674C47"
+  },
+  {
+    "name": "Medium फ़िरोज़ा",
+    "hex": "#48D1CC"
+  },
+  {
+    "name": "Medium Tuscan लाल",
+    "hex": "#79443B"
+  },
+  {
+    "name": "Medium Vermilion",
+    "hex": "#D9603B"
+  },
+  {
+    "name": "Medium बैंगनी-लाल",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Mellow Apricot",
+    "hex": "#F8B878"
+  },
+  {
+    "name": "Mellow पीला",
+    "hex": "#F8DE7E"
+  },
+  {
+    "name": "Melon",
+    "hex": "#FDBCB4"
+  },
+  {
+    "name": "Metallic Seaweed",
+    "hex": "#0A7E8C"
+  },
+  {
+    "name": "Metallic Sunburst",
+    "hex": "#9C7C38"
+  },
+  {
+    "name": "Mexican गुलाबी",
+    "hex": "#E4007C"
+  },
+  {
+    "name": "Middle नीला",
+    "hex": "#7ED4E6"
+  },
+  {
+    "name": "Middle नीला हरा",
+    "hex": "#8DD9CC"
+  },
+  {
+    "name": "Middle नीला बैंगनी",
+    "hex": "#8B72BE"
+  },
+  {
+    "name": "Middle लाल बैंगनी",
+    "hex": "#210837"
+  },
+  {
+    "name": "Middle हरा",
+    "hex": "#4D8C57"
+  },
+  {
+    "name": "Middle हरा पीला",
+    "hex": "#ACBF60"
+  },
+  {
+    "name": "Middle बैंगनी",
+    "hex": "#D982B5"
+  },
+  {
+    "name": "Middle लाल",
+    "hex": "#E58E73"
+  },
+  {
+    "name": "Middle लाल बैंगनी",
+    "hex": "#A55353"
+  },
+  {
+    "name": "Middle पीला",
+    "hex": "#FFEB00"
+  },
+  {
+    "name": "Middle पीला लाल",
+    "hex": "#ECB176"
+  },
+  {
+    "name": "Midnight",
+    "hex": "#702670"
+  },
+  {
+    "name": "Midnight नीला",
+    "hex": "#191970"
+  },
+  {
+    "name": "Midnight हरा (Eagle हरा)",
+    "hex": "#004953"
+  },
+  {
+    "name": "Mikado पीला",
+    "hex": "#FFC40C"
+  },
+  {
+    "name": "Milk",
+    "hex": "#FDFFF5"
+  },
+  {
+    "name": "Mimi गुलाबी",
+    "hex": "#FFDAE9"
+  },
+  {
+    "name": "Mindaro",
+    "hex": "#E3F988"
+  },
+  {
+    "name": "Ming",
+    "hex": "#36747D"
+  },
+  {
+    "name": "Minion पीला",
+    "hex": "#F5E050"
+  },
+  {
+    "name": "Mint",
+    "hex": "#3EB489"
+  },
+  {
+    "name": "Mint Cream",
+    "hex": "#F5FFFA"
+  },
+  {
+    "name": "Mint हरा",
+    "hex": "#98FF98"
+  },
+  {
+    "name": "Misty Moss",
+    "hex": "#BBB477"
+  },
+  {
+    "name": "Misty Rose",
+    "hex": "#FFE4E1"
+  },
+  {
+    "name": "Moccasin",
+    "hex": "#FAEBD7"
+  },
+  {
+    "name": "Mode Beige",
+    "hex": "#967117"
+  },
+  {
+    "name": "Moonstone नीला",
+    "hex": "#73A9C2"
+  },
+  {
+    "name": "Mordant लाल 19",
+    "hex": "#AE0C00"
+  },
+  {
+    "name": "Morning नीला",
+    "hex": "#8DA399"
+  },
+  {
+    "name": "Moss हरा",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Mountain Meadow",
+    "hex": "#30BA8F"
+  },
+  {
+    "name": "Mountbatten गुलाबी",
+    "hex": "#997A8D"
+  },
+  {
+    "name": "MSU हरा",
+    "hex": "#18453B"
+  },
+  {
+    "name": "Mughal हरा",
+    "hex": "#306030"
+  },
+  {
+    "name": "Mulberry",
+    "hex": "#C54B8C"
+  },
+  {
+    "name": "Mummy's Tomb",
+    "hex": "#828E84"
+  },
+  {
+    "name": "Mustard",
+    "hex": "#FFDB58"
+  },
+  {
+    "name": "Myrtle हरा",
+    "hex": "#317873"
+  },
+  {
+    "name": "Mystic",
+    "hex": "#D65282"
+  },
+  {
+    "name": "Mystic मरून",
+    "hex": "#AD4379"
+  },
+  {
+    "name": "Nadeshiko गुलाबी",
+    "hex": "#F6ADC6"
+  },
+  {
+    "name": "Napier हरा",
+    "hex": "#2A8000"
+  },
+  {
+    "name": "Naples पीला",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Navajo सफेद",
+    "hex": "#FFDEAD"
+  },
+  {
+    "name": "Navy",
+    "hex": "#000080"
+  },
+  {
+    "name": "Navy बैंगनी",
+    "hex": "#9457EB"
+  },
+  {
+    "name": "Neon Carrot",
+    "hex": "#FFA343"
+  },
+  {
+    "name": "Neon Fuchsia",
+    "hex": "#FE4164"
+  },
+  {
+    "name": "Neon हरा",
+    "hex": "#39FF14"
+  },
+  {
+    "name": "New Car",
+    "hex": "#214FC6"
+  },
+  {
+    "name": "New York गुलाबी",
+    "hex": "#D7837F"
+  },
+  {
+    "name": "Nickel",
+    "hex": "#727472"
+  },
+  {
+    "name": "Non-Photo नीला",
+    "hex": "#A4DDED"
+  },
+  {
+    "name": "North Texas हरा",
+    "hex": "#059033"
+  },
+  {
+    "name": "Nyanza",
+    "hex": "#E9FFDB"
+  },
+  {
+    "name": "Ocean नीला",
+    "hex": "#4F42B5"
+  },
+  {
+    "name": "Ocean Boat नीला",
+    "hex": "#0077BE"
+  },
+  {
+    "name": "Ocean हरा",
+    "hex": "#48BF91"
+  },
+  {
+    "name": "Ochre",
+    "hex": "#CC7722"
+  },
+  {
+    "name": "Office हरा",
+    "hex": "#008000"
+  },
+  {
+    "name": "Ogre Odor",
+    "hex": "#FD5240"
+  },
+  {
+    "name": "Old Burgundy",
+    "hex": "#43302E"
+  },
+  {
+    "name": "Old सुनहरा",
+    "hex": "#CFB53B"
+  },
+  {
+    "name": "Old Heliotrope",
+    "hex": "#563C5C"
+  },
+  {
+    "name": "Old Lace",
+    "hex": "#FDF5E6"
+  },
+  {
+    "name": "Old लैवेंडर",
+    "hex": "#796878"
+  },
+  {
+    "name": "Old Mauve",
+    "hex": "#673147"
+  },
+  {
+    "name": "Old Moss हरा",
+    "hex": "#867E36"
+  },
+  {
+    "name": "Old Rose",
+    "hex": "#C08081"
+  },
+  {
+    "name": "Old चांदी",
+    "hex": "#848482"
+  },
+  {
+    "name": "जैतूनी",
+    "hex": "#808000"
+  },
+  {
+    "name": "जैतूनी Drab (#3)",
+    "hex": "#6B8E23"
+  },
+  {
+    "name": "जैतूनी Drab #7",
+    "hex": "#3C341F"
+  },
+  {
+    "name": "Olivine",
+    "hex": "#9AB973"
+  },
+  {
+    "name": "Onyx",
+    "hex": "#353839"
+  },
+  {
+    "name": "Opera Mauve",
+    "hex": "#B784A7"
+  },
+  {
+    "name": "नारंगी (Color Wheel)",
+    "hex": "#FF7F00"
+  },
+  {
+    "name": "नारंगी (Crayola)",
+    "hex": "#FF7538"
+  },
+  {
+    "name": "नारंगी (Pantone)",
+    "hex": "#FF5800"
+  },
+  {
+    "name": "नारंगी (RYB)",
+    "hex": "#FB9902"
+  },
+  {
+    "name": "नारंगी (Web)",
+    "hex": "#FFA500"
+  },
+  {
+    "name": "नारंगी Peel",
+    "hex": "#FF9F00"
+  },
+  {
+    "name": "नारंगी-लाल",
+    "hex": "#FF4500"
+  },
+  {
+    "name": "नारंगी Soda",
+    "hex": "#FA5B3D"
+  },
+  {
+    "name": "नारंगी-पीला",
+    "hex": "#F8D568"
+  },
+  {
+    "name": "Orchid",
+    "hex": "#DA70D6"
+  },
+  {
+    "name": "Orchid गुलाबी",
+    "hex": "#F2BDCD"
+  },
+  {
+    "name": "Orioles नारंगी",
+    "hex": "#FB4F14"
+  },
+  {
+    "name": "Otter भूरा",
+    "hex": "#654321"
+  },
+  {
+    "name": "Outer Space",
+    "hex": "#414A4C"
+  },
+  {
+    "name": "Outrageous नारंगी",
+    "hex": "#FF6E4A"
+  },
+  {
+    "name": "Oxford नीला",
+    "hex": "#002147"
+  },
+  {
+    "name": "OU क्रिमसन लाल",
+    "hex": "#990000"
+  },
+  {
+    "name": "Pacific नीला",
+    "hex": "#1CA9C9"
+  },
+  {
+    "name": "Pakistan हरा",
+    "hex": "#006600"
+  },
+  {
+    "name": "Palatinate नीला",
+    "hex": "#273BE2"
+  },
+  {
+    "name": "Palatinate बैंगनी",
+    "hex": "#682860"
+  },
+  {
+    "name": "फीका Aqua",
+    "hex": "#BCD4E6"
+  },
+  {
+    "name": "फीका नीला",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "फीका भूरा",
+    "hex": "#987654"
+  },
+  {
+    "name": "फीका Carmine",
+    "hex": "#AF4035"
+  },
+  {
+    "name": "फीका Cerulean",
+    "hex": "#9BC4E2"
+  },
+  {
+    "name": "फीका Chestnut",
+    "hex": "#DDADAF"
+  },
+  {
+    "name": "फीका तांबा",
+    "hex": "#DA8A67"
+  },
+  {
+    "name": "फीका Cornflower नीला",
+    "hex": "#ABCDEF"
+  },
+  {
+    "name": "फीका सियान",
+    "hex": "#87D3F8"
+  },
+  {
+    "name": "फीका सुनहरा",
+    "hex": "#E6BE8A"
+  },
+  {
+    "name": "फीका Goldenrod",
+    "hex": "#EEE8AA"
+  },
+  {
+    "name": "फीका हरा",
+    "hex": "#98FB98"
+  },
+  {
+    "name": "फीका लैवेंडर",
+    "hex": "#DCD0FF"
+  },
+  {
+    "name": "फीका मैजेंटा",
+    "hex": "#F984E5"
+  },
+  {
+    "name": "फीका मैजेंटा-गुलाबी",
+    "hex": "#FF99CC"
+  },
+  {
+    "name": "फीका गुलाबी",
+    "hex": "#FADADD"
+  },
+  {
+    "name": "फीका Plum",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "फीका लाल-बैंगनी",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "फीका Robin Egg नीला",
+    "hex": "#96DED1"
+  },
+  {
+    "name": "फीका चांदी",
+    "hex": "#C9C0BB"
+  },
+  {
+    "name": "फीका Spring Bud",
+    "hex": "#ECEBBD"
+  },
+  {
+    "name": "फीका Taupe",
+    "hex": "#BC987E"
+  },
+  {
+    "name": "फीका फ़िरोज़ा",
+    "hex": "#AFEEEE"
+  },
+  {
+    "name": "फीका बैंगनी",
+    "hex": "#CC99FF"
+  },
+  {
+    "name": "फीका बैंगनी-लाल",
+    "hex": "#DB7093"
+  },
+  {
+    "name": "Palm Leaf",
+    "hex": "#6F9940"
+  },
+  {
+    "name": "Pansy बैंगनी",
+    "hex": "#78184A"
+  },
+  {
+    "name": "Paolo Veronese हरा",
+    "hex": "#009B7D"
+  },
+  {
+    "name": "Papaya Whip",
+    "hex": "#FFEFD5"
+  },
+  {
+    "name": "Paradise गुलाबी",
+    "hex": "#E63E62"
+  },
+  {
+    "name": "Paris हरा",
+    "hex": "#50C878"
+  },
+  {
+    "name": "Parrot गुलाबी",
+    "hex": "#D998A0"
+  },
+  {
+    "name": "Pastel नीला",
+    "hex": "#AEC6CF"
+  },
+  {
+    "name": "Pastel भूरा",
+    "hex": "#836953"
+  },
+  {
+    "name": "Pastel धूसर",
+    "hex": "#CFCFC4"
+  },
+  {
+    "name": "Pastel हरा",
+    "hex": "#77DD77"
+  },
+  {
+    "name": "Pastel मैजेंटा",
+    "hex": "#F49AC2"
+  },
+  {
+    "name": "Pastel नारंगी",
+    "hex": "#FFB347"
+  },
+  {
+    "name": "Pastel गुलाबी",
+    "hex": "#DEA5A4"
+  },
+  {
+    "name": "Pastel बैंगनी",
+    "hex": "#B39EB5"
+  },
+  {
+    "name": "Pastel लाल",
+    "hex": "#FF6961"
+  },
+  {
+    "name": "Pastel बैंगनी",
+    "hex": "#CB99C9"
+  },
+  {
+    "name": "Pastel पीला",
+    "hex": "#FDFD96"
+  },
+  {
+    "name": "Patriarch",
+    "hex": "#800080"
+  },
+  {
+    "name": "Payne's धूसर",
+    "hex": "#536878"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFE5B4"
+  },
+  {
+    "name": "Peach",
+    "hex": "#FFCBA4"
+  },
+  {
+    "name": "Peach-नारंगी",
+    "hex": "#FFCC99"
+  },
+  {
+    "name": "Peach Puff",
+    "hex": "#FFDAB9"
+  },
+  {
+    "name": "Peach-पीला",
+    "hex": "#FADFAD"
+  },
+  {
+    "name": "Pear",
+    "hex": "#D1E231"
+  },
+  {
+    "name": "Pearl",
+    "hex": "#EAE0C8"
+  },
+  {
+    "name": "Pearl Aqua",
+    "hex": "#88D8C0"
+  },
+  {
+    "name": "Pearly बैंगनी",
+    "hex": "#B768A2"
+  },
+  {
+    "name": "Peridot",
+    "hex": "#E6E200"
+  },
+  {
+    "name": "Periwinkle",
+    "hex": "#CCCCFF"
+  },
+  {
+    "name": "Permanent Geranium Lake",
+    "hex": "#E12C2C"
+  },
+  {
+    "name": "Persian नीला",
+    "hex": "#1C39BB"
+  },
+  {
+    "name": "Persian हरा",
+    "hex": "#00A693"
+  },
+  {
+    "name": "Persian इंडिगो",
+    "hex": "#32127A"
+  },
+  {
+    "name": "Persian नारंगी",
+    "hex": "#D99058"
+  },
+  {
+    "name": "Persian गुलाबी",
+    "hex": "#F77FBE"
+  },
+  {
+    "name": "Persian Plum",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Persian लाल",
+    "hex": "#CC3333"
+  },
+  {
+    "name": "Persian Rose",
+    "hex": "#FE28A2"
+  },
+  {
+    "name": "Persimmon",
+    "hex": "#EC5800"
+  },
+  {
+    "name": "Peru",
+    "hex": "#CD853F"
+  },
+  {
+    "name": "Pewter नीला",
+    "hex": "#8BA8B7"
+  },
+  {
+    "name": "Phlox",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Phthalo नीला",
+    "hex": "#000F89"
+  },
+  {
+    "name": "Phthalo हरा",
+    "hex": "#123524"
+  },
+  {
+    "name": "Picton नीला",
+    "hex": "#45B1E8"
+  },
+  {
+    "name": "Pictorial Carmine",
+    "hex": "#C30B4E"
+  },
+  {
+    "name": "Piggy गुलाबी",
+    "hex": "#FDDDE6"
+  },
+  {
+    "name": "Pine हरा",
+    "hex": "#01796F"
+  },
+  {
+    "name": "Pineapple",
+    "hex": "#563C0D"
+  },
+  {
+    "name": "गुलाबी",
+    "hex": "#FFC0CB"
+  },
+  {
+    "name": "गुलाबी (Pantone)",
+    "hex": "#D74894"
+  },
+  {
+    "name": "गुलाबी Flamingo",
+    "hex": "#FC74FD"
+  },
+  {
+    "name": "गुलाबी Lace",
+    "hex": "#FFDDF4"
+  },
+  {
+    "name": "गुलाबी लैवेंडर",
+    "hex": "#D8B2D1"
+  },
+  {
+    "name": "गुलाबी-नारंगी",
+    "hex": "#FF9966"
+  },
+  {
+    "name": "गुलाबी Pearl",
+    "hex": "#E7ACCF"
+  },
+  {
+    "name": "गुलाबी Raspberry",
+    "hex": "#980036"
+  },
+  {
+    "name": "गुलाबी Sherbet",
+    "hex": "#F78FA7"
+  },
+  {
+    "name": "Pistachio",
+    "hex": "#93C572"
+  },
+  {
+    "name": "Pixie Powder",
+    "hex": "#391285"
+  },
+  {
+    "name": "Platinum",
+    "hex": "#E5E4E2"
+  },
+  {
+    "name": "Plum",
+    "hex": "#8E4585"
+  },
+  {
+    "name": "Plum (Web)",
+    "hex": "#DDA0DD"
+  },
+  {
+    "name": "Plump बैंगनी",
+    "hex": "#5946B2"
+  },
+  {
+    "name": "Polished Pine",
+    "hex": "#5DA493"
+  },
+  {
+    "name": "Pomp And Power",
+    "hex": "#86608E"
+  },
+  {
+    "name": "Popstar",
+    "hex": "#BE4F62"
+  },
+  {
+    "name": "Portland नारंगी",
+    "hex": "#FF5A36"
+  },
+  {
+    "name": "Powder नीला",
+    "hex": "#B0E0E6"
+  },
+  {
+    "name": "Princess Perfume",
+    "hex": "#FF85CF"
+  },
+  {
+    "name": "Princeton नारंगी",
+    "hex": "#F58025"
+  },
+  {
+    "name": "Prune",
+    "hex": "#701C1C"
+  },
+  {
+    "name": "Prussian नीला",
+    "hex": "#003153"
+  },
+  {
+    "name": "Psychedelic बैंगनी",
+    "hex": "#DF00FF"
+  },
+  {
+    "name": "Puce",
+    "hex": "#CC8899"
+  },
+  {
+    "name": "Puce लाल",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Pullman भूरा (UPS भूरा)",
+    "hex": "#644117"
+  },
+  {
+    "name": "Pullman हरा",
+    "hex": "#3B331C"
+  },
+  {
+    "name": "Pumpkin",
+    "hex": "#FF7518"
+  },
+  {
+    "name": "बैंगनी (HTML)",
+    "hex": "#800080"
+  },
+  {
+    "name": "बैंगनी (Munsell)",
+    "hex": "#9F00C5"
+  },
+  {
+    "name": "बैंगनी (X11)",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "बैंगनी Heart",
+    "hex": "#69359C"
+  },
+  {
+    "name": "बैंगनी Mountain Majesty",
+    "hex": "#9678B6"
+  },
+  {
+    "name": "बैंगनी Navy",
+    "hex": "#4E5180"
+  },
+  {
+    "name": "बैंगनी Pizzazz",
+    "hex": "#FE4EDA"
+  },
+  {
+    "name": "बैंगनी Plum",
+    "hex": "#9C51B6"
+  },
+  {
+    "name": "बैंगनी Taupe",
+    "hex": "#50404D"
+  },
+  {
+    "name": "Purpureus",
+    "hex": "#9A4EAE"
+  },
+  {
+    "name": "Quartz",
+    "hex": "#51484F"
+  },
+  {
+    "name": "Queen नीला",
+    "hex": "#436B95"
+  },
+  {
+    "name": "Queen गुलाबी",
+    "hex": "#E8CCD7"
+  },
+  {
+    "name": "Quick चांदी",
+    "hex": "#A6A6A6"
+  },
+  {
+    "name": "Quinacridone मैजेंटा",
+    "hex": "#8E3A59"
+  },
+  {
+    "name": "Rackley",
+    "hex": "#5D8AA8"
+  },
+  {
+    "name": "Radical लाल",
+    "hex": "#FF355E"
+  },
+  {
+    "name": "Raisin काला",
+    "hex": "#242124"
+  },
+  {
+    "name": "Rajah",
+    "hex": "#FBAB60"
+  },
+  {
+    "name": "Raspberry",
+    "hex": "#E30B5D"
+  },
+  {
+    "name": "Raspberry Glace",
+    "hex": "#915F6D"
+  },
+  {
+    "name": "Raspberry गुलाबी",
+    "hex": "#E25098"
+  },
+  {
+    "name": "Raspberry Rose",
+    "hex": "#B3446C"
+  },
+  {
+    "name": "Raw Sienna",
+    "hex": "#D68A59"
+  },
+  {
+    "name": "Raw Umber",
+    "hex": "#826644"
+  },
+  {
+    "name": "Razzle Dazzle Rose",
+    "hex": "#FF33CC"
+  },
+  {
+    "name": "Razzmatazz",
+    "hex": "#E3256B"
+  },
+  {
+    "name": "Razzmic Berry",
+    "hex": "#8D4E85"
+  },
+  {
+    "name": "Rebecca बैंगनी",
+    "hex": "#663399"
+  },
+  {
+    "name": "लाल",
+    "hex": "#FF0000"
+  },
+  {
+    "name": "लाल (Crayola)",
+    "hex": "#EE204D"
+  },
+  {
+    "name": "लाल (Munsell)",
+    "hex": "#F2003C"
+  },
+  {
+    "name": "लाल (NCS)",
+    "hex": "#C40233"
+  },
+  {
+    "name": "लाल (Pantone)",
+    "hex": "#ED2939"
+  },
+  {
+    "name": "लाल (Pigment)",
+    "hex": "#ED1C24"
+  },
+  {
+    "name": "लाल (RYB)",
+    "hex": "#FE2712"
+  },
+  {
+    "name": "लाल-भूरा",
+    "hex": "#A52A2A"
+  },
+  {
+    "name": "लाल Devil",
+    "hex": "#860111"
+  },
+  {
+    "name": "लाल-नारंगी",
+    "hex": "#FF5349"
+  },
+  {
+    "name": "लाल-बैंगनी",
+    "hex": "#E40078"
+  },
+  {
+    "name": "लाल Salsa",
+    "hex": "#FD3A4A"
+  },
+  {
+    "name": "लाल-बैंगनी",
+    "hex": "#C71585"
+  },
+  {
+    "name": "Redwood",
+    "hex": "#A45A52"
+  },
+  {
+    "name": "Regalia",
+    "hex": "#522D80"
+  },
+  {
+    "name": "Registration काला",
+    "hex": "#000000"
+  },
+  {
+    "name": "Resolution नीला",
+    "hex": "#002387"
+  },
+  {
+    "name": "Rhythm",
+    "hex": "#777696"
+  },
+  {
+    "name": "समृद्ध काला",
+    "hex": "#004040"
+  },
+  {
+    "name": "समृद्ध काला (FOGRA29)",
+    "hex": "#010B13"
+  },
+  {
+    "name": "समृद्ध काला (FOGRA39)",
+    "hex": "#010203"
+  },
+  {
+    "name": "समृद्ध Brilliant लैवेंडर",
+    "hex": "#F1A7FE"
+  },
+  {
+    "name": "समृद्ध Carmine",
+    "hex": "#D70040"
+  },
+  {
+    "name": "समृद्ध Electric नीला",
+    "hex": "#0892D0"
+  },
+  {
+    "name": "समृद्ध लैवेंडर",
+    "hex": "#A76BCF"
+  },
+  {
+    "name": "समृद्ध Lilac",
+    "hex": "#B666D2"
+  },
+  {
+    "name": "समृद्ध मरून",
+    "hex": "#B03060"
+  },
+  {
+    "name": "Rifle हरा",
+    "hex": "#444C38"
+  },
+  {
+    "name": "Roast Coffee",
+    "hex": "#704241"
+  },
+  {
+    "name": "Robin Egg नीला",
+    "hex": "#00CCCC"
+  },
+  {
+    "name": "Rocket Metallic",
+    "hex": "#8A7F80"
+  },
+  {
+    "name": "Roman चांदी",
+    "hex": "#838996"
+  },
+  {
+    "name": "Rose",
+    "hex": "#FF007F"
+  },
+  {
+    "name": "Rose Bonbon",
+    "hex": "#F9429E"
+  },
+  {
+    "name": "Rose Dust",
+    "hex": "#9E5E6F"
+  },
+  {
+    "name": "Rose Ebony",
+    "hex": "#674846"
+  },
+  {
+    "name": "Rose सुनहरा",
+    "hex": "#B76E79"
+  },
+  {
+    "name": "Rose Madder",
+    "hex": "#E32636"
+  },
+  {
+    "name": "Rose गुलाबी",
+    "hex": "#FF66CC"
+  },
+  {
+    "name": "Rose Quartz",
+    "hex": "#AA98A9"
+  },
+  {
+    "name": "Rose लाल",
+    "hex": "#C21E56"
+  },
+  {
+    "name": "Rose Taupe",
+    "hex": "#905D5D"
+  },
+  {
+    "name": "Rose Vale",
+    "hex": "#AB4E52"
+  },
+  {
+    "name": "Rosewood",
+    "hex": "#65000B"
+  },
+  {
+    "name": "Rosso Corsa",
+    "hex": "#D40000"
+  },
+  {
+    "name": "Rosy भूरा",
+    "hex": "#BC8F8F"
+  },
+  {
+    "name": "Royal अज़ूर",
+    "hex": "#0038A8"
+  },
+  {
+    "name": "Royal नीला",
+    "hex": "#002366"
+  },
+  {
+    "name": "Royal नीला",
+    "hex": "#4169E1"
+  },
+  {
+    "name": "Royal Fuchsia",
+    "hex": "#CA2C92"
+  },
+  {
+    "name": "Royal बैंगनी",
+    "hex": "#7851A9"
+  },
+  {
+    "name": "Royal पीला",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Ruber",
+    "hex": "#CE4676"
+  },
+  {
+    "name": "Rubine लाल",
+    "hex": "#D10056"
+  },
+  {
+    "name": "माणिक",
+    "hex": "#E0115F"
+  },
+  {
+    "name": "माणिक लाल",
+    "hex": "#9B111E"
+  },
+  {
+    "name": "Ruddy",
+    "hex": "#FF0028"
+  },
+  {
+    "name": "Ruddy भूरा",
+    "hex": "#BB6528"
+  },
+  {
+    "name": "Ruddy गुलाबी",
+    "hex": "#E18E96"
+  },
+  {
+    "name": "Rufous",
+    "hex": "#A81C07"
+  },
+  {
+    "name": "Russet",
+    "hex": "#80461B"
+  },
+  {
+    "name": "Russian हरा",
+    "hex": "#679267"
+  },
+  {
+    "name": "Russian बैंगनी",
+    "hex": "#32174D"
+  },
+  {
+    "name": "Rust",
+    "hex": "#B7410E"
+  },
+  {
+    "name": "Rusty लाल",
+    "hex": "#DA2C43"
+  },
+  {
+    "name": "Sacramento State हरा",
+    "hex": "#00563F"
+  },
+  {
+    "name": "Saddle भूरा",
+    "hex": "#8B4513"
+  },
+  {
+    "name": "Safety नारंगी",
+    "hex": "#FF7800"
+  },
+  {
+    "name": "Safety नारंगी (Blaze नारंगी)",
+    "hex": "#FF6700"
+  },
+  {
+    "name": "Safety पीला",
+    "hex": "#EED202"
+  },
+  {
+    "name": "Saffron",
+    "hex": "#F4C430"
+  },
+  {
+    "name": "Sage",
+    "hex": "#BCB88A"
+  },
+  {
+    "name": "St. Patrick's नीला",
+    "hex": "#23297A"
+  },
+  {
+    "name": "Salmon",
+    "hex": "#FA8072"
+  },
+  {
+    "name": "Salmon गुलाबी",
+    "hex": "#FF91A4"
+  },
+  {
+    "name": "Sand",
+    "hex": "#C2B280"
+  },
+  {
+    "name": "Sand Dune",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sandstorm",
+    "hex": "#ECD540"
+  },
+  {
+    "name": "Sandy भूरा",
+    "hex": "#F4A460"
+  },
+  {
+    "name": "Sandy Tan",
+    "hex": "#FDD9B5"
+  },
+  {
+    "name": "Sandy Taupe",
+    "hex": "#967117"
+  },
+  {
+    "name": "Sangria",
+    "hex": "#92000A"
+  },
+  {
+    "name": "Sap हरा",
+    "hex": "#507D2A"
+  },
+  {
+    "name": "नीलम",
+    "hex": "#0F52BA"
+  },
+  {
+    "name": "नीलम नीला",
+    "hex": "#0067A5"
+  },
+  {
+    "name": "Sasquatch Socks",
+    "hex": "#FF4681"
+  },
+  {
+    "name": "Satin Sheen सुनहरा",
+    "hex": "#CBA135"
+  },
+  {
+    "name": "स्कार्लेट",
+    "hex": "#FF2400"
+  },
+  {
+    "name": "स्कार्लेट",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Schauss गुलाबी",
+    "hex": "#FF91AF"
+  },
+  {
+    "name": "School Bus पीला",
+    "hex": "#FFD800"
+  },
+  {
+    "name": "Screamin' हरा",
+    "hex": "#66FF66"
+  },
+  {
+    "name": "Sea नीला",
+    "hex": "#006994"
+  },
+  {
+    "name": "Sea Foam हरा",
+    "hex": "#9FE2BF"
+  },
+  {
+    "name": "Sea हरा",
+    "hex": "#2E8B57"
+  },
+  {
+    "name": "Sea Serpent",
+    "hex": "#4BC7CF"
+  },
+  {
+    "name": "Seal भूरा",
+    "hex": "#59260B"
+  },
+  {
+    "name": "Seashell",
+    "hex": "#FFF5EE"
+  },
+  {
+    "name": "Selective पीला",
+    "hex": "#FFBA00"
+  },
+  {
+    "name": "Sepia",
+    "hex": "#704214"
+  },
+  {
+    "name": "Shadow",
+    "hex": "#8A795D"
+  },
+  {
+    "name": "Shadow नीला",
+    "hex": "#778BA5"
+  },
+  {
+    "name": "Shampoo",
+    "hex": "#FFCFF1"
+  },
+  {
+    "name": "Shamrock हरा",
+    "hex": "#009E60"
+  },
+  {
+    "name": "Sheen हरा",
+    "hex": "#8FD400"
+  },
+  {
+    "name": "Shimmering Blush",
+    "hex": "#D98695"
+  },
+  {
+    "name": "Shiny Shamrock",
+    "hex": "#5FA778"
+  },
+  {
+    "name": "Shocking गुलाबी",
+    "hex": "#FC0FC0"
+  },
+  {
+    "name": "Shocking गुलाबी (Crayola)",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Sienna",
+    "hex": "#882D17"
+  },
+  {
+    "name": "चांदी",
+    "hex": "#C0C0C0"
+  },
+  {
+    "name": "चांदी Chalice",
+    "hex": "#ACACAC"
+  },
+  {
+    "name": "चांदी Lake नीला",
+    "hex": "#5D89BA"
+  },
+  {
+    "name": "चांदी गुलाबी",
+    "hex": "#C4AEAD"
+  },
+  {
+    "name": "चांदी Sand",
+    "hex": "#BFC1C2"
+  },
+  {
+    "name": "Sinopia",
+    "hex": "#CB410B"
+  },
+  {
+    "name": "Sizzling लाल",
+    "hex": "#FF3855"
+  },
+  {
+    "name": "Sizzling Sunrise",
+    "hex": "#FFDB00"
+  },
+  {
+    "name": "Skobeloff",
+    "hex": "#007474"
+  },
+  {
+    "name": "Sky नीला",
+    "hex": "#87CEEB"
+  },
+  {
+    "name": "Sky मैजेंटा",
+    "hex": "#CF71AF"
+  },
+  {
+    "name": "Slate नीला",
+    "hex": "#6A5ACD"
+  },
+  {
+    "name": "Slate धूसर",
+    "hex": "#708090"
+  },
+  {
+    "name": "Smalt (गहरा Powder नीला)",
+    "hex": "#003399"
+  },
+  {
+    "name": "Slimy हरा",
+    "hex": "#299617"
+  },
+  {
+    "name": "Smashed Pumpkin",
+    "hex": "#FF6D3A"
+  },
+  {
+    "name": "Smitten",
+    "hex": "#C84186"
+  },
+  {
+    "name": "Smoke",
+    "hex": "#738276"
+  },
+  {
+    "name": "Smokey Topaz",
+    "hex": "#832A0D"
+  },
+  {
+    "name": "Smoky काला",
+    "hex": "#100C08"
+  },
+  {
+    "name": "Smoky Topaz",
+    "hex": "#933D41"
+  },
+  {
+    "name": "Snow",
+    "hex": "#FFFAFA"
+  },
+  {
+    "name": "Soap",
+    "hex": "#CEC8EF"
+  },
+  {
+    "name": "Solid गुलाबी",
+    "hex": "#893843"
+  },
+  {
+    "name": "Sonic चांदी",
+    "hex": "#757575"
+  },
+  {
+    "name": "Spartan क्रिमसन",
+    "hex": "#9E1316"
+  },
+  {
+    "name": "Space Cadet",
+    "hex": "#1D2951"
+  },
+  {
+    "name": "Spanish Bistre",
+    "hex": "#807532"
+  },
+  {
+    "name": "Spanish नीला",
+    "hex": "#0070B8"
+  },
+  {
+    "name": "Spanish Carmine",
+    "hex": "#D10047"
+  },
+  {
+    "name": "Spanish क्रिमसन",
+    "hex": "#E51A4C"
+  },
+  {
+    "name": "Spanish धूसर",
+    "hex": "#989898"
+  },
+  {
+    "name": "Spanish हरा",
+    "hex": "#009150"
+  },
+  {
+    "name": "Spanish नारंगी",
+    "hex": "#E86100"
+  },
+  {
+    "name": "Spanish गुलाबी",
+    "hex": "#F7BFBE"
+  },
+  {
+    "name": "Spanish लाल",
+    "hex": "#E60026"
+  },
+  {
+    "name": "Spanish Sky नीला",
+    "hex": "#00FFFF"
+  },
+  {
+    "name": "Spanish बैंगनी",
+    "hex": "#4C2882"
+  },
+  {
+    "name": "Spanish Viridian",
+    "hex": "#007F5C"
+  },
+  {
+    "name": "Spicy Mix",
+    "hex": "#8B5f4D"
+  },
+  {
+    "name": "Spiro Disco Ball",
+    "hex": "#0FC0FC"
+  },
+  {
+    "name": "Spring Bud",
+    "hex": "#A7FC00"
+  },
+  {
+    "name": "Spring Frost",
+    "hex": "#87FF2A"
+  },
+  {
+    "name": "Spring हरा",
+    "hex": "#00FF7F"
+  },
+  {
+    "name": "Star Command नीला",
+    "hex": "#007BB8"
+  },
+  {
+    "name": "Steel नीला",
+    "hex": "#4682B4"
+  },
+  {
+    "name": "Steel गुलाबी",
+    "hex": "#CC33CC"
+  },
+  {
+    "name": "Steel हरा-नीला",
+    "hex": "#5F8A8B"
+  },
+  {
+    "name": "Stil De Grain पीला",
+    "hex": "#FADA5E"
+  },
+  {
+    "name": "Stizza",
+    "hex": "#990000"
+  },
+  {
+    "name": "Stormcloud",
+    "hex": "#4F666A"
+  },
+  {
+    "name": "Straw",
+    "hex": "#E4D96F"
+  },
+  {
+    "name": "Strawberry",
+    "hex": "#FC5A8D"
+  },
+  {
+    "name": "Sugar Plum",
+    "hex": "#914E75"
+  },
+  {
+    "name": "Sunburnt Cyclops",
+    "hex": "#FF404C"
+  },
+  {
+    "name": "Sunglow",
+    "hex": "#FFCC33"
+  },
+  {
+    "name": "Sunny",
+    "hex": "#F2F27A"
+  },
+  {
+    "name": "Sunray",
+    "hex": "#E3AB57"
+  },
+  {
+    "name": "Sunset",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Sunset नारंगी",
+    "hex": "#FD5E53"
+  },
+  {
+    "name": "Super गुलाबी",
+    "hex": "#CF6BA9"
+  },
+  {
+    "name": "Sweet भूरा",
+    "hex": "#A83731"
+  },
+  {
+    "name": "Tan",
+    "hex": "#D2B48C"
+  },
+  {
+    "name": "Tangelo",
+    "hex": "#F94D00"
+  },
+  {
+    "name": "Tangerine",
+    "hex": "#F28500"
+  },
+  {
+    "name": "Tangerine पीला",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "Tango गुलाबी",
+    "hex": "#E4717A"
+  },
+  {
+    "name": "Tart नारंगी",
+    "hex": "#FB4D46"
+  },
+  {
+    "name": "Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "name": "Taupe धूसर",
+    "hex": "#8B8589"
+  },
+  {
+    "name": "Tea हरा",
+    "hex": "#D0F0C0"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F88379"
+  },
+  {
+    "name": "Tea Rose",
+    "hex": "#F4C2C2"
+  },
+  {
+    "name": "हरा-नीला",
+    "hex": "#008080"
+  },
+  {
+    "name": "हरा-नीला नीला",
+    "hex": "#367588"
+  },
+  {
+    "name": "हरा-नीला Deer",
+    "hex": "#99E6B3"
+  },
+  {
+    "name": "हरा-नीला हरा",
+    "hex": "#00827F"
+  },
+  {
+    "name": "Telemagenta",
+    "hex": "#CF3476"
+  },
+  {
+    "name": "Tenne (Tawny)",
+    "hex": "#CD5700"
+  },
+  {
+    "name": "Terra Cotta",
+    "hex": "#E2725B"
+  },
+  {
+    "name": "Thistle",
+    "hex": "#D8BFD8"
+  },
+  {
+    "name": "Thulian गुलाबी",
+    "hex": "#DE6FA1"
+  },
+  {
+    "name": "Tickle Me गुलाबी",
+    "hex": "#FC89AC"
+  },
+  {
+    "name": "Tiffany नीला",
+    "hex": "#0ABAB5"
+  },
+  {
+    "name": "Tiger's Eye",
+    "hex": "#E08D3C"
+  },
+  {
+    "name": "Timberwolf",
+    "hex": "#DBD7D2"
+  },
+  {
+    "name": "Titanium पीला",
+    "hex": "#EEE600"
+  },
+  {
+    "name": "Tomato",
+    "hex": "#FF6347"
+  },
+  {
+    "name": "Toolbox",
+    "hex": "#746CC0"
+  },
+  {
+    "name": "Topaz",
+    "hex": "#FFC87C"
+  },
+  {
+    "name": "Tractor लाल",
+    "hex": "#FD0E35"
+  },
+  {
+    "name": "Trolley धूसर",
+    "hex": "#808080"
+  },
+  {
+    "name": "Tropical Rain Forest",
+    "hex": "#00755E"
+  },
+  {
+    "name": "Tropical बैंगनी",
+    "hex": "#CDA4DE"
+  },
+  {
+    "name": "True नीला",
+    "hex": "#0073CF"
+  },
+  {
+    "name": "Tufts नीला",
+    "hex": "#3E8EDE"
+  },
+  {
+    "name": "Tulip",
+    "hex": "#FF878D"
+  },
+  {
+    "name": "Tumbleweed",
+    "hex": "#DEAA88"
+  },
+  {
+    "name": "Turkish Rose",
+    "hex": "#B57281"
+  },
+  {
+    "name": "फ़िरोज़ा",
+    "hex": "#40E0D0"
+  },
+  {
+    "name": "फ़िरोज़ा नीला",
+    "hex": "#00FFEF"
+  },
+  {
+    "name": "फ़िरोज़ा हरा",
+    "hex": "#A0D6B4"
+  },
+  {
+    "name": "फ़िरोज़ा Surf",
+    "hex": "#00C5CD"
+  },
+  {
+    "name": "Turtle हरा",
+    "hex": "#8A9A5B"
+  },
+  {
+    "name": "Tuscan",
+    "hex": "#FAD6A5"
+  },
+  {
+    "name": "Tuscan भूरा",
+    "hex": "#6F4E37"
+  },
+  {
+    "name": "Tuscan लाल",
+    "hex": "#7C4848"
+  },
+  {
+    "name": "Tuscan Tan",
+    "hex": "#A67B5B"
+  },
+  {
+    "name": "Tuscany",
+    "hex": "#C09999"
+  },
+  {
+    "name": "Twilight लैवेंडर",
+    "hex": "#8A496B"
+  },
+  {
+    "name": "Tyrian बैंगनी",
+    "hex": "#66023C"
+  },
+  {
+    "name": "UA नीला",
+    "hex": "#0033AA"
+  },
+  {
+    "name": "UA लाल",
+    "hex": "#D9004C"
+  },
+  {
+    "name": "Ube",
+    "hex": "#8878C3"
+  },
+  {
+    "name": "UCLA नीला",
+    "hex": "#536895"
+  },
+  {
+    "name": "UCLA सुनहरा",
+    "hex": "#FFB300"
+  },
+  {
+    "name": "UFO हरा",
+    "hex": "#3CD070"
+  },
+  {
+    "name": "Ultramarine",
+    "hex": "#3F00FF"
+  },
+  {
+    "name": "Ultramarine नीला",
+    "hex": "#4166F5"
+  },
+  {
+    "name": "Ultra गुलाबी",
+    "hex": "#FF6FFF"
+  },
+  {
+    "name": "Ultra लाल",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Umber",
+    "hex": "#635147"
+  },
+  {
+    "name": "Unbleached Silk",
+    "hex": "#FFDDCA"
+  },
+  {
+    "name": "United Nations नीला",
+    "hex": "#5B92E5"
+  },
+  {
+    "name": "University Of California सुनहरा",
+    "hex": "#B78727"
+  },
+  {
+    "name": "Unmellow पीला",
+    "hex": "#FFFF66"
+  },
+  {
+    "name": "UP Forest हरा",
+    "hex": "#014421"
+  },
+  {
+    "name": "UP मरून",
+    "hex": "#7B1113"
+  },
+  {
+    "name": "Upsdell लाल",
+    "hex": "#AE2029"
+  },
+  {
+    "name": "Urobilin",
+    "hex": "#E1AD21"
+  },
+  {
+    "name": "USAFA नीला",
+    "hex": "#004F98"
+  },
+  {
+    "name": "USC Cardinal",
+    "hex": "#990000"
+  },
+  {
+    "name": "USC सुनहरा",
+    "hex": "#FFCC00"
+  },
+  {
+    "name": "University Of Tennessee नारंगी",
+    "hex": "#F77F00"
+  },
+  {
+    "name": "Utah क्रिमसन",
+    "hex": "#D3003F"
+  },
+  {
+    "name": "Van Dyke भूरा",
+    "hex": "#664228"
+  },
+  {
+    "name": "Vanilla",
+    "hex": "#F3E5AB"
+  },
+  {
+    "name": "Vanilla Ice",
+    "hex": "#F38FA9"
+  },
+  {
+    "name": "Vegas सुनहरा",
+    "hex": "#C5B358"
+  },
+  {
+    "name": "Venetian लाल",
+    "hex": "#C80815"
+  },
+  {
+    "name": "Verdigris",
+    "hex": "#43B3AE"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#E34234"
+  },
+  {
+    "name": "Vermilion",
+    "hex": "#D9381E"
+  },
+  {
+    "name": "Veronica",
+    "hex": "#A020F0"
+  },
+  {
+    "name": "Very हल्का अज़ूर",
+    "hex": "#74BBFB"
+  },
+  {
+    "name": "Very हल्का नीला",
+    "hex": "#6666FF"
+  },
+  {
+    "name": "Very हल्का Malachite हरा",
+    "hex": "#64E986"
+  },
+  {
+    "name": "Very हल्का Tangelo",
+    "hex": "#FFB077"
+  },
+  {
+    "name": "Very फीका नारंगी",
+    "hex": "#FFDFBF"
+  },
+  {
+    "name": "Very फीका पीला",
+    "hex": "#FFFFBF"
+  },
+  {
+    "name": "बैंगनी",
+    "hex": "#8F00FF"
+  },
+  {
+    "name": "बैंगनी (Color Wheel)",
+    "hex": "#7F00FF"
+  },
+  {
+    "name": "बैंगनी (RYB)",
+    "hex": "#8601AF"
+  },
+  {
+    "name": "बैंगनी (Web)",
+    "hex": "#EE82EE"
+  },
+  {
+    "name": "बैंगनी-नीला",
+    "hex": "#324AB2"
+  },
+  {
+    "name": "बैंगनी-लाल",
+    "hex": "#F75394"
+  },
+  {
+    "name": "Viridian",
+    "hex": "#40826D"
+  },
+  {
+    "name": "Viridian हरा",
+    "hex": "#009698"
+  },
+  {
+    "name": "Vista नीला",
+    "hex": "#7C9ED9"
+  },
+  {
+    "name": "तीव्र Amber",
+    "hex": "#CC9900"
+  },
+  {
+    "name": "तीव्र Auburn",
+    "hex": "#922724"
+  },
+  {
+    "name": "तीव्र Burgundy",
+    "hex": "#9F1D35"
+  },
+  {
+    "name": "तीव्र Cerise",
+    "hex": "#DA1D81"
+  },
+  {
+    "name": "तीव्र Cerulean",
+    "hex": "#00AAEE"
+  },
+  {
+    "name": "तीव्र क्रिमसन",
+    "hex": "#CC0033"
+  },
+  {
+    "name": "तीव्र Gamboge",
+    "hex": "#FF9900"
+  },
+  {
+    "name": "तीव्र Lime हरा",
+    "hex": "#A6D608"
+  },
+  {
+    "name": "तीव्र Malachite",
+    "hex": "#00CC33"
+  },
+  {
+    "name": "तीव्र Mulberry",
+    "hex": "#B80CE3"
+  },
+  {
+    "name": "तीव्र नारंगी",
+    "hex": "#FF5F00"
+  },
+  {
+    "name": "तीव्र नारंगी Peel",
+    "hex": "#FFA000"
+  },
+  {
+    "name": "तीव्र Orchid",
+    "hex": "#CC00FF"
+  },
+  {
+    "name": "तीव्र Raspberry",
+    "hex": "#FF006C"
+  },
+  {
+    "name": "तीव्र लाल",
+    "hex": "#F70D1A"
+  },
+  {
+    "name": "तीव्र लाल-Tangelo",
+    "hex": "#DF6124"
+  },
+  {
+    "name": "तीव्र Sky नीला",
+    "hex": "#00CCFF"
+  },
+  {
+    "name": "तीव्र Tangelo",
+    "hex": "#F07427"
+  },
+  {
+    "name": "तीव्र Tangerine",
+    "hex": "#FFA089"
+  },
+  {
+    "name": "तीव्र Vermilion",
+    "hex": "#E56024"
+  },
+  {
+    "name": "तीव्र बैंगनी",
+    "hex": "#9F00FF"
+  },
+  {
+    "name": "तीव्र पीला",
+    "hex": "#FFE302"
+  },
+  {
+    "name": "Volt",
+    "hex": "#CEFF00"
+  },
+  {
+    "name": "Wageningen हरा",
+    "hex": "#34B233"
+  },
+  {
+    "name": "Warm काला",
+    "hex": "#004242"
+  },
+  {
+    "name": "Waterspout",
+    "hex": "#A4F4F9"
+  },
+  {
+    "name": "Weldon नीला",
+    "hex": "#7C98AB"
+  },
+  {
+    "name": "Wenge",
+    "hex": "#645452"
+  },
+  {
+    "name": "Wheat",
+    "hex": "#F5DEB3"
+  },
+  {
+    "name": "सफेद",
+    "hex": "#FFFFFF"
+  },
+  {
+    "name": "सफेद Smoke",
+    "hex": "#F5F5F5"
+  },
+  {
+    "name": "Wild नीला Yonder",
+    "hex": "#A2ADD0"
+  },
+  {
+    "name": "Wild Orchid",
+    "hex": "#D470A2"
+  },
+  {
+    "name": "Wild Strawberry",
+    "hex": "#FF43A4"
+  },
+  {
+    "name": "Wild Watermelon",
+    "hex": "#FC6C85"
+  },
+  {
+    "name": "Willpower नारंगी",
+    "hex": "#FD5800"
+  },
+  {
+    "name": "Windsor Tan",
+    "hex": "#A75502"
+  },
+  {
+    "name": "Wine",
+    "hex": "#722F37"
+  },
+  {
+    "name": "Wine Dregs",
+    "hex": "#673147"
+  },
+  {
+    "name": "Winter Sky",
+    "hex": "#FF007C"
+  },
+  {
+    "name": "Winter Wizard",
+    "hex": "#A0E6FF"
+  },
+  {
+    "name": "Wintergreen Dream",
+    "hex": "#56887D"
+  },
+  {
+    "name": "Wisteria",
+    "hex": "#C9A0DC"
+  },
+  {
+    "name": "Wood भूरा",
+    "hex": "#C19A6B"
+  },
+  {
+    "name": "Xanadu",
+    "hex": "#738678"
+  },
+  {
+    "name": "Yale नीला",
+    "hex": "#0F4D92"
+  },
+  {
+    "name": "Yankees नीला",
+    "hex": "#1C2841"
+  },
+  {
+    "name": "पीला",
+    "hex": "#FFFF00"
+  },
+  {
+    "name": "पीला (Crayola)",
+    "hex": "#FCE883"
+  },
+  {
+    "name": "पीला (Munsell)",
+    "hex": "#EFCC00"
+  },
+  {
+    "name": "पीला (NCS)",
+    "hex": "#FFD300"
+  },
+  {
+    "name": "पीला (Pantone)",
+    "hex": "#FEDF00"
+  },
+  {
+    "name": "पीला (Process)",
+    "hex": "#FFEF00"
+  },
+  {
+    "name": "पीला (RYB)",
+    "hex": "#FEFE33"
+  },
+  {
+    "name": "पीला-हरा",
+    "hex": "#9ACD32"
+  },
+  {
+    "name": "पीला नारंगी",
+    "hex": "#FFAE42"
+  },
+  {
+    "name": "पीला Rose",
+    "hex": "#FFF000"
+  },
+  {
+    "name": "पीला Sunshine",
+    "hex": "#FFF700"
+  },
+  {
+    "name": "Zaffre",
+    "hex": "#0014A8"
+  },
+  {
+    "name": "Zinnwaldite भूरा",
+    "hex": "#2C1608"
+  },
+  {
+    "name": "Zomp",
+    "hex": "#39A78E"
+  }
+]
