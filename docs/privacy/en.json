@@ -3,24 +3,27 @@
     {
       "heading": "On-device processing",
       "paragraphs": [
-        "Color sampling happens locally. Camera previews and picked photos are only analyzed to extract color values and are not transmitted to servers."
+        "Color sampling happens entirely on your device. Camera previews and selected photos are analyzed only to extract color values and are not transmitted to servers.",
+        "All core functionality, including color detection, RGB/HEX calculations, and palette editing, is performed locally. No raw image data leaves your device."
       ],
       "bullets": []
     },
     {
       "heading": "Network usage",
       "paragraphs": [
-        "Network requests are limited to fetching optional supporting data such as palette names. No personal images or camera frames are uploaded."
+        "Network requests are limited to fetching optional, non-personal supporting data such as color or palette names, informational content, or reference metadata. No personal images, camera frames, or photos are uploaded."
       ],
       "bullets": [
-        "If you prefer a fully offline experience, you can revoke network access at the system level.",
-        "You may revoke camera and photo permissions anytime from your device settings."
+        "Network access is not required for core functionality.",
+        "You can use the app fully offline by disabling network access at the system level.",
+        "You may revoke camera and photo permissions at any time from your device settings."
       ]
     },
     {
       "heading": "Data retention",
       "paragraphs": [
-        "Saved colors and palettes stay on your device until you delete them. Clearing the app data or uninstalling removes your saved items."
+        "Saved colors and palettes are stored locally on your device and remain there until you delete them.",
+        "Clearing app data or uninstalling the app removes all saved colors and palettes. No backups are retained."
       ],
       "bullets": []
     }
