@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>App Store Screenshot Mockup</title>
+
+  <style>
+:root {
+  --bg-color: #f7f3f0;
+  --text-color: #3a3a3a;
+
+  /* Play Store portrait */
+  --canvas-ratio: 9 / 16;
+  --container-width: 575px;
+
+  --phone-ratio: 9 / 20;
+
+  --bezel: 8px;
+  --outer-radius: 30px;
+  --inner-radius: 20px;
+}
+
+    body {
+      margin: 0;
+      padding: 40px 0;
+      display: flex;
+      justify-content: center;
+      background-color: #d1d1d1;
+      font-family: "Helvetica Neue", Arial, sans-serif;
+    }
+
+    /* Wrap multiple pages */
+    .pages {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 24px; /* space between pages */
+    }
+
+    /* One page canvas */
+.canvas {
+  width: var(--container-width);
+  aspect-ratio: var(--canvas-ratio); /* ✅ 9:16 */
+  background-color: var(--bg-color);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0px 0 0px;
+  box-sizing: border-box;
+
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.15);
+  border-radius: 18px;
+}
+    .headline {
+      margin: 60px 0 36px 0;
+      text-align: center;
+      padding: 0 24px;
+    }
+
+    .headline h1 {
+      font-size: 32px;
+      font-weight: 600;
+      color: var(--text-color);
+      line-height: 1.2;
+      margin: 0;
+    }
+
+    .android-frame {
+      width: 65%;
+      aspect-ratio: var(--phone-ratio);
+      position: relative;
+      box-sizing: border-box;
+
+      background: linear-gradient(180deg, #1a1a1a, #0b0b0b);
+      border-radius: var(--outer-radius);
+      padding: var(--bezel);
+
+      box-shadow:
+        0 15px 35px rgba(0, 0, 0, 0.30),
+        inset 0 0 0 1px rgba(255, 255, 255, 0.06);
+    }
+
+    .android-frame::before {
+      content: "";
+      position: absolute;
+      inset: 2px;
+      border-radius: calc(var(--outer-radius) - 2px);
+      pointer-events: none;
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+      opacity: 0.7;
+    }
+
+    .android-screen {
+      width: 100%;
+      height: 100%;
+      border-radius: var(--inner-radius);
+      overflow: hidden;
+      background: #fff;
+      position: relative;
+      display: flex;
+    }
+
+    .android-screen img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .punch-hole {
+      position: absolute;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 12px;
+      height: 12px;
+      border-radius: 999px;
+      background: #0a0a0a;
+      z-index: 10;
+      box-shadow:
+        0 0 0 2px rgba(0, 0, 0, 0.35),
+        inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+    }
+
+    /* Controls */
+    .controls {
+      position: sticky;
+      top: 16px;
+      z-index: 999;
+      margin-bottom: 16px;
+      display: flex;
+      justify-content: center;
+    }
+
+    button {
+      font-size: 16px;
+      padding: 10px 14px;
+      border-radius: 10px;
+      border: 0;
+      cursor: pointer;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    }
+
+    button:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+  </style>
+</head>
+<body>
+  <div class="pages">
+    <div class="controls">
+      <button id="downloadAll">Download All PNGs</button>
+    </div>
+
+    <!-- ===== PAGE 1 ===== -->
+    <div class="canvas" data-filename="01_hero_live_camera.png">
+      <div class="headline">
+        <h1>Point Anywhere<br>Tap to Harvest</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="screenshot_20260123_021220.png" alt="Live Camera Hero">
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== PAGE 2 ===== -->
+    <div class="canvas" data-filename="02_live_color_result.png">
+      <div class="headline">
+        <h1>Instant Color Name<br>HEX & Preview</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="screenshot_20260123_022308.png" alt="Live Color Result">
+        </div>
+      </div>
+    </div>
+
+    <div class="canvas" data-filename="021_palette_home.png">
+      <div class="headline">
+        <h1>Your Colors<br>Beautifully Organized</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="Screenshot_20260123_015650.png" alt="Palette Home">
+        </div>
+      </div>
+    </div>
+
+    <div class="canvas" data-filename="022_multimode.png">
+      <div class="headline">
+        <h1>Choose from 10 different Advanced Vision Modes</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="multi.png" alt="Palette Home">
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== PAGE 3 ===== -->
+    <div class="canvas" data-filename="03_palette_home.png">
+      <div class="headline">
+        <h1>Organize Your Colors<br>Into Palettes</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="Screenshot_20260123_020358.png" alt="Palette Home">
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== PAGE 4 ===== -->
+    <div class="canvas" data-filename="04_color_detail.png">
+      <div class="headline">
+        <h1>Explore Every Detail<br>Of Any Color</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="Screenshot_20260123_020026.png" alt="Color Detail Coffee">
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== PAGE 5 ===== -->
+    <div class="canvas" data-filename="05_color_harmony.png">
+      <div class="headline">
+        <h1>Harmonies<br>Tints, Shades & Tones</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="Screenshot_20260123_020230.png" alt="Color Harmonies">
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== PAGE 6 ===== -->
+    <div class="canvas" data-filename="06_palette_combinations.png">
+      <div class="headline">
+        <h1>Smart Palette<br>Combinations</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="Screenshot_20260123_020250.png" alt="Palette Combinations">
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== PAGE 7 ===== -->
+    <div class="canvas" data-filename="07_saved_palette.png">
+      <div class="headline">
+        <h1>Save Moods<br>And Color Stories</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="Screenshot_20260123_020257.png" alt="Saved Palette Mood">
+        </div>
+      </div>
+    </div>
+
+    <!-- ===== PAGE 8 ===== -->
+    <div class="canvas" data-filename="08_settings.png">
+      <div class="headline">
+        <h1>Customize Your<br>Color Experience</h1>
+      </div>
+      <div class="android-frame">
+        <div class="punch-hole"></div>
+        <div class="android-screen">
+          <img src="Screenshot_20260123_020358.png" alt="Settings and Customization">
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
+  <script>
+    function downloadDataUrl(dataUrl, filename) {
+      const link = document.createElement("a");
+      link.download = filename;
+      link.href = dataUrl;
+      link.click();
+    }
+
+    function sleep(ms) {
+      return new Promise(r => setTimeout(r, ms));
+    }
+
+    document.getElementById("downloadAll").addEventListener("click", async () => {
+      const btn = document.getElementById("downloadAll");
+      btn.disabled = true;
+      btn.textContent = "Rendering…";
+
+      const pages = Array.from(document.querySelectorAll(".canvas"));
+
+      // Ensure images are loaded before rendering (important!)
+      const imgs = pages.flatMap(p => Array.from(p.querySelectorAll("img")));
+      await Promise.all(imgs.map(img => {
+        if (img.complete && img.naturalWidth > 0) return Promise.resolve();
+        return new Promise((resolve, reject) => {
+          img.onload = () => resolve();
+          img.onerror = () => reject(new Error("Image failed to load: " + img.src));
+        });
+      }));
+
+      for (let i = 0; i < pages.length; i++) {
+        const page = pages[i];
+        btn.textContent = `Rendering ${i + 1}/${pages.length}…`;
+
+        // Scroll to page to avoid blank renders in some browsers
+        page.scrollIntoView({ behavior: "instant", block: "center" });
+
+        const canvas = await html2canvas(page, {
+          scale: 3,
+          backgroundColor: null,
+          useCORS: true
+        });
+
+        const filename = page.dataset.filename || `mockup-${String(i + 1).padStart(2, "0")}.png`;
+        downloadDataUrl(canvas.toDataURL("image/png"), filename);
+
+        // Small delay so the browser doesn't block multiple downloads
+        await sleep(300);
+      }
+
+      btn.disabled = false;
+      btn.textContent = "Download All PNGs";
+    });
+  </script>
+</body>
+</html>
